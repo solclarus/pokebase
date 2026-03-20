@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "apps/web/**"
+      - "packages/schemas/**"
       - ".github/workflows/deploy-web.yml"
 
 jobs:
@@ -23,12 +24,8 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
-      - name: Build
-        run: pnpm run --filter @pokemon/web build
+      - name: Build & Deploy
+        run: pnpm run --filter @pokemon/web deploy
         env:
-          VITE_API_URL: ${{ secrets.VITE_API_URL }}
-
-      - name: Deploy to Cloudflare Pages
-        run: pnpm exec wrangler pages deploy apps/web/dist --project-name=pokemon-web
-        env:
+          NEXT_PUBLIC_API_URL: ${{ secrets.NEXT_PUBLIC_API_URL }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}

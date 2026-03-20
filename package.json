@@ -5,14 +5,17 @@
   "scripts": {
     "dev": "vp run @pokemon/api#dev",
     "dev:web": "vp run @pokemon/web#dev",
-    "build:web": "vp run @pokemon/web#build",
+    "preview:web": "vp run @pokemon/web#preview",
     "deploy": "vp run @pokemon/api#deploy",
+    "deploy:web": "vp run @pokemon/web#deploy",
+    "validate": "vp run @pokemon/scripts#validate",
+    "build:index": "vp run @pokemon/scripts#build:index",
     "check": "vp check",
     "fmt": "vp fmt"
   },
   "devDependencies": {
     "vite-plus": "catalog:",
-    "wrangler": "^3.114.0"
+    "wrangler": "^4.76.0"
   },
   "engines": {
     "node": ">=22.0.0"

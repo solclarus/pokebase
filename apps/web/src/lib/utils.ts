@@ -6,5 +6,5 @@ export function cn(...inputs: ClassValue[]) {
 }
 
 export function padId(id: number): string {
-  return String(id).padStart(4, "0");
+  return id.toString().padStart(4, "0");
 }

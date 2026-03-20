@@ -1,59 +1,16 @@
-import { createFileRoute, Link } from "@tanstack/react-router";
+import Link from "next/link";
 import { z } from "zod";
-import { getApiUrl } from "#/lib/api";
-import { padId } from "#/lib/utils";
-import { Badge } from "#/components/ui/badge";
+import { PokemonSchema, FormSchema, AvailabilityEntrySchema } from "@pokemon/schemas";
+import { getApiUrl } from "@/lib/api";
+import { padId } from "@/lib/utils";
+import { Badge } from "@/components/ui/badge";
+import type { Stats, Form } from "@pokemon/schemas";
 
-// Schemas
-const StatsSchema = z.object({
-  hp: z.number(),
-  attack: z.number(),
-  defense: z.number(),
-  sp_attack: z.number(),
-  sp_defense: z.number(),
-  speed: z.number(),
-});
-
-const FormSchema = z.object({
-  id: z.string(),
-  order: z.number(),
-  name: z.object({ ja: z.string(), en: z.string() }),
-  form_type: z.enum(["normal", "mega", "gigantamax"]),
-  region: z.string(),
-  types: z.array(z.string()),
-  stats: StatsSchema,
-  ability_ids: z.array(z.number()),
-  hidden_ability_id: z.number().optional(),
-});
-
-const PokemonDetailSchema = z.object({
-  id: z.number(),
-  identifier: z.string(),
-  name: z.object({ ja: z.string(), en: z.string() }),
-  generation: z.number(),
-  category: z.enum(["normal", "legendary", "mythical", "ultra-beast", "paradox"]),
+const PokemonDetailSchema = PokemonSchema.extend({
   forms: z.array(FormSchema),
-  availability: z.array(
-    z.object({
-      game_id: z.string(),
-      availability_type: z.enum(["wild", "trade", "event", "transfer", "gift", "breed"]),
-      notes: z.string().optional(),
-    }),
-  ),
+  availability: z.array(AvailabilityEntrySchema),
 });
 
-type Form = z.infer<typeof FormSchema>;
-
-export const Route = createFileRoute("/pokemon/$id")({
-  loader: async ({ params: { id } }) => {
-    const res = await fetch(`${getApiUrl()}/pokemon/${id}`);
-    if (!res.ok) throw new Error(`API error: ${res.status}`);
-    return PokemonDetailSchema.parse(await res.json());
-  },
-  component: PokemonDetailPage,
-});
-
-// Constants
 const TYPE_COLORS: Record<string, string> = {
   normal: "bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300",
   fire: "bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-300",
@@ -83,9 +40,9 @@ const CATEGORY_LABELS: Record<string, string> = {
   paradox: "パラドックス",
 };
 
-const STAT_KEYS = ["hp", "attack", "defense", "sp_attack", "sp_defense", "speed"] as const;
+const STAT_KEYS: (keyof Stats)[] = ["hp", "attack", "defense", "sp_attack", "sp_defense", "speed"];
 
-const STAT_LABELS: Record<string, string> = {
+const STAT_LABELS: Record<keyof Stats, string> = {
   hp: "HP",
   attack: "こうげき",
   defense: "ぼうぎょ",
@@ -94,7 +51,7 @@ const STAT_LABELS: Record<string, string> = {
   speed: "すばやさ",
 };
 
-const STAT_COLORS: Record<string, string> = {
+const STAT_COLORS: Record<keyof Stats, string> = {
   hp: "bg-red-400",
   attack: "bg-orange-400",
   defense: "bg-yellow-400",
@@ -112,7 +69,6 @@ const AVAILABILITY_LABELS: Record<string, string> = {
   breed: "育て屋",
 };
 
-// Sub-components
 function TypeBadge({ type }: { type: string }) {
   return (
     <span
@@ -123,16 +79,16 @@ function TypeBadge({ type }: { type: string }) {
   );
 }
 
-function StatBar({ statKey, value }: { statKey: string; value: number }) {
+function StatBar({ statKey, value }: { statKey: keyof Stats; value: number }) {
   return (
     <div className="flex items-center gap-3">
       <span className="w-16 shrink-0 text-right text-xs text-muted-foreground">
-        {STAT_LABELS[statKey] ?? statKey}
+        {STAT_LABELS[statKey]}
       </span>
       <span className="w-8 shrink-0 text-right font-mono text-sm font-medium">{value}</span>
       <div className="h-2 flex-1 overflow-hidden rounded-full bg-muted">
         <div
-          className={`h-full rounded-full ${STAT_COLORS[statKey] ?? "bg-gray-400"}`}
+          className={`h-full rounded-full ${STAT_COLORS[statKey]}`}
           style={{ width: `${Math.round((value / 255) * 100)}%` }}
         />
       </div>
@@ -169,17 +125,22 @@ function FormCard({ form }: { form: Form }) {
   );
 }
 
-// Page
-function PokemonDetailPage() {
-  const pokemon = Route.useLoaderData();
+type Props = {
+  params: Promise<{ id: string }>;
+};
+
+export default async function PokemonDetailPage({ params }: Props) {
+  const { id } = await params;
+
+  const res = await fetch(`${getApiUrl()}/pokemon/${id}`, { cache: "no-store" });
+  if (!res.ok) throw new Error(`API error: ${res.status}`);
+  const pokemon = PokemonDetailSchema.parse(await res.json());
 
   return (
     <main className="mx-auto max-w-4xl space-y-8 px-4 pb-12 pt-8">
-      {/* Header */}
       <div>
         <Link
-          to="/pokemon"
-          search={{ offset: 0 }}
+          href="/pokemon"
           className="mb-4 flex items-center gap-1 text-sm text-muted-foreground hover:text-foreground"
         >
           ← 一覧へ戻る
@@ -201,7 +162,6 @@ function PokemonDetailPage() {
         </div>
       </div>
 
-      {/* Forms */}
       <section>
         <h2 className="mb-3 text-lg font-semibold">フォーム</h2>
         <div className="grid gap-4 sm:grid-cols-2">
@@ -211,7 +171,6 @@ function PokemonDetailPage() {
         </div>
       </section>
 
-      {/* Availability */}
       {pokemon.availability.length > 0 && (
         <section>
           <h2 className="mb-3 text-lg font-semibold">出現ゲーム</h2>

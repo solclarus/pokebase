@@ -4,7 +4,14 @@ import { HTTPException } from "hono/http-exception";
 import { Scalar } from "@scalar/hono-api-reference";
 import type { AppEnv } from "@/context";
 import { DataLoader } from "@/repository";
-import { PokemonService, AbilityService, MoveService, GameService, GoService, CostumeService } from "@/service";
+import {
+  PokemonService,
+  AbilityService,
+  MoveService,
+  GameService,
+  GoService,
+  CostumeService,
+} from "@/service";
 import { pokemonRoutes } from "@/routes/pokemon";
 import { abilityRoutes } from "@/routes/ability";
 import { moveRoutes } from "@/routes/move";
@@ -79,13 +86,15 @@ app.notFound((c) => c.json({ error: "Not found" }, 404));
 app.onError((err, c) => {
   if (err instanceof HTTPException) return err.getResponse();
   const url = new URL(c.req.url);
-  console.error(JSON.stringify({
-    name: err.name,
-    message: err.message,
-    stack: err.stack,
-    method: c.req.method,
-    path: url.pathname,
-  }));
+  console.error(
+    JSON.stringify({
+      name: err.name,
+      message: err.message,
+      stack: err.stack,
+      method: c.req.method,
+      path: url.pathname,
+    }),
+  );
   return c.json({ error: "Internal server error" }, 500);
 });
 
