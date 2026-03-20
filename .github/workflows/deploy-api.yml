@@ -5,33 +5,27 @@ on:
     branches:
       - main
     paths:
-      - 'apps/api/**'
-      - 'data/**'
-      - 'scripts/**'
-      - '.github/workflows/deploy-api.yml'
+      - "apps/api/**"
+      - "packages/schemas/**"
+      - "data/**"
+      - ".github/workflows/deploy-api.yml"
 
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
     steps:
       - uses: actions/checkout@v4
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '24'
-          cache: 'npm'
+      - uses: pnpm/action-setup@v4
 
       - name: Install dependencies
-        run: npm ci
+        run: pnpm install
 
-      - name: Build index
-        run: npm run build:index
+      - name: Build schemas
+        run: pnpm run --filter @pokemon/schemas build
 
       - name: Deploy to Cloudflare Workers
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          workingDirectory: 'apps/api'
+          workingDirectory: "apps/api"
