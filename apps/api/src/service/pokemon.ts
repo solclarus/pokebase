@@ -50,16 +50,7 @@ export class PokemonService {
       this.pokemonRepo.findAll(limit, offset),
       this.pokemonRepo.count(),
     ]);
-
-    return {
-      pokemons: pokemons.map((p) => ({
-        id: p.id,
-        identifier: p.identifier,
-        name: p.name,
-        generation: p.generation,
-      })),
-      total,
-    };
+    return { pokemons, total };
   }
 
   async getLearnsetByPokemonId(pokemonId: number): Promise<LearnsetFile> {

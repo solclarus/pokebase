@@ -2,4 +2,5 @@
 
 export type Env = {
   ASSETS: Fetcher;
+  ALLOWED_ORIGIN: string;
 };

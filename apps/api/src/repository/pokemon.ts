@@ -1,8 +1,8 @@
-import type { Pokemon } from "@/types";
+import type { Pokemon, PokemonListItem } from "@/types";
 import type { DataLoader } from "@/repository/data-loader";
 
 type PokemonIndex = {
-  pokemons: Array<{ id: number; identifier: string }>;
+  pokemons: Array<{ id: number; identifier: string; name: { ja: string; en: string }; generation: number }>;
   total: number;
 };
 
@@ -30,11 +30,9 @@ export class PokemonRepository {
     return this.findById(entry.id);
   }
 
-  async findAll(limit = 20, offset = 0): Promise<Pokemon[]> {
+  async findAll(limit = 20, offset = 0): Promise<PokemonListItem[]> {
     const index = await this.getIndex();
-    const entries = index.pokemons.slice(offset, offset + limit);
-    const pokemons = await Promise.all(entries.map((e) => this.findById(e.id)));
-    return pokemons.filter((p): p is Pokemon => p !== null);
+    return index.pokemons.slice(offset, offset + limit);
   }
 
   async count(): Promise<number> {

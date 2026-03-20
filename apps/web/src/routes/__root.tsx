@@ -18,6 +18,14 @@ export const Route = createRootRoute({
     links: [{ rel: 'stylesheet', href: appCss }],
   }),
   shellComponent: RootDocument,
+  errorComponent: ({ error }) => (
+    <RootDocument>
+      <div className="mx-auto max-w-5xl px-4 py-16 text-center">
+        <p className="text-destructive text-sm font-medium">エラーが発生しました</p>
+        <p className="text-muted-foreground mt-2 text-sm">{error.message}</p>
+      </div>
+    </RootDocument>
+  ),
 })
 
 function RootDocument({ children }: { children: React.ReactNode }) {

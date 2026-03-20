@@ -11,15 +11,17 @@ export function padId(id: number): string {
 export class DataLoader {
   constructor(private assets: Fetcher, private baseUrl: string) {}
 
-  /** 指定パスの JSON を取得する。404 やネットワークエラーは null として扱う。 */
+  /** 指定パスの JSON を取得する。404 は null、それ以外のエラーは例外を投げる。 */
   async loadJson<T>(path: string): Promise<T | null> {
+    let response: Response;
     try {
-      const response = await this.assets.fetch(`${this.baseUrl}/${path}`);
-      if (!response.ok) return null;
-      return (await response.json()) as T;
-    } catch {
-      return null;
+      response = await this.assets.fetch(`${this.baseUrl}/${path}`);
+    } catch (e) {
+      throw new Error(`Failed to fetch ${path}: ${e}`);
     }
+    if (response.status === 404) return null;
+    if (!response.ok) throw new Error(`HTTP ${response.status} for ${path}`);
+    return (await response.json()) as T;
   }
 
   // --- core/ ---

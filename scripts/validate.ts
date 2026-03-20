@@ -106,9 +106,8 @@ const CostumeSchema = z.object({
   costume_id: z.string(),
   identifier: z.string(),
   name: LocalizedNameSchema,
-  event: z.string(),
-  available_from: z.string(),
-  available_until: z.string().nullable(),
+  released_at: z.string().nullable(),
+  shiny_released_at: z.string().nullable(),
 });
 
 const CostumesFileSchema = z.object({
@@ -131,7 +130,7 @@ const MoveSchema = z.object({
 
 const LearnsetEntrySchema = z.object({
   move_id: z.number().int().positive(),
-  learn_method: z.enum(["level", "tm", "hm", "tutor", "egg", "event"]),
+  learn_method: z.enum(["level", "tm", "tutor", "egg"]),
   level: z.number().int().nonnegative().optional(),
   tm_number: z.number().int().positive().optional(),
 });

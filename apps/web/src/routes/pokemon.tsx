@@ -1,5 +1,6 @@
 import { createFileRoute } from '@tanstack/react-router'
 import { z } from 'zod'
+import { getApiUrl } from '#/lib/api'
 import {
   Table,
   TableBody,
@@ -10,7 +11,6 @@ import {
 } from '#/components/ui/table'
 import { Button } from '#/components/ui/button'
 
-const API_URL = import.meta.env.VITE_API_URL ?? 'http://localhost:8787'
 
 const PokemonListItemSchema = z.object({
   id: z.number(),
@@ -35,7 +35,7 @@ export const Route = createFileRoute('/pokemon')({
   loaderDeps: ({ search }) => ({ offset: search.offset }),
   loader: async ({ deps: { offset } }) => {
     const res = await fetch(
-      `${API_URL}/pokemon?limit=${PAGE_SIZE}&offset=${offset}`,
+      `${getApiUrl()}/pokemon?limit=${PAGE_SIZE}&offset=${offset}`,
     )
     if (!res.ok) throw new Error(`API error: ${res.status}`)
     return PokemonListSchema.parse(await res.json())
