@@ -2,9 +2,24 @@ import { z } from "zod";
 import { LocalizedNameSchema } from "./pokemon";
 
 export const MoveTypeSchema = z.enum([
-  "normal", "fire", "water", "electric", "grass", "ice",
-  "fighting", "poison", "ground", "flying", "psychic", "bug",
-  "rock", "ghost", "dragon", "dark", "steel", "fairy",
+  "normal",
+  "fire",
+  "water",
+  "electric",
+  "grass",
+  "ice",
+  "fighting",
+  "poison",
+  "ground",
+  "flying",
+  "psychic",
+  "bug",
+  "rock",
+  "ghost",
+  "dragon",
+  "dark",
+  "steel",
+  "fairy",
 ]);
 
 export const MoveCategorySchema = z.enum(["physical", "special", "status"]);

@@ -29,12 +29,14 @@ export const PokemonFormsSchema = z.object({
   forms: z.array(FormSchema).min(1),
 });
 
-export const FormIndexEntrySchema = FormSchema
-  .pick({ form_type: true, name: true, types: true })
-  .extend({
-    pokemon_id: z.number().int().positive(),
-    form_id: z.string(),
-  });
+export const FormIndexEntrySchema = FormSchema.pick({
+  form_type: true,
+  name: true,
+  types: true,
+}).extend({
+  pokemon_id: z.number().int().positive(),
+  form_id: z.string(),
+});
 
 export type Stats = z.infer<typeof StatsSchema>;
 export type FormType = z.infer<typeof FormTypeSchema>;

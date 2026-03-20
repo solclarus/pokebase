@@ -1,15 +1,7 @@
 import { z } from "zod";
 import { LocalizedNameSchema } from "./pokemon";
 
-export const PlatformSchema = z.enum([
-  "gb",
-  "gbc",
-  "gba",
-  "ds",
-  "3ds",
-  "switch",
-  "switch-2",
-]);
+export const PlatformSchema = z.enum(["gb", "gbc", "gba", "ds", "3ds", "switch", "switch-2"]);
 
 export const GameSchema = z.object({
   id: z.string(),
