@@ -3,6 +3,17 @@ dist/
 .wrangler/
 .dev.vars
 *.log
-test.html
+*.tsbuildinfo
+.DS_Store
+.env*
+coverage/
+
+# Next.js
+apps/web/.next/
+apps/web/.open-next/
+apps/web/next-env.d.ts
+
+# scripts (local dev tools, not part of the project)
 scripts/parse-costumes.cjs
 scripts/fill-costume-ja.cjs
+test.html
