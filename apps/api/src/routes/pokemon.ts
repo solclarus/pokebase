@@ -13,15 +13,19 @@ pokemonRoutes.use("*", async (c, next) => {
   await next();
 });
 
-const PokemonListSchema = z.object({
-  pokemons: z.array(PokemonListItemSchema),
-  total: z.number(),
-}).openapi("PokemonList");
+const PokemonListSchema = z
+  .object({
+    pokemons: z.array(PokemonListItemSchema),
+    total: z.number(),
+  })
+  .openapi("PokemonList");
 
-const FormIndexSchema = z.object({
-  forms: z.array(FormIndexEntrySchema.openapi("FormIndexEntry")),
-  total: z.number(),
-}).openapi("FormIndex");
+const FormIndexSchema = z
+  .object({
+    forms: z.array(FormIndexEntrySchema.openapi("FormIndexEntry")),
+    total: z.number(),
+  })
+  .openapi("FormIndex");
 
 pokemonRoutes.openapi(
   createRoute({
@@ -43,7 +47,7 @@ pokemonRoutes.openapi(
     const { limit = 20, offset = 0 } = c.req.valid("query");
     const result = await c.get("pokemonService").listPokemons(limit, offset);
     return c.json(result);
-  }
+  },
 );
 
 pokemonRoutes.openapi(
@@ -63,7 +67,7 @@ pokemonRoutes.openapi(
     const pokemon = await c.get("pokemonService").getPokemon(id);
     if (!pokemon) return c.json({ error: "Pokemon not found" }, 404);
     return c.json(pokemon, 200);
-  }
+  },
 );
 
 pokemonRoutes.openapi(
@@ -72,16 +76,21 @@ pokemonRoutes.openapi(
     path: "/pokemon/{id}/moves",
     summary: "Get learnset for a Pokemon",
     tags: ["Pokemon"],
-    request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 25 }) }) },
+    request: {
+      params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 25 }) }),
+    },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: PokemonLearnsetSchema.openapi("Learnset") } } },
+      200: {
+        description: "OK",
+        content: { "application/json": { schema: PokemonLearnsetSchema.openapi("Learnset") } },
+      },
     },
   }),
   async (c) => {
     const { id } = c.req.valid("param");
     const learnset = await c.get("pokemonService").getLearnsetByPokemonId(id);
     return c.json(learnset);
-  }
+  },
 );
 
 pokemonRoutes.openapi(
@@ -103,5 +112,5 @@ pokemonRoutes.openapi(
     const { form_type } = c.req.valid("query");
     const result = await c.get("pokemonService").listForms(form_type);
     return c.json(result);
-  }
+  },
 );

@@ -46,7 +46,10 @@ export class PokemonService {
     };
   }
 
-  async listPokemons(limit = 20, offset = 0): Promise<{ pokemons: PokemonListItem[]; total: number }> {
+  async listPokemons(
+    limit = 20,
+    offset = 0,
+  ): Promise<{ pokemons: PokemonListItem[]; total: number }> {
     const [pokemons, total] = await Promise.all([
       this.pokemonRepo.findAll(limit, offset),
       this.pokemonRepo.count(),
@@ -64,5 +67,4 @@ export class PokemonService {
     const forms = await this.formRepo.findAll(formType);
     return { forms, total: forms.length };
   }
-
 }

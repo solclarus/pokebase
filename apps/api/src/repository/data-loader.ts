@@ -22,7 +22,10 @@ export function padId(id: number): string {
  * ファイルが存在しない・取得エラーの場合は null を返す。
  */
 export class DataLoader {
-  constructor(private assets: Fetcher, private baseUrl: string) {}
+  constructor(
+    private assets: Fetcher,
+    private baseUrl: string,
+  ) {}
 
   /** 指定パスの JSON を取得する。404 は null、それ以外のエラーは例外を投げる。 */
   async loadJson<T>(path: string): Promise<T | null> {
@@ -30,7 +33,7 @@ export class DataLoader {
     try {
       response = await this.assets.fetch(`${this.baseUrl}/${path}`);
     } catch (e) {
-      throw new Error(`Failed to fetch ${path}: ${e}`);
+      throw new Error(`Failed to fetch ${path}: ${String(e)}`);
     }
     if (response.status === 404) return null;
     if (!response.ok) throw new Error(`HTTP ${response.status} for ${path}`);

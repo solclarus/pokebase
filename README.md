@@ -37,13 +37,13 @@ VITE_API_URL=http://localhost:8787
 
 ## コマンド一覧
 
-| コマンド | 内容 |
-|---|---|
-| `npm run dev` | API ローカルサーバー起動 |
-| `npm run dev:web` | Web ローカルサーバー起動 |
-| `npm run validate` | データ検証（Zod） |
-| `npm run build:index` | `data/_index/` を再生成 |
-| `npm run build:web` | Web プロダクションビルド |
+| コマンド              | 内容                     |
+| --------------------- | ------------------------ |
+| `npm run dev`         | API ローカルサーバー起動 |
+| `npm run dev:web`     | Web ローカルサーバー起動 |
+| `npm run validate`    | データ検証（Zod）        |
+| `npm run build:index` | `data/_index/` を再生成  |
+| `npm run build:web`   | Web プロダクションビルド |
 
 ## データ構造
 
@@ -91,29 +91,29 @@ API ドキュメント（Scalar UI）: `/doc`
 
 ## CI/CD
 
-| ワークフロー | トリガー | 内容 |
-|---|---|---|
-| `validate.yml` | PR（`data/`, `scripts/` 変更時） | データ検証 + インデックス差分チェック |
-| `deploy-api.yml` | `main` push | インデックス再生成 → Cloudflare Workers デプロイ |
-| `deploy-web.yml` | `main` push（`apps/web/` 変更時） | Web ビルド → Cloudflare Pages デプロイ |
+| ワークフロー     | トリガー                          | 内容                                             |
+| ---------------- | --------------------------------- | ------------------------------------------------ |
+| `validate.yml`   | PR（`data/`, `scripts/` 変更時）  | データ検証 + インデックス差分チェック            |
+| `deploy-api.yml` | `main` push                       | インデックス再生成 → Cloudflare Workers デプロイ |
+| `deploy-web.yml` | `main` push（`apps/web/` 変更時） | Web ビルド → Cloudflare Pages デプロイ           |
 
 ## デプロイ
 
 必要なシークレット（GitHub Actions）:
 
-| シークレット | 内容 |
-|---|---|
-| `CLOUDFLARE_API_TOKEN` | Cloudflare API トークン |
-| `VITE_API_URL` | 本番 API の URL（Web ビルド時に埋め込み） |
+| シークレット           | 内容                                      |
+| ---------------------- | ----------------------------------------- |
+| `CLOUDFLARE_API_TOKEN` | Cloudflare API トークン                   |
+| `VITE_API_URL`         | 本番 API の URL（Web ビルド時に埋め込み） |
 
 Cloudflare Workers の環境変数（Dashboard で設定）:
 
-| 変数 | 内容 |
-|---|---|
+| 変数             | 内容                                |
+| ---------------- | ----------------------------------- |
 | `ALLOWED_ORIGIN` | CORS 許可オリジン（Web のドメイン） |
 
 Cloudflare Pages の環境変数（任意）:
 
-| 変数 | 内容 |
-|---|---|
+| 変数      | 内容                                                 |
+| --------- | ---------------------------------------------------- |
 | `API_URL` | SSR 時の API URL（設定するとリビルド不要で変更可能） |

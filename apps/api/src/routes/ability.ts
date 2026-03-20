@@ -12,10 +12,12 @@ abilityRoutes.use("*", async (c, next) => {
   await next();
 });
 
-const AbilityListSchema = z.object({
-  abilities: z.array(AbilitySchema.openapi("Ability")),
-  total: z.number(),
-}).openapi("AbilityList");
+const AbilityListSchema = z
+  .object({
+    abilities: z.array(AbilitySchema.openapi("Ability")),
+    total: z.number(),
+  })
+  .openapi("AbilityList");
 
 abilityRoutes.openapi(
   createRoute({
@@ -30,7 +32,7 @@ abilityRoutes.openapi(
   async (c) => {
     const abilities = await c.get("abilityService").list();
     return c.json({ abilities, total: abilities.length });
-  }
+  },
 );
 
 abilityRoutes.openapi(
@@ -39,9 +41,14 @@ abilityRoutes.openapi(
     path: "/abilities/{id}",
     summary: "Get ability by ID",
     tags: ["Abilities"],
-    request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 65 }) }) },
+    request: {
+      params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 65 }) }),
+    },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: AbilitySchema.openapi("Ability") } } },
+      200: {
+        description: "OK",
+        content: { "application/json": { schema: AbilitySchema.openapi("Ability") } },
+      },
       404: { description: "Not found", content: { "application/json": { schema: ErrorSchema } } },
     },
   }),
@@ -50,5 +57,5 @@ abilityRoutes.openapi(
     const ability = await c.get("abilityService").getById(id);
     if (!ability) return c.json({ error: "Ability not found" }, 404);
     return c.json(ability, 200);
-  }
+  },
 );

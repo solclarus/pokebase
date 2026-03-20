@@ -166,8 +166,12 @@ pokemon/
       "region": "kanto",
       "types": ["fire", "flying"],
       "stats": {
-        "hp": 78, "attack": 84, "defense": 78,
-        "sp_attack": 109, "sp_defense": 85, "speed": 100
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "sp_attack": 109,
+        "sp_defense": 85,
+        "speed": 100
       },
       "ability_ids": [66],
       "hidden_ability_id": 94
@@ -180,8 +184,12 @@ pokemon/
       "region": "kanto",
       "types": ["fire", "dragon"],
       "stats": {
-        "hp": 78, "attack": 130, "defense": 111,
-        "sp_attack": 130, "sp_defense": 85, "speed": 100
+        "hp": 78,
+        "attack": 130,
+        "defense": 111,
+        "sp_attack": 130,
+        "sp_defense": 85,
+        "speed": 100
       },
       "ability_ids": [153]
     }
@@ -327,32 +335,32 @@ wrangler pages deploy dist で Cloudflare Pages にデプロイ
 
 ### Cloudflare Workers（`apps/api/`）
 
-| 変数 | 設定場所 | 内容 |
-|---|---|---|
+| 変数             | 設定場所          | 内容                                |
+| ---------------- | ----------------- | ----------------------------------- |
 | `ALLOWED_ORIGIN` | Workers Dashboard | CORS 許可オリジン（Web のドメイン） |
 
 `wrangler.toml` の `[vars]` にはローカル開発用のデフォルト値のみ記載。
 
 ### GitHub Actions Secrets
 
-| シークレット | 内容 |
-|---|---|
-| `CLOUDFLARE_API_TOKEN` | Cloudflare API トークン |
-| `VITE_API_URL` | 本番 API の URL（Web ビルド時に埋め込み） |
+| シークレット           | 内容                                      |
+| ---------------------- | ----------------------------------------- |
+| `CLOUDFLARE_API_TOKEN` | Cloudflare API トークン                   |
+| `VITE_API_URL`         | 本番 API の URL（Web ビルド時に埋め込み） |
 
 ### Cloudflare Pages（任意）
 
-| 変数 | 内容 |
-|---|---|
+| 変数      | 内容                                                 |
+| --------- | ---------------------------------------------------- |
 | `API_URL` | SSR 時の API URL（設定するとリビルド不要で変更可能） |
 
 ---
 
 ## 将来拡張
 
-| 項目 | 対応方針 |
-|---|---|
-| DB 移行 | Repository 実装を差し替えるだけ |
+| 項目       | 対応方針                                       |
+| ---------- | ---------------------------------------------- |
+| DB 移行    | Repository 実装を差し替えるだけ                |
 | 世代差対応 | `generation_overrides/` 追加・Service でマージ |
 
 ---

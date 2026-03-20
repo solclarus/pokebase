@@ -3,7 +3,12 @@ import type { PokemonListItem } from "@/types";
 import type { DataLoader } from "@/repository/data-loader";
 
 type PokemonIndex = {
-  pokemons: Array<{ id: number; identifier: string; name: { ja: string; en: string }; generation: number }>;
+  pokemons: Array<{
+    id: number;
+    identifier: string;
+    name: { ja: string; en: string };
+    generation: number;
+  }>;
   total: number;
 };
 

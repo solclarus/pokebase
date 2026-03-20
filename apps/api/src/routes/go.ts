@@ -14,15 +14,19 @@ goRoutes.use("*", async (c, next) => {
   await next();
 });
 
-const GoPokemonListSchema = z.object({
-  pokemons: z.array(GoPokemonSchema.openapi("GoPokemon")),
-  total: z.number(),
-}).openapi("GoPokemonList");
+const GoPokemonListSchema = z
+  .object({
+    pokemons: z.array(GoPokemonSchema.openapi("GoPokemon")),
+    total: z.number(),
+  })
+  .openapi("GoPokemonList");
 
-const GoMoveListSchema = z.object({
-  moves: z.array(GoMoveSchema.openapi("GoMove")),
-  total: z.number(),
-}).openapi("GoMoveList");
+const GoMoveListSchema = z
+  .object({
+    moves: z.array(GoMoveSchema.openapi("GoMove")),
+    total: z.number(),
+  })
+  .openapi("GoMoveList");
 
 goRoutes.openapi(
   createRoute({
@@ -44,7 +48,7 @@ goRoutes.openapi(
     const { limit = 20, offset = 0 } = c.req.valid("query");
     const result = await c.get("goService").listPokemons(limit, offset);
     return c.json(result);
-  }
+  },
 );
 
 goRoutes.openapi(
@@ -53,9 +57,14 @@ goRoutes.openapi(
     path: "/pokemon/{id}",
     summary: "Get GO Pokemon by ID",
     tags: ["Pokémon GO"],
-    request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 25 }) }) },
+    request: {
+      params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 25 }) }),
+    },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: GoPokemonDetailSchema } } },
+      200: {
+        description: "OK",
+        content: { "application/json": { schema: GoPokemonDetailSchema } },
+      },
       404: { description: "Not found", content: { "application/json": { schema: ErrorSchema } } },
     },
   }),
@@ -64,7 +73,7 @@ goRoutes.openapi(
     const pokemon = await c.get("goService").getPokemonById(id);
     if (!pokemon) return c.json({ error: "Pokemon not found" }, 404);
     return c.json(pokemon, 200);
-  }
+  },
 );
 
 goRoutes.openapi(
@@ -73,9 +82,14 @@ goRoutes.openapi(
     path: "/pokemon/{id}/costumes",
     summary: "Get GO costumes for a Pokemon",
     tags: ["Pokémon GO"],
-    request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 25 }) }) },
+    request: {
+      params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 25 }) }),
+    },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: PokemonCostumesSchema.openapi("CostumeList") } } },
+      200: {
+        description: "OK",
+        content: { "application/json": { schema: PokemonCostumesSchema.openapi("CostumeList") } },
+      },
       404: { description: "Not found", content: { "application/json": { schema: ErrorSchema } } },
     },
   }),
@@ -84,7 +98,7 @@ goRoutes.openapi(
     const costumes = await c.get("costumeService").getCostumesByPokemonId(id);
     if (costumes === null) return c.json({ error: "Pokemon not found" }, 404);
     return c.json({ pokemon_id: id, costumes }, 200);
-  }
+  },
 );
 
 goRoutes.openapi(
@@ -100,7 +114,7 @@ goRoutes.openapi(
   async (c) => {
     const moves = await c.get("goService").listGoMoves();
     return c.json({ moves, total: moves.length });
-  }
+  },
 );
 
 goRoutes.openapi(
@@ -109,9 +123,14 @@ goRoutes.openapi(
     path: "/moves/{id}",
     summary: "Get GO move by ID",
     tags: ["Pokémon GO"],
-    request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 1 }) }) },
+    request: {
+      params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 1 }) }),
+    },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: GoMoveSchema.openapi("GoMove") } } },
+      200: {
+        description: "OK",
+        content: { "application/json": { schema: GoMoveSchema.openapi("GoMove") } },
+      },
       404: { description: "Not found", content: { "application/json": { schema: ErrorSchema } } },
     },
   }),
@@ -120,5 +139,5 @@ goRoutes.openapi(
     const move = await c.get("goService").getGoMoveById(id);
     if (!move) return c.json({ error: "Move not found" }, 404);
     return c.json(move, 200);
-  }
+  },
 );

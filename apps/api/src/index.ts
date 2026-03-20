@@ -11,9 +11,7 @@ import { goRoutes } from "@/routes/go";
 const app = new OpenAPIHono<AppEnv>();
 
 // Middleware
-app.use("*", (c, next) =>
-  cors({ origin: c.env.ALLOWED_ORIGIN })(c, next)
-);
+app.use("*", (c, next) => cors({ origin: c.env.ALLOWED_ORIGIN })(c, next));
 app.use("*", async (c, next) => {
   await next();
   const ct = c.res.headers.get("Content-Type");
@@ -35,8 +33,14 @@ app.get("/", (c) =>
   c.json({
     name: "Pokemon Data API",
     version: "0.1.0",
-    endpoints: { pokemon: "/pokemon", moves: "/moves", games: "/games", abilities: "/abilities", go: "/go" },
-  })
+    endpoints: {
+      pokemon: "/pokemon",
+      moves: "/moves",
+      games: "/games",
+      abilities: "/abilities",
+      go: "/go",
+    },
+  }),
 );
 
 // Routes
