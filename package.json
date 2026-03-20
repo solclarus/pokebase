@@ -1,22 +1,20 @@
 {
   "name": "pokemon",
   "private": true,
-  "workspaces": [
-    "apps/*",
-    "packages/*",
-    "scripts"
-  ],
+  "type": "module",
   "scripts": {
-    "validate": "npm run validate -w @pokemon/scripts",
-    "build:index": "npm run build:index -w @pokemon/scripts",
-    "dev": "npm run dev -w @pokemon/api",
-    "dev:web": "npm run dev -w @pokemon/web",
-    "build:web": "npm run build -w @pokemon/web",
-    "deploy": "npm run deploy -w @pokemon/api"
+    "dev": "vp run @pokemon/api#dev",
+    "dev:web": "vp run @pokemon/web#dev",
+    "build:web": "vp run @pokemon/web#build",
+    "deploy": "vp run @pokemon/api#deploy",
+    "check": "vp check",
+    "fmt": "vp fmt"
   },
   "devDependencies": {
-    "typescript": "^5.4.0",
-    "wrangler": "^3.60.0",
-    "zod": "^4.3.6"
-  }
+    "vite-plus": "catalog:"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  },
+  "packageManager": "pnpm@10.11.0"
 }

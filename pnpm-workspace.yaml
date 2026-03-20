@@ -1,0 +1,12 @@
+packages:
+  - apps/*
+  - packages/*
+
+catalogMode: prefer
+
+catalog:
+  typescript: ^5
+  zod: ^4.3.6
+  vite: "npm:@voidzero-dev/vite-plus-core@latest"
+  vitest: "npm:@voidzero-dev/vite-plus-test@latest"
+  vite-plus: latest
