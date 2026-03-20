@@ -1,0 +1,18 @@
+{
+  "id": 331,
+  "identifier": "bullet-seed",
+  "name": {
+    "ja": "タネマシンガン",
+    "en": "Bullet Seed"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 3,
+  "description": {
+    "ja": "タネを　勢いよく相手に　発射して　攻撃する。２ー５回の　間　連続で　だす。",
+    "en": "The user attacks by forcefully shooting seeds at the target. This move hits two to five times in a row."
+  }
+}

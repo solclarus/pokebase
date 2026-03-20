@@ -1,0 +1,13 @@
+{
+  "id": 127,
+  "identifier": "unnerve",
+  "name": {
+    "ja": "きんちょうかん",
+    "en": "Unnerve"
+  },
+  "description": {
+    "ja": "相手を　緊張させてきのみを　食べられなく　させる。",
+    "en": "Unnerves opposing Pokémon and makes them unable to eat Berries."
+  },
+  "generation": 5
+}

@@ -1,0 +1,13 @@
+{
+  "id": 192,
+  "identifier": "stamina",
+  "name": {
+    "ja": "じきゅうりょく",
+    "en": "Stamina"
+  },
+  "description": {
+    "ja": "攻撃を　受けると防御が　上がる。",
+    "en": "Boosts the Defense stat when the Pokémon is hit by an attack."
+  },
+  "generation": 7
+}

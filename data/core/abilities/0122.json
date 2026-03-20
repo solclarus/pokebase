@@ -1,0 +1,13 @@
+{
+  "id": 122,
+  "identifier": "flower-gift",
+  "name": {
+    "ja": "フラワーギフト",
+    "en": "Flower Gift"
+  },
+  "description": {
+    "ja": "天気が　晴れのとき自分と　味方の　攻撃と特防の　能力が　上がる。",
+    "en": "Boosts the Attack and Sp. Def stats of itself and allies in harsh sunlight."
+  },
+  "generation": 4
+}

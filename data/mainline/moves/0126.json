@@ -1,0 +1,18 @@
+{
+  "id": 126,
+  "identifier": "fire-blast",
+  "name": {
+    "ja": "だいもんじ",
+    "en": "Fire Blast"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 110,
+  "accuracy": 85,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "大の字の　炎で相手を　焼きつくす。やけど状態に　することが　ある。",
+    "en": "The target is attacked with an intense blast of all-consuming fire. This may also leave the target with a burn."
+  }
+}

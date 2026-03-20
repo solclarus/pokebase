@@ -1,0 +1,18 @@
+{
+  "id": 463,
+  "identifier": "magma-storm",
+  "name": {
+    "ja": "マグマストーム",
+    "en": "Magma Storm"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "激しく　燃えたぎる　炎の　なかに４ー５ターンの　間相手を　閉じこめて　攻撃する。",
+    "en": "The user traps the target inside a maelstrom of fire that inflicts damage for four to five turns."
+  }
+}

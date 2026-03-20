@@ -1,0 +1,18 @@
+{
+  "id": 570,
+  "identifier": "parabolic-charge",
+  "name": {
+    "ja": "パラボラチャージ",
+    "en": "Parabolic Charge"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "周りにいる　ポケモン　全員にダメージ。　与えた　ダメージの半分を　自分が　回復する。",
+    "en": "The user attacks everything around it. The user's HP is restored by half the damage taken by those hit."
+  }
+}

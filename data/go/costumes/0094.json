@@ -1,0 +1,49 @@
+{
+  "pokemon_id": 94,
+  "costumes": [
+    {
+      "costume_id": "0094-party_hat",
+      "identifier": "gengar-party-hat",
+      "name": {
+        "ja": "パーティーハットゲンガー",
+        "en": "Gengar (Party Hat)"
+      },
+      "event": "March 1, 2020",
+      "available_from": "2020-03-01",
+      "available_until": null
+    },
+    {
+      "costume_id": "0094-halloween",
+      "identifier": "gengar-halloween",
+      "name": {
+        "ja": "ハロウィンゲンガー",
+        "en": "Gengar (Halloween)"
+      },
+      "event": "October 23, 2020",
+      "available_from": "2020-10-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0094-halloween_2022",
+      "identifier": "gengar-halloween-2022",
+      "name": {
+        "ja": "ハロウィンゲンガー（2022）",
+        "en": "Gengar (Halloween 2022)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    },
+    {
+      "costume_id": "0094-halloween_2023",
+      "identifier": "gengar-halloween-2023",
+      "name": {
+        "ja": "ハロウィンゲンガー（2023）",
+        "en": "Gengar (Halloween 2023)"
+      },
+      "event": "October 26, 2023",
+      "available_from": "2023-10-26",
+      "available_until": null
+    }
+  ]
+}

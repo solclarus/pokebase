@@ -1,0 +1,18 @@
+{
+  "id": 19,
+  "identifier": "fly",
+  "name": {
+    "ja": "そらをとぶ",
+    "en": "Fly"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "１ターン目で　空へ　飛び２ターン目に　相手を　攻撃する。",
+    "en": "The user flies up into the sky on the first turn, then attacks on the next turn."
+  }
+}

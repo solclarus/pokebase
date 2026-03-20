@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 53,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ペルシアン",
+        "en": "Persian"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 70,
+        "defense": 60,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 115
+      },
+      "ability_ids": [
+        7,
+        101
+      ],
+      "hidden_ability_id": 127
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "ペルシアン（アローラのすがた）",
+        "en": "Alolan Persian"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 60,
+        "sp_attack": 75,
+        "sp_defense": 65,
+        "speed": 115
+      },
+      "ability_ids": [
+        169,
+        101
+      ],
+      "hidden_ability_id": 155
+    }
+  ]
+}

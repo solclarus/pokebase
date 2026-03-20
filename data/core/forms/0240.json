@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 240,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ブビィ",
+        "en": "Magby"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 75,
+        "defense": 37,
+        "sp_attack": 70,
+        "sp_defense": 55,
+        "speed": 83
+      },
+      "ability_ids": [
+        49
+      ],
+      "hidden_ability_id": 72
+    }
+  ]
+}

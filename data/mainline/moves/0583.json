@@ -1,0 +1,18 @@
+{
+  "id": 583,
+  "identifier": "play-rough",
+  "name": {
+    "ja": "じゃれつく",
+    "en": "Play Rough"
+  },
+  "type": "fairy",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "相手に　じゃれついて攻撃する。　相手の攻撃を　さげる　ことがある。",
+    "en": "The user attacks by playing rough with the target. This may also lower the target's Attack stat."
+  }
+}

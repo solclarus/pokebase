@@ -1,0 +1,18 @@
+{
+  "id": 488,
+  "identifier": "flame-charge",
+  "name": {
+    "ja": "ニトロチャージ",
+    "en": "Flame Charge"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "炎を　まとい　相手を　攻撃する。力を　ためて　自分の素早さを　あげる。",
+    "en": "Cloaking itself in flame, the user attacks the target. Then, building up momentum, the user boosts its Speed stat."
+  }
+}

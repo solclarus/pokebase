@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 588,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カブルモ",
+        "en": "Karrablast"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 45,
+        "sp_attack": 40,
+        "sp_defense": 45,
+        "speed": 60
+      },
+      "ability_ids": [
+        68,
+        61
+      ],
+      "hidden_ability_id": 99
+    }
+  ]
+}

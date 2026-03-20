@@ -1,0 +1,53 @@
+{
+  "pokemon_id": 875,
+  "forms": [
+    {
+      "id": "ice",
+      "order": 0,
+      "name": {
+        "ja": "コオリッポ",
+        "en": "Eiscue"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 110,
+        "sp_attack": 65,
+        "sp_defense": 90,
+        "speed": 50
+      },
+      "ability_ids": [
+        248
+      ]
+    },
+    {
+      "id": "noice",
+      "order": 1,
+      "name": {
+        "ja": "ナイスフェイス",
+        "en": "Noice Face"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 70,
+        "sp_attack": 65,
+        "sp_defense": 50,
+        "speed": 130
+      },
+      "ability_ids": [
+        248
+      ]
+    }
+  ]
+}

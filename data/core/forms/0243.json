@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 243,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ライコウ",
+        "en": "Raikou"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 75,
+        "sp_attack": 115,
+        "sp_defense": 100,
+        "speed": 115
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 39
+    }
+  ]
+}

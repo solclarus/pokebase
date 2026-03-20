@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 258,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ミズゴロウ",
+        "en": "Mudkip"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 70,
+        "defense": 50,
+        "sp_attack": 50,
+        "sp_defense": 50,
+        "speed": 40
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 6
+    }
+  ]
+}

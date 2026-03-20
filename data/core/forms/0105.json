@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 105,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ガラガラ",
+        "en": "Marowak"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 110,
+        "sp_attack": 50,
+        "sp_defense": 80,
+        "speed": 45
+      },
+      "ability_ids": [
+        69,
+        31
+      ],
+      "hidden_ability_id": 4
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "ガラガラ（アローラのすがた）",
+        "en": "Alolan Marowak"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 110,
+        "sp_attack": 50,
+        "sp_defense": 80,
+        "speed": 45
+      },
+      "ability_ids": [
+        130,
+        31
+      ],
+      "hidden_ability_id": 69
+    }
+  ]
+}

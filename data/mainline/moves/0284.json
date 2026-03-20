@@ -1,0 +1,18 @@
+{
+  "id": 284,
+  "identifier": "eruption",
+  "name": {
+    "ja": "ふんか",
+    "en": "Eruption"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "怒りを　爆発させて　相手を攻撃する。　自分の　ＨＰが少ないほど　技の　威力は　さがる。",
+    "en": "The user attacks opposing Pokémon with explosive fury. The lower the user's HP, the lower the move's power."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1003,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ディンルー",
+        "en": "Ting-Lu"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dark",
+        "ground"
+      ],
+      "stats": {
+        "hp": 155,
+        "attack": 110,
+        "defense": 125,
+        "sp_attack": 55,
+        "sp_defense": 80,
+        "speed": 45
+      },
+      "ability_ids": [
+        284
+      ]
+    }
+  ]
+}

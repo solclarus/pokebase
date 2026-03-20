@@ -1,0 +1,18 @@
+{
+  "id": 328,
+  "identifier": "sand-tomb",
+  "name": {
+    "ja": "すなじごく",
+    "en": "Sand Tomb"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "激しく　吹きあれる　砂あらしの中に　４ー５ターンの　間相手を　閉じこめて　攻撃する。",
+    "en": "The user traps the target inside a harshly raging sandstorm that inflicts damage for four to five turns."
+  }
+}

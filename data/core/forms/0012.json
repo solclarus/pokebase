@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 12,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バタフリー",
+        "en": "Butterfree"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 50,
+        "sp_attack": 90,
+        "sp_defense": 80,
+        "speed": 70
+      },
+      "ability_ids": [
+        14
+      ],
+      "hidden_ability_id": 110
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスバタフリー",
+        "en": "Gigantamax Butterfree"
+      },
+      "form_type": "gigantamax",
+      "region": "kanto",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 50,
+        "sp_attack": 90,
+        "sp_defense": 80,
+        "speed": 70
+      },
+      "ability_ids": [
+        14
+      ],
+      "hidden_ability_id": 110
+    }
+  ]
+}

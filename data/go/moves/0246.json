@@ -1,0 +1,13 @@
+{
+  "id": 246,
+  "identifier": "dynamic-punch",
+  "name": {
+    "ja": "ばくれつパンチ",
+    "en": "Dynamic Punch"
+  },
+  "type": "fighting",
+  "move_type": "charged",
+  "power": 85,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 331,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サボネア",
+        "en": "Cacnea"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 40,
+        "sp_attack": 85,
+        "sp_defense": 40,
+        "speed": 35
+      },
+      "ability_ids": [
+        8
+      ],
+      "hidden_ability_id": 11
+    }
+  ]
+}

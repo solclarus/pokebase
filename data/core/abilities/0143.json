@@ -1,0 +1,13 @@
+{
+  "id": 143,
+  "identifier": "poison-touch",
+  "name": {
+    "ja": "どくしゅ",
+    "en": "Poison Touch"
+  },
+  "description": {
+    "ja": "触る　だけで　相手をどく　状態に　することがある。",
+    "en": "May poison a target when the Pokémon makes contact."
+  },
+  "generation": 5
+}

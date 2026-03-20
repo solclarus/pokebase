@@ -1,0 +1,18 @@
+{
+  "id": 376,
+  "identifier": "trump-card",
+  "name": {
+    "ja": "きりふだ",
+    "en": "Trump Card"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+  }
+}

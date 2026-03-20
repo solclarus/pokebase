@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 673,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴーゴート",
+        "en": "Gogoat"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 123,
+        "attack": 100,
+        "defense": 62,
+        "sp_attack": 97,
+        "sp_defense": 81,
+        "speed": 68
+      },
+      "ability_ids": [
+        157
+      ],
+      "hidden_ability_id": 179
+    }
+  ]
+}

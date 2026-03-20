@@ -1,0 +1,13 @@
+{
+  "id": 279,
+  "identifier": "commander",
+  "name": {
+    "ja": "しれいとう",
+    "en": "Commander"
+  },
+  "description": {
+    "ja": "登場したとき味方にヘイラッシャがいると口の中に入ってそこから指令をだす。",
+    "en": "When the Pokémon enters a battle, it goes inside the mouth of an ally Dondozo if one is on the field. The Pokémon then issues commands from there."
+  },
+  "generation": 9
+}

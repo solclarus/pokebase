@@ -1,0 +1,13 @@
+{
+  "id": 28,
+  "identifier": "synchronize",
+  "name": {
+    "ja": "シンクロ",
+    "en": "Synchronize"
+  },
+  "description": {
+    "ja": "自分が　なってしまったどくや　まひや　やけどを相手に　うつす。",
+    "en": "If the Pokémon is burned, paralyzed, or poisoned by another Pokémon, that Pokémon will be inflicted with the same status condition."
+  },
+  "generation": 3
+}

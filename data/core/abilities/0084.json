@@ -1,0 +1,13 @@
+{
+  "id": 84,
+  "identifier": "unburden",
+  "name": {
+    "ja": "かるわざ",
+    "en": "Unburden"
+  },
+  "description": {
+    "ja": "持っていた　道具が　なくなると素早さが　上がる。",
+    "en": "Boosts the Speed stat if the Pokémon's held item is used or lost."
+  },
+  "generation": 4
+}

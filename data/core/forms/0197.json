@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 197,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ブラッキー",
+        "en": "Umbreon"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 65,
+        "defense": 110,
+        "sp_attack": 60,
+        "sp_defense": 130,
+        "speed": 65
+      },
+      "ability_ids": [
+        28
+      ],
+      "hidden_ability_id": 39
+    }
+  ]
+}

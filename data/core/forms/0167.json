@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 167,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イトマル",
+        "en": "Spinarak"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 60,
+        "defense": 40,
+        "sp_attack": 40,
+        "sp_defense": 40,
+        "speed": 30
+      },
+      "ability_ids": [
+        68,
+        15
+      ],
+      "hidden_ability_id": 97
+    }
+  ]
+}

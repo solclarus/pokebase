@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 343,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤジロン",
+        "en": "Baltoy"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 55,
+        "sp_attack": 40,
+        "sp_defense": 70,
+        "speed": 55
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

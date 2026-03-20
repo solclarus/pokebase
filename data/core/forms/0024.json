@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 24,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アーボック",
+        "en": "Arbok"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 95,
+        "defense": 69,
+        "sp_attack": 65,
+        "sp_defense": 79,
+        "speed": 80
+      },
+      "ability_ids": [
+        22,
+        61
+      ],
+      "hidden_ability_id": 127
+    }
+  ]
+}

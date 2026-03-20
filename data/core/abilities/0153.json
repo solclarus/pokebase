@@ -1,0 +1,13 @@
+{
+  "id": 153,
+  "identifier": "moxie",
+  "name": {
+    "ja": "じしんかじょう",
+    "en": "Moxie"
+  },
+  "description": {
+    "ja": "相手を　倒すと自信が　ついて攻撃が　上がる。",
+    "en": "When the Pokémon knocks out a target, it shows moxie, which boosts its Attack stat."
+  },
+  "generation": 5
+}

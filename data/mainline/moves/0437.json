@@ -1,0 +1,18 @@
+{
+  "id": 437,
+  "identifier": "leaf-storm",
+  "name": {
+    "ja": "リーフストーム",
+    "en": "Leaf Storm"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "とがった　はっぱで　相手に　あらしをおこす。使うと　反動で自分の　特攻が　がくっと　さがる。",
+    "en": "The user whips up a storm of leaves around the target. The recoil from this move harshly lowers the user's Sp. Atk stat."
+  }
+}

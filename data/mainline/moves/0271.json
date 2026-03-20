@@ -1,0 +1,18 @@
+{
+  "id": 271,
+  "identifier": "trick",
+  "name": {
+    "ja": "トリック",
+    "en": "Trick"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "相手の　すきを　ついて自分と　相手の持ち物を　交換する。",
+    "en": "The user catches the target off guard and swaps the target's held item with its own."
+  }
+}

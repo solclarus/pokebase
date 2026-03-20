@@ -1,0 +1,18 @@
+{
+  "id": 667,
+  "identifier": "high-horsepower",
+  "name": {
+    "ja": "１０まんばりき",
+    "en": "High Horsepower"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 95,
+  "accuracy": 95,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "全身を　使って相手に　猛アタックする。",
+    "en": "The user fiercely attacks the target using its entire body."
+  }
+}

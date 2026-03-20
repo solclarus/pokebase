@@ -1,0 +1,18 @@
+{
+  "id": 571,
+  "identifier": "forests-curse",
+  "name": {
+    "ja": "もりののろい",
+    "en": "Forest’s Curse"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "相手に　森ののろいを　かける。のろいを　かけられた　相手はタイプに　くさタイプが　追加される。",
+    "en": "The user puts a forest curse on the target. This adds Grass type to the target's type."
+  }
+}

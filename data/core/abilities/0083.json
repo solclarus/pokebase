@@ -1,0 +1,13 @@
+{
+  "id": 83,
+  "identifier": "anger-point",
+  "name": {
+    "ja": "いかりのつぼ",
+    "en": "Anger Point"
+  },
+  "description": {
+    "ja": "急所に　攻撃が　当たると怒りくるって　攻撃力が最大に　なる。",
+    "en": "The Pokémon is angered when it takes a critical hit, and that maxes its Attack stat."
+  },
+  "generation": 4
+}

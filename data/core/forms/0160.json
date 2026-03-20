@@ -1,0 +1,53 @@
+{
+  "pokemon_id": 160,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オーダイル",
+        "en": "Feraligatr"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 105,
+        "defense": 100,
+        "sp_attack": 79,
+        "sp_defense": 83,
+        "speed": 78
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 125
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガオーダイル",
+        "en": "Mega Feraligatr"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 160,
+        "defense": 125,
+        "sp_attack": 89,
+        "sp_defense": 93,
+        "speed": 78
+      },
+      "ability_ids": []
+    }
+  ]
+}

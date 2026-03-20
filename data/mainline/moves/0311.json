@@ -1,0 +1,18 @@
+{
+  "id": 311,
+  "identifier": "weather-ball",
+  "name": {
+    "ja": "ウェザーボール",
+    "en": "Weather Ball"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "使ったときの　天気に　よって技の　タイプと　威力が　変わる。",
+    "en": "This move's type and power change depending on the weather at the time the move is used."
+  }
+}

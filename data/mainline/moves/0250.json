@@ -1,0 +1,18 @@
+{
+  "id": 250,
+  "identifier": "whirlpool",
+  "name": {
+    "ja": "うずしお",
+    "en": "Whirlpool"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "generation": 2,
+  "description": {
+    "ja": "激しく　渦をまく　水の中に４ー５ターンの　間相手を　閉じこめて　攻撃する。",
+    "en": "The user traps the target inside a violent, swirling whirlpool that inflicts damage for four to five turns."
+  }
+}

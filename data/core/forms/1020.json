@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1020,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウガツホムラ",
+        "en": "Gouging Fire"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 115,
+        "defense": 121,
+        "sp_attack": 65,
+        "sp_defense": 93,
+        "speed": 91
+      },
+      "ability_ids": [
+        281
+      ]
+    }
+  ]
+}

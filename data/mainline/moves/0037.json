@@ -1,0 +1,18 @@
+{
+  "id": 37,
+  "identifier": "thrash",
+  "name": {
+    "ja": "あばれる",
+    "en": "Thrash"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "２ー３ターンの　間暴れまくって　相手を　攻撃する。暴れたあとは　混乱する。",
+    "en": "The user rampages and attacks for two to three turns. The user then becomes confused."
+  }
+}

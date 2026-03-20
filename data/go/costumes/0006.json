@@ -1,0 +1,27 @@
+{
+  "pokemon_id": 6,
+  "costumes": [
+    {
+      "costume_id": "0006-clone",
+      "identifier": "charizard-clone",
+      "name": {
+        "ja": "リザードン（クローン）",
+        "en": "Charizard (Clone)"
+      },
+      "event": "February 25, 2020",
+      "available_from": "2020-02-25",
+      "available_until": null
+    },
+    {
+      "costume_id": "0006-party_hat",
+      "identifier": "charizard-party-hat",
+      "name": {
+        "ja": "リザードン（パーティーハット）",
+        "en": "Charizard (Party Hat)"
+      },
+      "event": "Jul 6, 2022",
+      "available_from": "2022-07-06",
+      "available_until": null
+    }
+  ]
+}

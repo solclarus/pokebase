@@ -1,0 +1,18 @@
+{
+  "id": 411,
+  "identifier": "focus-blast",
+  "name": {
+    "ja": "きあいだま",
+    "en": "Focus Blast"
+  },
+  "type": "fighting",
+  "category": "special",
+  "power": 120,
+  "accuracy": 70,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "気合を　高めてありったけの　力を　放出する。相手の　特防を　さげることが　ある。",
+    "en": "The user heightens its mental focus and unleashes its power. This may also lower the target's Sp. Def stat."
+  }
+}

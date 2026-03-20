@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 158,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ワニノコ",
+        "en": "Totodile"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 64,
+        "sp_attack": 44,
+        "sp_defense": 48,
+        "speed": 43
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 125
+    }
+  ]
+}

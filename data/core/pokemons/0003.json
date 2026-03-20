@@ -1,0 +1,10 @@
+{
+  "id": 3,
+  "identifier": "venusaur",
+  "name": {
+    "ja": "フシギバナ",
+    "en": "Venusaur"
+  },
+  "generation": 1,
+  "category": "normal"
+}

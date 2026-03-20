@@ -1,0 +1,18 @@
+{
+  "id": 853,
+  "identifier": "axe-kick",
+  "name": {
+    "ja": "かかとおとし",
+    "en": "Axe Kick"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user attacks by kicking up into the air and slamming its heel down upon the target. This may also confuse the target. If it misses, the user takes damage instead."
+  }
+}

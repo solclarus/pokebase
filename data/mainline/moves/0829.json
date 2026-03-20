@@ -1,0 +1,18 @@
+{
+  "id": 829,
+  "identifier": "power-shift",
+  "name": {
+    "ja": "パワーシフト",
+    "en": "Power Shift"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": ""
+  }
+}

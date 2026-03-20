@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 66,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ワンリキー",
+        "en": "Machop"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 50,
+        "sp_attack": 35,
+        "sp_defense": 35,
+        "speed": 35
+      },
+      "ability_ids": [
+        62,
+        99
+      ],
+      "hidden_ability_id": 80
+    }
+  ]
+}

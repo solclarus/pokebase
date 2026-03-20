@@ -1,0 +1,18 @@
+{
+  "id": 172,
+  "identifier": "flame-wheel",
+  "name": {
+    "ja": "かえんぐるま",
+    "en": "Flame Wheel"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "generation": 2,
+  "description": {
+    "ja": "炎を　まとい相手に　突進して　攻撃する。やけど状態に　することが　ある。",
+    "en": "The user attacks by cloaking itself in fire and charging at the target. This may also leave the target with a burn."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 618,
+  "identifier": "origin-pulse",
+  "name": {
+    "ja": "こんげんのはどう",
+    "en": "Origin Pulse"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 110,
+  "accuracy": 85,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "青白く　輝く　無数の　光線で相手を　攻撃する。",
+    "en": "The user attacks opposing Pokémon with countless beams of light that glow a deep and brilliant blue."
+  }
+}

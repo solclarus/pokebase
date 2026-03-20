@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 312,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マイナン",
+        "en": "Minun"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 40,
+        "defense": 50,
+        "sp_attack": 75,
+        "sp_defense": 85,
+        "speed": 95
+      },
+      "ability_ids": [
+        58
+      ],
+      "hidden_ability_id": 10
+    }
+  ]
+}

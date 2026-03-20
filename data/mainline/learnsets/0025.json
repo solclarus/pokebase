@@ -1,0 +1,20 @@
+{
+  "pokemon_id": 25,
+  "moves": [
+    {
+      "move_id": 85,
+      "learn_method": "level",
+      "level": 26
+    },
+    {
+      "move_id": 85,
+      "learn_method": "tm",
+      "tm_number": 24
+    },
+    {
+      "move_id": 1,
+      "learn_method": "level",
+      "level": 1
+    }
+  ]
+}

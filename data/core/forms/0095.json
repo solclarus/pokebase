@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 95,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イワーク",
+        "en": "Onix"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 45,
+        "defense": 160,
+        "sp_attack": 30,
+        "sp_defense": 45,
+        "speed": 70
+      },
+      "ability_ids": [
+        69,
+        5
+      ],
+      "hidden_ability_id": 133
+    }
+  ]
+}

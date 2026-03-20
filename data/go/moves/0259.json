@@ -1,0 +1,13 @@
+{
+  "id": 259,
+  "identifier": "rock-blast",
+  "name": {
+    "ja": "ロックブラスト",
+    "en": "Rock Blast"
+  },
+  "type": "rock",
+  "move_type": "charged",
+  "power": 50,
+  "energy_delta": -33,
+  "duration_ms": 2000
+}

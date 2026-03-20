@@ -1,0 +1,13 @@
+{
+  "id": 38,
+  "identifier": "poison-point",
+  "name": {
+    "ja": "どくのトゲ",
+    "en": "Poison Point"
+  },
+  "description": {
+    "ja": "自分に　触った　相手をどく状態に　することがある。",
+    "en": "Contact with the Pokémon may poison the attacker."
+  },
+  "generation": 3
+}

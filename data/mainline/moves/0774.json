@@ -1,0 +1,18 @@
+{
+  "id": 774,
+  "identifier": "max-steelspike",
+  "name": {
+    "ja": "ダイスチル",
+    "en": "Max Steelspike"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　はがねタイプの　攻撃。味方の　防御を　上げる。",
+    "en": "This is a Steel-type attack Dynamax Pokémon use. This raises ally Pokémon’s Defense stats."
+  }
+}

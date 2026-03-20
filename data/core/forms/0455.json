@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 455,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マスキッパ",
+        "en": "Carnivine"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 74,
+        "attack": 100,
+        "defense": 72,
+        "sp_attack": 90,
+        "sp_defense": 72,
+        "speed": 46
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

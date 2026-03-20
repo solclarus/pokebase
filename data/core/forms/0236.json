@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 236,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バルキー",
+        "en": "Tyrogue"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 35,
+        "defense": 35,
+        "sp_attack": 35,
+        "sp_defense": 35,
+        "speed": 35
+      },
+      "ability_ids": [
+        62,
+        80
+      ],
+      "hidden_ability_id": 72
+    }
+  ]
+}

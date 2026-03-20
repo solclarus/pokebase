@@ -1,0 +1,18 @@
+{
+  "id": 910,
+  "identifier": "mighty-cleave",
+  "name": {
+    "ja": "パワフルエッジ",
+    "en": "Mighty Cleave"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user wields the light that has accumulated atop its head to cleave the target. This move hits even if the target protects itself."
+  }
+}

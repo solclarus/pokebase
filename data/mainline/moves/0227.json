@@ -1,0 +1,18 @@
+{
+  "id": 227,
+  "identifier": "encore",
+  "name": {
+    "ja": "アンコール",
+    "en": "Encore"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "相手に　アンコールした　技を３回　続けて　出させる。",
+    "en": "The user compels the target to keep using the move it encored for three turns."
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "pokemon_id": 469,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 231,
+      "base_defense": 156,
+      "base_stamina": 200,
+      "fast_move_ids": [
+        201,
+        210
+      ],
+      "charged_move_ids": [
+        62,
+        45,
+        49
+      ],
+      "released_at": "2019-01-31",
+      "shiny_released_at": "2019-09-20",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

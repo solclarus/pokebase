@@ -1,0 +1,13 @@
+{
+  "id": 226,
+  "identifier": "electric-surge",
+  "name": {
+    "ja": "エレキメイカー",
+    "en": "Electric Surge"
+  },
+  "description": {
+    "ja": "登場　したときにエレキフィールドを　はりめぐらせる。",
+    "en": "Turns the ground into Electric Terrain when the Pokémon enters a battle."
+  },
+  "generation": 7
+}

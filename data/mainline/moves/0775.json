@@ -1,0 +1,18 @@
+{
+  "id": 775,
+  "identifier": "clangorous-soul",
+  "name": {
+    "ja": "ソウルビート",
+    "en": "Clangorous Soul"
+  },
+  "type": "dragon",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "自分の　ＨＰを　少し　削ってすべての　能力を　上げる。",
+    "en": "The user boosts all its stats by using some of its own HP."
+  }
+}

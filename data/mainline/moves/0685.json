@@ -1,0 +1,18 @@
+{
+  "id": 685,
+  "identifier": "purify",
+  "name": {
+    "ja": "じょうか",
+    "en": "Purify"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 7,
+  "description": {
+    "ja": "相手の　状態異常を　治す。治すと　自分は　ＨＰを回復　することが　できる。",
+    "en": "The user heals the target’s status condition. If the move succeeds, it also restores the user’s own HP."
+  }
+}

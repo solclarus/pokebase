@@ -1,0 +1,18 @@
+{
+  "id": 286,
+  "identifier": "imprison",
+  "name": {
+    "ja": "ふういん",
+    "en": "Imprison"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "相手が　自分と　同じ　技をおぼえていたら　相手だけその技を　使えなくする。",
+    "en": "If opposing Pokémon know any move also known by the user, they are prevented from using it."
+  }
+}

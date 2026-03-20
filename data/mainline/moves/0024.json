@@ -1,0 +1,18 @@
+{
+  "id": 24,
+  "identifier": "double-kick",
+  "name": {
+    "ja": "にどげり",
+    "en": "Double Kick"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "２本の　足で　相手を　けとばして攻撃する。　２回連続でダメージを　与える。",
+    "en": "The user attacks by kicking the target twice in a row using two feet."
+  }
+}

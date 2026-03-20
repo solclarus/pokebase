@@ -1,0 +1,45 @@
+{
+  "pokemon_id": 1024,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 126,
+      "base_defense": 165,
+      "base_stamina": 207,
+      "fast_move_ids": [
+        282
+      ],
+      "charged_move_ids": [
+        133
+      ],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "terastal",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "stellar",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 434,
+  "identifier": "draco-meteor",
+  "name": {
+    "ja": "りゅうせいぐん",
+    "en": "Draco Meteor"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "天空から　隕石を相手に　落とす。使うと　反動で自分の　特攻が　がくっと　さがる。",
+    "en": "Comets are summoned down from the sky onto the target. The recoil from this move harshly lowers the user’s Sp. Atk stat."
+  }
+}

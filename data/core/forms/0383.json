@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 383,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "グラードン",
+        "en": "Groudon"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 150,
+        "defense": 140,
+        "sp_attack": 100,
+        "sp_defense": 90,
+        "speed": 90
+      },
+      "ability_ids": [
+        70
+      ]
+    },
+    {
+      "id": "primal",
+      "order": 1,
+      "name": {
+        "ja": "ゲンシグラードン",
+        "en": "Primal Groudon"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "ground",
+        "fire"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 180,
+        "defense": 160,
+        "sp_attack": 150,
+        "sp_defense": 90,
+        "speed": 90
+      },
+      "ability_ids": [
+        190
+      ]
+    }
+  ]
+}

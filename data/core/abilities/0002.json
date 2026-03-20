@@ -1,0 +1,13 @@
+{
+  "id": 2,
+  "identifier": "drizzle",
+  "name": {
+    "ja": "あめふらし",
+    "en": "Drizzle"
+  },
+  "description": {
+    "ja": "登場　したときに天気を　雨に　する。",
+    "en": "The Pokémon makes it rain when it enters a battle."
+  },
+  "generation": 3
+}

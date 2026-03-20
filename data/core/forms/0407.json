@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 407,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ロズレイド",
+        "en": "Roserade"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 70,
+        "defense": 65,
+        "sp_attack": 125,
+        "sp_defense": 105,
+        "speed": 90
+      },
+      "ability_ids": [
+        30,
+        38
+      ],
+      "hidden_ability_id": 101
+    }
+  ]
+}

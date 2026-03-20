@@ -1,0 +1,18 @@
+{
+  "id": 324,
+  "identifier": "signal-beam",
+  "name": {
+    "ja": "シグナルビーム",
+    "en": "Signal Beam"
+  },
+  "type": "bug",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 252,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キモリ",
+        "en": "Treecko"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "sp_attack": 65,
+        "sp_defense": 55,
+        "speed": 70
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 84
+    }
+  ]
+}

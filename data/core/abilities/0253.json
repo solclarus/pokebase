@@ -1,0 +1,13 @@
+{
+  "id": 253,
+  "identifier": "perish-body",
+  "name": {
+    "ja": "ほろびのボディ",
+    "en": "Perish Body"
+  },
+  "description": {
+    "ja": "接触する　技を　受けるとお互い　３ターン　たつと　ひんしになる。交代すると　効果は　なくなる。",
+    "en": "When hit by a move that makes direct contact, the Pokémon and the attacker will faint after three turns unless they switch out of battle."
+  },
+  "generation": 8
+}

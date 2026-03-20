@@ -1,0 +1,13 @@
+{
+  "id": 335,
+  "identifier": "aeroblast",
+  "name": {
+    "ja": "エアロブラスト",
+    "en": "Aeroblast"
+  },
+  "type": "flying",
+  "move_type": "charged",
+  "power": 180,
+  "energy_delta": -100,
+  "duration_ms": 3500
+}

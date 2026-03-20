@@ -1,0 +1,18 @@
+{
+  "id": 86,
+  "identifier": "thunder-wave",
+  "name": {
+    "ja": "でんじは",
+    "en": "Thunder Wave"
+  },
+  "type": "electric",
+  "category": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "弱い　電撃を　浴びせることで相手を　まひ状態に　する。",
+    "en": "The user launches a weak jolt of electricity that paralyzes the target."
+  }
+}

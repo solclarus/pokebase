@@ -1,0 +1,18 @@
+{
+  "id": 552,
+  "identifier": "fiery-dance",
+  "name": {
+    "ja": "ほのおのまい",
+    "en": "Fiery Dance"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "炎を　まとい　はばたいて　相手を攻撃する。自分の　特攻があがることが　ある。",
+    "en": "Cloaked in flames, the user attacks the target by dancing and flapping its wings. This may also boost the user's Sp. Atk stat."
+  }
+}

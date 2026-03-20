@@ -1,0 +1,18 @@
+{
+  "id": 369,
+  "identifier": "u-turn",
+  "name": {
+    "ja": "とんぼがえり",
+    "en": "U-turn"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "攻撃したあとものすごい　スピードで　もどってきて控えの　ポケモンと　入れ替わる。",
+    "en": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+  }
+}

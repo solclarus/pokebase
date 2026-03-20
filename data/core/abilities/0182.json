@@ -1,0 +1,13 @@
+{
+  "id": 182,
+  "identifier": "pixilate",
+  "name": {
+    "ja": "フェアリースキン",
+    "en": "Pixilate"
+  },
+  "description": {
+    "ja": "ノーマルタイプの　技がフェアリータイプになる。威力が　少し　上がる。",
+    "en": "Normal-type moves become Fairy-type moves. The power of those moves is boosted a little."
+  },
+  "generation": 6
+}

@@ -1,0 +1,18 @@
+{
+  "id": 310,
+  "identifier": "astonish",
+  "name": {
+    "ja": "おどろかす",
+    "en": "Astonish"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "大きな　声などで不意に　驚かして　攻撃する。相手を　ひるませることが　ある。",
+    "en": "The user attacks the target by crying out in a startling fashion. This may also make the target flinch."
+  }
+}

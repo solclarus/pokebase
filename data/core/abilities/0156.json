@@ -1,0 +1,13 @@
+{
+  "id": 156,
+  "identifier": "magic-bounce",
+  "name": {
+    "ja": "マジックミラー",
+    "en": "Magic Bounce"
+  },
+  "description": {
+    "ja": "相手に　だされた　変化技を　受けずにそのまま　返す　ことが　できる。",
+    "en": "The Pokémon reflects status moves instead of getting hit by them."
+  },
+  "generation": 5
+}

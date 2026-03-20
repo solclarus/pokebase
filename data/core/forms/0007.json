@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 7,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゼニガメ",
+        "en": "Squirtle"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "sp_attack": 50,
+        "sp_defense": 64,
+        "speed": 43
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 44
+    }
+  ]
+}

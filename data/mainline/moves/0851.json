@@ -1,0 +1,18 @@
+{
+  "id": 851,
+  "identifier": "tera-blast",
+  "name": {
+    "ja": "テラバースト",
+    "en": "Tera Blast"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "If the user has Terastallized, it unleashes energy of its Tera Type. This move inflicts damage using the Attack or Sp. Atk stat—whichever is higher for the user."
+  }
+}

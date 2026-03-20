@@ -1,0 +1,18 @@
+{
+  "id": 542,
+  "identifier": "hurricane",
+  "name": {
+    "ja": "ぼうふう",
+    "en": "Hurricane"
+  },
+  "type": "flying",
+  "category": "special",
+  "power": 110,
+  "accuracy": 70,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "強烈な　風で　相手を包みこんで　攻撃する。相手を　混乱させることが　ある。",
+    "en": "The user attacks by wrapping its opponent in a fierce wind. This may also confuse the target."
+  }
+}

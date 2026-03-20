@@ -1,0 +1,18 @@
+{
+  "id": 94,
+  "identifier": "psychic",
+  "name": {
+    "ja": "サイコキネシス",
+    "en": "Psychic"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "強い　念力を　相手に　送って攻撃する。　相手の　特防をさげることが　ある。",
+    "en": "The target is hit with a strong telekinetic force to inflict damage. This may also lower the target’s Sp. Def stat."
+  }
+}

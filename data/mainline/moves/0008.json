@@ -1,0 +1,18 @@
+{
+  "id": 8,
+  "identifier": "ice-punch",
+  "name": {
+    "ja": "れいとうパンチ",
+    "en": "Ice Punch"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "冷気を　こめた　パンチで相手を　攻撃する。こおり状態に　することが　ある。",
+    "en": "The target is attacked with an icy punch. This may also leave the target frozen."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 852,
+  "identifier": "silk-trap",
+  "name": {
+    "ja": "スレッドトラップ",
+    "en": "Silk Trap"
+  },
+  "type": "bug",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user spins a silken trap, protecting itself from damage while lowering the Speed stat of any attacker that makes direct contact."
+  }
+}

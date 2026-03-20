@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 146,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ファイヤー",
+        "en": "Moltres"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 90,
+        "sp_attack": 125,
+        "sp_defense": 85,
+        "speed": 90
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 49
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "ファイヤー（ガラルのすがた）",
+        "en": "Galarian Moltres"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 90,
+        "sp_attack": 100,
+        "sp_defense": 125,
+        "speed": 90
+      },
+      "ability_ids": [
+        201
+      ]
+    }
+  ]
+}

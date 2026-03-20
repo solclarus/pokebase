@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 466,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エレキブル",
+        "en": "Electivire"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 123,
+        "defense": 67,
+        "sp_attack": 95,
+        "sp_defense": 85,
+        "speed": 95
+      },
+      "ability_ids": [
+        78
+      ],
+      "hidden_ability_id": 72
+    }
+  ]
+}

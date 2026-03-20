@@ -1,0 +1,83 @@
+{
+  "pokemon_id": 550,
+  "forms": [
+    {
+      "id": "red-striped",
+      "order": 0,
+      "name": {
+        "ja": "バスラオ",
+        "en": "Basculin"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 92,
+        "defense": 65,
+        "sp_attack": 80,
+        "sp_defense": 55,
+        "speed": 98
+      },
+      "ability_ids": [
+        120,
+        91
+      ],
+      "hidden_ability_id": 104
+    },
+    {
+      "id": "blue-striped",
+      "order": 1,
+      "name": {
+        "ja": "あおすじのすがた",
+        "en": "Blue-Striped Form"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 92,
+        "defense": 65,
+        "sp_attack": 80,
+        "sp_defense": 55,
+        "speed": 98
+      },
+      "ability_ids": [
+        69,
+        91
+      ],
+      "hidden_ability_id": 104
+    },
+    {
+      "id": "white-striped",
+      "order": 2,
+      "name": {
+        "ja": "しろすじのすがた",
+        "en": "White-Striped Form"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 92,
+        "defense": 65,
+        "sp_attack": 80,
+        "sp_defense": 55,
+        "speed": 98
+      },
+      "ability_ids": [
+        155,
+        91
+      ],
+      "hidden_ability_id": 104
+    }
+  ]
+}

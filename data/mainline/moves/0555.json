@@ -1,0 +1,18 @@
+{
+  "id": 555,
+  "identifier": "snarl",
+  "name": {
+    "ja": "バークアウト",
+    "en": "Snarl"
+  },
+  "type": "dark",
+  "category": "special",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "まくしたてる　ように　怒鳴りつけて相手の　特攻を　さげる。",
+    "en": "The user yells as if it's ranting about something, which lowers the Sp. Atk stats of opposing Pokémon."
+  }
+}

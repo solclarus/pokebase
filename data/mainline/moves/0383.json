@@ -1,0 +1,18 @@
+{
+  "id": 383,
+  "identifier": "copycat",
+  "name": {
+    "ja": "まねっこ",
+    "en": "Copycat"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "直前に　でた　技を　まねして同じ　技を　だす。技が　でていないと　失敗する。",
+    "en": "The user mimics the move used immediately before it. The move fails if no other move has been used yet."
+  }
+}

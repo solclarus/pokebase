@@ -1,0 +1,13 @@
+{
+  "id": 25,
+  "identifier": "wonder-guard",
+  "name": {
+    "ja": "ふしぎなまもり",
+    "en": "Wonder Guard"
+  },
+  "description": {
+    "ja": "効果バツグンの　技しか当たらない　不思議な　力。",
+    "en": "Its mysterious power only lets supereffective moves hit the Pokémon."
+  },
+  "generation": 3
+}

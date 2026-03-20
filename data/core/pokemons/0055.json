@@ -1,0 +1,10 @@
+{
+  "id": 55,
+  "identifier": "golduck",
+  "name": {
+    "ja": "ゴルダック",
+    "en": "Golduck"
+  },
+  "generation": 1,
+  "category": "normal"
+}

@@ -1,0 +1,13 @@
+{
+  "id": 27,
+  "identifier": "effect-spore",
+  "name": {
+    "ja": "ほうし",
+    "en": "Effect Spore"
+  },
+  "description": {
+    "ja": "攻撃で　自分に　触れた　相手をどくや　まひや　ねむり状態にする　ことがある。",
+    "en": "Contact with the Pokémon may inflict poison, sleep, or paralysis on the attacker."
+  },
+  "generation": 3
+}

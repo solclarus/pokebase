@@ -1,0 +1,18 @@
+{
+  "id": 279,
+  "identifier": "revenge",
+  "name": {
+    "ja": "リベンジ",
+    "en": "Revenge"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "相手から　技を　受けているとその相手に　対して与える　ダメージが　２倍に　なる。",
+    "en": "This attack move’s power is doubled if the user has been hurt by the opponent in the same turn."
+  }
+}

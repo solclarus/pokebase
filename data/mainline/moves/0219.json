@@ -1,0 +1,18 @@
+{
+  "id": 219,
+  "identifier": "safeguard",
+  "name": {
+    "ja": "しんぴのまもり",
+    "en": "Safeguard"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 25,
+  "generation": 2,
+  "description": {
+    "ja": "５ターンの　間不思議な　力に　守られて状態異常に　ならなくなる。",
+    "en": "The user creates a protective field that prevents status conditions for five turns."
+  }
+}

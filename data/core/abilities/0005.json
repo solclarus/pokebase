@@ -1,0 +1,13 @@
+{
+  "id": 5,
+  "identifier": "sturdy",
+  "name": {
+    "ja": "がんじょう",
+    "en": "Sturdy"
+  },
+  "description": {
+    "ja": "相手の　技を　受けても一撃で　倒されることが　ない。一撃必殺技も　効かない。",
+    "en": "The Pokémon cannot be knocked out by a single hit as long as its HP is full. One-hit KO moves will also fail to knock it out."
+  },
+  "generation": 3
+}

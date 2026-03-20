@@ -1,0 +1,18 @@
+{
+  "id": 576,
+  "identifier": "topsy-turvy",
+  "name": {
+    "ja": "ひっくりかえす",
+    "en": "Topsy-Turvy"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "相手に　かかっているすべての　能力変化をひっくり返して　逆にする。",
+    "en": "All stat changes affecting the target turn topsy-turvy and become the opposite of what they were."
+  }
+}

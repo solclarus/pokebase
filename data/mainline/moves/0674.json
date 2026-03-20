@@ -1,0 +1,18 @@
+{
+  "id": 674,
+  "identifier": "gear-up",
+  "name": {
+    "ja": "アシストギア",
+    "en": "Gear Up"
+  },
+  "type": "steel",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 7,
+  "description": {
+    "ja": "ギアを　入れる　ことによって特性　プラスと　マイナスの攻撃と　特攻が　あがる。",
+    "en": "The user engages its gears to raise the Attack and Sp. Atk stats of ally Pokémon with the Plus or Minus Ability."
+  }
+}

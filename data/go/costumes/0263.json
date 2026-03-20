@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 263,
+  "costumes": [
+    {
+      "costume_id": "0263-galarian_meloetta",
+      "identifier": "zigzagoon-galarian-meloetta",
+      "name": {
+        "ja": "ジグザグマ（ガラルメロエッタ）",
+        "en": "Zigzagoon (Galarian Meloetta)"
+      },
+      "event": "July 17, 2021",
+      "available_from": "2021-07-17",
+      "available_until": null
+    }
+  ]
+}

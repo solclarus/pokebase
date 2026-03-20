@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 776,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バクガメス",
+        "en": "Turtonator"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 78,
+        "defense": 135,
+        "sp_attack": 91,
+        "sp_defense": 85,
+        "speed": 36
+      },
+      "ability_ids": [
+        75
+      ]
+    }
+  ]
+}

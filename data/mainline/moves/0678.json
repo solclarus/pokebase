@@ -1,0 +1,18 @@
+{
+  "id": 678,
+  "identifier": "psychic-terrain",
+  "name": {
+    "ja": "サイコフィールド",
+    "en": "Psychic Terrain"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "５ターンの間　地面にいると先制技を　受けない。エスパータイプの　威力が　あがる。",
+    "en": "This protects Pokémon on the ground from priority moves and powers up Psychic-type moves for five turns."
+  }
+}

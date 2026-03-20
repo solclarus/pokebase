@@ -1,0 +1,13 @@
+{
+  "id": 348,
+  "identifier": "feather-dance",
+  "name": {
+    "ja": "フェザーダンス",
+    "en": "Feather Dance"
+  },
+  "type": "flying",
+  "move_type": "charged",
+  "power": 35,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

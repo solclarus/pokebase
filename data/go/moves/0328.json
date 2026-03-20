@@ -1,0 +1,13 @@
+{
+  "id": 328,
+  "identifier": "horn-drill",
+  "name": {
+    "ja": "つのドリル",
+    "en": "Horn Drill"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 9000,
+  "energy_delta": -25,
+  "duration_ms": 2000
+}

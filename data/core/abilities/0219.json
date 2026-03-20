@@ -1,0 +1,13 @@
+{
+  "id": 219,
+  "identifier": "dazzling",
+  "name": {
+    "ja": "ビビッドボディ",
+    "en": "Dazzling"
+  },
+  "description": {
+    "ja": "相手を　びっくり　させてこちらに　むかって　先制技を出せない　ようにする。",
+    "en": "The Pokémon dazzles its opponents, making them unable to use priority moves against the Pokémon or its allies."
+  },
+  "generation": 7
+}

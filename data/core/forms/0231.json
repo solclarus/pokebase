@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 231,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴマゾウ",
+        "en": "Phanpy"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 60,
+        "defense": 60,
+        "sp_attack": 40,
+        "sp_defense": 40,
+        "speed": 40
+      },
+      "ability_ids": [
+        53
+      ],
+      "hidden_ability_id": 8
+    }
+  ]
+}

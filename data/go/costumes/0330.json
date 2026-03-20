@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 330,
+  "costumes": [
+    {
+      "costume_id": "0330-meloetta",
+      "identifier": "flygon-meloetta",
+      "name": {
+        "ja": "フライゴン（メロエッタ）",
+        "en": "Flygon (Meloetta)"
+      },
+      "event": "July 17, 2021",
+      "available_from": "2021-07-17",
+      "available_until": null
+    }
+  ]
+}

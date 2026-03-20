@@ -1,0 +1,13 @@
+{
+  "id": 183,
+  "identifier": "gooey",
+  "name": {
+    "ja": "ぬめぬめ",
+    "en": "Gooey"
+  },
+  "description": {
+    "ja": "攻撃で　自分に　触れた　相手の素早さを　下げる。",
+    "en": "Contact with the Pokémon lowers the attacker's Speed stat."
+  },
+  "generation": 6
+}

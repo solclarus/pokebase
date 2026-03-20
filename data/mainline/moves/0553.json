@@ -1,0 +1,18 @@
+{
+  "id": 553,
+  "identifier": "freeze-shock",
+  "name": {
+    "ja": "フリーズボルト",
+    "en": "Freeze Shock"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "電気を　まとった　氷の　塊で２ターン目に　相手を　たたきつける。まひ状態に　することが　ある。",
+    "en": "The turn after using this move, the user hits the target with electrically charged ice to inflict damage. This may also leave the target with paralysis."
+  }
+}

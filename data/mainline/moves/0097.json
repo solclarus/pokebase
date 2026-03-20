@@ -1,0 +1,18 @@
+{
+  "id": 97,
+  "identifier": "agility",
+  "name": {
+    "ja": "こうそくいどう",
+    "en": "Agility"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "力を　ぬいて　体を　軽くして高速で　動く。自分の　素早さを　ぐーんと　あげる。",
+    "en": "The user relaxes and lightens its body to move faster. This sharply boosts its Speed stat."
+  }
+}

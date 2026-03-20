@@ -1,0 +1,18 @@
+{
+  "id": 157,
+  "identifier": "rock-slide",
+  "name": {
+    "ja": "いわなだれ",
+    "en": "Rock Slide"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "大きな　岩を激しく　ぶつけて　攻撃する。相手を　ひるませることが　ある。",
+    "en": "Large boulders are hurled at opposing Pokémon to inflict damage. This may also make the opposing Pokémon flinch."
+  }
+}

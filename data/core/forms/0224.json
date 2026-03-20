@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 224,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オクタン",
+        "en": "Octillery"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 105,
+        "defense": 75,
+        "sp_attack": 105,
+        "sp_defense": 75,
+        "speed": 45
+      },
+      "ability_ids": [
+        21,
+        97
+      ],
+      "hidden_ability_id": 81
+    }
+  ]
+}

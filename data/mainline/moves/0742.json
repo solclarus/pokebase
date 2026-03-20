@@ -1,0 +1,18 @@
+{
+  "id": 742,
+  "identifier": "double-iron-bash",
+  "name": {
+    "ja": "ダブルパンツァー",
+    "en": "Double Iron Bash"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 7,
+  "description": {
+    "ja": "胸の　ナットを　軸に　回転して２回　続けて　うでを　たたきつける。相手を　ひるませる　ことが　ある。",
+    "en": "The user rotates, centering the hex nut in its chest, and then strikes with its arms twice in a row. This may also make the target flinch."
+  }
+}

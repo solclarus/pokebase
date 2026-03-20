@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 338,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ソルロック",
+        "en": "Solrock"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 85,
+        "sp_attack": 55,
+        "sp_defense": 65,
+        "speed": 70
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

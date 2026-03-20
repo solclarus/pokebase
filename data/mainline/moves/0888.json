@@ -1,0 +1,18 @@
+{
+  "id": 888,
+  "identifier": "twin-beam",
+  "name": {
+    "ja": "ツインビーム",
+    "en": "Twin Beam"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user shoots mystical beams from its eyes to inflict damage. The target is hit twice in a row."
+  }
+}

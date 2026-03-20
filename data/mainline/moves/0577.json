@@ -1,0 +1,18 @@
+{
+  "id": 577,
+  "identifier": "draining-kiss",
+  "name": {
+    "ja": "ドレインキッス",
+    "en": "Draining Kiss"
+  },
+  "type": "fairy",
+  "category": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "キッスによって　相手から　ＨＰを吸い取る。　与えた　ダメージの半分以上　ＨＰを　回復する。",
+    "en": "The user steals the target's HP with a kiss. The user's HP is restored by over half the damage taken by the target."
+  }
+}

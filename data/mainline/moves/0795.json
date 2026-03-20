@@ -1,0 +1,18 @@
+{
+  "id": 795,
+  "identifier": "eternabeam",
+  "name": {
+    "ja": "ムゲンダイビーム",
+    "en": "Eternabeam"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 160,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "本来の　姿と　なったムゲンダイナ　最大の　攻撃。次の　ターンは　動けなくなる。",
+    "en": "This is Eternatus’s most powerful attack in its original form. The user can’t move on the next turn."
+  }
+}

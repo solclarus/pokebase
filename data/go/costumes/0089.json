@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 89,
+  "costumes": [
+    {
+      "costume_id": "0089-party_hat",
+      "identifier": "muk-party-hat",
+      "name": {
+        "ja": "ベトベトン（パーティーハット）",
+        "en": "Muk (Party Hat)"
+      },
+      "event": "June 28, 2024",
+      "available_from": "2024-06-28",
+      "available_until": null
+    }
+  ]
+}

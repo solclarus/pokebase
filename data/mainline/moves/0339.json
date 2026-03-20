@@ -1,0 +1,18 @@
+{
+  "id": 339,
+  "identifier": "bulk-up",
+  "name": {
+    "ja": "ビルドアップ",
+    "en": "Bulk Up"
+  },
+  "type": "fighting",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "体に　力を　こめて筋肉を　ぶあつく　することで自分の　攻撃と　防御を　あげる。",
+    "en": "The user tenses its muscles to bulk up its body, boosting its Attack and Defense stats."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 708,
+  "identifier": "shadow-bone",
+  "name": {
+    "ja": "シャドーボーン",
+    "en": "Shadow Bone"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "魂の　宿った　ホネで相手を　なぐりつけて　攻撃する。相手の　防御を　さげる　ことがある。",
+    "en": "The user attacks by beating the target with a bone that contains a spirit. This may also lower the target’s Defense stat."
+  }
+}

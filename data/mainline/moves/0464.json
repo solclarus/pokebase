@@ -1,0 +1,18 @@
+{
+  "id": 464,
+  "identifier": "dark-void",
+  "name": {
+    "ja": "ダークホール",
+    "en": "Dark Void"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 50,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "暗黒の　世界に　ひきずり　落として相手を　眠り状態に　する。",
+    "en": "Opposing Pokémon are dragged into a world of total darkness that puts them to sleep."
+  }
+}

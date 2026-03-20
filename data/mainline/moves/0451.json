@@ -1,0 +1,18 @@
+{
+  "id": 451,
+  "identifier": "charge-beam",
+  "name": {
+    "ja": "チャージビーム",
+    "en": "Charge Beam"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "電撃の　束を　相手に発射する。電気を　ためて　自分の特攻を　あげることが　ある。",
+    "en": "The user attacks the target with an electric charge. The residual electricity may also boost the user's Sp. Atk stat."
+  }
+}

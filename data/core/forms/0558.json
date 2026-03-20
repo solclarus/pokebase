@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 558,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イワパレス",
+        "en": "Crustle"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 105,
+        "defense": 125,
+        "sp_attack": 65,
+        "sp_defense": 75,
+        "speed": 45
+      },
+      "ability_ids": [
+        5,
+        75
+      ],
+      "hidden_ability_id": 133
+    }
+  ]
+}

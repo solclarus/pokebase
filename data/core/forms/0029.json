@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 29,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ニドラン♀",
+        "en": "Nidoran♀"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 47,
+        "defense": 52,
+        "sp_attack": 40,
+        "sp_defense": 40,
+        "speed": 41
+      },
+      "ability_ids": [
+        38,
+        79
+      ],
+      "hidden_ability_id": 55
+    }
+  ]
+}

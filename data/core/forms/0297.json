@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 297,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハリテヤマ",
+        "en": "Hariyama"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 144,
+        "attack": 120,
+        "defense": 60,
+        "sp_attack": 40,
+        "sp_defense": 60,
+        "speed": 50
+      },
+      "ability_ids": [
+        47,
+        62
+      ],
+      "hidden_ability_id": 125
+    }
+  ]
+}

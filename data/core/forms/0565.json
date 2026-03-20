@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 565,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アバゴーラ",
+        "en": "Carracosta"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "stats": {
+        "hp": 74,
+        "attack": 108,
+        "defense": 133,
+        "sp_attack": 83,
+        "sp_defense": 65,
+        "speed": 32
+      },
+      "ability_ids": [
+        116,
+        5
+      ],
+      "hidden_ability_id": 33
+    }
+  ]
+}

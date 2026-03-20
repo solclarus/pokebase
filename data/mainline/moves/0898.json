@@ -1,0 +1,18 @@
+{
+  "id": 898,
+  "identifier": "noxious-torque",
+  "name": {
+    "ja": "ポイズンアクセル",
+    "en": "Noxious Torque"
+  },
+  "type": "poison",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": ""
+  }
+}

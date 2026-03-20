@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 426,
+  "costumes": [
+    {
+      "costume_id": "0426-halloween",
+      "identifier": "drifblim-halloween",
+      "name": {
+        "ja": "フワライド（ハロウィン）",
+        "en": "Drifblim (Halloween)"
+      },
+      "event": "October 15, 2021",
+      "available_from": "2021-10-15",
+      "available_until": null
+    }
+  ]
+}

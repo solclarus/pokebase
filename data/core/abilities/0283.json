@@ -1,0 +1,13 @@
+{
+  "id": 283,
+  "identifier": "good-as-gold",
+  "name": {
+    "ja": "おうごんのからだ",
+    "en": "Good as Gold"
+  },
+  "description": {
+    "ja": "酸化せず丈夫な黄金の体は相手からの変化技を受けない。",
+    "en": "A body of pure, solid gold gives the Pokémon full immunity to other Pokémon's status moves."
+  },
+  "generation": 9
+}

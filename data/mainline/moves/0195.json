@@ -1,0 +1,18 @@
+{
+  "id": 195,
+  "identifier": "perish-song",
+  "name": {
+    "ja": "ほろびのうた",
+    "en": "Perish Song"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "歌を　聴いた　ポケモンは３ターン　たつと　ひんしに　なる。交代すると　効果は　なくなる。",
+    "en": "Any Pokémon that hears this song faints in three turns, unless it switches out of battle."
+  }
+}

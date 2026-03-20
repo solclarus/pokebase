@@ -1,0 +1,18 @@
+{
+  "id": 466,
+  "identifier": "ominous-wind",
+  "name": {
+    "ja": "あやしいかぜ",
+    "en": "Ominous Wind"
+  },
+  "type": "ghost",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+  }
+}

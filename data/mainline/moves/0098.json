@@ -1,0 +1,18 @@
+{
+  "id": 98,
+  "identifier": "quick-attack",
+  "name": {
+    "ja": "でんこうせっか",
+    "en": "Quick Attack"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "目にも　留まらぬ　ものすごい　速さで相手に　つっこむ。必ず　先制攻撃　できる。",
+    "en": "The user lunges at the target to inflict damage, moving at blinding speed. This move always goes first."
+  }
+}

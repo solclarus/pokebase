@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 419,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フローゼル",
+        "en": "Floatzel"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 105,
+        "defense": 55,
+        "sp_attack": 85,
+        "sp_defense": 50,
+        "speed": 115
+      },
+      "ability_ids": [
+        33
+      ],
+      "hidden_ability_id": 41
+    }
+  ]
+}

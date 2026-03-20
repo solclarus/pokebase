@@ -1,0 +1,18 @@
+{
+  "id": 48,
+  "identifier": "supersonic",
+  "name": {
+    "ja": "ちょうおんぱ",
+    "en": "Supersonic"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "特殊な　音波を体から　発して相手を　混乱させる。",
+    "en": "The user generates odd sound waves from its body that confuse the target."
+  }
+}

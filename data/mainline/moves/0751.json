@@ -1,0 +1,18 @@
+{
+  "id": 751,
+  "identifier": "dragon-darts",
+  "name": {
+    "ja": "ドラゴンアロー",
+    "en": "Dragon Darts"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ドラメシヤで　２回　攻撃。相手が　２匹　いるときはそれぞれに　１回ずつ　攻撃する。",
+    "en": "The user attacks twice using Dreepy. If there are two opposing Pokémon, this move hits each of them once."
+  }
+}

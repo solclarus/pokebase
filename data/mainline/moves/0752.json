@@ -1,0 +1,18 @@
+{
+  "id": 752,
+  "identifier": "teatime",
+  "name": {
+    "ja": "おちゃかい",
+    "en": "Teatime"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "おちゃかいを　ひらいて場にいる　ポケモンが　それぞれ持っている　きのみを　食べる。",
+    "en": "The user has teatime with all the Pokémon currently in the battle. Each Pokémon eats its held Berry."
+  }
+}

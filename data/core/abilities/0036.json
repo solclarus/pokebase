@@ -1,0 +1,13 @@
+{
+  "id": 36,
+  "identifier": "trace",
+  "name": {
+    "ja": "トレース",
+    "en": "Trace"
+  },
+  "description": {
+    "ja": "登場　したとき相手の　特性を　トレースして同じ　特性に　なる。",
+    "en": "When it enters a battle, the Pokémon copies an opposing Pokémon's Ability."
+  },
+  "generation": 3
+}

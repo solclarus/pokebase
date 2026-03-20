@@ -1,0 +1,13 @@
+{
+  "id": 20,
+  "identifier": "vice-grip",
+  "name": {
+    "ja": "はさむ",
+    "en": "Vice Grip"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 35,
+  "energy_delta": -33,
+  "duration_ms": 2000
+}

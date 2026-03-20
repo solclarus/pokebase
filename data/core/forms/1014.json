@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 1014,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イイネイヌ",
+        "en": "Okidogi"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 128,
+        "defense": 115,
+        "sp_attack": 58,
+        "sp_defense": 86,
+        "speed": 80
+      },
+      "ability_ids": [
+        302
+      ],
+      "hidden_ability_id": 275
+    }
+  ]
+}

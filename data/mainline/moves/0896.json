@@ -1,0 +1,18 @@
+{
+  "id": 896,
+  "identifier": "blazing-torque",
+  "name": {
+    "ja": "バーンアクセル",
+    "en": "Blazing Torque"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": ""
+  }
+}

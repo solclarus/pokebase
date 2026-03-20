@@ -1,0 +1,18 @@
+{
+  "id": 506,
+  "identifier": "hex",
+  "name": {
+    "ja": "たたりめ",
+    "en": "Hex"
+  },
+  "type": "ghost",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "たたみかける　ように　攻撃する。状態異常の　相手に大きな　ダメージを　与える。",
+    "en": "This relentless attack does massive damage to a target affected by status conditions."
+  }
+}

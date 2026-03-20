@@ -1,0 +1,13 @@
+{
+  "id": 370,
+  "identifier": "obstruct",
+  "name": {
+    "ja": "ブロッキング",
+    "en": "Obstruct"
+  },
+  "type": "dark",
+  "move_type": "charged",
+  "power": 20,
+  "energy_delta": -33,
+  "duration_ms": 1500
+}

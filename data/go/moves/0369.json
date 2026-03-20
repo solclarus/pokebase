@@ -1,0 +1,13 @@
+{
+  "id": 369,
+  "identifier": "seed-flare",
+  "name": {
+    "ja": "シードフレア",
+    "en": "Seed Flare"
+  },
+  "type": "grass",
+  "move_type": "charged",
+  "power": 115,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

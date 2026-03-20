@@ -1,0 +1,13 @@
+{
+  "id": 112,
+  "identifier": "slow-start",
+  "name": {
+    "ja": "スロースタート",
+    "en": "Slow Start"
+  },
+  "description": {
+    "ja": "５ターンの　あいだ攻撃と　素早さが半分に　なる。",
+    "en": "For five turns, the Pokémon's Attack and Speed stats are halved."
+  },
+  "generation": 4
+}

@@ -1,0 +1,973 @@
+{
+  "pokemon_id": 25,
+  "costumes": [
+    {
+      "costume_id": "0025-festive",
+      "identifier": "pikachu-festive",
+      "name": {
+        "ja": "サンタピカチュウ",
+        "en": "Pikachu (Festive)"
+      },
+      "event": "December 25, 2016",
+      "available_from": "2016-12-25",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-party",
+      "identifier": "pikachu-party",
+      "name": {
+        "ja": "パーティーピカチュウ",
+        "en": "Pikachu (Party)"
+      },
+      "event": "February 26, 2017",
+      "available_from": "2017-02-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-ash",
+      "identifier": "pikachu-ash",
+      "name": {
+        "ja": "サトシのピカチュウ",
+        "en": "Pikachu (Ash)"
+      },
+      "event": "June 6, 2017",
+      "available_from": "2017-06-06",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-witch",
+      "identifier": "pikachu-witch",
+      "name": {
+        "ja": "まじょのいしピカチュウ",
+        "en": "Pikachu (Witch)"
+      },
+      "event": "October 20, 2017",
+      "available_from": "2017-10-20",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-summer",
+      "identifier": "pikachu-summer",
+      "name": {
+        "ja": "サマーピカチュウ",
+        "en": "Pikachu (Summer)"
+      },
+      "event": "July 5, 2018",
+      "available_from": "2018-07-05",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-fragment",
+      "identifier": "pikachu-fragment",
+      "name": {
+        "ja": "フラグメントピカチュウ",
+        "en": "Pikachu (Fragment)"
+      },
+      "event": "October 5, 2018",
+      "available_from": "2018-10-05",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-flower",
+      "identifier": "pikachu-flower",
+      "name": {
+        "ja": "はなかんむりピカチュウ",
+        "en": "Pikachu (Flower)"
+      },
+      "event": "February 26, 2019",
+      "available_from": "2019-02-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-detective",
+      "identifier": "pikachu-detective",
+      "name": {
+        "ja": "名探偵ピカチュウ",
+        "en": "Pikachu (Detective)"
+      },
+      "event": "May 7, 2019",
+      "available_from": "2019-05-07",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-straw_hat",
+      "identifier": "pikachu-straw-hat",
+      "name": {
+        "ja": "麦わらピカチュウ",
+        "en": "Pikachu (Straw Hat)"
+      },
+      "event": "July 22, 2019",
+      "available_from": "2019-07-22",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-fall",
+      "identifier": "pikachu-fall",
+      "name": {
+        "ja": "オータムピカチュウ",
+        "en": "Pikachu (Fall)"
+      },
+      "event": "October 17, 2019",
+      "available_from": "2019-10-17",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-winter",
+      "identifier": "pikachu-winter",
+      "name": {
+        "ja": "ウィンターピカチュウ",
+        "en": "Pikachu (Winter)"
+      },
+      "event": "December 24, 2019",
+      "available_from": "2019-12-24",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-party_hat",
+      "identifier": "pikachu-party-hat",
+      "name": {
+        "ja": "パーティーハットピカチュウ",
+        "en": "Pikachu (Party Hat)"
+      },
+      "event": "February 25, 2020",
+      "available_from": "2020-02-25",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-clone",
+      "identifier": "pikachu-clone",
+      "name": {
+        "ja": "ピカチュウ（クローン）",
+        "en": "Pikachu (Clone)"
+      },
+      "event": "February 25, 2020",
+      "available_from": "2020-02-25",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-female_libre",
+      "identifier": "pikachu-female-libre",
+      "name": {
+        "ja": "ルチャドールピカチュウ",
+        "en": "Pikachu (Female Libre)"
+      },
+      "event": "March 13, 2020",
+      "available_from": "2020-03-13",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-safari",
+      "identifier": "pikachu-safari",
+      "name": {
+        "ja": "ピカチュウ（サファリ）",
+        "en": "Pikachu (Safari)"
+      },
+      "event": "March 27, 2020",
+      "available_from": "2020-03-27",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-spring",
+      "identifier": "pikachu-spring",
+      "name": {
+        "ja": "スプリングピカチュウ",
+        "en": "Pikachu (Spring)"
+      },
+      "event": "April 9, 2020",
+      "available_from": "2020-04-09",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-charizard",
+      "identifier": "pikachu-charizard",
+      "name": {
+        "ja": "リザードンピカチュウ",
+        "en": "Pikachu (Charizard)"
+      },
+      "event": "May 1, 2020",
+      "available_from": "2020-05-01",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-umbreon",
+      "identifier": "pikachu-umbreon",
+      "name": {
+        "ja": "ブラッキーピカチュウ",
+        "en": "Pikachu (Umbreon)"
+      },
+      "event": "May 8, 2020",
+      "available_from": "2020-05-08",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-rayquaza",
+      "identifier": "pikachu-rayquaza",
+      "name": {
+        "ja": "レックウザピカチュウ",
+        "en": "Pikachu (Rayquaza)"
+      },
+      "event": "May 15, 2020",
+      "available_from": "2020-05-15",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-lucario",
+      "identifier": "pikachu-lucario",
+      "name": {
+        "ja": "ルカリオピカチュウ",
+        "en": "Pikachu (Lucario)"
+      },
+      "event": "May 22, 2020",
+      "available_from": "2020-05-22",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-fly",
+      "identifier": "pikachu-fly",
+      "name": {
+        "ja": "フライピカチュウ",
+        "en": "Pikachu (Fly)"
+      },
+      "event": "July 3, 2020",
+      "available_from": "2020-07-03",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-worldcap",
+      "identifier": "pikachu-worldcap",
+      "name": {
+        "ja": "ワールドキャップピカチュウ",
+        "en": "Pikachu (Worldcap)"
+      },
+      "event": "October 6, 2020",
+      "available_from": "2020-10-06",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-explorer",
+      "identifier": "pikachu-explorer",
+      "name": {
+        "ja": "ピカチュウ（エクスプローラー）",
+        "en": "Pikachu (Explorer)"
+      },
+      "event": "December 14, 2020",
+      "available_from": "2020-12-14",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-holiday",
+      "identifier": "pikachu-holiday",
+      "name": {
+        "ja": "ホリデーピカチュウ",
+        "en": "Pikachu (Holiday)"
+      },
+      "event": "December 22, 2020",
+      "available_from": "2020-12-22",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-new_year",
+      "identifier": "pikachu-new-year",
+      "name": {
+        "ja": "お正月ピカチュウ",
+        "en": "Pikachu (New Year)"
+      },
+      "event": "December 31, 2020",
+      "available_from": "2020-12-31",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-5th",
+      "identifier": "pikachu-5th",
+      "name": {
+        "ja": "5周年ピカチュウ",
+        "en": "Pikachu (5th)"
+      },
+      "event": "July 6, 2021",
+      "available_from": "2021-07-06",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-female_pop",
+      "identifier": "pikachu-female-pop",
+      "name": {
+        "ja": "ポップピカチュウ",
+        "en": "Pikachu (Female Pop)"
+      },
+      "event": "July 17, 2021",
+      "available_from": "2021-07-17",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-female_rock",
+      "identifier": "pikachu-female-rock",
+      "name": {
+        "ja": "ロックピカチュウ",
+        "en": "Pikachu (Female Rock)"
+      },
+      "event": "July 17, 2021",
+      "available_from": "2021-07-17",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-meloetta",
+      "identifier": "pikachu-meloetta",
+      "name": {
+        "ja": "メロエッタピカチュウ",
+        "en": "Pikachu (Meloetta)"
+      },
+      "event": "July 17, 2021",
+      "available_from": "2021-07-17",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-halloween",
+      "identifier": "pikachu-halloween",
+      "name": {
+        "ja": "ハロウィンピカチュウ",
+        "en": "Pikachu (Halloween)"
+      },
+      "event": "October 15, 2021",
+      "available_from": "2021-10-15",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-kariyushi",
+      "identifier": "pikachu-kariyushi",
+      "name": {
+        "ja": "かりゆしピカチュウ",
+        "en": "Pikachu (Kariyushi)"
+      },
+      "event": "March 19, 2022",
+      "available_from": "2022-03-19",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-fly_okinawa",
+      "identifier": "pikachu-fly-okinawa",
+      "name": {
+        "ja": "フライピカチュウ（沖縄）",
+        "en": "Pikachu (Fly Okinawa)"
+      },
+      "event": "May 3, 2022",
+      "available_from": "2022-05-03",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-shaymin",
+      "identifier": "pikachu-shaymin",
+      "name": {
+        "ja": "シェイミピカチュウ",
+        "en": "Pikachu (Shaymin)"
+      },
+      "event": "June 4, 2022",
+      "available_from": "2022-06-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-tcg",
+      "identifier": "pikachu-tcg",
+      "name": {
+        "ja": "ピカチュウ（TCG）",
+        "en": "Pikachu (Tcg)"
+      },
+      "event": "June 16, 2022",
+      "available_from": "2022-06-16",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-cake",
+      "identifier": "pikachu-cake",
+      "name": {
+        "ja": "ケーキピカチュウ",
+        "en": "Pikachu (Cake)"
+      },
+      "event": "Jul 6, 2022",
+      "available_from": "2022-07-06",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-worlds_2022",
+      "identifier": "pikachu-worlds-2022",
+      "name": {
+        "ja": "ワールドズピカチュウ（2022）",
+        "en": "Pikachu (Worlds 2022)"
+      },
+      "event": "August 18, 2022",
+      "available_from": "2022-08-18",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-scarf",
+      "identifier": "pikachu-scarf",
+      "name": {
+        "ja": "ピカチュウ（マフラー）",
+        "en": "Pikachu (Scarf)"
+      },
+      "event": "August 27, 2022",
+      "available_from": "2022-08-27",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-green",
+      "identifier": "pikachu-green",
+      "name": {
+        "ja": "グリーンピカチュウ",
+        "en": "Pikachu (Green)"
+      },
+      "event": "October 14, 2022",
+      "available_from": "2022-10-14",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-fly_green",
+      "identifier": "pikachu-fly-green",
+      "name": {
+        "ja": "フライピカチュウ（グリーン）",
+        "en": "Pikachu (Fly Green)"
+      },
+      "event": "October 14, 2022",
+      "available_from": "2022-10-14",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-purple",
+      "identifier": "pikachu-purple",
+      "name": {
+        "ja": "ピカチュウ（パープル）",
+        "en": "Pikachu (Purple)"
+      },
+      "event": "November 11, 2022",
+      "available_from": "2022-11-11",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-fly_purple",
+      "identifier": "pikachu-fly-purple",
+      "name": {
+        "ja": "フライピカチュウ（パープル）",
+        "en": "Pikachu (Fly Purple)"
+      },
+      "event": "November 11, 2022",
+      "available_from": "2022-11-11",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-2023",
+      "identifier": "pikachu-2023",
+      "name": {
+        "ja": "ピカチュウ（2023）",
+        "en": "Pikachu (2023)"
+      },
+      "event": "December 31, 2022",
+      "available_from": "2022-12-31",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-brendan",
+      "identifier": "pikachu-brendan",
+      "name": {
+        "ja": "ユウキピカチュウ",
+        "en": "Pikachu (Brendan)"
+      },
+      "event": "February 18, 2023",
+      "available_from": "2023-02-18",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-may",
+      "identifier": "pikachu-may",
+      "name": {
+        "ja": "ハルカピカチュウ",
+        "en": "Pikachu (May)"
+      },
+      "event": "February 18, 2023",
+      "available_from": "2023-02-18",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-spring2023",
+      "identifier": "pikachu-spring2023",
+      "name": {
+        "ja": "スプリングピカチュウ（2023）",
+        "en": "Pikachu (Spring2023)"
+      },
+      "event": "April 4, 2023",
+      "available_from": "2023-04-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-teal",
+      "identifier": "pikachu-teal",
+      "name": {
+        "ja": "ピカチュウ（ティール）",
+        "en": "Pikachu (Teal)"
+      },
+      "event": "July 28, 2023",
+      "available_from": "2023-07-28",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-fly_orange",
+      "identifier": "pikachu-fly-orange",
+      "name": {
+        "ja": "フライピカチュウ（オレンジ）",
+        "en": "Pikachu (Fly Orange)"
+      },
+      "event": "July 28, 2023",
+      "available_from": "2023-07-28",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-amethyst",
+      "identifier": "pikachu-amethyst",
+      "name": {
+        "ja": "ピカチュウ（アメジスト）",
+        "en": "Pikachu (Amethyst)"
+      },
+      "event": "August 4, 2023",
+      "available_from": "2023-08-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-worlds_2023",
+      "identifier": "pikachu-worlds-2023",
+      "name": {
+        "ja": "ワールドズピカチュウ（2023）",
+        "en": "Pikachu (Worlds 2023)"
+      },
+      "event": "August 11, 2023",
+      "available_from": "2023-08-11",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-pyrite",
+      "identifier": "pikachu-pyrite",
+      "name": {
+        "ja": "ピカチュウ（パイライト）",
+        "en": "Pikachu (Pyrite)"
+      },
+      "event": "August 26, 2023",
+      "available_from": "2023-08-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-quartz",
+      "identifier": "pikachu-quartz",
+      "name": {
+        "ja": "ピカチュウ（クォーツ）",
+        "en": "Pikachu (Quartz)"
+      },
+      "event": "August 26, 2023",
+      "available_from": "2023-08-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-malachite",
+      "identifier": "pikachu-malachite",
+      "name": {
+        "ja": "ピカチュウ（マラカイト）",
+        "en": "Pikachu (Malachite)"
+      },
+      "event": "August 26, 2023",
+      "available_from": "2023-08-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-aquamarine",
+      "identifier": "pikachu-aquamarine",
+      "name": {
+        "ja": "ピカチュウ（アクアマリン）",
+        "en": "Pikachu (Aquamarine)"
+      },
+      "event": "August 26, 2023",
+      "available_from": "2023-08-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-detective_2023",
+      "identifier": "pikachu-detective-2023",
+      "name": {
+        "ja": "名探偵ピカチュウ（2023）",
+        "en": "Pikachu (Detective 2023)"
+      },
+      "event": "October 5, 2023",
+      "available_from": "2023-10-05",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-halloween_2023",
+      "identifier": "pikachu-halloween-2023",
+      "name": {
+        "ja": "ハロウィンピカチュウ（2023）",
+        "en": "Pikachu (Halloween 2023)"
+      },
+      "event": "October 26, 2023",
+      "available_from": "2023-10-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-holiday_2023",
+      "identifier": "pikachu-holiday-2023",
+      "name": {
+        "ja": "ホリデーピカチュウ（2023）",
+        "en": "Pikachu (Holiday 2023)"
+      },
+      "event": "December 18, 2023",
+      "available_from": "2023-12-18",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-dawn",
+      "identifier": "pikachu-dawn",
+      "name": {
+        "ja": "ヒカリピカチュウ",
+        "en": "Pikachu (Dawn)"
+      },
+      "event": "February 16, 2024",
+      "available_from": "2024-02-16",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-lucas",
+      "identifier": "pikachu-lucas",
+      "name": {
+        "ja": "コウキピカチュウ",
+        "en": "Pikachu (Lucas)"
+      },
+      "event": "February 16, 2024",
+      "available_from": "2024-02-16",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-akari",
+      "identifier": "pikachu-akari",
+      "name": {
+        "ja": "アカリピカチュウ",
+        "en": "Pikachu (Akari)"
+      },
+      "event": "February 16, 2024",
+      "available_from": "2024-02-16",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-rei",
+      "identifier": "pikachu-rei",
+      "name": {
+        "ja": "レイピカチュウ",
+        "en": "Pikachu (Rei)"
+      },
+      "event": "February 16, 2024",
+      "available_from": "2024-02-16",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-female_phd",
+      "identifier": "pikachu-female-phd",
+      "name": {
+        "ja": "はかせピカチュウ",
+        "en": "Pikachu (Female Phd)"
+      },
+      "event": "March 1, 2024",
+      "available_from": "2024-03-01",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-adventure",
+      "identifier": "pikachu-adventure",
+      "name": {
+        "ja": "ピカチュウ（アドベンチャー）",
+        "en": "Pikachu (Adventure)"
+      },
+      "event": "March 2, 2024",
+      "available_from": "2024-03-02",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-fly_red",
+      "identifier": "pikachu-fly-red",
+      "name": {
+        "ja": "フライピカチュウ（レッド）",
+        "en": "Pikachu (Fly Red)"
+      },
+      "event": "March 2, 2024",
+      "available_from": "2024-03-02",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-horizons",
+      "identifier": "pikachu-horizons",
+      "name": {
+        "ja": "ホライゾンピカチュウ",
+        "en": "Pikachu (Horizons)"
+      },
+      "event": "March 5, 2024",
+      "available_from": "2024-03-05",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-sun",
+      "identifier": "pikachu-sun",
+      "name": {
+        "ja": "ピカチュウ（サン）",
+        "en": "Pikachu (Sun)"
+      },
+      "event": "May 30, 2024",
+      "available_from": "2024-05-30",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-moon",
+      "identifier": "pikachu-moon",
+      "name": {
+        "ja": "ピカチュウ（ムーン）",
+        "en": "Pikachu (Moon)"
+      },
+      "event": "May 30, 2024",
+      "available_from": "2024-05-30",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-worlds_2024",
+      "identifier": "pikachu-worlds-2024",
+      "name": {
+        "ja": "ワールドズピカチュウ（2024）",
+        "en": "Pikachu (Worlds 2024)"
+      },
+      "event": "August 16, 2024",
+      "available_from": "2024-08-16",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-female_saree",
+      "identifier": "pikachu-female-saree",
+      "name": {
+        "ja": "サリーピカチュウ",
+        "en": "Pikachu (Female Saree)"
+      },
+      "event": "November 1, 2024",
+      "available_from": "2024-11-01",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-hilbert",
+      "identifier": "pikachu-hilbert",
+      "name": {
+        "ja": "トウヤピカチュウ",
+        "en": "Pikachu (Hilbert)"
+      },
+      "event": "February 21, 2025",
+      "available_from": "2025-02-21",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-hilda",
+      "identifier": "pikachu-hilda",
+      "name": {
+        "ja": "トウコピカチュウ",
+        "en": "Pikachu (Hilda)"
+      },
+      "event": "February 21, 2025",
+      "available_from": "2025-02-21",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-nate",
+      "identifier": "pikachu-nate",
+      "name": {
+        "ja": "キョヘイピカチュウ",
+        "en": "Pikachu (Nate)"
+      },
+      "event": "February 21, 2025",
+      "available_from": "2025-02-21",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-rosa",
+      "identifier": "pikachu-rosa",
+      "name": {
+        "ja": "メイピカチュウ",
+        "en": "Pikachu (Rosa)"
+      },
+      "event": "February 21, 2025",
+      "available_from": "2025-02-21",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-kurta",
+      "identifier": "pikachu-kurta",
+      "name": {
+        "ja": "ピカチュウ（クルタ）",
+        "en": "Pikachu (Kurta)"
+      },
+      "event": "March 13, 2025",
+      "available_from": "2025-03-13",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-go_fest_2025_monocle_red",
+      "identifier": "pikachu-go-fest-2025-monocle-red",
+      "name": {
+        "ja": "GOフェス2025モノクルピカチュウ（赤）",
+        "en": "Pikachu (Go Fest 2025 Monocle Red)"
+      },
+      "event": "May 29, 2025",
+      "available_from": "2025-05-29",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-go_fest_2025_monocle_blue",
+      "identifier": "pikachu-go-fest-2025-monocle-blue",
+      "name": {
+        "ja": "GOフェス2025モノクルピカチュウ（青）",
+        "en": "Pikachu (Go Fest 2025 Monocle Blue)"
+      },
+      "event": "May 29, 2025",
+      "available_from": "2025-05-29",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-go_fest_2025_monocle_yellow",
+      "identifier": "pikachu-go-fest-2025-monocle-yellow",
+      "name": {
+        "ja": "GOフェス2025モノクルピカチュウ（黄）",
+        "en": "Pikachu (Go Fest 2025 Monocle Yellow)"
+      },
+      "event": "May 29, 2025",
+      "available_from": "2025-05-29",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-go_fest_2025_goggles_red",
+      "identifier": "pikachu-go-fest-2025-goggles-red",
+      "name": {
+        "ja": "GOフェス2025ゴーグルピカチュウ（赤）",
+        "en": "Pikachu (Go Fest 2025 Goggles Red)"
+      },
+      "event": "June 28, 2025",
+      "available_from": "2025-06-28",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-go_fest_2025_goggles_blue",
+      "identifier": "pikachu-go-fest-2025-goggles-blue",
+      "name": {
+        "ja": "GOフェス2025ゴーグルピカチュウ（青）",
+        "en": "Pikachu (Go Fest 2025 Goggles Blue)"
+      },
+      "event": "June 28, 2025",
+      "available_from": "2025-06-28",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-go_fest_2025_goggles_yellow",
+      "identifier": "pikachu-go-fest-2025-goggles-yellow",
+      "name": {
+        "ja": "GOフェス2025ゴーグルピカチュウ（黄）",
+        "en": "Pikachu (Go Fest 2025 Goggles Yellow)"
+      },
+      "event": "June 28, 2025",
+      "available_from": "2025-06-28",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-indonesia",
+      "identifier": "pikachu-indonesia",
+      "name": {
+        "ja": "インドネシアピカチュウ",
+        "en": "Pikachu (Indonesia)"
+      },
+      "event": "August 5, 2025",
+      "available_from": "2025-08-05",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-varsity_jacket",
+      "identifier": "pikachu-varsity-jacket",
+      "name": {
+        "ja": "ピカチュウ（バーシティジャケット）",
+        "en": "Pikachu (Varsity Jacket)"
+      },
+      "event": "August 15, 2025",
+      "available_from": "2025-08-15",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-calem",
+      "identifier": "pikachu-calem",
+      "name": {
+        "ja": "カルムピカチュウ",
+        "en": "Pikachu (Calem)"
+      },
+      "event": "February 20, 2026",
+      "available_from": "2026-02-20",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-serena",
+      "identifier": "pikachu-serena",
+      "name": {
+        "ja": "セレナピカチュウ",
+        "en": "Pikachu (Serena)"
+      },
+      "event": "February 20, 2026",
+      "available_from": "2026-02-20",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-red",
+      "identifier": "pikachu-red",
+      "name": {
+        "ja": "レッドピカチュウ",
+        "en": "Pikachu (Red)"
+      },
+      "event": "February 23, 2026",
+      "available_from": "2026-02-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-leaf",
+      "identifier": "pikachu-leaf",
+      "name": {
+        "ja": "リーフピカチュウ",
+        "en": "Pikachu (Leaf)"
+      },
+      "event": "February 23, 2026",
+      "available_from": "2026-02-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-ethan",
+      "identifier": "pikachu-ethan",
+      "name": {
+        "ja": "ヒビキピカチュウ",
+        "en": "Pikachu (Ethan)"
+      },
+      "event": "February 24, 2026",
+      "available_from": "2026-02-24",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-lyra",
+      "identifier": "pikachu-lyra",
+      "name": {
+        "ja": "コトネピカチュウ",
+        "en": "Pikachu (Lyra)"
+      },
+      "event": "February 24, 2026",
+      "available_from": "2026-02-24",
+      "available_until": null
+    },
+    {
+      "costume_id": "0025-baseball",
+      "identifier": "pikachu-baseball",
+      "name": {
+        "ja": "ベースボールピカチュウ",
+        "en": "Pikachu (Baseball)"
+      },
+      "event": "April 3, 2026",
+      "available_from": "2026-04-03",
+      "available_until": null
+    }
+  ]
+}

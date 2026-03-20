@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 188,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ポポッコ",
+        "en": "Skiploom"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 45,
+        "defense": 50,
+        "sp_attack": 45,
+        "sp_defense": 65,
+        "speed": 80
+      },
+      "ability_ids": [
+        34,
+        102
+      ],
+      "hidden_ability_id": 151
+    }
+  ]
+}

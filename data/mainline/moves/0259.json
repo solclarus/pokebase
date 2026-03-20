@@ -1,0 +1,18 @@
+{
+  "id": 259,
+  "identifier": "torment",
+  "name": {
+    "ja": "いちゃもん",
+    "en": "Torment"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "相手に　いちゃもんを　つけて同じ　技を　２回連続でだせなくする。",
+    "en": "The user torments and enrages the target, making it incapable of using the same move twice in a row."
+  }
+}

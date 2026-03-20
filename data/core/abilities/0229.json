@@ -1,0 +1,13 @@
+{
+  "id": 229,
+  "identifier": "grassy-surge",
+  "name": {
+    "ja": "グラスメイカー",
+    "en": "Grassy Surge"
+  },
+  "description": {
+    "ja": "登場　したときにグラスフィールドを　はりめぐらせる。",
+    "en": "Turns the ground into Grassy Terrain when the Pokémon enters a battle."
+  },
+  "generation": 7
+}

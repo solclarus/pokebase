@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 638,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コバルオン",
+        "en": "Cobalion"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "steel",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 91,
+        "attack": 90,
+        "defense": 129,
+        "sp_attack": 90,
+        "sp_defense": 72,
+        "speed": 108
+      },
+      "ability_ids": [
+        154
+      ]
+    }
+  ]
+}

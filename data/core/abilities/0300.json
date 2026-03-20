@@ -1,0 +1,13 @@
+{
+  "id": 300,
+  "identifier": "supersweet-syrup",
+  "name": {
+    "ja": "あまあまシロップ",
+    "en": "Supersweet Syrup"
+  },
+  "description": {
+    "ja": "初めて場に出たとき、相手全員の回避率を1段階下げる。",
+    "en": "Lowers the evasion of opposing Pokémon by 1 stage when first sent into battle"
+  },
+  "generation": 9
+}

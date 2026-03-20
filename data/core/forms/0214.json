@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 214,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヘラクロス",
+        "en": "Heracross"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 125,
+        "defense": 75,
+        "sp_attack": 40,
+        "sp_defense": 95,
+        "speed": 85
+      },
+      "ability_ids": [
+        68,
+        62
+      ],
+      "hidden_ability_id": 153
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガヘラクロス",
+        "en": "Mega Heracross"
+      },
+      "form_type": "mega",
+      "region": "johto",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 185,
+        "defense": 115,
+        "sp_attack": 40,
+        "sp_defense": 105,
+        "speed": 75
+      },
+      "ability_ids": [
+        92
+      ]
+    }
+  ]
+}

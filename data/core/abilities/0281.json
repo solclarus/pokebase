@@ -1,0 +1,13 @@
+{
+  "id": 281,
+  "identifier": "protosynthesis",
+  "name": {
+    "ja": "こだいかっせい",
+    "en": "Protosynthesis"
+  },
+  "description": {
+    "ja": "ブーストエナジーを持たせるか天気が晴れのときいちばん高い能力が上がる。",
+    "en": "Boosts the Pokémon's most proficient stat in harsh sunlight or if the Pokémon is holding Booster Energy."
+  },
+  "generation": 9
+}

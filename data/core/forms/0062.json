@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 62,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ニョロボン",
+        "en": "Poliwrath"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 95,
+        "sp_attack": 70,
+        "sp_defense": 90,
+        "speed": 70
+      },
+      "ability_ids": [
+        11,
+        6
+      ],
+      "hidden_ability_id": 33
+    }
+  ]
+}

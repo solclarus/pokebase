@@ -1,0 +1,18 @@
+{
+  "id": 890,
+  "identifier": "armor-cannon",
+  "name": {
+    "ja": "アーマーキャノン",
+    "en": "Armor Cannon"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user shoots its own armor out as blazing projectiles. This also lowers the user’s Defense and Sp. Def stats."
+  }
+}

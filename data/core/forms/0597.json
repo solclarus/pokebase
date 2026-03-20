@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 597,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テッシード",
+        "en": "Ferroseed"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 50,
+        "defense": 91,
+        "sp_attack": 24,
+        "sp_defense": 86,
+        "speed": 10
+      },
+      "ability_ids": [
+        160
+      ]
+    }
+  ]
+}

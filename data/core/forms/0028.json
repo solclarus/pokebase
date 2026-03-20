@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 28,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サンドパン",
+        "en": "Sandslash"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 110,
+        "sp_attack": 45,
+        "sp_defense": 55,
+        "speed": 65
+      },
+      "ability_ids": [
+        8
+      ],
+      "hidden_ability_id": 146
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "サンドパン（アローラのすがた）",
+        "en": "Alolan Sandslash"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ice",
+        "steel"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 120,
+        "sp_attack": 25,
+        "sp_defense": 65,
+        "speed": 65
+      },
+      "ability_ids": [
+        81
+      ],
+      "hidden_ability_id": 212
+    }
+  ]
+}

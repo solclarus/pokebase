@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 941,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "タイカイデン",
+        "en": "Kilowattrel"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 60,
+        "sp_attack": 105,
+        "sp_defense": 60,
+        "speed": 125
+      },
+      "ability_ids": [
+        277,
+        10
+      ],
+      "hidden_ability_id": 172
+    }
+  ]
+}

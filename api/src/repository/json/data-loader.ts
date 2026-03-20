@@ -31,8 +31,8 @@ export class DataLoader {
     return this.loadJson<T>(`mainline/availability/${padId(pokemonId)}.json`);
   }
 
-  async loadGoPokemon<T>(pokemonId: number): Promise<T | null> {
-    return this.loadJson<T>(`go/pokemon_stats/${padId(pokemonId)}.json`);
+  async loadGoForms<T>(pokemonId: number): Promise<T | null> {
+    return this.loadJson<T>(`go/forms/${padId(pokemonId)}.json`);
   }
 
   async loadCostumes<T>(pokemonId: number): Promise<T | null> {

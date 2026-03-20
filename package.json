@@ -12,6 +12,10 @@
     "deploy": "npm run deploy -w api"
   },
   "devDependencies": {
-    "typescript": "^5.4.0"
+    "typescript": "^5.4.0",
+    "zod": "^4.3.6"
+  },
+  "overrides": {
+    "zod": "^4.3.6"
   }
 }

@@ -1,0 +1,18 @@
+{
+  "id": 29,
+  "identifier": "headbutt",
+  "name": {
+    "ja": "ずつき",
+    "en": "Headbutt"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "頭を　突きだしてまっすぐ　つっこんで　攻撃する。相手を　ひるませることが　ある。",
+    "en": "The user sticks out its head and attacks by charging straight into the target. This may also make the target flinch."
+  }
+}

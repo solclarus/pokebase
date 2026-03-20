@@ -1,0 +1,155 @@
+{
+  "pokemon_id": 671,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フラージェス",
+        "en": "Florges"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "sp_attack": 112,
+        "sp_defense": 154,
+        "speed": 75
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "red",
+      "order": 1,
+      "name": {
+        "ja": "フラージェス",
+        "en": "Florges"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "sp_attack": 112,
+        "sp_defense": 154,
+        "speed": 75
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "yellow",
+      "order": 2,
+      "name": {
+        "ja": "フラージェス",
+        "en": "Florges"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "sp_attack": 112,
+        "sp_defense": 154,
+        "speed": 75
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "orange",
+      "order": 3,
+      "name": {
+        "ja": "フラージェス",
+        "en": "Florges"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "sp_attack": 112,
+        "sp_defense": 154,
+        "speed": 75
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "blue",
+      "order": 4,
+      "name": {
+        "ja": "フラージェス",
+        "en": "Florges"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "sp_attack": 112,
+        "sp_defense": 154,
+        "speed": 75
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "white",
+      "order": 5,
+      "name": {
+        "ja": "フラージェス",
+        "en": "Florges"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 65,
+        "defense": 68,
+        "sp_attack": 112,
+        "sp_defense": 154,
+        "speed": 75
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 869,
+  "identifier": "kowtow-cleave",
+  "name": {
+    "ja": "ドゲザン",
+    "en": "Kowtow Cleave"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 85,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user slashes at the target after kowtowing to make the target let down its guard. This attack never misses."
+  }
+}

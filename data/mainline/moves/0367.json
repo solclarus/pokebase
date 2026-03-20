@@ -1,0 +1,18 @@
+{
+  "id": 367,
+  "identifier": "acupressure",
+  "name": {
+    "ja": "つぼをつく",
+    "en": "Acupressure"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 4,
+  "description": {
+    "ja": "つぼおしで　体を　活性化させる。能力の　どれか　１つをぐーんと　あげる。",
+    "en": "The user applies pressure to stress points, sharply boosting one of its or its allies' stats."
+  }
+}

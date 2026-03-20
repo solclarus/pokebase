@@ -1,0 +1,18 @@
+{
+  "id": 452,
+  "identifier": "wood-hammer",
+  "name": {
+    "ja": "ウッドハンマー",
+    "en": "Wood Hammer"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "硬い　胴体を相手に　たたきつけて　攻撃する。自分も　かなり　ダメージを　受ける。",
+    "en": "The user slams its rugged body into the target to attack. This also damages the user quite a lot."
+  }
+}

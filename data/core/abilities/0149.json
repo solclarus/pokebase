@@ -1,0 +1,13 @@
+{
+  "id": 149,
+  "identifier": "illusion",
+  "name": {
+    "ja": "イリュージョン",
+    "en": "Illusion"
+  },
+  "description": {
+    "ja": "手持ちの　いちばん　うしろに　いるポケモンに　なりきって　登場して相手を　化かす。",
+    "en": "The Pokémon fools opponents by entering battle disguised as the last Pokémon in its Trainer's party."
+  },
+  "generation": 5
+}

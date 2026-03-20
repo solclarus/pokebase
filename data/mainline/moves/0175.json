@@ -1,0 +1,18 @@
+{
+  "id": 175,
+  "identifier": "flail",
+  "name": {
+    "ja": "じたばた",
+    "en": "Flail"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 2,
+  "description": {
+    "ja": "じたばた　暴れて　攻撃する。自分の　ＨＰが　少ないほど技の　威力は　あがる。",
+    "en": "The user flails about aimlessly to attack. The less HP the user has, the greater the move's power."
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "pokemon_id": 421,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 170,
+      "base_defense": 153,
+      "base_stamina": 172,
+      "fast_move_ids": [
+        215,
+        271
+      ],
+      "charged_move_ids": [
+        86,
+        14,
+        116
+      ],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "overcast",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2019-05-17",
+      "shiny_released_at": "2022-04-20"
+    },
+    {
+      "form_id": "sunshine",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2019-05-17",
+      "shiny_released_at": "2022-04-20"
+    }
+  ]
+}

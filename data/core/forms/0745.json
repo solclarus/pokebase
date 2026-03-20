@@ -1,0 +1,81 @@
+{
+  "pokemon_id": 745,
+  "forms": [
+    {
+      "id": "midday",
+      "order": 0,
+      "name": {
+        "ja": "ルガルガン",
+        "en": "Lycanroc"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 115,
+        "defense": 65,
+        "sp_attack": 55,
+        "sp_defense": 65,
+        "speed": 112
+      },
+      "ability_ids": [
+        51,
+        146
+      ],
+      "hidden_ability_id": 80
+    },
+    {
+      "id": "midnight",
+      "order": 1,
+      "name": {
+        "ja": "まよなかのすがた",
+        "en": "Midnight Form"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 115,
+        "defense": 75,
+        "sp_attack": 55,
+        "sp_defense": 75,
+        "speed": 82
+      },
+      "ability_ids": [
+        51,
+        72
+      ],
+      "hidden_ability_id": 99
+    },
+    {
+      "id": "dusk",
+      "order": 2,
+      "name": {
+        "ja": "たそがれのすがた",
+        "en": "Dusk Form"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 117,
+        "defense": 65,
+        "sp_attack": 55,
+        "sp_defense": 65,
+        "speed": 110
+      },
+      "ability_ids": [
+        181
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 64,
+  "identifier": "peck",
+  "name": {
+    "ja": "つつく",
+    "en": "Peck"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 35,
+  "accuracy": 100,
+  "pp": 35,
+  "generation": 1,
+  "description": {
+    "ja": "鋭く　とがった　くちばしや　つので相手を　突いて　攻撃する。",
+    "en": "The target is jabbed with a sharply pointed beak or horn to inflict damage."
+  }
+}

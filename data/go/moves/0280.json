@@ -1,0 +1,13 @@
+{
+  "id": 280,
+  "identifier": "foul-play",
+  "name": {
+    "ja": "イカサマ",
+    "en": "Foul Play"
+  },
+  "type": "dark",
+  "move_type": "charged",
+  "power": 70,
+  "energy_delta": -50,
+  "duration_ms": 2000
+}

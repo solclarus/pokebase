@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 191,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヒマナッツ",
+        "en": "Sunkern"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 30,
+        "defense": 30,
+        "sp_attack": 30,
+        "sp_defense": 30,
+        "speed": 30
+      },
+      "ability_ids": [
+        34,
+        94
+      ],
+      "hidden_ability_id": 48
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1021,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "タケルライコ",
+        "en": "Raging Bolt"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 125,
+        "attack": 73,
+        "defense": 91,
+        "sp_attack": 137,
+        "sp_defense": 89,
+        "speed": 75
+      },
+      "ability_ids": [
+        281
+      ]
+    }
+  ]
+}

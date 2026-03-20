@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 702,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "デデンネ",
+        "en": "Dedenne"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "electric",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 67,
+        "attack": 58,
+        "defense": 57,
+        "sp_attack": 81,
+        "sp_defense": 67,
+        "speed": 101
+      },
+      "ability_ids": [
+        167,
+        53
+      ],
+      "hidden_ability_id": 57
+    }
+  ]
+}

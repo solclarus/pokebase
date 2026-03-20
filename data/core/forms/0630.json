@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 630,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バルジーナ",
+        "en": "Mandibuzz"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "stats": {
+        "hp": 110,
+        "attack": 65,
+        "defense": 105,
+        "sp_attack": 55,
+        "sp_defense": 95,
+        "speed": 80
+      },
+      "ability_ids": [
+        145,
+        142
+      ],
+      "hidden_ability_id": 133
+    }
+  ]
+}

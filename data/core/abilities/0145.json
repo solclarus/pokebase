@@ -1,0 +1,13 @@
+{
+  "id": 145,
+  "identifier": "big-pecks",
+  "name": {
+    "ja": "はとむね",
+    "en": "Big Pecks"
+  },
+  "description": {
+    "ja": "防御を　下げる効果を　受けない。",
+    "en": "Prevents the Pokémon from having its Defense stat lowered."
+  },
+  "generation": 5
+}

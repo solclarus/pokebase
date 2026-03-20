@@ -1,0 +1,18 @@
+{
+  "id": 690,
+  "identifier": "beak-blast",
+  "name": {
+    "ja": "くちばしキャノン",
+    "en": "Beak Blast"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 7,
+  "description": {
+    "ja": "最初に　クチバシを　加熱してから攻撃を　くりだす。加熱中に　さわると　やけどする。",
+    "en": "The user first heats up its beak, and then it attacks the target. Making direct contact with the user while it's heating up its beak results in a burn."
+  }
+}

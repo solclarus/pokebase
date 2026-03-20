@@ -1,0 +1,18 @@
+{
+  "id": 788,
+  "identifier": "grav-apple",
+  "name": {
+    "ja": "Ｇのちから",
+    "en": "Grav Apple"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "高いところから　りんごを　落としてダメージを　与える。相手の　防御を　下げる。",
+    "en": "The user inflicts damage by dropping an apple from high above. This also lowers the target's Defense stat."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 307,
+  "identifier": "crush-claw",
+  "name": {
+    "ja": "ブレイククロー",
+    "en": "Crush Claw"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 0,
+  "energy_delta": 0,
+  "duration_ms": 2000
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 345,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "リリーラ",
+        "en": "Lileep"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "stats": {
+        "hp": 66,
+        "attack": 41,
+        "defense": 77,
+        "sp_attack": 61,
+        "sp_defense": 87,
+        "speed": 23
+      },
+      "ability_ids": [
+        21
+      ],
+      "hidden_ability_id": 114
+    }
+  ]
+}

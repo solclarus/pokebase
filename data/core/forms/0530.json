@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 530,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドリュウズ",
+        "en": "Excadrill"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "stats": {
+        "hp": 110,
+        "attack": 135,
+        "defense": 60,
+        "sp_attack": 50,
+        "sp_defense": 65,
+        "speed": 88
+      },
+      "ability_ids": [
+        146,
+        159
+      ],
+      "hidden_ability_id": 104
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガドリュウズ",
+        "en": "Mega Excadrill"
+      },
+      "form_type": "mega",
+      "region": "unova",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "stats": {
+        "hp": 110,
+        "attack": 165,
+        "defense": 100,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 103
+      },
+      "ability_ids": []
+    }
+  ]
+}

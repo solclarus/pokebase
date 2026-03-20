@@ -1,0 +1,18 @@
+{
+  "id": 384,
+  "identifier": "power-swap",
+  "name": {
+    "ja": "パワースワップ",
+    "en": "Power Swap"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "超能力で　自分と　相手の攻撃と　特攻の能力変化を　入れ替える。",
+    "en": "The user employs its psychic power to switch changes to its Attack and Sp. Atk stats with the target."
+  }
+}

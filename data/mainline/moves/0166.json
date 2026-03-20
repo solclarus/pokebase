@@ -1,0 +1,18 @@
+{
+  "id": 166,
+  "identifier": "sketch",
+  "name": {
+    "ja": "スケッチ",
+    "en": "Sketch"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 1,
+  "generation": 2,
+  "description": {
+    "ja": "相手が　使った　技を自分の　ものに　する。１回　使うと　スケッチは　消える。",
+    "en": "This move enables the user to permanently learn the move last used by the target. Once used, Sketch disappears."
+  }
+}

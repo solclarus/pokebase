@@ -1,0 +1,18 @@
+{
+  "id": 397,
+  "identifier": "rock-polish",
+  "name": {
+    "ja": "ロックカット",
+    "en": "Rock Polish"
+  },
+  "type": "rock",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "自分の　体を　磨いて　空気の抵抗を　少なくする。素早さをぐーんと　あげることが　できる。",
+    "en": "The user polishes its body to reduce drag. This sharply boosts the user's Speed stat."
+  }
+}

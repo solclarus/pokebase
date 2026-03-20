@@ -1,0 +1,13 @@
+{
+  "id": 168,
+  "identifier": "protean",
+  "name": {
+    "ja": "へんげんじざい",
+    "en": "Protean"
+  },
+  "description": {
+    "ja": "自分が　出す　技と同じ　タイプに　変化する。",
+    "en": "Changes the Pokémon's type to the type of the move it's about to use. This works only once each time the Pokémon enters battle."
+  },
+  "generation": 6
+}

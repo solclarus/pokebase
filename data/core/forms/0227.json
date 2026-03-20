@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 227,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エアームド",
+        "en": "Skarmory"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 80,
+        "defense": 140,
+        "sp_attack": 40,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "ability_ids": [
+        51,
+        5
+      ],
+      "hidden_ability_id": 133
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガエアームド",
+        "en": "Mega Skarmory"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 140,
+        "defense": 110,
+        "sp_attack": 40,
+        "sp_defense": 100,
+        "speed": 110
+      },
+      "ability_ids": []
+    }
+  ]
+}

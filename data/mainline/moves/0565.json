@@ -1,0 +1,18 @@
+{
+  "id": 565,
+  "identifier": "fell-stinger",
+  "name": {
+    "ja": "とどめばり",
+    "en": "Fell Stinger"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "generation": 6,
+  "description": {
+    "ja": "この　技を　使って相手を　倒すと攻撃が　ぐぐーんと　あがる。",
+    "en": "When the user knocks out a target with this move, the user's Attack stat is boosted drastically."
+  }
+}

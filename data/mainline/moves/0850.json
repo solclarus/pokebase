@@ -1,0 +1,18 @@
+{
+  "id": 850,
+  "identifier": "take-heart",
+  "name": {
+    "ja": "ブレイブチャージ",
+    "en": "Take Heart"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user lifts its spirits, curing its own status conditions and boosting its Sp. Atk and Sp. Def stats."
+  }
+}

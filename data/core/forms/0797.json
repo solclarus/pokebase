@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 797,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テッカグヤ",
+        "en": "Celesteela"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "stats": {
+        "hp": 97,
+        "attack": 101,
+        "defense": 103,
+        "sp_attack": 107,
+        "sp_defense": 101,
+        "speed": 61
+      },
+      "ability_ids": [
+        224
+      ]
+    }
+  ]
+}

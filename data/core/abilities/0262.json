@@ -1,0 +1,13 @@
+{
+  "id": 262,
+  "identifier": "transistor",
+  "name": {
+    "ja": "トランジスタ",
+    "en": "Transistor"
+  },
+  "description": {
+    "ja": "でんきタイプの　技の威力が　上がる。",
+    "en": "Powers up Electric-type moves."
+  },
+  "generation": 8
+}

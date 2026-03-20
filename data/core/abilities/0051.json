@@ -1,0 +1,13 @@
+{
+  "id": 51,
+  "identifier": "keen-eye",
+  "name": {
+    "ja": "するどいめ",
+    "en": "Keen Eye"
+  },
+  "description": {
+    "ja": "鋭い　目の　おかげで命中率を　下げられない。",
+    "en": "The Pokémon's keen eyes prevent its accuracy from being lowered."
+  },
+  "generation": 3
+}

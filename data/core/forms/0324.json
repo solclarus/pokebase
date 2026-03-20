@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 324,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コータス",
+        "en": "Torkoal"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 140,
+        "sp_attack": 85,
+        "sp_defense": 70,
+        "speed": 20
+      },
+      "ability_ids": [
+        73,
+        70
+      ],
+      "hidden_ability_id": 75
+    }
+  ]
+}

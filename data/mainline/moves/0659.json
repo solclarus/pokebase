@@ -1,0 +1,18 @@
+{
+  "id": 659,
+  "identifier": "shore-up",
+  "name": {
+    "ja": "すなあつめ",
+    "en": "Shore Up"
+  },
+  "type": "ground",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 7,
+  "description": {
+    "ja": "最大ＨＰの　半分自分の　ＨＰを　回復する。すなあらしの時は　多く　回復。",
+    "en": "The user restores its own HP by up to half its max HP. It regains more HP in a sandstorm."
+  }
+}

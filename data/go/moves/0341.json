@@ -1,0 +1,13 @@
+{
+  "id": 341,
+  "identifier": "fly",
+  "name": {
+    "ja": "そらをとぶ",
+    "en": "Fly"
+  },
+  "type": "flying",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -50,
+  "duration_ms": 2000
+}

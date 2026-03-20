@@ -1,0 +1,13 @@
+{
+  "id": 191,
+  "identifier": "delta-stream",
+  "name": {
+    "ja": "デルタストリーム",
+    "en": "Delta Stream"
+  },
+  "description": {
+    "ja": "ひこうタイプの　弱点がなくなる　天気にする。",
+    "en": "The Pokémon changes the weather to eliminate all of the Flying type’s weaknesses."
+  },
+  "generation": 6
+}

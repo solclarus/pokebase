@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 163,
+  "costumes": [
+    {
+      "costume_id": "0163-new_year",
+      "identifier": "hoothoot-new-year",
+      "name": {
+        "ja": "ホーホー（お正月）",
+        "en": "Hoothoot (New Year)"
+      },
+      "event": "December 31, 2021",
+      "available_from": "2021-12-31",
+      "available_until": null
+    }
+  ]
+}

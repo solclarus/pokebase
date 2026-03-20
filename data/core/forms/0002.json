@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 2,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フシギソウ",
+        "en": "Ivysaur"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 62,
+        "defense": 63,
+        "sp_attack": 80,
+        "sp_defense": 80,
+        "speed": 60
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 34
+    }
+  ]
+}

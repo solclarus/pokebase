@@ -1,0 +1,18 @@
+{
+  "id": 104,
+  "identifier": "double-team",
+  "name": {
+    "ja": "かげぶんしん",
+    "en": "Double Team"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "素早い　動きで　分身を　つくり相手を　まどわせて回避率を　あげる。",
+    "en": "By moving rapidly, the user makes illusory copies of itself to boost its evasiveness."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 524,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ダンゴロ",
+        "en": "Roggenrola"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 75,
+        "defense": 85,
+        "sp_attack": 25,
+        "sp_defense": 25,
+        "speed": 15
+      },
+      "ability_ids": [
+        5,
+        133
+      ],
+      "hidden_ability_id": 159
+    }
+  ]
+}

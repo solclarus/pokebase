@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 17,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ピジョン",
+        "en": "Pidgeotto"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 63,
+        "attack": 60,
+        "defense": 55,
+        "sp_attack": 50,
+        "sp_defense": 50,
+        "speed": 71
+      },
+      "ability_ids": [
+        51,
+        77
+      ],
+      "hidden_ability_id": 145
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 110,
+  "identifier": "tinted-lens",
+  "name": {
+    "ja": "いろめがね",
+    "en": "Tinted Lens"
+  },
+  "description": {
+    "ja": "効果が　いまひとつの　技を通常の　威力で出すことが　できる。",
+    "en": "The Pokémon can use “not very effective” moves to deal regular damage."
+  },
+  "generation": 4
+}

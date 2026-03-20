@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 440,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ピンプク",
+        "en": "Happiny"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 5,
+        "defense": 5,
+        "sp_attack": 15,
+        "sp_defense": 65,
+        "speed": 30
+      },
+      "ability_ids": [
+        30,
+        32
+      ],
+      "hidden_ability_id": 132
+    }
+  ]
+}

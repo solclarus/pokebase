@@ -1,0 +1,13 @@
+{
+  "id": 196,
+  "identifier": "merciless",
+  "name": {
+    "ja": "ひとでなし",
+    "en": "Merciless"
+  },
+  "description": {
+    "ja": "どく状態の相手を　攻撃するとかならず　急所に　当たる。",
+    "en": "The Pokémon's attacks become critical hits if the target is poisoned."
+  },
+  "generation": 7
+}

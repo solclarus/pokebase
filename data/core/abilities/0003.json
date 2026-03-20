@@ -1,0 +1,13 @@
+{
+  "id": 3,
+  "identifier": "speed-boost",
+  "name": {
+    "ja": "かそく",
+    "en": "Speed Boost"
+  },
+  "description": {
+    "ja": "毎ターン　素早さが　上がる。",
+    "en": "The Pokémon's Speed stat is boosted every turn."
+  },
+  "generation": 3
+}

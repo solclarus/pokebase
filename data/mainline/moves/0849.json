@@ -1,0 +1,18 @@
+{
+  "id": 849,
+  "identifier": "lunar-blessing",
+  "name": {
+    "ja": "みかづきのいのり",
+    "en": "Lunar Blessing"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user receives a blessing from the crescent moon, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle."
+  }
+}

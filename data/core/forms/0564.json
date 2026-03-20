@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 564,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "プロトーガ",
+        "en": "Tirtouga"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "stats": {
+        "hp": 54,
+        "attack": 78,
+        "defense": 103,
+        "sp_attack": 53,
+        "sp_defense": 45,
+        "speed": 22
+      },
+      "ability_ids": [
+        116,
+        5
+      ],
+      "hidden_ability_id": 33
+    }
+  ]
+}

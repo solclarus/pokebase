@@ -1,0 +1,13 @@
+{
+  "id": 336,
+  "identifier": "techno-blast-normal",
+  "name": {
+    "ja": "テクノバスター",
+    "en": "Techno Blast Normal"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 120,
+  "energy_delta": -100,
+  "duration_ms": 2000
+}

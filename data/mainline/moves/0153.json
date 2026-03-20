@@ -1,0 +1,18 @@
+{
+  "id": 153,
+  "identifier": "explosion",
+  "name": {
+    "ja": "だいばくはつ",
+    "en": "Explosion"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 250,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "大きな　爆発で　自分の周りに　いるものを　攻撃する。使ったあとに　ひんしに　なる。",
+    "en": "The user attacks everything around it by causing a tremendous explosion. The user faints upon using this move."
+  }
+}

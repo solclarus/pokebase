@@ -1,0 +1,27 @@
+{
+  "pokemon_id": 141,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 220,
+      "base_defense": 186,
+      "base_stamina": 155,
+      "fast_move_ids": [
+        216,
+        241,
+        283
+      ],
+      "charged_move_ids": [
+        62,
+        105,
+        32
+      ],
+      "released_at": "2016-07-06",
+      "shiny_released_at": "2018-05-24",
+      "elite_fast_move_ids": [
+        200
+      ],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

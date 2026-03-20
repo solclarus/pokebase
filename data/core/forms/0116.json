@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 116,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "タッツー",
+        "en": "Horsea"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 40,
+        "defense": 70,
+        "sp_attack": 70,
+        "sp_defense": 25,
+        "speed": 60
+      },
+      "ability_ids": [
+        33,
+        97
+      ],
+      "hidden_ability_id": 6
+    }
+  ]
+}

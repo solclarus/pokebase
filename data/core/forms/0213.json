@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 213,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ツボツボ",
+        "en": "Shuckle"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "stats": {
+        "hp": 20,
+        "attack": 10,
+        "defense": 230,
+        "sp_attack": 10,
+        "sp_defense": 230,
+        "speed": 5
+      },
+      "ability_ids": [
+        5,
+        82
+      ],
+      "hidden_ability_id": 126
+    }
+  ]
+}

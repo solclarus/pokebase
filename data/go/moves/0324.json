@@ -1,0 +1,13 @@
+{
+  "id": 324,
+  "identifier": "synchronoise",
+  "name": {
+    "ja": "シンクロノイズ",
+    "en": "Synchronoise"
+  },
+  "type": "psychic",
+  "move_type": "charged",
+  "power": 80,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

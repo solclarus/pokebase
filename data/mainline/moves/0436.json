@@ -1,0 +1,18 @@
+{
+  "id": 436,
+  "identifier": "lava-plume",
+  "name": {
+    "ja": "ふんえん",
+    "en": "Lava Plume"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "真っ赤な　炎で　自分の周りに　いるものを　攻撃する。やけど状態に　することが　ある。",
+    "en": "The user torches everything around it in an inferno of scarlet flames. This may also leave those it hits with a burn."
+  }
+}

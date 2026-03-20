@@ -1,0 +1,13 @@
+{
+  "id": 274,
+  "identifier": "wind-rider",
+  "name": {
+    "ja": "かぜのり",
+    "en": "Wind Rider"
+  },
+  "description": {
+    "ja": "おいかぜが吹いたり風技を受けるとダメージを受けずに攻撃が上がる。",
+    "en": "Boosts the Pokémon's Attack stat if Tailwind takes effect or if the Pokémon is hit by a wind move. The Pokémon also takes no damage from wind moves."
+  },
+  "generation": 9
+}

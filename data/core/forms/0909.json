@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 909,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ホゲータ",
+        "en": "Fuecoco"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 67,
+        "attack": 45,
+        "defense": 59,
+        "sp_attack": 63,
+        "sp_defense": 40,
+        "speed": 36
+      },
+      "ability_ids": [
+        66
+      ],
+      "hidden_ability_id": 109
+    }
+  ]
+}

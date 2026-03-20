@@ -1,0 +1,13 @@
+{
+  "id": 47,
+  "identifier": "thick-fat",
+  "name": {
+    "ja": "あついしぼう",
+    "en": "Thick Fat"
+  },
+  "description": {
+    "ja": "厚い　脂肪で　守られているのでほのおタイプと　こおりタイプの技の　ダメージを　半減させる。",
+    "en": "The Pokémon is protected by a layer of thick fat, which halves the damage taken from Fire- and Ice-type moves."
+  },
+  "generation": 3
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 811,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バチンキー",
+        "en": "Thwackey"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 70,
+        "sp_attack": 55,
+        "sp_defense": 60,
+        "speed": 80
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 229
+    }
+  ]
+}

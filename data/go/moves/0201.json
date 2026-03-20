@@ -1,0 +1,13 @@
+{
+  "id": 201,
+  "identifier": "bug-bite",
+  "name": {
+    "ja": "むしくい",
+    "en": "Bug Bite"
+  },
+  "type": "bug",
+  "move_type": "fast",
+  "power": 5,
+  "energy_delta": 6,
+  "duration_ms": 500
+}

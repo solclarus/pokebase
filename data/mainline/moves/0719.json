@@ -1,0 +1,18 @@
+{
+  "id": 719,
+  "identifier": "10-000-000-volt-thunderbolt",
+  "name": {
+    "ja": "１０００まんボルト",
+    "en": "10,000,000 Volt Thunderbolt"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 195,
+  "accuracy": null,
+  "pp": 1,
+  "generation": 7,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+  }
+}

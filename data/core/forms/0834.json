@@ -1,0 +1,59 @@
+{
+  "pokemon_id": 834,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カジリガメ",
+        "en": "Drednaw"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 115,
+        "defense": 90,
+        "sp_attack": 48,
+        "sp_defense": 68,
+        "speed": 74
+      },
+      "ability_ids": [
+        173,
+        75
+      ],
+      "hidden_ability_id": 33
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスカジリガメ",
+        "en": "Gigantamax Drednaw"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "water",
+        "rock"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 115,
+        "defense": 90,
+        "sp_attack": 48,
+        "sp_defense": 68,
+        "speed": 74
+      },
+      "ability_ids": [
+        173,
+        75
+      ],
+      "hidden_ability_id": 33
+    }
+  ]
+}

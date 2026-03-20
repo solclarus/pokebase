@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 282,
+  "costumes": [
+    {
+      "costume_id": "0282-meloetta",
+      "identifier": "gardevoir-meloetta",
+      "name": {
+        "ja": "サーナイト（メロエッタ）",
+        "en": "Gardevoir (Meloetta)"
+      },
+      "event": "July 17, 2021",
+      "available_from": "2021-07-17",
+      "available_until": null
+    }
+  ]
+}

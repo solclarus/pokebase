@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 23,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アーボ",
+        "en": "Ekans"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 60,
+        "defense": 44,
+        "sp_attack": 40,
+        "sp_defense": 54,
+        "speed": 55
+      },
+      "ability_ids": [
+        22,
+        61
+      ],
+      "hidden_ability_id": 127
+    }
+  ]
+}

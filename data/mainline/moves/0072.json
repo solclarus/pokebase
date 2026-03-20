@@ -1,0 +1,18 @@
+{
+  "id": 72,
+  "identifier": "mega-drain",
+  "name": {
+    "ja": "メガドレイン",
+    "en": "Mega Drain"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "養分を　吸い取り　攻撃する。相手に　与えた　ダメージの半分の　ＨＰを　回復できる。",
+    "en": "A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target."
+  }
+}

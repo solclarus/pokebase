@@ -1,0 +1,18 @@
+{
+  "id": 530,
+  "identifier": "dual-chop",
+  "name": {
+    "ja": "ダブルチョップ",
+    "en": "Dual Chop"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 90,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "体の　硬い部分で　相手をたたいて　攻撃する。２回連続で　ダメージを　与える。",
+    "en": "The user attacks its target by hitting it with brutal strikes. The target is hit twice in a row."
+  }
+}

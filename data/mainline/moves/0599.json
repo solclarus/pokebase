@@ -1,0 +1,18 @@
+{
+  "id": 599,
+  "identifier": "venom-drench",
+  "name": {
+    "ja": "ベノムトラップ",
+    "en": "Venom Drench"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "特殊な　毒液を　浴びせかける。毒状態の　相手は攻撃　特攻　素早さが　さがる。",
+    "en": "Opposing Pokémon are drenched in an odd poisonous liquid. This lowers the Attack, Sp. Atk, and Speed stats of a poisoned target."
+  }
+}

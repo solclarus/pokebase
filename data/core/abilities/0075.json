@@ -1,0 +1,13 @@
+{
+  "id": 75,
+  "identifier": "shell-armor",
+  "name": {
+    "ja": "シェルアーマー",
+    "en": "Shell Armor"
+  },
+  "description": {
+    "ja": "硬い　殻に　守られ相手の　攻撃が急所に　当たらない。",
+    "en": "A hard shell protects the Pokémon from critical hits."
+  },
+  "generation": 3
+}

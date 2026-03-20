@@ -1,0 +1,18 @@
+{
+  "id": 841,
+  "identifier": "bitter-malice",
+  "name": {
+    "ja": "うらみつらみ",
+    "en": "Bitter Malice"
+  },
+  "type": "ghost",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user attacks the target with spine-chilling resentment. This also lowers the target’s Attack stat."
+  }
+}

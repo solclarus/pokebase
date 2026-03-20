@@ -1,0 +1,13 @@
+{
+  "id": 105,
+  "identifier": "super-luck",
+  "name": {
+    "ja": "きょううん",
+    "en": "Super Luck"
+  },
+  "description": {
+    "ja": "強運を　持っているため相手の　急所に攻撃が　当たりやすい。",
+    "en": "The Pokémon is so lucky that the critical-hit ratios of its moves are boosted."
+  },
+  "generation": 4
+}

@@ -1,0 +1,18 @@
+{
+  "id": 344,
+  "identifier": "volt-tackle",
+  "name": {
+    "ja": "ボルテッカー",
+    "en": "Volt Tackle"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "電気を　まとって　突進する。自分も　かなり　ダメージを　受ける。まひ状態に　することが　ある。",
+    "en": "The user electrifies itself and charges the target. This also damages the user quite a lot. This attack may leave the target with paralysis."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 620,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コジョンド",
+        "en": "Mienshao"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 125,
+        "defense": 60,
+        "sp_attack": 95,
+        "sp_defense": 60,
+        "speed": 105
+      },
+      "ability_ids": [
+        39,
+        144
+      ],
+      "hidden_ability_id": 120
+    }
+  ]
+}

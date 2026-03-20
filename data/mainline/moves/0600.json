@@ -1,0 +1,18 @@
+{
+  "id": 600,
+  "identifier": "powder",
+  "name": {
+    "ja": "ふんじん",
+    "en": "Powder"
+  },
+  "type": "bug",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "ふんじんを　浴びせた　相手がほのお技を　使うと爆発して　ダメージを　与える。",
+    "en": "The user covers the target in a combustible powder. If the target uses a Fire-type move, the powder explodes and damages the target."
+  }
+}

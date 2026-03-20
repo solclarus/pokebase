@@ -1,0 +1,18 @@
+{
+  "id": 10,
+  "identifier": "scratch",
+  "name": {
+    "ja": "ひっかく",
+    "en": "Scratch"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "generation": 1,
+  "description": {
+    "ja": "硬く　とがった　鋭い　ツメで相手を　ひっかいて　攻撃する。",
+    "en": "Hard, pointed, sharp claws rake the target to inflict damage."
+  }
+}

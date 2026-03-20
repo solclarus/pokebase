@@ -1,0 +1,59 @@
+{
+  "pokemon_id": 884,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ジュラルドン",
+        "en": "Duraludon"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 95,
+        "defense": 115,
+        "sp_attack": 120,
+        "sp_defense": 50,
+        "speed": 85
+      },
+      "ability_ids": [
+        135,
+        134
+      ],
+      "hidden_ability_id": 242
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスジュラルドン",
+        "en": "Gigantamax Duraludon"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 95,
+        "defense": 115,
+        "sp_attack": 120,
+        "sp_defense": 50,
+        "speed": 85
+      },
+      "ability_ids": [
+        135,
+        134
+      ],
+      "hidden_ability_id": 242
+    }
+  ]
+}

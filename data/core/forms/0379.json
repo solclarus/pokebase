@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 379,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レジスチル",
+        "en": "Registeel"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 75,
+        "defense": 150,
+        "sp_attack": 75,
+        "sp_defense": 150,
+        "speed": 50
+      },
+      "ability_ids": [
+        29
+      ],
+      "hidden_ability_id": 135
+    }
+  ]
+}

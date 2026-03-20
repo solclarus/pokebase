@@ -1,0 +1,13 @@
+{
+  "id": 44,
+  "identifier": "rain-dish",
+  "name": {
+    "ja": "あめうけざら",
+    "en": "Rain Dish"
+  },
+  "description": {
+    "ja": "天気が　雨のとき少しずつ　ＨＰを　回復する。",
+    "en": "The Pokémon gradually regains HP in rain."
+  },
+  "generation": 3
+}

@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 825,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レドームシ",
+        "en": "Dottler"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 80,
+        "sp_attack": 50,
+        "sp_defense": 90,
+        "speed": 30
+      },
+      "ability_ids": [
+        68,
+        14
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

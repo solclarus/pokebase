@@ -1,0 +1,13 @@
+{
+  "id": 10,
+  "identifier": "volt-absorb",
+  "name": {
+    "ja": "ちくでん",
+    "en": "Volt Absorb"
+  },
+  "description": {
+    "ja": "でんきタイプの　技を　受けるとダメージを　受けずに　回復する。",
+    "en": "If hit by an Electric-type move, the Pokémon has its HP restored instead of taking damage."
+  },
+  "generation": 3
+}

@@ -1,0 +1,18 @@
+{
+  "id": 773,
+  "identifier": "max-overgrowth",
+  "name": {
+    "ja": "ダイソウゲン",
+    "en": "Max Overgrowth"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　くさタイプの　攻撃。５ターンの　間　グラスフィールドにする。",
+    "en": "This is a Grass-type attack Dynamax Pokémon use. The user turns the ground into Grassy Terrain for five turns."
+  }
+}

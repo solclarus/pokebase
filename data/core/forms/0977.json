@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 977,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヘイラッシャ",
+        "en": "Dondozo"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 150,
+        "attack": 100,
+        "defense": 115,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 35
+      },
+      "ability_ids": [
+        109,
+        12
+      ],
+      "hidden_ability_id": 41
+    }
+  ]
+}

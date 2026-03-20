@@ -1,0 +1,13 @@
+{
+  "id": 56,
+  "identifier": "cute-charm",
+  "name": {
+    "ja": "メロメロボディ",
+    "en": "Cute Charm"
+  },
+  "description": {
+    "ja": "自分に　触った　相手をメロメロに　することが　ある。",
+    "en": "The Pokémon may infatuate attackers that make direct contact with it."
+  },
+  "generation": 3
+}

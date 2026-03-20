@@ -1,0 +1,18 @@
+{
+  "id": 491,
+  "identifier": "acid-spray",
+  "name": {
+    "ja": "アシッドボム",
+    "en": "Acid Spray"
+  },
+  "type": "poison",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "相手を　とかす　液体を吐きだして　攻撃する。相手の　特防を　がくっと　さげる。",
+    "en": "The user attacks by spitting fluid that works to melt the target. This also harshly lowers the target's Sp. Def stat."
+  }
+}

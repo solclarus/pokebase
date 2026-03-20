@@ -1,0 +1,18 @@
+{
+  "id": 480,
+  "identifier": "storm-throw",
+  "name": {
+    "ja": "やまあらし",
+    "en": "Storm Throw"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "強烈な　一撃を相手に　くりだす。攻撃は必ず　急所に　当たる。",
+    "en": "The user strikes the target with a fierce blow. This attack always results in a critical hit."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 748,
+  "identifier": "no-retreat",
+  "name": {
+    "ja": "はいすいのじん",
+    "en": "No Retreat"
+  },
+  "type": "fighting",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "自分の　すべての能力が　上がるが　交代　したり逃げることが　できなくなる。",
+    "en": "This move boosts all the user's stats but prevents the user from switching out or fleeing."
+  }
+}

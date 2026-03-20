@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 470,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "リーフィア",
+        "en": "Leafeon"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 110,
+        "defense": 130,
+        "sp_attack": 60,
+        "sp_defense": 65,
+        "speed": 95
+      },
+      "ability_ids": [
+        102
+      ],
+      "hidden_ability_id": 34
+    }
+  ]
+}

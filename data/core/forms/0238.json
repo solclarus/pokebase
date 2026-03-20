@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 238,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ムチュール",
+        "en": "Smoochum"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 15,
+        "sp_attack": 85,
+        "sp_defense": 65,
+        "speed": 65
+      },
+      "ability_ids": [
+        12,
+        108
+      ],
+      "hidden_ability_id": 93
+    }
+  ]
+}

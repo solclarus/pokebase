@@ -1,0 +1,13 @@
+{
+  "id": 202,
+  "identifier": "bite",
+  "name": {
+    "ja": "かみつく",
+    "en": "Bite"
+  },
+  "type": "dark",
+  "move_type": "fast",
+  "power": 6,
+  "energy_delta": 4,
+  "duration_ms": 500
+}

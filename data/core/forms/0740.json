@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 740,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ケケンカニ",
+        "en": "Crabominable"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "fighting",
+        "ice"
+      ],
+      "stats": {
+        "hp": 97,
+        "attack": 132,
+        "defense": 77,
+        "sp_attack": 62,
+        "sp_defense": 67,
+        "speed": 43
+      },
+      "ability_ids": [
+        52,
+        89
+      ],
+      "hidden_ability_id": 83
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガケケンカニ",
+        "en": "Mega Crabominable"
+      },
+      "form_type": "mega",
+      "region": "alola",
+      "types": [
+        "fighting",
+        "ice"
+      ],
+      "stats": {
+        "hp": 97,
+        "attack": 157,
+        "defense": 122,
+        "sp_attack": 62,
+        "sp_defense": 107,
+        "speed": 33
+      },
+      "ability_ids": []
+    }
+  ]
+}

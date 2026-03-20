@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 865,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ネギガナイト",
+        "en": "Sirfetch’d"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 62,
+        "attack": 135,
+        "defense": 95,
+        "sp_attack": 68,
+        "sp_defense": 82,
+        "speed": 65
+      },
+      "ability_ids": [
+        80
+      ],
+      "hidden_ability_id": 113
+    }
+  ]
+}

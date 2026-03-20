@@ -1,0 +1,73 @@
+{
+  "pokemon_id": 1007,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 263,
+      "base_defense": 223,
+      "base_stamina": 205,
+      "fast_move_ids": [
+        241,
+        253
+      ],
+      "charged_move_ids": [
+        321,
+        83,
+        245,
+        277
+      ],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "limited-build",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "sprinting-build",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "swimming-build",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "gliding-build",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

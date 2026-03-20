@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 802,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マーシャドー",
+        "en": "Marshadow"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 125,
+        "defense": 80,
+        "sp_attack": 90,
+        "sp_defense": 90,
+        "speed": 125
+      },
+      "ability_ids": [
+        101
+      ]
+    }
+  ]
+}

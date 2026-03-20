@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 672,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メェークル",
+        "en": "Skiddo"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 66,
+        "attack": 65,
+        "defense": 48,
+        "sp_attack": 62,
+        "sp_defense": 57,
+        "speed": 52
+      },
+      "ability_ids": [
+        157
+      ],
+      "hidden_ability_id": 179
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 77,
+  "identifier": "tangled-feet",
+  "name": {
+    "ja": "ちどりあし",
+    "en": "Tangled Feet"
+  },
+  "description": {
+    "ja": "こんらん状態の　ときは回避率が　アップする。",
+    "en": "Boosts the Pokémon's evasiveness if it is confused."
+  },
+  "generation": 4
+}

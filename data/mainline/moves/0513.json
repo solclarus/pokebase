@@ -1,0 +1,18 @@
+{
+  "id": 513,
+  "identifier": "reflect-type",
+  "name": {
+    "ja": "ミラータイプ",
+    "en": "Reflect Type"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "相手の　タイプを　反射して自分も　同じ　タイプに　なる。",
+    "en": "The user reflects the target's type to become the same type as the target."
+  }
+}

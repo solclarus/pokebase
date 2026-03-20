@@ -1,0 +1,13 @@
+{
+  "id": 195,
+  "identifier": "water-compaction",
+  "name": {
+    "ja": "みずがため",
+    "en": "Water Compaction"
+  },
+  "description": {
+    "ja": "みずタイプの　技を　受けると防御が　ぐーんと　上がる。",
+    "en": "Boosts the Defense stat sharply when the Pokémon is hit by a Water-type move."
+  },
+  "generation": 7
+}

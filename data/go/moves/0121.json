@@ -1,0 +1,13 @@
+{
+  "id": 121,
+  "identifier": "air-cutter",
+  "name": {
+    "ja": "エアカッター",
+    "en": "Air Cutter"
+  },
+  "type": "flying",
+  "move_type": "charged",
+  "power": 55,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

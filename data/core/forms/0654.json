@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 654,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テールナー",
+        "en": "Braixen"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 59,
+        "attack": 59,
+        "defense": 58,
+        "sp_attack": 90,
+        "sp_defense": 70,
+        "speed": 73
+      },
+      "ability_ids": [
+        66
+      ],
+      "hidden_ability_id": 170
+    }
+  ]
+}

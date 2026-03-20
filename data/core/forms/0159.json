@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 159,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アリゲイツ",
+        "en": "Croconaw"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 80,
+        "defense": 80,
+        "sp_attack": 59,
+        "sp_defense": 63,
+        "speed": 58
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 125
+    }
+  ]
+}

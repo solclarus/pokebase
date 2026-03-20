@@ -1,0 +1,13 @@
+{
+  "id": 280,
+  "identifier": "electromorphosis",
+  "name": {
+    "ja": "でんきにかえる",
+    "en": "Electromorphosis"
+  },
+  "description": {
+    "ja": "ダメージを受けるとじゅうでん状態になる。",
+    "en": "The Pokémon becomes charged when it takes damage, boosting the power of the next Electric-type move the Pokémon uses."
+  },
+  "generation": 9
+}

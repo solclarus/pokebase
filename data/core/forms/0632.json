@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 632,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アイアント",
+        "en": "Durant"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 58,
+        "attack": 109,
+        "defense": 112,
+        "sp_attack": 48,
+        "sp_defense": 48,
+        "speed": 109
+      },
+      "ability_ids": [
+        68,
+        55
+      ],
+      "hidden_ability_id": 54
+    }
+  ]
+}

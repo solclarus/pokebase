@@ -1,0 +1,13 @@
+{
+  "id": 92,
+  "identifier": "skill-link",
+  "name": {
+    "ja": "スキルリンク",
+    "en": "Skill Link"
+  },
+  "description": {
+    "ja": "連続技を　使うと　いつも最高回数　出すことが　できる。",
+    "en": "Maximizes the number of times multistrike moves hit."
+  },
+  "generation": 4
+}

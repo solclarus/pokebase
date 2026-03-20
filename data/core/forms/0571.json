@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 571,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゾロアーク",
+        "en": "Zoroark"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 105,
+        "defense": 60,
+        "sp_attack": 120,
+        "sp_defense": 60,
+        "speed": 105
+      },
+      "ability_ids": [
+        149
+      ]
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ヒスイのすがた",
+        "en": "Hisuian Form"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "normal",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 100,
+        "defense": 60,
+        "sp_attack": 125,
+        "sp_defense": 60,
+        "speed": 110
+      },
+      "ability_ids": [
+        149
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 366,
+  "identifier": "tailwind",
+  "name": {
+    "ja": "おいかぜ",
+    "en": "Tailwind"
+  },
+  "type": "flying",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "激しく　吹きあれる風の渦を　つくり　４ターンの　間味方　全員の　素早さを　あげる。",
+    "en": "The user whips up a turbulent whirlwind that boosts the Speed stats of itself and its allies for four turns."
+  }
+}

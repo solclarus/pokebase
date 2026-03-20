@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 376,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メタグロス",
+        "en": "Metagross"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 135,
+        "defense": 130,
+        "sp_attack": 95,
+        "sp_defense": 90,
+        "speed": 70
+      },
+      "ability_ids": [
+        29
+      ],
+      "hidden_ability_id": 135
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガメタグロス",
+        "en": "Mega Metagross"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 145,
+        "defense": 150,
+        "sp_attack": 105,
+        "sp_defense": 110,
+        "speed": 110
+      },
+      "ability_ids": [
+        181
+      ]
+    }
+  ]
+}

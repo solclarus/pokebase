@@ -1,0 +1,18 @@
+{
+  "id": 544,
+  "identifier": "gear-grind",
+  "name": {
+    "ja": "ギアソーサー",
+    "en": "Gear Grind"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 85,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "鋼鉄の　ギアを　相手に投げつけて　攻撃する。２回連続で　ダメージを　与える。",
+    "en": "The user attacks by throwing steel gears at its target twice."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 88,
+  "identifier": "rock-throw",
+  "name": {
+    "ja": "いわおとし",
+    "en": "Rock Throw"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "小さな　岩を　持ちあげて相手に　投げつけて　攻撃する。",
+    "en": "The user picks up and throws a small rock at the target to inflict damage."
+  }
+}

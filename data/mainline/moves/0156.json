@@ -1,0 +1,18 @@
+{
+  "id": 156,
+  "identifier": "rest",
+  "name": {
+    "ja": "ねむる",
+    "en": "Rest"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "２ターンの　間　眠り続ける。自分の　ＨＰと　状態異常をすべて　回復する。",
+    "en": "The user goes to sleep for two turns. This fully restores the user's HP and cures any status conditions."
+  }
+}

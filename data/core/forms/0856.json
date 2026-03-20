@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 856,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ミブリム",
+        "en": "Hatenna"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 42,
+        "attack": 30,
+        "defense": 45,
+        "sp_attack": 56,
+        "sp_defense": 53,
+        "speed": 39
+      },
+      "ability_ids": [
+        131,
+        107
+      ],
+      "hidden_ability_id": 156
+    }
+  ]
+}

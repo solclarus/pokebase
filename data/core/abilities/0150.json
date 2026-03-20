@@ -1,0 +1,13 @@
+{
+  "id": 150,
+  "identifier": "imposter",
+  "name": {
+    "ja": "かわりもの",
+    "en": "Imposter"
+  },
+  "description": {
+    "ja": "目の前の　ポケモンに変身　してしまう。",
+    "en": "The Pokémon transforms itself into the Pokémon it's facing."
+  },
+  "generation": 5
+}

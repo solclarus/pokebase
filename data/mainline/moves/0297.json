@@ -1,0 +1,18 @@
+{
+  "id": 297,
+  "identifier": "feather-dance",
+  "name": {
+    "ja": "フェザーダンス",
+    "en": "Feather Dance"
+  },
+  "type": "flying",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "羽毛を　ふりまいて相手の　体に　からませる。相手の　攻撃を　がくっと　さげる。",
+    "en": "The user covers the target's body with a mass of down that harshly lowers its Attack stat."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 540,
+  "identifier": "psystrike",
+  "name": {
+    "ja": "サイコブレイク",
+    "en": "Psystrike"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "不思議な　念波を　実体化して相手を　攻撃する。物理的な　ダメージを　与える。",
+    "en": "The user materializes an odd psychic wave to attack the target. This move deals physical damage."
+  }
+}

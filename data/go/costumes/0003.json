@@ -1,0 +1,27 @@
+{
+  "pokemon_id": 3,
+  "costumes": [
+    {
+      "costume_id": "0003-clone",
+      "identifier": "venusaur-clone",
+      "name": {
+        "ja": "フシギバナ（クローン）",
+        "en": "Venusaur (Clone)"
+      },
+      "event": "February 25, 2020",
+      "available_from": "2020-02-25",
+      "available_until": null
+    },
+    {
+      "costume_id": "0003-party_hat",
+      "identifier": "venusaur-party-hat",
+      "name": {
+        "ja": "フシギバナ（パーティーハット）",
+        "en": "Venusaur (Party Hat)"
+      },
+      "event": "July 1, 2025",
+      "available_from": "2025-07-01",
+      "available_until": null
+    }
+  ]
+}

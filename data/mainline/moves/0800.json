@@ -1,0 +1,18 @@
+{
+  "id": 800,
+  "identifier": "meteor-beam",
+  "name": {
+    "ja": "メテオビーム",
+    "en": "Meteor Beam"
+  },
+  "type": "rock",
+  "category": "special",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "１ターン目に　宇宙の　力を集めることで　特攻が　あがり２ターン目に　相手を　攻撃する。",
+    "en": "The user gathers energy from space and boosts its Sp. Atk stat on the first turn, then attacks on the next turn."
+  }
+}

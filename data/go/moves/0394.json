@@ -1,0 +1,13 @@
+{
+  "id": 394,
+  "identifier": "roar-of-time",
+  "name": {
+    "ja": "ときのほうこう",
+    "en": "Roar Of Time"
+  },
+  "type": "dragon",
+  "move_type": "charged",
+  "power": 160,
+  "energy_delta": -100,
+  "duration_ms": 2000
+}

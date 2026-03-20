@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 598,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ナットレイ",
+        "en": "Ferrothorn"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "stats": {
+        "hp": 74,
+        "attack": 94,
+        "defense": 131,
+        "sp_attack": 54,
+        "sp_defense": 116,
+        "speed": 20
+      },
+      "ability_ids": [
+        160
+      ],
+      "hidden_ability_id": 107
+    }
+  ]
+}

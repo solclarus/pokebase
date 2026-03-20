@@ -1,0 +1,18 @@
+{
+  "id": 371,
+  "identifier": "payback",
+  "name": {
+    "ja": "しっぺがえし",
+    "en": "Payback"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "ためこんで　攻撃する。相手より　あとに　攻撃できると技の　威力は　２倍に　なる。",
+    "en": "The user stores power, then attacks. This move's power is doubled if the user moves after the target."
+  }
+}

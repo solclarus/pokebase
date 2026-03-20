@@ -1,0 +1,18 @@
+{
+  "id": 591,
+  "identifier": "diamond-storm",
+  "name": {
+    "ja": "ダイヤストーム",
+    "en": "Diamond Storm"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "generation": 6,
+  "description": {
+    "ja": "ダイヤの　嵐を　巻き起こしダメージを　与える。　自分の防御を　ぐーんと　あげることが　ある。",
+    "en": "The user whips up a storm of diamonds to damage opposing Pokémon. This may also sharply boost the user's Defense stat."
+  }
+}

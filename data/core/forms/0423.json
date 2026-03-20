@@ -1,0 +1,86 @@
+{
+  "pokemon_id": 423,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "トリトドン",
+        "en": "Gastrodon"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "stats": {
+        "hp": 111,
+        "attack": 83,
+        "defense": 68,
+        "sp_attack": 92,
+        "sp_defense": 82,
+        "speed": 39
+      },
+      "ability_ids": [
+        60,
+        114
+      ],
+      "hidden_ability_id": 159
+    },
+    {
+      "id": "east",
+      "order": 1,
+      "name": {
+        "ja": "トリトドン",
+        "en": "Gastrodon"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "stats": {
+        "hp": 111,
+        "attack": 83,
+        "defense": 68,
+        "sp_attack": 92,
+        "sp_defense": 82,
+        "speed": 39
+      },
+      "ability_ids": [
+        60,
+        114
+      ],
+      "hidden_ability_id": 159
+    },
+    {
+      "id": "west",
+      "order": 2,
+      "name": {
+        "ja": "トリトドン",
+        "en": "Gastrodon"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "stats": {
+        "hp": 111,
+        "attack": 83,
+        "defense": 68,
+        "sp_attack": 92,
+        "sp_defense": 82,
+        "speed": 39
+      },
+      "ability_ids": [
+        60,
+        114
+      ],
+      "hidden_ability_id": 159
+    }
+  ]
+}

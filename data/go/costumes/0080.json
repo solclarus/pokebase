@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 80,
+  "costumes": [
+    {
+      "costume_id": "0080-new_year",
+      "identifier": "slowbro-new-year",
+      "name": {
+        "ja": "ヤドラン（お正月）",
+        "en": "Slowbro (New Year)"
+      },
+      "event": "December 31, 2020",
+      "available_from": "2020-12-31",
+      "available_until": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 293,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴニョニョ",
+        "en": "Whismur"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 64,
+        "attack": 51,
+        "defense": 23,
+        "sp_attack": 51,
+        "sp_defense": 23,
+        "speed": 28
+      },
+      "ability_ids": [
+        43
+      ],
+      "hidden_ability_id": 155
+    }
+  ]
+}

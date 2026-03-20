@@ -1,0 +1,18 @@
+{
+  "id": 16,
+  "identifier": "gust",
+  "name": {
+    "ja": "かぜおこし",
+    "en": "Gust"
+  },
+  "type": "flying",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "generation": 1,
+  "description": {
+    "ja": "翼で　おこした　激しい　風を相手に　ぶつけて　攻撃する。",
+    "en": "A gust of wind is whipped up by wings and launched at the target to inflict damage."
+  }
+}

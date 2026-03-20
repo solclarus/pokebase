@@ -1,0 +1,13 @@
+{
+  "id": 181,
+  "identifier": "tough-claws",
+  "name": {
+    "ja": "かたいツメ",
+    "en": "Tough Claws"
+  },
+  "description": {
+    "ja": "相手に　接触する　技の威力が　高くなる。",
+    "en": "Powers up moves that make direct contact."
+  },
+  "generation": 6
+}

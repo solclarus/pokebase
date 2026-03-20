@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 833,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カムカメ",
+        "en": "Chewtle"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "sp_attack": 38,
+        "sp_defense": 38,
+        "speed": 44
+      },
+      "ability_ids": [
+        173,
+        75
+      ],
+      "hidden_ability_id": 33
+    }
+  ]
+}

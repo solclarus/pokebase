@@ -1,0 +1,13 @@
+{
+  "id": 23,
+  "identifier": "shadow-tag",
+  "name": {
+    "ja": "かげふみ",
+    "en": "Shadow Tag"
+  },
+  "description": {
+    "ja": "相手の　影を　踏み逃げたり　交代　できなくする。",
+    "en": "The Pokémon steps on the opposing Pokémon's shadows to prevent them from fleeing or switching out."
+  },
+  "generation": 3
+}

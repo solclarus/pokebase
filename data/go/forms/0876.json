@@ -1,0 +1,35 @@
+{
+  "pokemon_id": 876,
+  "forms": [
+    {
+      "form_id": "male",
+      "base_attack": 208,
+      "base_defense": 166,
+      "base_stamina": 155,
+      "fast_move_ids": [
+        274
+      ],
+      "charged_move_ids": [
+        30,
+        108,
+        273
+      ],
+      "released_at": "2025-09-16",
+      "shiny_released_at": "2025-09-16",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "female",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

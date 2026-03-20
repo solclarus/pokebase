@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 721,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ボルケニオン",
+        "en": "Volcanion"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fire",
+        "water"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 110,
+        "defense": 120,
+        "sp_attack": 130,
+        "sp_defense": 90,
+        "speed": 70
+      },
+      "ability_ids": [
+        11
+      ]
+    }
+  ]
+}

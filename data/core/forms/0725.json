@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 725,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ニャビー",
+        "en": "Litten"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 65,
+        "defense": 40,
+        "sp_attack": 60,
+        "sp_defense": 40,
+        "speed": 70
+      },
+      "ability_ids": [
+        66
+      ],
+      "hidden_ability_id": 22
+    }
+  ]
+}

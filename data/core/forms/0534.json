@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 534,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ローブシン",
+        "en": "Conkeldurr"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 140,
+        "defense": 95,
+        "sp_attack": 55,
+        "sp_defense": 65,
+        "speed": 45
+      },
+      "ability_ids": [
+        62,
+        125
+      ],
+      "hidden_ability_id": 89
+    }
+  ]
+}

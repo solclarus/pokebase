@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 428,
+  "costumes": [
+    {
+      "costume_id": "0428-flower",
+      "identifier": "lopunny-flower",
+      "name": {
+        "ja": "ミミロップ（はなかんむり）",
+        "en": "Lopunny (Flower)"
+      },
+      "event": "April 12, 2022",
+      "available_from": "2022-04-12",
+      "available_until": null
+    }
+  ]
+}

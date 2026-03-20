@@ -1,0 +1,13 @@
+{
+  "id": 187,
+  "identifier": "fairy-aura",
+  "name": {
+    "ja": "フェアリーオーラ",
+    "en": "Fairy Aura"
+  },
+  "description": {
+    "ja": "全員の　フェアリータイプの技が　強くなる。",
+    "en": "Powers up each Pokémon’s Fairy-type moves."
+  },
+  "generation": 6
+}

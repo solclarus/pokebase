@@ -1,0 +1,18 @@
+{
+  "id": 579,
+  "identifier": "flower-shield",
+  "name": {
+    "ja": "フラワーガード",
+    "en": "Flower Shield"
+  },
+  "type": "fairy",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "不思議な　力を　使って場にいる　くさタイプの　ポケモン全員の　防御を　あげる。",
+    "en": "The user raises the Defense stats of all Grass-type Pokémon in battle with a mysterious power."
+  }
+}

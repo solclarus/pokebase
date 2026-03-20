@@ -1,0 +1,18 @@
+{
+  "id": 830,
+  "identifier": "stone-axe",
+  "name": {
+    "ja": "がんせきアックス",
+    "en": "Stone Axe"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 90,
+  "pp": 15,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user swings its stone axes at the target. Stone splinters left behind by this attack float around the target."
+  }
+}

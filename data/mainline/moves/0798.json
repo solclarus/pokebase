@@ -1,0 +1,18 @@
+{
+  "id": 798,
+  "identifier": "steel-roller",
+  "name": {
+    "ja": "アイアンローラー",
+    "en": "Steel Roller"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "フィールドを　破壊しながら　攻撃。なんらかの　フィールド状態に変わっていないと　技は　失敗する。",
+    "en": "The user attacks while destroying the terrain. This move fails if the ground hasn't turned into a terrain."
+  }
+}

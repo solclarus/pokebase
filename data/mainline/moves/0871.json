@@ -1,0 +1,18 @@
+{
+  "id": 871,
+  "identifier": "torch-song",
+  "name": {
+    "ja": "フレアソング",
+    "en": "Torch Song"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user blows out raging flames as if singing a song, scorching the target. This also boosts the user's Sp. Atk stat."
+  }
+}

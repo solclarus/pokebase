@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 279,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ペリッパー",
+        "en": "Pelipper"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 100,
+        "sp_attack": 95,
+        "sp_defense": 70,
+        "speed": 65
+      },
+      "ability_ids": [
+        51,
+        2
+      ],
+      "hidden_ability_id": 44
+    }
+  ]
+}

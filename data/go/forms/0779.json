@@ -1,0 +1,26 @@
+{
+  "pokemon_id": 779,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 208,
+      "base_defense": 145,
+      "base_stamina": 169,
+      "fast_move_ids": [
+        230,
+        235,
+        202
+      ],
+      "charged_move_ids": [
+        353,
+        58,
+        279,
+        60
+      ],
+      "released_at": "2023-03-08",
+      "shiny_released_at": "2025-03-13",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

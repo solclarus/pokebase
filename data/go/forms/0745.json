@@ -1,0 +1,50 @@
+{
+  "pokemon_id": 745,
+  "forms": [
+    {
+      "form_id": "midday",
+      "base_attack": 218,
+      "base_defense": 152,
+      "base_stamina": 198,
+      "fast_move_ids": [
+        203,
+        243,
+        227
+      ],
+      "charged_move_ids": [
+        32,
+        74,
+        279,
+        392
+      ],
+      "released_at": "2022-03-01",
+      "shiny_released_at": "2022-03-01",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "midnight",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2022-03-01",
+      "shiny_released_at": "2022-03-01",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "dusk",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2024-01-06",
+      "shiny_released_at": "2024-01-06",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 581,
+  "identifier": "misty-terrain",
+  "name": {
+    "ja": "ミストフィールド",
+    "en": "Misty Terrain"
+  },
+  "type": "fairy",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "５ターンの　間　地面にいると状態異常に　ならず　ドラゴン技のダメージも　半分になる。",
+    "en": "This protects Pokémon on the ground from status conditions and halves damage from Dragon-type moves for five turns."
+  }
+}

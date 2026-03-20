@@ -1,0 +1,18 @@
+{
+  "id": 418,
+  "identifier": "bullet-punch",
+  "name": {
+    "ja": "バレットパンチ",
+    "en": "Bullet Punch"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 4,
+  "description": {
+    "ja": "弾丸の　ような　速くて　硬いパンチを　相手に　くりだす。必ず　先制攻撃　できる。",
+    "en": "The user strikes the target with tough punches as fast as bullets. This move always goes first."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 127,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カイロス",
+        "en": "Pinsir"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 125,
+        "defense": 100,
+        "sp_attack": 55,
+        "sp_defense": 70,
+        "speed": 85
+      },
+      "ability_ids": [
+        52,
+        104
+      ],
+      "hidden_ability_id": 153
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガカイロス",
+        "en": "Mega Pinsir"
+      },
+      "form_type": "mega",
+      "region": "kanto",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 155,
+        "defense": 120,
+        "sp_attack": 65,
+        "sp_defense": 90,
+        "speed": 105
+      },
+      "ability_ids": [
+        177
+      ]
+    }
+  ]
+}

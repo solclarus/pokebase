@@ -1,0 +1,13 @@
+{
+  "id": 135,
+  "identifier": "light-metal",
+  "name": {
+    "ja": "ライトメタル",
+    "en": "Light Metal"
+  },
+  "description": {
+    "ja": "自分の　重さが半分に　なる。",
+    "en": "Halves the Pokémon's weight."
+  },
+  "generation": 5
+}

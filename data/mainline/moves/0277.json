@@ -1,0 +1,18 @@
+{
+  "id": 277,
+  "identifier": "magic-coat",
+  "name": {
+    "ja": "マジックコート",
+    "en": "Magic Coat"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "状態異常に　なる　技ややどりぎのタネ　などをだされたとき　相手に　跳ね返す。",
+    "en": "Moves like Leech Seed and moves that inflict status conditions are blocked by a barrier and reflected back to the user of those moves."
+  }
+}

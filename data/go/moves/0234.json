@@ -1,0 +1,13 @@
+{
+  "id": 234,
+  "identifier": "zen-headbutt",
+  "name": {
+    "ja": "しねんのずつき",
+    "en": "Zen Headbutt"
+  },
+  "type": "psychic",
+  "move_type": "fast",
+  "power": 11,
+  "energy_delta": 9,
+  "duration_ms": 1000
+}

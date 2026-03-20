@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 411,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "トリデプス",
+        "en": "Bastiodon"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 52,
+        "defense": 168,
+        "sp_attack": 47,
+        "sp_defense": 138,
+        "speed": 30
+      },
+      "ability_ids": [
+        5
+      ],
+      "hidden_ability_id": 43
+    }
+  ]
+}

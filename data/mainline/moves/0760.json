@@ -1,0 +1,18 @@
+{
+  "id": 760,
+  "identifier": "max-strike",
+  "name": {
+    "ja": "ダイアタック",
+    "en": "Max Strike"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　ノーマルタイプの　攻撃。相手の　素早さを　下げる。",
+    "en": "This is a Normal-type attack Dynamax Pokémon use. This lowers the target’s Speed stat."
+  }
+}

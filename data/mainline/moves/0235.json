@@ -1,0 +1,18 @@
+{
+  "id": 235,
+  "identifier": "synthesis",
+  "name": {
+    "ja": "こうごうせい",
+    "en": "Synthesis"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "自分の　ＨＰを　回復する。天気に　よって回復の　量が　変化する。",
+    "en": "The user restores its own HP. The amount of HP regained varies with the weather."
+  }
+}

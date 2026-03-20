@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 199,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤドキング",
+        "en": "Slowking"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 75,
+        "defense": 80,
+        "sp_attack": 100,
+        "sp_defense": 110,
+        "speed": 30
+      },
+      "ability_ids": [
+        12,
+        20
+      ],
+      "hidden_ability_id": 144
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "ヤドキング（ガラルのすがた）",
+        "en": "Galarian Slowking"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "poison",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 65,
+        "defense": 80,
+        "sp_attack": 110,
+        "sp_defense": 110,
+        "speed": 30
+      },
+      "ability_ids": [
+        258
+      ],
+      "hidden_ability_id": 223
+    }
+  ]
+}

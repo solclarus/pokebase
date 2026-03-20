@@ -1,0 +1,13 @@
+{
+  "id": 39,
+  "identifier": "ice-beam",
+  "name": {
+    "ja": "れいとうビーム",
+    "en": "Ice Beam"
+  },
+  "type": "ice",
+  "move_type": "charged",
+  "power": 95,
+  "energy_delta": -50,
+  "duration_ms": 3500
+}

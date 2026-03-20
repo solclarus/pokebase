@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 796,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "デンジュモク",
+        "en": "Xurkitree"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 83,
+        "attack": 89,
+        "defense": 71,
+        "sp_attack": 173,
+        "sp_defense": 71,
+        "speed": 83
+      },
+      "ability_ids": [
+        224
+      ]
+    }
+  ]
+}

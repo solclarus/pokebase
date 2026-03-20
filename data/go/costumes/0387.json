@@ -1,0 +1,27 @@
+{
+  "pokemon_id": 387,
+  "costumes": [
+    {
+      "costume_id": "0387-red_hat",
+      "identifier": "turtwig-red-hat",
+      "name": {
+        "ja": "ナエトル（レッドキャップ）",
+        "en": "Turtwig (Red Hat)"
+      },
+      "event": "November 16, 2021",
+      "available_from": "2021-11-16",
+      "available_until": null
+    },
+    {
+      "costume_id": "0387-white_hat",
+      "identifier": "turtwig-white-hat",
+      "name": {
+        "ja": "ナエトル（ホワイトキャップ）",
+        "en": "Turtwig (White Hat)"
+      },
+      "event": "November 16, 2021",
+      "available_from": "2021-11-16",
+      "available_until": null
+    }
+  ]
+}

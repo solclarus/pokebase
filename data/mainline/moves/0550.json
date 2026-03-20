@@ -1,0 +1,18 @@
+{
+  "id": 550,
+  "identifier": "bolt-strike",
+  "name": {
+    "ja": "らいげき",
+    "en": "Bolt Strike"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 130,
+  "accuracy": 85,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "ぼうだいな　電気を　身に　まとって相手に　突進して　攻撃する。まひ状態に　することが　ある。",
+    "en": "The user surrounds itself with a great amount of electricity and charges the target. This may also leave the target with paralysis."
+  }
+}

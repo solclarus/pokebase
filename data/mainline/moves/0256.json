@@ -1,0 +1,18 @@
+{
+  "id": 256,
+  "identifier": "swallow",
+  "name": {
+    "ja": "のみこむ",
+    "en": "Swallow"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "蓄えた　力を　のみこんで自分の　ＨＰを　回復する。蓄えているほど　回復する。",
+    "en": "The power stored using the move Stockpile is absorbed by the user to restore its own HP. The more power is stored, the more HP is restored."
+  }
+}

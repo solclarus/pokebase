@@ -1,0 +1,13 @@
+{
+  "id": 214,
+  "identifier": "queenly-majesty",
+  "name": {
+    "ja": "じょおうのいげん",
+    "en": "Queenly Majesty"
+  },
+  "description": {
+    "ja": "相手に　威圧感を　あたえこちらに　むかって　先制技を出せない　ようにする。",
+    "en": "When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
+  },
+  "generation": 7
+}

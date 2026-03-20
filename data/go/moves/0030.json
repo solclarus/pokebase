@@ -1,0 +1,13 @@
+{
+  "id": 30,
+  "identifier": "psybeam",
+  "name": {
+    "ja": "サイケこうせん",
+    "en": "Psybeam"
+  },
+  "type": "psychic",
+  "move_type": "charged",
+  "power": 65,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

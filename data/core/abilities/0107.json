@@ -1,0 +1,13 @@
+{
+  "id": 107,
+  "identifier": "anticipation",
+  "name": {
+    "ja": "きけんよち",
+    "en": "Anticipation"
+  },
+  "description": {
+    "ja": "相手の　持つ　危険な　技を察知する　ことができる。",
+    "en": "The Pokémon can sense an opposing Pokémon's dangerous moves."
+  },
+  "generation": 4
+}

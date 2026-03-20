@@ -1,0 +1,18 @@
+{
+  "id": 693,
+  "identifier": "brutal-swing",
+  "name": {
+    "ja": "ぶんまわす",
+    "en": "Brutal Swing"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 7,
+  "description": {
+    "ja": "自分の　体をぶんまわして　相手にダメージを　与える。",
+    "en": "The user swings its body around violently to inflict damage on everything in its vicinity."
+  }
+}

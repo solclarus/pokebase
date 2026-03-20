@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 810,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サルノリ",
+        "en": "Grookey"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 50,
+        "sp_attack": 40,
+        "sp_defense": 40,
+        "speed": 65
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 229
+    }
+  ]
+}

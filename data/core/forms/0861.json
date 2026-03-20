@@ -1,0 +1,59 @@
+{
+  "pokemon_id": 861,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オーロンゲ",
+        "en": "Grimmsnarl"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 120,
+        "defense": 65,
+        "sp_attack": 95,
+        "sp_defense": 75,
+        "speed": 60
+      },
+      "ability_ids": [
+        158,
+        119
+      ],
+      "hidden_ability_id": 124
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスオーロンゲ",
+        "en": "Gigantamax Grimmsnarl"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 120,
+        "defense": 65,
+        "sp_attack": 95,
+        "sp_defense": 75,
+        "speed": 60
+      },
+      "ability_ids": [
+        158,
+        119
+      ],
+      "hidden_ability_id": 124
+    }
+  ]
+}

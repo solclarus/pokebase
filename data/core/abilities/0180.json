@@ -1,0 +1,13 @@
+{
+  "id": 180,
+  "identifier": "symbiosis",
+  "name": {
+    "ja": "きょうせい",
+    "en": "Symbiosis"
+  },
+  "description": {
+    "ja": "味方が　道具を　使うと自分の　持っている　道具を味方に　渡す。",
+    "en": "The Pokémon passes its held item to an ally that has used up an item."
+  },
+  "generation": 6
+}

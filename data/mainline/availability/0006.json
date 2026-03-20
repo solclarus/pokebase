@@ -1,0 +1,25 @@
+{
+  "pokemon_id": 6,
+  "entries": [
+    {
+      "game_id": "scarlet",
+      "availability_type": "transfer",
+      "notes": "ポケモンHOMEから転送"
+    },
+    {
+      "game_id": "violet",
+      "availability_type": "transfer",
+      "notes": "ポケモンHOMEから転送"
+    },
+    {
+      "game_id": "sword",
+      "availability_type": "wild",
+      "notes": "マックスレイドバトル"
+    },
+    {
+      "game_id": "shield",
+      "availability_type": "wild",
+      "notes": "マックスレイドバトル"
+    }
+  ]
+}

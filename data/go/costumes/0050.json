@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 50,
+  "costumes": [
+    {
+      "costume_id": "0050-hat",
+      "identifier": "diglett-hat",
+      "name": {
+        "ja": "ディグダ（ぼうし）",
+        "en": "Diglett (Hat)"
+      },
+      "event": "September 27, 2022",
+      "available_from": "2022-09-27",
+      "available_until": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 566,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アーケン",
+        "en": "Archen"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 112,
+        "defense": 45,
+        "sp_attack": 74,
+        "sp_defense": 45,
+        "speed": 70
+      },
+      "ability_ids": [
+        129
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 722,
+  "identifier": "photon-geyser",
+  "name": {
+    "ja": "フォトンゲイザー",
+    "en": "Photon Geyser"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 7,
+  "description": {
+    "ja": "光の　柱で　攻撃する。攻撃と　特攻を　比べて高いほうで　ダメージを　与える。",
+    "en": "The user attacks the target with a pillar of light. This move inflicts damage using the Attack or Sp. Atk stat—whichever is higher for the user."
+  }
+}

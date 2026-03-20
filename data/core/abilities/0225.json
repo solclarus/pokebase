@@ -1,0 +1,13 @@
+{
+  "id": 225,
+  "identifier": "rks-system",
+  "name": {
+    "ja": "ＡＲシステム",
+    "en": "RKS System"
+  },
+  "description": {
+    "ja": "持っている　メモリで自分の　タイプが　変わる。",
+    "en": "Changes the Pokémon’s type to match the memory disc it holds."
+  },
+  "generation": 7
+}

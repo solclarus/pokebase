@@ -1,0 +1,13 @@
+{
+  "id": 320,
+  "identifier": "charm",
+  "name": {
+    "ja": "あまえる",
+    "en": "Charm"
+  },
+  "type": "fairy",
+  "move_type": "fast",
+  "power": 20,
+  "energy_delta": 11,
+  "duration_ms": 1500
+}

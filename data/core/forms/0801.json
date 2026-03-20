@@ -1,0 +1,101 @@
+{
+  "pokemon_id": 801,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マギアナ",
+        "en": "Magearna"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 95,
+        "defense": 115,
+        "sp_attack": 130,
+        "sp_defense": 115,
+        "speed": 65
+      },
+      "ability_ids": [
+        220
+      ]
+    },
+    {
+      "id": "original",
+      "order": 1,
+      "name": {
+        "ja": "マギアナ",
+        "en": "Magearna"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 95,
+        "defense": 115,
+        "sp_attack": 130,
+        "sp_defense": 115,
+        "speed": 65
+      },
+      "ability_ids": [
+        220
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 2,
+      "name": {
+        "ja": "メガマギアナ",
+        "en": "Mega Magearna"
+      },
+      "form_type": "mega",
+      "region": "alola",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 125,
+        "defense": 115,
+        "sp_attack": 170,
+        "sp_defense": 115,
+        "speed": 95
+      },
+      "ability_ids": []
+    },
+    {
+      "id": "original-mega",
+      "order": 3,
+      "name": {
+        "ja": "メガオリジナルマギアナ",
+        "en": "Mega Original Color Magearna"
+      },
+      "form_type": "mega",
+      "region": "alola",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 125,
+        "defense": 115,
+        "sp_attack": 170,
+        "sp_defense": 115,
+        "speed": 95
+      },
+      "ability_ids": []
+    }
+  ]
+}

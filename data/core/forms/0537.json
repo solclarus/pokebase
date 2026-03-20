@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 537,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ガマゲロゲ",
+        "en": "Seismitoad"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 95,
+        "defense": 75,
+        "sp_attack": 85,
+        "sp_defense": 75,
+        "speed": 74
+      },
+      "ability_ids": [
+        33,
+        143
+      ],
+      "hidden_ability_id": 11
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "pokemon_id": 1024,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テラパゴス",
+        "en": "Terapagos"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 65,
+        "defense": 85,
+        "sp_attack": 65,
+        "sp_defense": 85,
+        "speed": 60
+      },
+      "ability_ids": [
+        304
+      ]
+    },
+    {
+      "id": "terastal",
+      "order": 1,
+      "name": {
+        "ja": "テラスタルフォルム",
+        "en": "Terastal Form"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 110,
+        "sp_attack": 105,
+        "sp_defense": 110,
+        "speed": 85
+      },
+      "ability_ids": [
+        305
+      ]
+    },
+    {
+      "id": "stellar",
+      "order": 2,
+      "name": {
+        "ja": "ステラフォルム",
+        "en": "Stellar Form"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 160,
+        "attack": 105,
+        "defense": 110,
+        "sp_attack": 130,
+        "sp_defense": 110,
+        "speed": 85
+      },
+      "ability_ids": [
+        306
+      ]
+    }
+  ]
+}

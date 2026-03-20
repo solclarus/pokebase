@@ -1,0 +1,18 @@
+{
+  "id": 147,
+  "identifier": "spore",
+  "name": {
+    "ja": "キノコのほうし",
+    "en": "Spore"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "催眠効果の　ある胞子を　パラパラと　ふりまき相手を　眠り状態に　する。",
+    "en": "The user scatters bursts of spores that induce sleep."
+  }
+}

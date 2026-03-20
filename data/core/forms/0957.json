@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 957,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カヌチャン",
+        "en": "Tinkatink"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 45,
+        "defense": 45,
+        "sp_attack": 35,
+        "sp_defense": 64,
+        "speed": 58
+      },
+      "ability_ids": [
+        104,
+        20
+      ],
+      "hidden_ability_id": 124
+    }
+  ]
+}

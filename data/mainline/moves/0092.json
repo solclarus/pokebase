@@ -1,0 +1,18 @@
+{
+  "id": 92,
+  "identifier": "toxic",
+  "name": {
+    "ja": "どくどく",
+    "en": "Toxic"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "相手を　猛毒の　状態に　する。ターンが　すすむほど毒の　ダメージが　増えていく。",
+    "en": "A move that leaves the target badly poisoned. Its poison damage worsens every turn."
+  }
+}

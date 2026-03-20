@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 900,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バサギリ",
+        "en": "Kleavor"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "bug",
+        "rock"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 135,
+        "defense": 95,
+        "sp_attack": 45,
+        "sp_defense": 70,
+        "speed": 85
+      },
+      "ability_ids": [
+        68,
+        125
+      ],
+      "hidden_ability_id": 292
+    }
+  ]
+}

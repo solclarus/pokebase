@@ -1,0 +1,18 @@
+{
+  "id": 820,
+  "identifier": "dragon-energy",
+  "name": {
+    "ja": "ドラゴンエナジー",
+    "en": "Dragon Energy"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "生命力を　パワーに　変え　相手を攻撃する。　自分の　ＨＰが　少ないほど技の　威力は　さがる。",
+    "en": "Converting its life-force into power, the user attacks opposing Pokémon. The lower the user's HP, the lower the move's power."
+  }
+}

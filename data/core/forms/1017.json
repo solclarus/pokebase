@@ -1,0 +1,104 @@
+{
+  "pokemon_id": 1017,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オーガポン",
+        "en": "Ogerpon"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 84,
+        "sp_attack": 60,
+        "sp_defense": 96,
+        "speed": 110
+      },
+      "ability_ids": [
+        128
+      ]
+    },
+    {
+      "id": "wellspring-mask",
+      "order": 1,
+      "name": {
+        "ja": "いどのめん",
+        "en": "Wellspring Mask"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "grass",
+        "water"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 84,
+        "sp_attack": 60,
+        "sp_defense": 96,
+        "speed": 110
+      },
+      "ability_ids": [
+        11
+      ]
+    },
+    {
+      "id": "hearthflame-mask",
+      "order": 2,
+      "name": {
+        "ja": "かまどのめん",
+        "en": "Hearthflame Mask"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "grass",
+        "fire"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 84,
+        "sp_attack": 60,
+        "sp_defense": 96,
+        "speed": 110
+      },
+      "ability_ids": [
+        104
+      ]
+    },
+    {
+      "id": "cornerstone-mask",
+      "order": 3,
+      "name": {
+        "ja": "いしずえのめん",
+        "en": "Cornerstone Mask"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "grass",
+        "rock"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 84,
+        "sp_attack": 60,
+        "sp_defense": 96,
+        "speed": 110
+      },
+      "ability_ids": [
+        5
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 51,
+  "identifier": "acid",
+  "name": {
+    "ja": "ようかいえき",
+    "en": "Acid"
+  },
+  "type": "poison",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "強い　酸を　相手に　かけて攻撃する。　相手の　特防をさげることが　ある。",
+    "en": "Opposing Pokémon are attacked with a spray of harsh acid. This may also lower their Sp. Def stats."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 712,
+  "identifier": "spectral-thief",
+  "name": {
+    "ja": "シャドースチール",
+    "en": "Spectral Thief"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "相手の　影に　潜り込み相手の　能力アップを奪って　攻撃する。",
+    "en": "The user hides in the target’s shadow, steals the target’s stat boosts, and then attacks."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 546,
+  "costumes": [
+    {
+      "costume_id": "0546-flower",
+      "identifier": "cottonee-flower",
+      "name": {
+        "ja": "モンメン（はなかんむり）",
+        "en": "Cottonee (Flower)"
+      },
+      "event": "March 21, 2024",
+      "available_from": "2024-03-21",
+      "available_until": null
+    }
+  ]
+}

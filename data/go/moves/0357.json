@@ -1,0 +1,13 @@
+{
+  "id": 357,
+  "identifier": "magical-leaf",
+  "name": {
+    "ja": "マジカルリーフ",
+    "en": "Magical Leaf"
+  },
+  "type": "grass",
+  "move_type": "fast",
+  "power": 17,
+  "energy_delta": 17,
+  "duration_ms": 1500
+}

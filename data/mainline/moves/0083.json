@@ -1,0 +1,18 @@
+{
+  "id": 83,
+  "identifier": "fire-spin",
+  "name": {
+    "ja": "ほのおのうず",
+    "en": "Fire Spin"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 35,
+  "accuracy": 85,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "激しく　渦をまく　炎の中に４ー５ターンの　間相手を　閉じこめて　攻撃する。",
+    "en": "The user traps the target inside a fierce vortex of fire that inflicts damage for four to five turns."
+  }
+}

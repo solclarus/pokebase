@@ -1,0 +1,13 @@
+{
+  "id": 307,
+  "identifier": "poison-puppeteer",
+  "name": {
+    "ja": "どくくぐつ",
+    "en": "Poison Puppeteer"
+  },
+  "description": {
+    "ja": "モモワロウの技によってどく状態になった相手はこんらん状態にもなってしまう。",
+    "en": "Pokémon poisoned by Pecharunt's moves will also become confused."
+  },
+  "generation": 9
+}

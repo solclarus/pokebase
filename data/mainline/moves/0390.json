@@ -1,0 +1,18 @@
+{
+  "id": 390,
+  "identifier": "toxic-spikes",
+  "name": {
+    "ja": "どくびし",
+    "en": "Toxic Spikes"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "相手の　足下に　どくびしをしかける。　交代で　でてきた　相手のポケモンに　毒を　おわせる。",
+    "en": "The user lays a trap of poison spikes at the feet of the opposing team. The spikes will poison opposing Pokémon that switch into battle."
+  }
+}

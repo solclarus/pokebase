@@ -1,0 +1,13 @@
+{
+  "id": 235,
+  "identifier": "confusion",
+  "name": {
+    "ja": "ねんりき",
+    "en": "Confusion"
+  },
+  "type": "psychic",
+  "move_type": "fast",
+  "power": 19,
+  "energy_delta": 14,
+  "duration_ms": 1500
+}

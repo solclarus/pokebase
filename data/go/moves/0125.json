@@ -1,0 +1,13 @@
+{
+  "id": 125,
+  "identifier": "swift",
+  "name": {
+    "ja": "スピードスター",
+    "en": "Swift"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 65,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

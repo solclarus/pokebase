@@ -1,0 +1,18 @@
+{
+  "id": 689,
+  "identifier": "instruct",
+  "name": {
+    "ja": "さいはい",
+    "en": "Instruct"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 7,
+  "description": {
+    "ja": "相手が　出した　技を指示して　もう一度出させることが　できる。",
+    "en": "The user instructs the target to reuse the move last used by the target."
+  }
+}

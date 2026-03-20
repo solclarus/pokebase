@@ -1,0 +1,18 @@
+{
+  "id": 589,
+  "identifier": "play-nice",
+  "name": {
+    "ja": "なかよくする",
+    "en": "Play Nice"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "相手と　なかよくなって戦う　気力を　失わせ相手の　攻撃を　さげる。",
+    "en": "The user and the target become friends, and the target loses its will to fight. This lowers the target's Attack stat."
+  }
+}

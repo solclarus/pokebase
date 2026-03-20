@@ -1,0 +1,18 @@
+{
+  "id": 17,
+  "identifier": "wing-attack",
+  "name": {
+    "ja": "つばさでうつ",
+    "en": "Wing Attack"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 35,
+  "generation": 1,
+  "description": {
+    "ja": "大きく　ひろげた　りっぱな　翼を相手に　ぶつけて　攻撃する。",
+    "en": "The target is struck with large, imposing wings spread wide to inflict damage."
+  }
+}

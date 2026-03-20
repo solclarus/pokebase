@@ -1,0 +1,18 @@
+{
+  "id": 57,
+  "identifier": "surf",
+  "name": {
+    "ja": "なみのり",
+    "en": "Surf"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "大きな　波で　自分の周りに　いるものを　攻撃する。",
+    "en": "The user attacks everything around it by swamping its surroundings with a giant wave."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 16,
+  "identifier": "dark-pulse",
+  "name": {
+    "ja": "あくのはどう",
+    "en": "Dark Pulse"
+  },
+  "type": "dark",
+  "move_type": "charged",
+  "power": 80,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

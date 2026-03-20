@@ -1,0 +1,79 @@
+{
+  "pokemon_id": 9,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カメックス",
+        "en": "Blastoise"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 79,
+        "attack": 83,
+        "defense": 100,
+        "sp_attack": 85,
+        "sp_defense": 105,
+        "speed": 78
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 44
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガカメックス",
+        "en": "Mega Blastoise"
+      },
+      "form_type": "mega",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 79,
+        "attack": 103,
+        "defense": 120,
+        "sp_attack": 135,
+        "sp_defense": 115,
+        "speed": 78
+      },
+      "ability_ids": [
+        178
+      ]
+    },
+    {
+      "id": "gigantamax",
+      "order": 2,
+      "name": {
+        "ja": "キョダイマックスカメックス",
+        "en": "Gigantamax Blastoise"
+      },
+      "form_type": "gigantamax",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 79,
+        "attack": 83,
+        "defense": 100,
+        "sp_attack": 85,
+        "sp_defense": 105,
+        "speed": 78
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 44
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pokemon_id": 604,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "シビルドン",
+        "en": "Eelektross"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 115,
+        "defense": 80,
+        "sp_attack": 105,
+        "sp_defense": 80,
+        "speed": 50
+      },
+      "ability_ids": [
+        26
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガシビルドン",
+        "en": "Mega Eelektross"
+      },
+      "form_type": "mega",
+      "region": "unova",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 145,
+        "defense": 80,
+        "sp_attack": 135,
+        "sp_defense": 90,
+        "speed": 80
+      },
+      "ability_ids": []
+    }
+  ]
+}

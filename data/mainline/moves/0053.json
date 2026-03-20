@@ -1,0 +1,18 @@
+{
+  "id": 53,
+  "identifier": "flamethrower",
+  "name": {
+    "ja": "かえんほうしゃ",
+    "en": "Flamethrower"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "激しい　炎を相手に　発射して　攻撃する。やけど状態に　することが　ある。",
+    "en": "The target is scorched with an intense blast of fire. This may also leave the target with a burn."
+  }
+}

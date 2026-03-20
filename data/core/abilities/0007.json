@@ -1,0 +1,13 @@
+{
+  "id": 7,
+  "identifier": "limber",
+  "name": {
+    "ja": "じゅうなん",
+    "en": "Limber"
+  },
+  "description": {
+    "ja": "柔軟な　体によってまひ状態に　ならない。",
+    "en": "The Pokémon's limber body prevents it from being paralyzed."
+  },
+  "generation": 3
+}

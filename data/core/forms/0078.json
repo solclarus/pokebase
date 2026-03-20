@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 78,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ギャロップ",
+        "en": "Rapidash"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 100,
+        "defense": 70,
+        "sp_attack": 80,
+        "sp_defense": 80,
+        "speed": 105
+      },
+      "ability_ids": [
+        50,
+        18
+      ],
+      "hidden_ability_id": 49
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "ギャロップ（ガラルのすがた）",
+        "en": "Galarian Rapidash"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 100,
+        "defense": 70,
+        "sp_attack": 80,
+        "sp_defense": 80,
+        "speed": 105
+      },
+      "ability_ids": [
+        50,
+        257
+      ],
+      "hidden_ability_id": 107
+    }
+  ]
+}

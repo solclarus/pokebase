@@ -1,0 +1,104 @@
+{
+  "pokemon_id": 658,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゲッコウガ",
+        "en": "Greninja"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats": {
+        "hp": 72,
+        "attack": 95,
+        "defense": 67,
+        "sp_attack": 103,
+        "sp_defense": 71,
+        "speed": 122
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 168
+    },
+    {
+      "id": "battle-bond",
+      "order": 1,
+      "name": {
+        "ja": "greninja-battle-bond",
+        "en": "Battle Bond Greninja"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats": {
+        "hp": 72,
+        "attack": 95,
+        "defense": 67,
+        "sp_attack": 103,
+        "sp_defense": 71,
+        "speed": 122
+      },
+      "ability_ids": [
+        210
+      ]
+    },
+    {
+      "id": "ash",
+      "order": 2,
+      "name": {
+        "ja": "サトシゲッコウガ",
+        "en": "Ash-Greninja"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats": {
+        "hp": 72,
+        "attack": 145,
+        "defense": 67,
+        "sp_attack": 153,
+        "sp_defense": 71,
+        "speed": 132
+      },
+      "ability_ids": [
+        210
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 3,
+      "name": {
+        "ja": "メガゲッコウガ",
+        "en": "Mega Greninja"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats": {
+        "hp": 72,
+        "attack": 125,
+        "defense": 77,
+        "sp_attack": 133,
+        "sp_defense": 81,
+        "speed": 142
+      },
+      "ability_ids": []
+    }
+  ]
+}

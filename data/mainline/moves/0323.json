@@ -1,0 +1,18 @@
+{
+  "id": 323,
+  "identifier": "water-spout",
+  "name": {
+    "ja": "しおふき",
+    "en": "Water Spout"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "潮を　吹きつけて　攻撃する。自分の　ＨＰが　少ないほど技の　威力は　さがる。",
+    "en": "The user spouts water to damage opposing Pokémon. The lower the user's HP, the lower the move's power."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 394,
+  "identifier": "flare-blitz",
+  "name": {
+    "ja": "フレアドライブ",
+    "en": "Flare Blitz"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "炎を　まとって　突進する。自分も　かなり　ダメージを　受ける。やけど状態に　することが　ある。",
+    "en": "The user cloaks itself in fire and charges the target to inflict damage. This also damages the user quite a lot and may leave the target with a burn."
+  }
+}

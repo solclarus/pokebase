@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 832,
+  "costumes": [
+    {
+      "costume_id": "0832-holiday",
+      "identifier": "dubwool-holiday",
+      "name": {
+        "ja": "バイウールー（ホリデー）",
+        "en": "Dubwool (Holiday)"
+      },
+      "event": "December 22, 2024",
+      "available_from": "2024-12-22",
+      "available_until": null
+    }
+  ]
+}

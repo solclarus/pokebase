@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 872,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ユキハミ",
+        "en": "Snom"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 25,
+        "defense": 35,
+        "sp_attack": 45,
+        "sp_defense": 30,
+        "speed": 20
+      },
+      "ability_ids": [
+        19
+      ],
+      "hidden_ability_id": 246
+    }
+  ]
+}

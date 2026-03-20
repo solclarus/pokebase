@@ -1,0 +1,13 @@
+{
+  "id": 103,
+  "identifier": "fire-blast",
+  "name": {
+    "ja": "だいもんじ",
+    "en": "Fire Blast"
+  },
+  "type": "fire",
+  "move_type": "charged",
+  "power": 140,
+  "energy_delta": -100,
+  "duration_ms": 4000
+}

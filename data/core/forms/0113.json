@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 113,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ラッキー",
+        "en": "Chansey"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 250,
+        "attack": 5,
+        "defense": 5,
+        "sp_attack": 35,
+        "sp_defense": 105,
+        "speed": 50
+      },
+      "ability_ids": [
+        30,
+        32
+      ],
+      "hidden_ability_id": 131
+    }
+  ]
+}

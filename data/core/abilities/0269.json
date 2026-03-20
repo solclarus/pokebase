@@ -1,0 +1,13 @@
+{
+  "id": 269,
+  "identifier": "seed-sower",
+  "name": {
+    "ja": "こぼれダネ",
+    "en": "Seed Sower"
+  },
+  "description": {
+    "ja": "攻撃を受けるとグラスフィールドにする。",
+    "en": "Turns the ground into Grassy Terrain when the Pokémon is hit by an attack."
+  },
+  "generation": 9
+}

@@ -1,0 +1,13 @@
+{
+  "id": 303,
+  "identifier": "embody-aspect",
+  "name": {
+    "ja": "おもかげやどし",
+    "en": "Embody Aspect"
+  },
+  "description": {
+    "ja": "思い出を心に宿すことでめんをかがやかせ自分の能力を上げる。",
+    "en": "The Pokémon's heart fills with memories, causing the Mask to shine and one of the Pokémon's stats to be boosted."
+  },
+  "generation": 9
+}

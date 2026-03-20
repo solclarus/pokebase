@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 215,
+  "costumes": [
+    {
+      "costume_id": "0215-sunglasses",
+      "identifier": "sneasel-sunglasses",
+      "name": {
+        "ja": "ニューラ（サングラス）",
+        "en": "Sneasel (Sunglasses)"
+      },
+      "event": "September 21, 2021",
+      "available_from": "2021-09-21",
+      "available_until": null
+    }
+  ]
+}

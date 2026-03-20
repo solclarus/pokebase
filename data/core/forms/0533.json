@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 533,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドテッコツ",
+        "en": "Gurdurr"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 105,
+        "defense": 85,
+        "sp_attack": 40,
+        "sp_defense": 50,
+        "speed": 40
+      },
+      "ability_ids": [
+        62,
+        125
+      ],
+      "hidden_ability_id": 89
+    }
+  ]
+}

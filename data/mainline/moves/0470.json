@@ -1,0 +1,18 @@
+{
+  "id": 470,
+  "identifier": "guard-split",
+  "name": {
+    "ja": "ガードシェア",
+    "en": "Guard Split"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "超能力で　自分と　相手の防御と　特防を　たして半分に　わける。",
+    "en": "The user employs its psychic power to average its Defense and Sp. Def stats with those of the target."
+  }
+}

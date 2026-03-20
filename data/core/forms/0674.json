@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 674,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤンチャム",
+        "en": "Pancham"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 67,
+        "attack": 82,
+        "defense": 62,
+        "sp_attack": 46,
+        "sp_defense": 48,
+        "speed": 43
+      },
+      "ability_ids": [
+        89,
+        104
+      ],
+      "hidden_ability_id": 113
+    }
+  ]
+}

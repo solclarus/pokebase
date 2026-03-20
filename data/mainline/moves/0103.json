@@ -1,0 +1,18 @@
+{
+  "id": 103,
+  "identifier": "screech",
+  "name": {
+    "ja": "いやなおと",
+    "en": "Screech"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 85,
+  "pp": 40,
+  "generation": 1,
+  "description": {
+    "ja": "おもわず　耳を　ふさぎたくなるいやなおとを　だして相手の　防御を　がくっと　さげる。",
+    "en": "An earsplitting screech harshly lowers the target's Defense stat."
+  }
+}

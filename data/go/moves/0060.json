@@ -1,0 +1,13 @@
+{
+  "id": 60,
+  "identifier": "psyshock",
+  "name": {
+    "ja": "サイコショック",
+    "en": "Psyshock"
+  },
+  "type": "psychic",
+  "move_type": "charged",
+  "power": 60,
+  "energy_delta": -33,
+  "duration_ms": 2500
+}

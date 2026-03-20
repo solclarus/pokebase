@@ -1,0 +1,18 @@
+{
+  "id": 808,
+  "identifier": "lash-out",
+  "name": {
+    "ja": "うっぷんばらし",
+    "en": "Lash Out"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "相手への　いらだちを　ぶつけて　攻撃。そのターンに　能力を　さげられていると技の　威力が　２倍に　なる。",
+    "en": "The user lashes out to vent its frustration toward the target. This move's power is doubled if the user's stats were lowered during this turn."
+  }
+}

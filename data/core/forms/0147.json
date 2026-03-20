@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 147,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ミニリュウ",
+        "en": "Dratini"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 41,
+        "attack": 64,
+        "defense": 45,
+        "sp_attack": 50,
+        "sp_defense": 50,
+        "speed": 50
+      },
+      "ability_ids": [
+        61
+      ],
+      "hidden_ability_id": 63
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 258,
+  "identifier": "hunger-switch",
+  "name": {
+    "ja": "はらぺこスイッチ",
+    "en": "Hunger Switch"
+  },
+  "description": {
+    "ja": "ターンの　終わりに　まんぷくもようはらぺこもよう　まんぷくもよう……と交互に　姿を　変える。",
+    "en": "The Pokémon changes its form, alternating between its Full Belly Mode and Hangry Mode after the end of every turn."
+  },
+  "generation": 8
+}

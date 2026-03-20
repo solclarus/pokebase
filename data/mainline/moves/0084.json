@@ -1,0 +1,18 @@
+{
+  "id": 84,
+  "identifier": "thunder-shock",
+  "name": {
+    "ja": "でんきショック",
+    "en": "Thunder Shock"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "電気の　刺激を相手に　浴びせて　攻撃する。まひ状態に　することが　ある。",
+    "en": "The user attacks the target with a jolt of electricity. This may also leave the target with paralysis."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 857,
+  "identifier": "jet-punch",
+  "name": {
+    "ja": "ジェットパンチ",
+    "en": "Jet Punch"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user summons a torrent around its fist and punches at blinding speed. This move always goes first."
+  }
+}

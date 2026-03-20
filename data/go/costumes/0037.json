@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 37,
+  "costumes": [
+    {
+      "costume_id": "0037-halloween",
+      "identifier": "vulpix-halloween",
+      "name": {
+        "ja": "ロコン（ハロウィン）",
+        "en": "Vulpix (Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    }
+  ]
+}

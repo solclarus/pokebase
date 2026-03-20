@@ -1,0 +1,13 @@
+{
+  "id": 131,
+  "identifier": "healer",
+  "name": {
+    "ja": "いやしのこころ",
+    "en": "Healer"
+  },
+  "description": {
+    "ja": "状態異常の　味方をたまに　治してあげる。",
+    "en": "Sometimes cures the status conditions of the Pokémon's allies."
+  },
+  "generation": 5
+}

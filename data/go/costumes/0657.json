@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 657,
+  "costumes": [
+    {
+      "costume_id": "0657-halloween",
+      "identifier": "frogadier-halloween",
+      "name": {
+        "ja": "ゲコガシラ（ハロウィン）",
+        "en": "Frogadier (Halloween)"
+      },
+      "event": "October 22, 2024",
+      "available_from": "2024-10-22",
+      "available_until": null
+    }
+  ]
+}

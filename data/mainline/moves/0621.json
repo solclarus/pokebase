@@ -1,0 +1,18 @@
+{
+  "id": 621,
+  "identifier": "hyperspace-fury",
+  "name": {
+    "ja": "いじげんラッシュ",
+    "en": "Hyperspace Fury"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 100,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 6,
+  "description": {
+    "ja": "たくさんの　腕で　まもるや　みきりなどを　無視した　連続攻撃。自分の　防御が　さがる。",
+    "en": "Using its many arms, the user unleashes a barrage of attacks that ignore the effects of moves like Protect and Detect. This also lowers the user's Defense stat."
+  }
+}

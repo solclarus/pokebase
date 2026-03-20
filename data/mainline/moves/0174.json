@@ -1,0 +1,18 @@
+{
+  "id": 174,
+  "identifier": "curse",
+  "name": {
+    "ja": "のろい",
+    "en": "Curse"
+  },
+  "type": "ghost",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "使う　ポケモンがゴーストタイプと　それ以外　とでは効果が　変わる。",
+    "en": "A move that has different effects depending on whether the user is a Ghost type or not."
+  }
+}

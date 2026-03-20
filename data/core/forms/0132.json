@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 132,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メタモン",
+        "en": "Ditto"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 48,
+        "attack": 48,
+        "defense": 48,
+        "sp_attack": 48,
+        "sp_defense": 48,
+        "speed": 48
+      },
+      "ability_ids": [
+        7
+      ],
+      "hidden_ability_id": 150
+    }
+  ]
+}

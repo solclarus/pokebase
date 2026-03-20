@@ -1,0 +1,18 @@
+{
+  "id": 483,
+  "identifier": "quiver-dance",
+  "name": {
+    "ja": "ちょうのまい",
+    "en": "Quiver Dance"
+  },
+  "type": "bug",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "神秘的で　美しい　舞を軽やかに　おどる。　自分の　特攻と特防と　素早さを　あげる。",
+    "en": "The user lightly performs a beautiful, mystic dance. This boosts the user's Sp. Atk, Sp. Def, and Speed stats."
+  }
+}

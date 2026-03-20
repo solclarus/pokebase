@@ -1,0 +1,13 @@
+{
+  "id": 140,
+  "identifier": "telepathy",
+  "name": {
+    "ja": "テレパシー",
+    "en": "Telepathy"
+  },
+  "description": {
+    "ja": "味方の　攻撃を　読み取って技を　回避する。",
+    "en": "The Pokémon anticipates and dodges the attacks of its allies."
+  },
+  "generation": 5
+}

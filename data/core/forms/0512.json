@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 512,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤナッキー",
+        "en": "Simisage"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 98,
+        "defense": 63,
+        "sp_attack": 98,
+        "sp_defense": 63,
+        "speed": 101
+      },
+      "ability_ids": [
+        82
+      ],
+      "hidden_ability_id": 65
+    }
+  ]
+}

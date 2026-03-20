@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 526,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ギガイアス",
+        "en": "Gigalith"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 135,
+        "defense": 130,
+        "sp_attack": 60,
+        "sp_defense": 80,
+        "speed": 25
+      },
+      "ability_ids": [
+        5,
+        45
+      ],
+      "hidden_ability_id": 159
+    }
+  ]
+}

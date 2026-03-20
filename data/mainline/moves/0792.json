@@ -1,0 +1,18 @@
+{
+  "id": 792,
+  "identifier": "obstruct",
+  "name": {
+    "ja": "ブロッキング",
+    "en": "Obstruct"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "相手の　攻撃を　まったく　受けない。連続で　だすと　失敗しやすい。触れると　防御が　がくっと　下がる。",
+    "en": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession. Direct contact harshly lowers the attacker’s Defense stat."
+  }
+}

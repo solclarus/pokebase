@@ -1,0 +1,13 @@
+{
+  "id": 217,
+  "identifier": "battery",
+  "name": {
+    "ja": "バッテリー",
+    "en": "Battery"
+  },
+  "description": {
+    "ja": "味方の　特殊技の威力を　上げる。",
+    "en": "Powers up ally Pokémon's special moves."
+  },
+  "generation": 7
+}

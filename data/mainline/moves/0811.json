@@ -1,0 +1,18 @@
+{
+  "id": 811,
+  "identifier": "coaching",
+  "name": {
+    "ja": "コーチング",
+    "en": "Coaching"
+  },
+  "type": "fighting",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "的確な　指導を　おこなうことで　味方　全員の攻撃と　防御を　上げる。",
+    "en": "The user properly coaches its ally Pokémon, boosting their Attack and Defense stats."
+  }
+}

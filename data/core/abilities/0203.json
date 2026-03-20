@@ -1,0 +1,13 @@
+{
+  "id": 203,
+  "identifier": "long-reach",
+  "name": {
+    "ja": "えんかく",
+    "en": "Long Reach"
+  },
+  "description": {
+    "ja": "すべての　技を相手に　接触　しないで出すことが　できる。",
+    "en": "The Pokémon uses its moves without making contact with the target."
+  },
+  "generation": 7
+}

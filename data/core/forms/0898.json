@@ -1,0 +1,80 @@
+{
+  "pokemon_id": 898,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バドレックス",
+        "en": "Calyrex"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 80,
+        "defense": 80,
+        "sp_attack": 80,
+        "sp_defense": 80,
+        "speed": 80
+      },
+      "ability_ids": [
+        127
+      ]
+    },
+    {
+      "id": "ice",
+      "order": 1,
+      "name": {
+        "ja": "はくばじょうのすがた",
+        "en": "Ice Rider"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "psychic",
+        "ice"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 165,
+        "defense": 150,
+        "sp_attack": 85,
+        "sp_defense": 130,
+        "speed": 50
+      },
+      "ability_ids": [
+        266
+      ]
+    },
+    {
+      "id": "shadow",
+      "order": 2,
+      "name": {
+        "ja": "こくばじょうのすがた",
+        "en": "Shadow Rider"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 85,
+        "defense": 80,
+        "sp_attack": 165,
+        "sp_defense": 100,
+        "speed": 150
+      },
+      "ability_ids": [
+        267
+      ]
+    }
+  ]
+}

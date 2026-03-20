@@ -1,0 +1,18 @@
+{
+  "id": 345,
+  "identifier": "magical-leaf",
+  "name": {
+    "ja": "マジカルリーフ",
+    "en": "Magical Leaf"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "相手を　追跡する不思議な　はっぱを　まきちらす。攻撃は　必ず　命中する。",
+    "en": "The user scatters curious leaves that chase the target. This attack never misses."
+  }
+}

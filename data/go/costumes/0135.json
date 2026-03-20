@@ -1,0 +1,49 @@
+{
+  "pokemon_id": 135,
+  "costumes": [
+    {
+      "costume_id": "0135-flower",
+      "identifier": "jolteon-flower",
+      "name": {
+        "ja": "サンダース（はなかんむり）",
+        "en": "Jolteon (Flower)"
+      },
+      "event": "February 26, 2019",
+      "available_from": "2019-02-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0135-hat",
+      "identifier": "jolteon-hat",
+      "name": {
+        "ja": "サンダース（ぼうし）",
+        "en": "Jolteon (Hat)"
+      },
+      "event": "December 23, 2022",
+      "available_from": "2022-12-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0135-spring2023",
+      "identifier": "jolteon-spring2023",
+      "name": {
+        "ja": "サンダース（スプリング（2023））",
+        "en": "Jolteon (Spring2023)"
+      },
+      "event": "April 4, 2023",
+      "available_from": "2023-04-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0135-explorer",
+      "identifier": "jolteon-explorer",
+      "name": {
+        "ja": "サンダース（エクスプローラー）",
+        "en": "Jolteon (Explorer)"
+      },
+      "event": "October 7, 2023",
+      "available_from": "2023-10-07",
+      "available_until": null
+    }
+  ]
+}

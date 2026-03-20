@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 717,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イベルタル",
+        "en": "Yveltal"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "stats": {
+        "hp": 126,
+        "attack": 131,
+        "defense": 95,
+        "sp_attack": 131,
+        "sp_defense": 98,
+        "speed": 99
+      },
+      "ability_ids": [
+        186
+      ]
+    }
+  ]
+}

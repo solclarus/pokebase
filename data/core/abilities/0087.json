@@ -1,0 +1,13 @@
+{
+  "id": 87,
+  "identifier": "dry-skin",
+  "name": {
+    "ja": "かんそうはだ",
+    "en": "Dry Skin"
+  },
+  "description": {
+    "ja": "天気が　雨の時や　みずタイプの技で　ＨＰが　回復し　はれの時やほのおタイプの　技で　減ってしまう。",
+    "en": "Restores the Pokémon's HP in rain or when it is hit by Water-type moves. Reduces HP in harsh sunlight, and increases the damage received from Fire-type moves."
+  },
+  "generation": 4
+}

@@ -1,0 +1,18 @@
+{
+  "id": 580,
+  "identifier": "grassy-terrain",
+  "name": {
+    "ja": "グラスフィールド",
+    "en": "Grassy Terrain"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "５ターンの　間　グラスフィールドにする。地面にいると　毎ターン　回復する。くさタイプの　威力が　あがる。",
+    "en": "The user turns the ground into Grassy Terrain for five turns. This restores the HP of Pokémon on the ground a little every turn and powers up Grass-type moves."
+  }
+}

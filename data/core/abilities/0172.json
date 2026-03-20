@@ -1,0 +1,13 @@
+{
+  "id": 172,
+  "identifier": "competitive",
+  "name": {
+    "ja": "かちき",
+    "en": "Competitive"
+  },
+  "description": {
+    "ja": "能力を　下げられると特攻が　ぐーんと　上がる。",
+    "en": "Boosts the Pokémon's Sp. Atk stat sharply when its stats are lowered by an opposing Pokémon."
+  },
+  "generation": 6
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 446,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴンベ",
+        "en": "Munchlax"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 135,
+        "attack": 85,
+        "defense": 40,
+        "sp_attack": 40,
+        "sp_defense": 85,
+        "speed": 5
+      },
+      "ability_ids": [
+        53,
+        47
+      ],
+      "hidden_ability_id": 82
+    }
+  ]
+}

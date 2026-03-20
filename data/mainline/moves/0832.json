@@ -1,0 +1,18 @@
+{
+  "id": 832,
+  "identifier": "mystical-power",
+  "name": {
+    "ja": "しんぴのちから",
+    "en": "Mystical Power"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 70,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user attacks by emitting a mysterious power. This also boosts the user’s Sp. Atk stat."
+  }
+}

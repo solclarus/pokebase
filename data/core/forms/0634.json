@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 634,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ジヘッド",
+        "en": "Zweilous"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 72,
+        "attack": 85,
+        "defense": 70,
+        "sp_attack": 65,
+        "sp_defense": 70,
+        "speed": 58
+      },
+      "ability_ids": [
+        55
+      ]
+    }
+  ]
+}

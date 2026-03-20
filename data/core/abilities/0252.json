@@ -1,0 +1,13 @@
+{
+  "id": 252,
+  "identifier": "steely-spirit",
+  "name": {
+    "ja": "はがねのせいしん",
+    "en": "Steely Spirit"
+  },
+  "description": {
+    "ja": "味方の　はがねタイプの攻撃の　威力が　上がる。",
+    "en": "Powers up the Steel-type moves of the Pokémon and its allies."
+  },
+  "generation": 8
+}

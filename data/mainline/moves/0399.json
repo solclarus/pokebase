@@ -1,0 +1,18 @@
+{
+  "id": 399,
+  "identifier": "dark-pulse",
+  "name": {
+    "ja": "あくのはどう",
+    "en": "Dark Pulse"
+  },
+  "type": "dark",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "体から　悪意に　みちた恐ろしい　オーラを　発する。相手を　ひるませることが　ある。",
+    "en": "The user releases a horrible aura imbued with ill intent. This may also make the target flinch."
+  }
+}

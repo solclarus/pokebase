@@ -1,0 +1,18 @@
+{
+  "id": 791,
+  "identifier": "life-dew",
+  "name": {
+    "ja": "いのちのしずく",
+    "en": "Life Dew"
+  },
+  "type": "water",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "不思議な　水を　ふりまいて自分と　場にいる味方の　ＨＰを　回復する。",
+    "en": "The user scatters mysterious water around and restores the HP of itself and its ally Pokémon currently in the battle."
+  }
+}

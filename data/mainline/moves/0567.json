@@ -1,0 +1,18 @@
+{
+  "id": 567,
+  "identifier": "trick-or-treat",
+  "name": {
+    "ja": "ハロウィン",
+    "en": "Trick-or-Treat"
+  },
+  "type": "ghost",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "相手を　ハロウィンに　誘う。相手の　タイプにゴーストタイプが　追加される。",
+    "en": "The user takes the target trick-or-treating. This adds Ghost type to the target’s type."
+  }
+}

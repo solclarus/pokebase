@@ -1,0 +1,18 @@
+{
+  "id": 681,
+  "identifier": "power-trip",
+  "name": {
+    "ja": "つけあがる",
+    "en": "Power Trip"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "自分の　強さを　鼻高々に攻撃する。自分の　能力があがって　いるほど　威力が　あがる。",
+    "en": "The user boasts its strength and attacks the target. The more the user's stats are boosted, the greater the move's power."
+  }
+}

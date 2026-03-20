@@ -1,0 +1,18 @@
+{
+  "id": 303,
+  "identifier": "slack-off",
+  "name": {
+    "ja": "なまける",
+    "en": "Slack Off"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "怠けて　やすむ。自分の　ＨＰを　最大ＨＰの半分　回復する。",
+    "en": "The user slacks off, restoring its own HP by up to half its max HP."
+  }
+}

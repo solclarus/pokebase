@@ -1,0 +1,13 @@
+{
+  "id": 62,
+  "identifier": "guts",
+  "name": {
+    "ja": "こんじょう",
+    "en": "Guts"
+  },
+  "description": {
+    "ja": "状態異常に　なると根性を　だして攻撃が　上がる。",
+    "en": "It's so gutsy that having a status condition boosts the Pokémon's Attack stat."
+  },
+  "generation": 3
+}

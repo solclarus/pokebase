@@ -1,0 +1,18 @@
+{
+  "id": 407,
+  "identifier": "dragon-rush",
+  "name": {
+    "ja": "ドラゴンダイブ",
+    "en": "Dragon Rush"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "すさまじい　殺気で　威圧しながら体当たりする。相手を　ひるませることが　ある。",
+    "en": "The user tackles the target while exhibiting overwhelming menace. This may also make the target flinch."
+  }
+}

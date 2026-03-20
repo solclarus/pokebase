@@ -1,0 +1,18 @@
+{
+  "id": 556,
+  "identifier": "icicle-crash",
+  "name": {
+    "ja": "つららおとし",
+    "en": "Icicle Crash"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "大きな　氷柱を激しく　ぶつけて　攻撃する。相手を　ひるませることが　ある。",
+    "en": "The user attacks by crashing large icicles onto the target. This may also make the target flinch."
+  }
+}

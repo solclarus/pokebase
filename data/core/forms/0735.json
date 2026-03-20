@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 735,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "デカグース",
+        "en": "Gumshoos"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 110,
+        "defense": 60,
+        "sp_attack": 55,
+        "sp_defense": 60,
+        "speed": 45
+      },
+      "ability_ids": [
+        198,
+        173
+      ],
+      "hidden_ability_id": 91
+    },
+    {
+      "id": "totem",
+      "order": 1,
+      "name": {
+        "ja": "gumshoos-totem",
+        "en": "Totem Gumshoos"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 110,
+        "defense": 60,
+        "sp_attack": 55,
+        "sp_defense": 60,
+        "speed": 45
+      },
+      "ability_ids": [
+        198,
+        173
+      ],
+      "hidden_ability_id": 91
+    }
+  ]
+}

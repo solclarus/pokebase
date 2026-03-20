@@ -1,0 +1,18 @@
+{
+  "id": 676,
+  "identifier": "pollen-puff",
+  "name": {
+    "ja": "かふんだんご",
+    "en": "Pollen Puff"
+  },
+  "type": "bug",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 7,
+  "description": {
+    "ja": "敵には　爆発する　だんごを使って　攻撃。　味方には回復する　だんごを　与える。",
+    "en": "The user attacks the enemy with a pollen puff that explodes. If the target is an ally, it gives the ally a pollen puff that restores its HP instead."
+  }
+}

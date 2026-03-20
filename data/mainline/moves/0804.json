@@ -1,0 +1,18 @@
+{
+  "id": 804,
+  "identifier": "rising-voltage",
+  "name": {
+    "ja": "ライジングボルト",
+    "en": "Rising Voltage"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 8,
+  "description": {
+    "ja": "地面から　立ちのぼる　電撃で　攻撃。相手が　エレキフィールドに　いる時技の　威力が　２倍に　なる。",
+    "en": "The user attacks with electricity rising from the ground. This move's power is doubled if the target is on Electric Terrain."
+  }
+}

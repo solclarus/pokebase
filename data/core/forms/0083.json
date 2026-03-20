@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 83,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カモネギ",
+        "en": "Farfetch'd"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 52,
+        "attack": 90,
+        "defense": 55,
+        "sp_attack": 58,
+        "sp_defense": 62,
+        "speed": 60
+      },
+      "ability_ids": [
+        51,
+        39
+      ],
+      "hidden_ability_id": 128
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "カモネギ（ガラルのすがた）",
+        "en": "Galarian Farfetch'd"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 52,
+        "attack": 95,
+        "defense": 55,
+        "sp_attack": 58,
+        "sp_defense": 62,
+        "speed": 55
+      },
+      "ability_ids": [
+        80
+      ],
+      "hidden_ability_id": 113
+    }
+  ]
+}

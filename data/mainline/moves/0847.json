@@ -1,0 +1,18 @@
+{
+  "id": 847,
+  "identifier": "wildbolt-storm",
+  "name": {
+    "ja": "かみなりあらし",
+    "en": "Wildbolt Storm"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user summons a thunderous tempest and savagely attacks with lightning and wind. This may also leave opposing Pokémon with paralysis."
+  }
+}

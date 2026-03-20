@@ -1,0 +1,18 @@
+{
+  "id": 401,
+  "identifier": "aqua-tail",
+  "name": {
+    "ja": "アクアテール",
+    "en": "Aqua Tail"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "激しく　あれくるう　荒波の　ように大きな　しっぽを　ふって相手を　攻撃する。",
+    "en": "The user attacks by swinging its tail as if it were a vicious wave in a raging storm."
+  }
+}

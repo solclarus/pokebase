@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 503,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ダイケンキ",
+        "en": "Samurott"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 100,
+        "defense": 85,
+        "sp_attack": 108,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 75
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ヒスイのすがた",
+        "en": "Hisuian Form"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 108,
+        "defense": 80,
+        "sp_attack": 100,
+        "sp_defense": 65,
+        "speed": 85
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 292
+    }
+  ]
+}

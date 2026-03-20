@@ -1,0 +1,18 @@
+{
+  "id": 575,
+  "identifier": "parting-shot",
+  "name": {
+    "ja": "すてゼリフ",
+    "en": "Parting Shot"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "すてゼリフで　相手を　いかくし攻撃と　特攻を　さげたのち控えの　ポケモンと　入れ替わる。",
+    "en": "With a parting threat, the user lowers the target's Attack and Sp. Atk stats. Then it switches places with a party Pokémon in waiting."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 151,
+  "identifier": "acid-armor",
+  "name": {
+    "ja": "とける",
+    "en": "Acid Armor"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "細胞の　変化で　液状に　なり自分の　防御を　ぐーんと　あげる。",
+    "en": "The user alters its cellular structure to liquefy itself, sharply boosting its Defense stat."
+  }
+}

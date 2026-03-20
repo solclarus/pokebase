@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 316,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴクリン",
+        "en": "Gulpin"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 43,
+        "defense": 53,
+        "sp_attack": 43,
+        "sp_defense": 53,
+        "speed": 40
+      },
+      "ability_ids": [
+        64,
+        60
+      ],
+      "hidden_ability_id": 82
+    }
+  ]
+}

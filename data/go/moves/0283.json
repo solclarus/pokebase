@@ -1,0 +1,13 @@
+{
+  "id": 283,
+  "identifier": "waterfall",
+  "name": {
+    "ja": "たきのぼり",
+    "en": "Waterfall"
+  },
+  "type": "water",
+  "move_type": "fast",
+  "power": 13,
+  "energy_delta": 7,
+  "duration_ms": 1000
+}

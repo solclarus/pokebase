@@ -1,4 +1,4 @@
-import type { Pokemon, FormsFile, Ability, AvailabilityFile, GoPokemonStats, CostumesFile } from "../types";
+import type { Pokemon, FormsFile, Ability, AvailabilityFile, GoFormsFile, CostumesFile } from "@/types";
 
 export interface PokemonRepository {
   findById(id: number): Promise<Pokemon | null>;
@@ -21,8 +21,8 @@ export interface AvailabilityRepository {
 }
 
 export interface GoPokemonRepository {
-  findById(pokemonId: number): Promise<GoPokemonStats | null>;
-  findAll(): Promise<GoPokemonStats[]>;
+  findById(pokemonId: number): Promise<GoFormsFile | null>;
+  findAll(): Promise<GoFormsFile[]>;
 }
 
 export interface CostumeRepository {

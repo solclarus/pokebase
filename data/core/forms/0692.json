@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 692,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウデッポウ",
+        "en": "Clauncher"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 62,
+        "sp_attack": 58,
+        "sp_defense": 63,
+        "speed": 44
+      },
+      "ability_ids": [
+        178
+      ]
+    }
+  ]
+}

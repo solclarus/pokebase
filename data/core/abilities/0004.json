@@ -1,0 +1,13 @@
+{
+  "id": 4,
+  "identifier": "battle-armor",
+  "name": {
+    "ja": "カブトアーマー",
+    "en": "Battle Armor"
+  },
+  "description": {
+    "ja": "硬い　甲羅に　守られて相手の　攻撃が急所に　当たらない。",
+    "en": "Hard armor protects the Pokémon from critical hits."
+  },
+  "generation": 3
+}

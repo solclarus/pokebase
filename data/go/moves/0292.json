@@ -1,0 +1,13 @@
+{
+  "id": 292,
+  "identifier": "weather-ball-fire",
+  "name": {
+    "ja": "ウェザーボール",
+    "en": "Weather Ball Fire"
+  },
+  "type": "fire",
+  "move_type": "charged",
+  "power": 55,
+  "energy_delta": -33,
+  "duration_ms": 1500
+}

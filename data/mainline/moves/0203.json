@@ -1,0 +1,18 @@
+{
+  "id": 203,
+  "identifier": "endure",
+  "name": {
+    "ja": "こらえる",
+    "en": "Endure"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "攻撃を　受けてもＨＰを　必ず　１だけ　残せる。連続で　だすと　失敗しやすい。",
+    "en": "The user endures any attack with at least 1 HP. This move's chance of failing rises if used in succession."
+  }
+}

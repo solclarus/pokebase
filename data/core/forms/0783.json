@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 783,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ジャランゴ",
+        "en": "Hakamo-o"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 75,
+        "defense": 90,
+        "sp_attack": 65,
+        "sp_defense": 70,
+        "speed": 65
+      },
+      "ability_ids": [
+        171,
+        43
+      ],
+      "hidden_ability_id": 142
+    }
+  ]
+}

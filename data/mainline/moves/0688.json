@@ -1,0 +1,18 @@
+{
+  "id": 688,
+  "identifier": "trop-kick",
+  "name": {
+    "ja": "トロピカルキック",
+    "en": "Trop Kick"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 7,
+  "description": {
+    "ja": "南国　由来の　熱いキックを　相手に　浴びせる。相手の　攻撃を　さげる。",
+    "en": "The user lands an intense kick of tropical origins on the target. This also lowers the target's Attack stat."
+  }
+}

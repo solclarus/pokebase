@@ -1,0 +1,49 @@
+{
+  "pokemon_id": 711,
+  "costumes": [
+    {
+      "costume_id": "0711-small_halloween",
+      "identifier": "gourgeist-small-halloween",
+      "name": {
+        "ja": "パンプジン（ハロウィン（小））",
+        "en": "Gourgeist (Small Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    },
+    {
+      "costume_id": "0711-halloween",
+      "identifier": "gourgeist-halloween",
+      "name": {
+        "ja": "パンプジン（ハロウィン）",
+        "en": "Gourgeist (Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    },
+    {
+      "costume_id": "0711-large_halloween",
+      "identifier": "gourgeist-large-halloween",
+      "name": {
+        "ja": "パンプジン（ハロウィン（大））",
+        "en": "Gourgeist (Large Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    },
+    {
+      "costume_id": "0711-super_halloween",
+      "identifier": "gourgeist-super-halloween",
+      "name": {
+        "ja": "パンプジン（スーパーハロウィン）",
+        "en": "Gourgeist (Super Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    }
+  ]
+}

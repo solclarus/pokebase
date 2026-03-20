@@ -1,0 +1,13 @@
+{
+  "id": 171,
+  "identifier": "bulletproof",
+  "name": {
+    "ja": "ぼうだん",
+    "en": "Bulletproof"
+  },
+  "description": {
+    "ja": "相手の　弾や　爆弾などの技を　防ぐことが　できる。",
+    "en": "Protects the Pokémon from ball and bomb moves."
+  },
+  "generation": 6
+}

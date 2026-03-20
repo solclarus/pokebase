@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 328,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ナックラー",
+        "en": "Trapinch"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 100,
+        "defense": 45,
+        "sp_attack": 45,
+        "sp_defense": 45,
+        "speed": 10
+      },
+      "ability_ids": [
+        52,
+        71
+      ],
+      "hidden_ability_id": 125
+    }
+  ]
+}

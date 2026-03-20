@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 761,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アマカジ",
+        "en": "Bounsweet"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 42,
+        "attack": 30,
+        "defense": 38,
+        "sp_attack": 30,
+        "sp_defense": 38,
+        "speed": 32
+      },
+      "ability_ids": [
+        102,
+        12
+      ],
+      "hidden_ability_id": 175
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "pokemon_id": 681,
+  "forms": [
+    {
+      "form_id": "shield",
+      "base_attack": 97,
+      "base_defense": 272,
+      "base_stamina": 155,
+      "fast_move_ids": [
+        226,
+        255
+      ],
+      "charged_move_ids": [
+        36,
+        267,
+        70
+      ],
+      "released_at": "2025-07-22",
+      "shiny_released_at": "2026-02-20",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "blade",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2025-07-22",
+      "shiny_released_at": "2026-02-20",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

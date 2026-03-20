@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 619,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コジョフー",
+        "en": "Mienfoo"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 85,
+        "defense": 50,
+        "sp_attack": 55,
+        "sp_defense": 50,
+        "speed": 65
+      },
+      "ability_ids": [
+        39,
+        144
+      ],
+      "hidden_ability_id": 120
+    }
+  ]
+}

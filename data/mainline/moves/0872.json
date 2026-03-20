@@ -1,0 +1,18 @@
+{
+  "id": 872,
+  "identifier": "aqua-step",
+  "name": {
+    "ja": "アクアステップ",
+    "en": "Aqua Step"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user toys with the target and attacks it using light and fluid dance steps. This also boosts the user's Speed stat."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 713,
+  "identifier": "sunsteel-strike",
+  "name": {
+    "ja": "メテオドライブ",
+    "en": "Sunsteel Strike"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 7,
+  "description": {
+    "ja": "流星の　ような　勢いで突進する。　相手の　特性を無視して　攻撃　することが　できる。",
+    "en": "The user slams into the target with the force of a meteor. This move can be used on the target regardless of its Ability."
+  }
+}

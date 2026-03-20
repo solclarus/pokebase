@@ -1,0 +1,18 @@
+{
+  "id": 356,
+  "identifier": "gravity",
+  "name": {
+    "ja": "じゅうりょく",
+    "en": "Gravity"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "５ターンの間　ふゆうや　ひこうタイプにじめんタイプの　技が　当たるようになる。空中に　飛ぶ　技も　使えない。",
+    "en": "Enables Flying types or Pokémon with the Levitate Ability to be hit by Ground-type moves for five turns. Moves that involve flying can't be used."
+  }
+}

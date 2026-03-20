@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 631,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "クイタラン",
+        "en": "Heatmor"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 97,
+        "defense": 66,
+        "sp_attack": 105,
+        "sp_defense": 66,
+        "speed": 65
+      },
+      "ability_ids": [
+        82,
+        18
+      ],
+      "hidden_ability_id": 73
+    }
+  ]
+}

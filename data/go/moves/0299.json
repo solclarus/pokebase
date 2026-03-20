@@ -1,0 +1,13 @@
+{
+  "id": 299,
+  "identifier": "hydro-cannon",
+  "name": {
+    "ja": "ハイドロカノン",
+    "en": "Hydro Cannon"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -50,
+  "duration_ms": 2000
+}

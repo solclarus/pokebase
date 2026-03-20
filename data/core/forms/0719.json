@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 719,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ディアンシー",
+        "en": "Diancie"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 100,
+        "defense": 150,
+        "sp_attack": 100,
+        "sp_defense": 150,
+        "speed": 50
+      },
+      "ability_ids": [
+        29
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガディアンシー",
+        "en": "Mega Diancie"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 160,
+        "defense": 110,
+        "sp_attack": 160,
+        "sp_defense": 110,
+        "speed": 110
+      },
+      "ability_ids": [
+        156
+      ]
+    }
+  ]
+}

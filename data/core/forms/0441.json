@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 441,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ペラップ",
+        "en": "Chatot"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 76,
+        "attack": 65,
+        "defense": 45,
+        "sp_attack": 92,
+        "sp_defense": 42,
+        "speed": 91
+      },
+      "ability_ids": [
+        51,
+        77
+      ],
+      "hidden_ability_id": 145
+    }
+  ]
+}

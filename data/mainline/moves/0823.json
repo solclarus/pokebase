@@ -1,0 +1,18 @@
+{
+  "id": 823,
+  "identifier": "thunderous-kick",
+  "name": {
+    "ja": "らいめいげり",
+    "en": "Thunderous Kick"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "雷の　ような　動きで相手を　翻弄しながら　キックする。相手の　防御を　さげる。",
+    "en": "The user overwhelms the target with lightning-like movement before delivering a kick. This also lowers the target's Defense stat."
+  }
+}

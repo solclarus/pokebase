@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 420,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "チェリンボ",
+        "en": "Cherubi"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 35,
+        "defense": 45,
+        "sp_attack": 62,
+        "sp_defense": 53,
+        "speed": 35
+      },
+      "ability_ids": [
+        34
+      ]
+    }
+  ]
+}

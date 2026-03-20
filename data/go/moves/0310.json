@@ -1,0 +1,13 @@
+{
+  "id": 310,
+  "identifier": "super-power",
+  "name": {
+    "ja": "ばかぢから",
+    "en": "Super Power"
+  },
+  "type": "fighting",
+  "move_type": "charged",
+  "power": 85,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

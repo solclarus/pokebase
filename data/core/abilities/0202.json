@@ -1,0 +1,13 @@
+{
+  "id": 202,
+  "identifier": "slush-rush",
+  "name": {
+    "ja": "ゆきかき",
+    "en": "Slush Rush"
+  },
+  "description": {
+    "ja": "天気が　あられ　のとき素早さが　上がる。",
+    "en": "Boosts the Pokémon's Speed stat in snow."
+  },
+  "generation": 7
+}

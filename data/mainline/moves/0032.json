@@ -1,0 +1,18 @@
+{
+  "id": 32,
+  "identifier": "horn-drill",
+  "name": {
+    "ja": "つのドリル",
+    "en": "Horn Drill"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "回転する　つのを相手に　突き刺して　攻撃する。当たれば　一撃で　ひんしに　する。",
+    "en": "The user stabs the target with a horn that rotates like a drill. The target faints instantly if this attack hits."
+  }
+}

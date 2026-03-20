@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 868,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マホミル",
+        "en": "Milcery"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 40,
+        "defense": 40,
+        "sp_attack": 50,
+        "sp_defense": 61,
+        "speed": 34
+      },
+      "ability_ids": [
+        175
+      ],
+      "hidden_ability_id": 165
+    }
+  ]
+}

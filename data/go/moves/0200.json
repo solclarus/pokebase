@@ -1,0 +1,13 @@
+{
+  "id": 200,
+  "identifier": "fury-cutter",
+  "name": {
+    "ja": "れんぞくぎり",
+    "en": "Fury Cutter"
+  },
+  "type": "bug",
+  "move_type": "fast",
+  "power": 4,
+  "energy_delta": 8,
+  "duration_ms": 500
+}

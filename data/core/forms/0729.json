@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 729,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オシャマリ",
+        "en": "Brionne"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 69,
+        "defense": 69,
+        "sp_attack": 91,
+        "sp_defense": 81,
+        "speed": 50
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 204
+    }
+  ]
+}

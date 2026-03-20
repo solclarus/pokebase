@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 82,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レアコイル",
+        "en": "Magneton"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 60,
+        "defense": 95,
+        "sp_attack": 120,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "ability_ids": [
+        42,
+        5
+      ],
+      "hidden_ability_id": 148
+    }
+  ]
+}

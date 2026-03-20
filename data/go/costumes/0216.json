@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 216,
+  "costumes": [
+    {
+      "costume_id": "0216-witch_hat",
+      "identifier": "teddiursa-witch-hat",
+      "name": {
+        "ja": "ヒメグマ（魔女のぼうし）",
+        "en": "Teddiursa (Witch Hat)"
+      },
+      "event": "October 21, 2025",
+      "available_from": "2025-10-21",
+      "available_until": null
+    }
+  ]
+}

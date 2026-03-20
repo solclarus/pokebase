@@ -1,0 +1,13 @@
+{
+  "id": 32,
+  "identifier": "serene-grace",
+  "name": {
+    "ja": "てんのめぐみ",
+    "en": "Serene Grace"
+  },
+  "description": {
+    "ja": "天の恵みの　おかげで技の　追加効果が　でやすい。",
+    "en": "Raises the likelihood of additional effects occurring when the Pokémon uses its moves."
+  },
+  "generation": 3
+}

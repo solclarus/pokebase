@@ -1,0 +1,18 @@
+{
+  "id": 859,
+  "identifier": "spin-out",
+  "name": {
+    "ja": "ホイールスピン",
+    "en": "Spin Out"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user spins furiously by straining its legs, inflicting damage on the target. This also harshly lowers the user's Speed stat."
+  }
+}

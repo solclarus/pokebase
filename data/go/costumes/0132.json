@@ -1,0 +1,27 @@
+{
+  "pokemon_id": 132,
+  "costumes": [
+    {
+      "costume_id": "0132-cap",
+      "identifier": "ditto-cap",
+      "name": {
+        "ja": "メタモン（キャップ）",
+        "en": "Ditto (Cap)"
+      },
+      "event": "March 10, 2026",
+      "available_from": "2026-03-10",
+      "available_until": null
+    },
+    {
+      "costume_id": "0132-hat",
+      "identifier": "ditto-hat",
+      "name": {
+        "ja": "メタモン（ぼうし）",
+        "en": "Ditto (Hat)"
+      },
+      "event": "March 10, 2026",
+      "available_from": "2026-03-10",
+      "available_until": null
+    }
+  ]
+}

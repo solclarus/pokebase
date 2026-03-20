@@ -1,0 +1,13 @@
+{
+  "id": 73,
+  "identifier": "white-smoke",
+  "name": {
+    "ja": "しろいけむり",
+    "en": "White Smoke"
+  },
+  "description": {
+    "ja": "白い煙に　守られて相手に　能力を　下げられない。",
+    "en": "The Pokémon is protected by its white smoke, which prevents other Pokémon from lowering its stats."
+  },
+  "generation": 3
+}

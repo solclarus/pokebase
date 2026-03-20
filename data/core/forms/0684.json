@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 684,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ペロッパフ",
+        "en": "Swirlix"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 62,
+        "attack": 48,
+        "defense": 66,
+        "sp_attack": 59,
+        "sp_defense": 57,
+        "speed": 49
+      },
+      "ability_ids": [
+        175
+      ],
+      "hidden_ability_id": 84
+    }
+  ]
+}

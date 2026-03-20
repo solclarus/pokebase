@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 346,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ユレイドル",
+        "en": "Cradily"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "rock",
+        "grass"
+      ],
+      "stats": {
+        "hp": 86,
+        "attack": 81,
+        "defense": 97,
+        "sp_attack": 81,
+        "sp_defense": 107,
+        "speed": 43
+      },
+      "ability_ids": [
+        21
+      ],
+      "hidden_ability_id": 114
+    }
+  ]
+}

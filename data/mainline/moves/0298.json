@@ -1,0 +1,18 @@
+{
+  "id": 298,
+  "identifier": "teeter-dance",
+  "name": {
+    "ja": "フラフラダンス",
+    "en": "Teeter Dance"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "フラフラと　ダンスを　おどって自分の　周りに　いるものを混乱状態に　させる。",
+    "en": "The user performs a wobbly dance that confuses every Pokémon around it."
+  }
+}

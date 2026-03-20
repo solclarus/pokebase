@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 843,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "スナヘビ",
+        "en": "Silicobra"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "hp": 52,
+        "attack": 57,
+        "defense": 75,
+        "sp_attack": 35,
+        "sp_defense": 50,
+        "speed": 46
+      },
+      "ability_ids": [
+        245,
+        61
+      ],
+      "hidden_ability_id": 8
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 43,
+  "identifier": "soundproof",
+  "name": {
+    "ja": "ぼうおん",
+    "en": "Soundproof"
+  },
+  "description": {
+    "ja": "音を　遮断　することに　よって音の　攻撃を　受けない。",
+    "en": "Soundproofing gives the Pokémon full immunity to all sound-based moves."
+  },
+  "generation": 3
+}

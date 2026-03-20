@@ -1,0 +1,18 @@
+{
+  "id": 816,
+  "identifier": "jungle-healing",
+  "name": {
+    "ja": "ジャングルヒール",
+    "en": "Jungle Healing"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ジャングルと　一体化して自分と　場にいる　味方のＨＰと　状態を　回復する。",
+    "en": "The user becomes one with the jungle, restoring HP and curing status conditions for itself and its ally Pokémon currently in the battle."
+  }
+}

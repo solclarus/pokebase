@@ -1,0 +1,18 @@
+{
+  "id": 423,
+  "identifier": "ice-fang",
+  "name": {
+    "ja": "こおりのキバ",
+    "en": "Ice Fang"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "冷気を　ひめた　キバで　かみつく。相手を　ひるませたりこおり状態に　することが　ある。",
+    "en": "The user bites with cold-infused fangs. This may also make the target flinch or leave it frozen."
+  }
+}

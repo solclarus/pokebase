@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 223,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テッポウオ",
+        "en": "Remoraid"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 65,
+        "defense": 35,
+        "sp_attack": 65,
+        "sp_defense": 35,
+        "speed": 65
+      },
+      "ability_ids": [
+        55,
+        97
+      ],
+      "hidden_ability_id": 81
+    }
+  ]
+}

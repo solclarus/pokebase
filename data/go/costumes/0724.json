@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 724,
+  "costumes": [
+    {
+      "costume_id": "0724-halloween",
+      "identifier": "decidueye-halloween",
+      "name": {
+        "ja": "ジュナイパー（ハロウィン）",
+        "en": "Decidueye (Halloween)"
+      },
+      "event": "October 22, 2024",
+      "available_from": "2024-10-22",
+      "available_until": null
+    }
+  ]
+}

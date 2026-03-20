@@ -11,10 +11,12 @@ type PokemonIndex = {
   generation: number;
 };
 
-type GameIndex = {
-  id: string;
+type FormIndex = {
+  pokemon_id: number;
+  form_id: string;
+  form_type: "normal" | "mega" | "gigantamax";
   name: { ja: string; en: string };
-  generation: number;
+  types: string[];
 };
 
 type MoveIndex = {
@@ -22,6 +24,29 @@ type MoveIndex = {
   identifier: string;
   name: { ja: string; en: string };
   type: string;
+};
+
+type AbilityIndex = {
+  id: number;
+  identifier: string;
+  name: { ja: string; en: string };
+  description: { ja: string; en: string };
+  generation: number;
+};
+
+type GoPokemonIndex = {
+  pokemon_id: number;
+};
+
+type GoMoveIndex = {
+  id: number;
+  identifier: string;
+  name: { ja: string; en: string };
+  type: string;
+  move_type: "fast" | "charged";
+  power: number;
+  energy_delta: number;
+  duration_ms: number;
 };
 
 async function buildPokemonIndex(): Promise<PokemonIndex[]> {
@@ -46,16 +71,29 @@ async function buildPokemonIndex(): Promise<PokemonIndex[]> {
   return pokemons.sort((a, b) => a.id - b.id);
 }
 
-async function buildGameIndex(): Promise<GameIndex[]> {
-  const gamesFile = join(DATA_DIR, "mainline/games.json");
+async function buildFormsIndex(): Promise<FormIndex[]> {
+  const formsDir = join(DATA_DIR, "core/forms");
+  const files = await readdir(formsDir);
+  const result: FormIndex[] = [];
 
-  try {
-    const content = await readFile(gamesFile, "utf-8");
+  for (const file of files) {
+    if (!file.endsWith(".json")) continue;
+
+    const content = await readFile(join(formsDir, file), "utf-8");
     const data = JSON.parse(content);
-    return data.games || [];
-  } catch {
-    return [];
+
+    for (const form of data.forms) {
+      result.push({
+        pokemon_id: data.pokemon_id,
+        form_id: form.id,
+        form_type: form.form_type,
+        name: form.name,
+        types: form.types,
+      });
+    }
   }
+
+  return result.sort((a, b) => a.pokemon_id - b.pokemon_id || a.form_id.localeCompare(b.form_id));
 }
 
 async function buildMoveIndex(): Promise<MoveIndex[]> {
@@ -87,6 +125,81 @@ async function buildMoveIndex(): Promise<MoveIndex[]> {
   return moves.sort((a, b) => a.id - b.id);
 }
 
+async function buildAbilityIndex(): Promise<AbilityIndex[]> {
+  const abilitiesDir = join(DATA_DIR, "core/abilities");
+  let files: string[];
+  try {
+    files = await readdir(abilitiesDir);
+  } catch {
+    return [];
+  }
+
+  const abilities: AbilityIndex[] = [];
+  for (const file of files) {
+    if (!file.endsWith(".json")) continue;
+    const content = await readFile(join(abilitiesDir, file), "utf-8");
+    const data = JSON.parse(content);
+    abilities.push({
+      id: data.id,
+      identifier: data.identifier,
+      name: data.name,
+      description: data.description,
+      generation: data.generation,
+    });
+  }
+
+  return abilities.sort((a, b) => a.id - b.id);
+}
+
+async function buildGoPokemonIndex(): Promise<GoPokemonIndex[]> {
+  const goFormsDir = join(DATA_DIR, "go/forms");
+  let files: string[];
+  try {
+    files = await readdir(goFormsDir);
+  } catch {
+    return [];
+  }
+
+  const pokemons: GoPokemonIndex[] = [];
+  for (const file of files) {
+    if (!file.endsWith(".json")) continue;
+    const content = await readFile(join(goFormsDir, file), "utf-8");
+    const data = JSON.parse(content);
+    pokemons.push({ pokemon_id: data.pokemon_id });
+  }
+
+  return pokemons.sort((a, b) => a.pokemon_id - b.pokemon_id);
+}
+
+async function buildGoMoveIndex(): Promise<GoMoveIndex[]> {
+  const goMovesDir = join(DATA_DIR, "go/moves");
+  let files: string[];
+  try {
+    files = await readdir(goMovesDir);
+  } catch {
+    return [];
+  }
+
+  const moves: GoMoveIndex[] = [];
+  for (const file of files) {
+    if (!file.endsWith(".json")) continue;
+    const content = await readFile(join(goMovesDir, file), "utf-8");
+    const data = JSON.parse(content);
+    moves.push({
+      id: data.id,
+      identifier: data.identifier,
+      name: data.name,
+      type: data.type,
+      move_type: data.move_type,
+      power: data.power,
+      energy_delta: data.energy_delta,
+      duration_ms: data.duration_ms,
+    });
+  }
+
+  return moves.sort((a, b) => a.id - b.id);
+}
+
 async function main() {
   console.log("Building index files...\n");
 
@@ -99,12 +212,12 @@ async function main() {
   );
   console.log(`✓ pokemons.json (${pokemons.length} entries)`);
 
-  const games = await buildGameIndex();
+  const forms = await buildFormsIndex();
   await writeFile(
-    join(INDEX_DIR, "games.json"),
-    JSON.stringify({ games, total: games.length }, null, 2)
+    join(INDEX_DIR, "forms.json"),
+    JSON.stringify({ forms, total: forms.length }, null, 2)
   );
-  console.log(`✓ games.json (${games.length} entries)`);
+  console.log(`✓ forms.json (${forms.length} entries)`);
 
   const moves = await buildMoveIndex();
   await writeFile(
@@ -112,6 +225,27 @@ async function main() {
     JSON.stringify({ moves, total: moves.length }, null, 2)
   );
   console.log(`✓ moves.json (${moves.length} entries)`);
+
+  const abilities = await buildAbilityIndex();
+  await writeFile(
+    join(INDEX_DIR, "abilities.json"),
+    JSON.stringify({ abilities, total: abilities.length }, null, 2)
+  );
+  console.log(`✓ abilities.json (${abilities.length} entries)`);
+
+  const goPokemons = await buildGoPokemonIndex();
+  await writeFile(
+    join(INDEX_DIR, "go-pokemons.json"),
+    JSON.stringify({ pokemons: goPokemons, total: goPokemons.length }, null, 2)
+  );
+  console.log(`✓ go-pokemons.json (${goPokemons.length} entries)`);
+
+  const goMoves = await buildGoMoveIndex();
+  await writeFile(
+    join(INDEX_DIR, "go-moves.json"),
+    JSON.stringify({ moves: goMoves, total: goMoves.length }, null, 2)
+  );
+  console.log(`✓ go-moves.json (${goMoves.length} entries)`);
 
   console.log("\n✓ Index build complete!");
 }

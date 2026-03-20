@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 476,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ダイノーズ",
+        "en": "Probopass"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 145,
+        "sp_attack": 75,
+        "sp_defense": 150,
+        "speed": 40
+      },
+      "ability_ids": [
+        5,
+        42
+      ],
+      "hidden_ability_id": 159
+    }
+  ]
+}

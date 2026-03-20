@@ -1,0 +1,18 @@
+{
+  "id": 372,
+  "identifier": "assurance",
+  "name": {
+    "ja": "ダメおし",
+    "en": "Assurance"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "そのターンに　相手がすでに　ダメージを　受けていたら技の　威力は　２倍に　なる。",
+    "en": "This move's power is doubled if the target has already taken some damage in the same turn."
+  }
+}

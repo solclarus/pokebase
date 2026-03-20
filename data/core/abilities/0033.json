@@ -1,0 +1,13 @@
+{
+  "id": 33,
+  "identifier": "swift-swim",
+  "name": {
+    "ja": "すいすい",
+    "en": "Swift Swim"
+  },
+  "description": {
+    "ja": "天気が　雨のとき素早さが　上がる。",
+    "en": "Boosts the Pokémon's Speed stat in rain."
+  },
+  "generation": 3
+}

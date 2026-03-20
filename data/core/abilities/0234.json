@@ -1,0 +1,13 @@
+{
+  "id": 234,
+  "identifier": "intrepid-sword",
+  "name": {
+    "ja": "ふとうのけん",
+    "en": "Intrepid Sword"
+  },
+  "description": {
+    "ja": "登場　したときに攻撃が　上がる。",
+    "en": "Boosts the Pokémon’s Attack stat the first time the Pokémon enters a battle."
+  },
+  "generation": 8
+}

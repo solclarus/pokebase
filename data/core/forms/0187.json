@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 187,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハネッコ",
+        "en": "Hoppip"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 35,
+        "defense": 40,
+        "sp_attack": 35,
+        "sp_defense": 55,
+        "speed": 50
+      },
+      "ability_ids": [
+        34,
+        102
+      ],
+      "hidden_ability_id": 151
+    }
+  ]
+}

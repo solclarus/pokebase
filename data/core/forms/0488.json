@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 488,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "クレセリア",
+        "en": "Cresselia"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 120,
+        "attack": 70,
+        "defense": 110,
+        "sp_attack": 75,
+        "sp_defense": 120,
+        "speed": 85
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

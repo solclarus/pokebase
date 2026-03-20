@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 792,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ルナアーラ",
+        "en": "Lunala"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 137,
+        "attack": 113,
+        "defense": 89,
+        "sp_attack": 137,
+        "sp_defense": 107,
+        "speed": 97
+      },
+      "ability_ids": [
+        231
+      ]
+    }
+  ]
+}

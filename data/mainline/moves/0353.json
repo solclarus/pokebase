@@ -1,0 +1,18 @@
+{
+  "id": 353,
+  "identifier": "doom-desire",
+  "name": {
+    "ja": "はめつのねがい",
+    "en": "Doom Desire"
+  },
+  "type": "steel",
+  "category": "special",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "技を　使った　２ターン後に無数の　光の　束で相手を　攻撃する。",
+    "en": "This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+  }
+}

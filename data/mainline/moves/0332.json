@@ -1,0 +1,18 @@
+{
+  "id": 332,
+  "identifier": "aerial-ace",
+  "name": {
+    "ja": "つばめがえし",
+    "en": "Aerial Ace"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "素早い　動きで相手を　ほんろうして　切りつける。攻撃は　必ず　命中する。",
+    "en": "The user confounds the target with speed, then slashes. This attack never misses."
+  }
+}

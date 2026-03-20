@@ -1,0 +1,13 @@
+{
+  "id": 377,
+  "identifier": "high-horsepower",
+  "name": {
+    "ja": "１０まんばりき",
+    "en": "High Horsepower"
+  },
+  "type": "ground",
+  "move_type": "charged",
+  "power": 105,
+  "energy_delta": -100,
+  "duration_ms": 1500
+}

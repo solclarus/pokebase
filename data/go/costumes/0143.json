@@ -1,0 +1,38 @@
+{
+  "pokemon_id": 143,
+  "costumes": [
+    {
+      "costume_id": "0143-cowboy",
+      "identifier": "snorlax-cowboy",
+      "name": {
+        "ja": "カビゴン（カウボーイ）",
+        "en": "Snorlax (Cowboy)"
+      },
+      "event": "Jul 1, 2022",
+      "available_from": "2022-07-01",
+      "available_until": null
+    },
+    {
+      "costume_id": "0143-nightcap",
+      "identifier": "snorlax-nightcap",
+      "name": {
+        "ja": "カビゴン（ナイトキャップ）",
+        "en": "Snorlax (Nightcap)"
+      },
+      "event": "July 14, 2023",
+      "available_from": "2023-07-14",
+      "available_until": null
+    },
+    {
+      "costume_id": "0143-studded",
+      "identifier": "snorlax-studded",
+      "name": {
+        "ja": "カビゴン（スタッデッド）",
+        "en": "Snorlax (Studded)"
+      },
+      "event": "November 16, 2024",
+      "available_from": "2024-11-16",
+      "available_until": null
+    }
+  ]
+}

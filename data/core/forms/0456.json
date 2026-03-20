@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 456,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ケイコウオ",
+        "en": "Finneon"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 49,
+        "attack": 49,
+        "defense": 56,
+        "sp_attack": 49,
+        "sp_defense": 61,
+        "speed": 66
+      },
+      "ability_ids": [
+        33,
+        114
+      ],
+      "hidden_ability_id": 41
+    }
+  ]
+}

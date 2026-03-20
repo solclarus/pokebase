@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 675,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴロンダ",
+        "en": "Pangoro"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fighting",
+        "dark"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 124,
+        "defense": 78,
+        "sp_attack": 69,
+        "sp_defense": 71,
+        "speed": 58
+      },
+      "ability_ids": [
+        89,
+        104
+      ],
+      "hidden_ability_id": 113
+    }
+  ]
+}

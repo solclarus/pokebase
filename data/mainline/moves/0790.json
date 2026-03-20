@@ -1,0 +1,18 @@
+{
+  "id": 790,
+  "identifier": "strange-steam",
+  "name": {
+    "ja": "ワンダースチーム",
+    "en": "Strange Steam"
+  },
+  "type": "fairy",
+  "category": "special",
+  "power": 90,
+  "accuracy": 95,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "煙を　噴出して相手を　攻撃。混乱　させることが　ある。",
+    "en": "The user attacks the target by emitting steam. This may also confuse the target."
+  }
+}

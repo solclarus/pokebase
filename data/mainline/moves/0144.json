@@ -1,0 +1,18 @@
+{
+  "id": 144,
+  "identifier": "transform",
+  "name": {
+    "ja": "へんしん",
+    "en": "Transform"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "相手の　ポケモンに　変身することで相手と　まったく同じ　技が　使える。",
+    "en": "The user transforms into a copy of the target, right down to having the same move set."
+  }
+}

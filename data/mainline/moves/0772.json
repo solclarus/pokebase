@@ -1,0 +1,18 @@
+{
+  "id": 772,
+  "identifier": "max-darkness",
+  "name": {
+    "ja": "ダイアーク",
+    "en": "Max Darkness"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　あくタイプの　攻撃。相手の　特防を　下げる。",
+    "en": "This is a Dark-type attack Dynamax Pokémon use. This lowers the target’s Sp. Def stat."
+  }
+}

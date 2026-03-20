@@ -1,0 +1,18 @@
+{
+  "id": 508,
+  "identifier": "shift-gear",
+  "name": {
+    "ja": "ギアチェンジ",
+    "en": "Shift Gear"
+  },
+  "type": "steel",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "歯車を　回して自分の　攻撃を　あげる　だけでなく素早さも　ぐーんと　あげる。",
+    "en": "The user rotates its gears, boosting its Attack stat and sharply boosting its Speed stat."
+  }
+}

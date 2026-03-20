@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 38,
+  "costumes": [
+    {
+      "costume_id": "0038-halloween",
+      "identifier": "ninetales-halloween",
+      "name": {
+        "ja": "キュウコン（ハロウィン）",
+        "en": "Ninetales (Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    }
+  ]
+}

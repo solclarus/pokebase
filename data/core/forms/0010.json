@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 10,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キャタピー",
+        "en": "Caterpie"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "sp_attack": 20,
+        "sp_defense": 20,
+        "speed": 45
+      },
+      "ability_ids": [
+        19
+      ],
+      "hidden_ability_id": 50
+    }
+  ]
+}

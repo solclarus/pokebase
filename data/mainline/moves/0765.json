@@ -1,0 +1,18 @@
+{
+  "id": 765,
+  "identifier": "max-geyser",
+  "name": {
+    "ja": "ダイストリーム",
+    "en": "Max Geyser"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　みずタイプの　攻撃。５ターンの　間　雨を　降らせる。",
+    "en": "This is a Water-type attack Dynamax Pokémon use. The user summons a heavy rain that falls for five turns."
+  }
+}

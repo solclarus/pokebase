@@ -1,0 +1,13 @@
+{
+  "id": 124,
+  "identifier": "pickpocket",
+  "name": {
+    "ja": "わるいてぐせ",
+    "en": "Pickpocket"
+  },
+  "description": {
+    "ja": "触られた　相手の　道具を盗んで　しまう。",
+    "en": "The Pokémon steals the held item from attackers that made direct contact with it."
+  },
+  "generation": 5
+}

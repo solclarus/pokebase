@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 691,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドラミドロ",
+        "en": "Dragalge"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 75,
+        "defense": 90,
+        "sp_attack": 97,
+        "sp_defense": 123,
+        "speed": 44
+      },
+      "ability_ids": [
+        38,
+        143
+      ],
+      "hidden_ability_id": 91
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガドラミドロ",
+        "en": "Mega Dragalge"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 85,
+        "defense": 105,
+        "sp_attack": 132,
+        "sp_defense": 163,
+        "speed": 44
+      },
+      "ability_ids": []
+    }
+  ]
+}

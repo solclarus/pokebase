@@ -1,0 +1,13 @@
+{
+  "id": 216,
+  "identifier": "dancer",
+  "name": {
+    "ja": "おどりこ",
+    "en": "Dancer"
+  },
+  "description": {
+    "ja": "だれかが　踊り技を　使うと自分も　それに　続いて踊り技を　出すことが　できる。",
+    "en": "Whenever a dance move is used in battle, the Pokémon will copy the user to immediately perform that dance move itself."
+  },
+  "generation": 7
+}

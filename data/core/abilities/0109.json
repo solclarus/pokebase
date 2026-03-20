@@ -1,0 +1,13 @@
+{
+  "id": 109,
+  "identifier": "unaware",
+  "name": {
+    "ja": "てんねん",
+    "en": "Unaware"
+  },
+  "description": {
+    "ja": "相手の　能力の　変化を無視して　攻撃が　できる。",
+    "en": "When attacking, the Pokémon ignores the target's stat changes."
+  },
+  "generation": 4
+}

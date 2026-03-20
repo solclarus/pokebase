@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 739,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マケンカニ",
+        "en": "Crabrawler"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 47,
+        "attack": 82,
+        "defense": 57,
+        "sp_attack": 42,
+        "sp_defense": 47,
+        "speed": 63
+      },
+      "ability_ids": [
+        52,
+        89
+      ],
+      "hidden_ability_id": 83
+    }
+  ]
+}

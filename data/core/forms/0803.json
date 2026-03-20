@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 803,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ベベノム",
+        "en": "Poipole"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 67,
+        "attack": 73,
+        "defense": 67,
+        "sp_attack": 73,
+        "sp_defense": 67,
+        "speed": 73
+      },
+      "ability_ids": [
+        224
+      ]
+    }
+  ]
+}

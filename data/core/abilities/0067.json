@@ -1,0 +1,13 @@
+{
+  "id": 67,
+  "identifier": "torrent",
+  "name": {
+    "ja": "げきりゅう",
+    "en": "Torrent"
+  },
+  "description": {
+    "ja": "ＨＰが　減ったときみずタイプの　技の威力が　上がる。",
+    "en": "Powers up Water-type moves when the Pokémon's HP is low."
+  },
+  "generation": 3
+}

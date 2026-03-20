@@ -1,0 +1,18 @@
+{
+  "id": 458,
+  "identifier": "double-hit",
+  "name": {
+    "ja": "ダブルアタック",
+    "en": "Double Hit"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 35,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "しっぽなどを　使い相手を　たたいて　攻撃する。２回連続で　ダメージを　与える。",
+    "en": "The user slams the target with a tail or the like. The target is hit twice in a row."
+  }
+}

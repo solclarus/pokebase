@@ -1,0 +1,13 @@
+{
+  "id": 151,
+  "identifier": "infiltrator",
+  "name": {
+    "ja": "すりぬけ",
+    "en": "Infiltrator"
+  },
+  "description": {
+    "ja": "相手の　壁や　身代わりをすりぬけて　攻撃　できる",
+    "en": "The Pokémon's moves are unaffected by the target's barriers, substitutes, and the like."
+  },
+  "generation": 5
+}

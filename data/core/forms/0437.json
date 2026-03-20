@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 437,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドータクン",
+        "en": "Bronzong"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 67,
+        "attack": 89,
+        "defense": 116,
+        "sp_attack": 79,
+        "sp_defense": 116,
+        "speed": 33
+      },
+      "ability_ids": [
+        26,
+        85
+      ],
+      "hidden_ability_id": 134
+    }
+  ]
+}

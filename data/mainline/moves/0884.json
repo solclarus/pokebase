@@ -1,0 +1,18 @@
+{
+  "id": 884,
+  "identifier": "pounce",
+  "name": {
+    "ja": "とびつく",
+    "en": "Pounce"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user attacks by pouncing on the target. This also lowers the target's Speed stat."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 723,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フクスロー",
+        "en": "Dartrix"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 75,
+        "defense": 75,
+        "sp_attack": 70,
+        "sp_defense": 70,
+        "speed": 52
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 203
+    }
+  ]
+}

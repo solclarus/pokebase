@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 41,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ズバット",
+        "en": "Zubat"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "sp_attack": 30,
+        "sp_defense": 40,
+        "speed": 55
+      },
+      "ability_ids": [
+        39
+      ],
+      "hidden_ability_id": 151
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 272,
+  "identifier": "grass-knot",
+  "name": {
+    "ja": "くさむすび",
+    "en": "Grass Knot"
+  },
+  "type": "grass",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 891,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ダクマ",
+        "en": "Kubfu"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 60,
+        "sp_attack": 53,
+        "sp_defense": 50,
+        "speed": 72
+      },
+      "ability_ids": [
+        39
+      ]
+    }
+  ]
+}

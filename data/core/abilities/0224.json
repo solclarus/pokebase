@@ -1,0 +1,13 @@
+{
+  "id": 224,
+  "identifier": "beast-boost",
+  "name": {
+    "ja": "ビーストブースト",
+    "en": "Beast Boost"
+  },
+  "description": {
+    "ja": "相手を　倒したとき自分の　いちばん　高い能力が　上がる。",
+    "en": "The Pokémon boosts its most proficient stat each time it knocks out a Pokémon."
+  },
+  "generation": 7
+}

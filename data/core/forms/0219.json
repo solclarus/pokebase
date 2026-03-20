@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 219,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マグカルゴ",
+        "en": "Magcargo"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 120,
+        "sp_attack": 90,
+        "sp_defense": 80,
+        "speed": 30
+      },
+      "ability_ids": [
+        40,
+        49
+      ],
+      "hidden_ability_id": 113
+    }
+  ]
+}

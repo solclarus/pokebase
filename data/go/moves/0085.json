@@ -1,0 +1,13 @@
+{
+  "id": 85,
+  "identifier": "draining-kiss",
+  "name": {
+    "ja": "ドレインキッス",
+    "en": "Draining Kiss"
+  },
+  "type": "fairy",
+  "move_type": "charged",
+  "power": 60,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

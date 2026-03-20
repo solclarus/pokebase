@@ -1,0 +1,18 @@
+{
+  "id": 360,
+  "identifier": "gyro-ball",
+  "name": {
+    "ja": "ジャイロボール",
+    "en": "Gyro Ball"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "体を　高速に　回転させて体当たりする。相手より　素早さが低いほど　強い。",
+    "en": "The user tackles the target with a high-speed spin. The slower the user is than the target, the greater the move's power."
+  }
+}

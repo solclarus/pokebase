@@ -1,0 +1,27 @@
+{
+  "pokemon_id": 54,
+  "costumes": [
+    {
+      "costume_id": "0054-holiday",
+      "identifier": "psyduck-holiday",
+      "name": {
+        "ja": "コダック（ホリデー）",
+        "en": "Psyduck (Holiday)"
+      },
+      "event": "December 18, 2023",
+      "available_from": "2023-12-18",
+      "available_until": null
+    },
+    {
+      "costume_id": "0054-swim_ring",
+      "identifier": "psyduck-swim-ring",
+      "name": {
+        "ja": "コダック（うきわ）",
+        "en": "Psyduck (Swim Ring)"
+      },
+      "event": "September 9, 2025",
+      "available_from": "2025-09-09",
+      "available_until": null
+    }
+  ]
+}

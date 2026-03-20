@@ -1,0 +1,13 @@
+{
+  "id": 230,
+  "identifier": "water-gun",
+  "name": {
+    "ja": "みずでっぽう",
+    "en": "Water Gun"
+  },
+  "type": "water",
+  "move_type": "fast",
+  "power": 5,
+  "energy_delta": 5,
+  "duration_ms": 500
+}

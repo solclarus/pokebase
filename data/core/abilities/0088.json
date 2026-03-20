@@ -1,0 +1,13 @@
+{
+  "id": 88,
+  "identifier": "download",
+  "name": {
+    "ja": "ダウンロード",
+    "en": "Download"
+  },
+  "description": {
+    "ja": "相手の　防御と　特防を　くらべて低い　ほうの　能力に　あわせて自分の　攻撃か　特攻を　上げる。",
+    "en": "The Pokémon compares an opposing Pokémon's Defense and Sp. Def stats before raising its own Attack or Sp. Atk stat—whichever will be more effective."
+  },
+  "generation": 4
+}

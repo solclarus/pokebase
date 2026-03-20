@@ -1,0 +1,18 @@
+{
+  "id": 240,
+  "identifier": "rain-dance",
+  "name": {
+    "ja": "あまごい",
+    "en": "Rain Dance"
+  },
+  "type": "water",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "５ターンの　間　雨を　降らせてみずタイプの　威力を　あげる。ほのおタイプの　威力は　さがる。",
+    "en": "The user summons a heavy rain that falls for five turns, powering up Water-type attacks. The rain also lowers the power of Fire-type attacks."
+  }
+}

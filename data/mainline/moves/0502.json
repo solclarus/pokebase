@@ -1,0 +1,18 @@
+{
+  "id": 502,
+  "identifier": "ally-switch",
+  "name": {
+    "ja": "サイドチェンジ",
+    "en": "Ally Switch"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "不思議な　力で　テレポートして自分と　味方の　居場所を入れ替える。",
+    "en": "The user teleports using a strange power and switches places with one of its allies. This move's chance of failing rises if it is used in succession."
+  }
+}

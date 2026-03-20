@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 860,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ギモー",
+        "en": "Morgrem"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dark",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 45,
+        "sp_attack": 75,
+        "sp_defense": 55,
+        "speed": 70
+      },
+      "ability_ids": [
+        158,
+        119
+      ],
+      "hidden_ability_id": 124
+    }
+  ]
+}

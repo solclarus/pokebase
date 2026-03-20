@@ -1,0 +1,77 @@
+{
+  "pokemon_id": 421,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "チェリム",
+        "en": "Cherrim"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 70,
+        "sp_attack": 87,
+        "sp_defense": 78,
+        "speed": 85
+      },
+      "ability_ids": [
+        122
+      ]
+    },
+    {
+      "id": "overcast",
+      "order": 1,
+      "name": {
+        "ja": "チェリム",
+        "en": "Cherrim"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 70,
+        "sp_attack": 87,
+        "sp_defense": 78,
+        "speed": 85
+      },
+      "ability_ids": [
+        122
+      ]
+    },
+    {
+      "id": "sunshine",
+      "order": 2,
+      "name": {
+        "ja": "チェリム",
+        "en": "Cherrim"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 60,
+        "defense": 70,
+        "sp_attack": 87,
+        "sp_defense": 78,
+        "speed": 85
+      },
+      "ability_ids": [
+        122
+      ]
+    }
+  ]
+}

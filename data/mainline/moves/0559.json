@@ -1,0 +1,18 @@
+{
+  "id": 559,
+  "identifier": "fusion-bolt",
+  "name": {
+    "ja": "クロスサンダー",
+    "en": "Fusion Bolt"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "巨大な　雷を　たたきつける。巨大な　炎の　影響を受け技の　威力が　あがる。",
+    "en": "The user throws down a giant lightning bolt. This move's power is boosted when influenced by an enormous flame."
+  }
+}

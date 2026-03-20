@@ -1,0 +1,18 @@
+{
+  "id": 900,
+  "identifier": "magical-torque",
+  "name": {
+    "ja": "マジカルアクセル",
+    "en": "Magical Torque"
+  },
+  "type": "fairy",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": ""
+  }
+}

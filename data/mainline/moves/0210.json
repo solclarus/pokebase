@@ -1,0 +1,18 @@
+{
+  "id": 210,
+  "identifier": "fury-cutter",
+  "name": {
+    "ja": "れんぞくぎり",
+    "en": "Fury Cutter"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 95,
+  "pp": 20,
+  "generation": 2,
+  "description": {
+    "ja": "カマや　ツメなどで　相手を切りつけて　攻撃する。連続で　当てると　威力が　あがる。",
+    "en": "The user attacks by slashing the target with scythes, claws, or the like. This attack becomes more powerful if it hits in succession."
+  }
+}

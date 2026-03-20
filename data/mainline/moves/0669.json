@@ -1,0 +1,18 @@
+{
+  "id": 669,
+  "identifier": "solar-blade",
+  "name": {
+    "ja": "ソーラーブレード",
+    "en": "Solar Blade"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 125,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "１ターン目に　光を　いっぱいに　集め２ターン目に　その　力を剣に　込めて　攻撃する。",
+    "en": "The user gathers light on the first turn, then fills a blade with the light's energy and attacks on the next turn."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 720,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フーパ",
+        "en": "Hoopa"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 110,
+        "defense": 60,
+        "sp_attack": 150,
+        "sp_defense": 130,
+        "speed": 70
+      },
+      "ability_ids": [
+        170
+      ]
+    },
+    {
+      "id": "unbound",
+      "order": 1,
+      "name": {
+        "ja": "ときはなたれしフーパ",
+        "en": "Hoopa Unbound"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "psychic",
+        "dark"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 160,
+        "defense": 60,
+        "sp_attack": 170,
+        "sp_defense": 130,
+        "speed": 80
+      },
+      "ability_ids": [
+        170
+      ]
+    }
+  ]
+}

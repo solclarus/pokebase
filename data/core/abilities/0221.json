@@ -1,0 +1,13 @@
+{
+  "id": 221,
+  "identifier": "tangling-hair",
+  "name": {
+    "ja": "カーリーヘアー",
+    "en": "Tangling Hair"
+  },
+  "description": {
+    "ja": "攻撃で　自分に　触れた　相手の素早さを　下げる。",
+    "en": "Contact with the Pokémon lowers the attacker's Speed stat."
+  },
+  "generation": 7
+}

@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 18,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ピジョット",
+        "en": "Pidgeot"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 75,
+        "sp_attack": 70,
+        "sp_defense": 70,
+        "speed": 101
+      },
+      "ability_ids": [
+        51,
+        77
+      ],
+      "hidden_ability_id": 145
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガピジョット",
+        "en": "Mega Pidgeot"
+      },
+      "form_type": "mega",
+      "region": "kanto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 83,
+        "attack": 80,
+        "defense": 80,
+        "sp_attack": 135,
+        "sp_defense": 80,
+        "speed": 121
+      },
+      "ability_ids": [
+        171
+      ]
+    }
+  ]
+}

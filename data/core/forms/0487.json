@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 487,
+  "forms": [
+    {
+      "id": "altered",
+      "order": 0,
+      "name": {
+        "ja": "ギラティナ",
+        "en": "Giratina"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 150,
+        "attack": 100,
+        "defense": 120,
+        "sp_attack": 100,
+        "sp_defense": 120,
+        "speed": 90
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 140
+    },
+    {
+      "id": "origin",
+      "order": 1,
+      "name": {
+        "ja": "オリジンフォルム",
+        "en": "Origin Forme"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "ghost",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 150,
+        "attack": 120,
+        "defense": 100,
+        "sp_attack": 120,
+        "sp_defense": 100,
+        "speed": 90
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

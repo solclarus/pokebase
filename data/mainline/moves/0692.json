@@ -1,0 +1,18 @@
+{
+  "id": 692,
+  "identifier": "dragon-hammer",
+  "name": {
+    "ja": "ドラゴンハンマー",
+    "en": "Dragon Hammer"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 7,
+  "description": {
+    "ja": "体を　ハンマーのように使って　相手に　襲いかかりダメージを　与える。",
+    "en": "The user wields its body like a hammer to attack the target and inflict damage."
+  }
+}

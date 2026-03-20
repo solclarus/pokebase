@@ -1,0 +1,18 @@
+{
+  "id": 152,
+  "identifier": "crabhammer",
+  "name": {
+    "ja": "クラブハンマー",
+    "en": "Crabhammer"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "大きな　ハサミを相手に　たたきつけて　攻撃する。急所に　当たりやすい。",
+    "en": "The target is hammered with a large pincer. This move has a heightened chance of landing a critical hit."
+  }
+}

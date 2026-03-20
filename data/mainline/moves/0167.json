@@ -1,0 +1,18 @@
+{
+  "id": 167,
+  "identifier": "triple-kick",
+  "name": {
+    "ja": "トリプルキック",
+    "en": "Triple Kick"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 10,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "３回連続で　キックを　くりだして攻撃する。　技が　当たるたびに威力は　あがる。",
+    "en": "A consecutive three-kick attack that becomes more powerful with each successful hit."
+  }
+}

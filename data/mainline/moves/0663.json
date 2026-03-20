@@ -1,0 +1,18 @@
+{
+  "id": 663,
+  "identifier": "darkest-lariat",
+  "name": {
+    "ja": "ＤＤラリアット",
+    "en": "Darkest Lariat"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "両腕を　回し　相手に　当てる。相手の　能力変化に関係なく　ダメージを　与える。",
+    "en": "The user swings both arms and hits the target. The target's stat changes don't affect the damage inflicted by this move."
+  }
+}

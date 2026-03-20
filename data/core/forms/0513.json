@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 513,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バオップ",
+        "en": "Pansear"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 53,
+        "defense": 48,
+        "sp_attack": 53,
+        "sp_defense": 48,
+        "speed": 64
+      },
+      "ability_ids": [
+        82
+      ],
+      "hidden_ability_id": 66
+    }
+  ]
+}

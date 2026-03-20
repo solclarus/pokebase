@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 105,
+  "costumes": [
+    {
+      "costume_id": "0105-cempas%c3%bachil",
+      "identifier": "marowak-cempas%c3%bachil",
+      "name": {
+        "ja": "センパスーチルガラガラ",
+        "en": "Marowak (Cempas%c3%bachil)"
+      },
+      "event": "November 1, 2023",
+      "available_from": "2023-11-01",
+      "available_until": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 240,
+  "identifier": "mirror-armor",
+  "name": {
+    "ja": "ミラーアーマー",
+    "en": "Mirror Armor"
+  },
+  "description": {
+    "ja": "自分が　受けた能力　ダウンの効果　だけを　跳ね返す。",
+    "en": "Bounces back only the stat-lowering effects that the Pokémon receives."
+  },
+  "generation": 8
+}

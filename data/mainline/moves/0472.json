@@ -1,0 +1,18 @@
+{
+  "id": 472,
+  "identifier": "wonder-room",
+  "name": {
+    "ja": "ワンダールーム",
+    "en": "Wonder Room"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "まか不思議な　空間を　つくる。５ターンのあいだ　すべてのポケモンの防御と　特防が　入れ替わる。",
+    "en": "The user creates a bizarre area in which Pokémon's Defense and Sp. Def stats are swapped for five turns."
+  }
+}

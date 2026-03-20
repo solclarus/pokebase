@@ -1,0 +1,13 @@
+{
+  "id": 285,
+  "identifier": "draco-meteor",
+  "name": {
+    "ja": "りゅうせいぐん",
+    "en": "Draco Meteor"
+  },
+  "type": "dragon",
+  "move_type": "charged",
+  "power": 150,
+  "energy_delta": -100,
+  "duration_ms": 3500
+}

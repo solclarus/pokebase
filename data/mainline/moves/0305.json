@@ -1,0 +1,18 @@
+{
+  "id": 305,
+  "identifier": "poison-fang",
+  "name": {
+    "ja": "どくどくのキバ",
+    "en": "Poison Fang"
+  },
+  "type": "poison",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "毒の　ある　キバで相手に　かみついて　攻撃する。猛毒を　おわせる　ことが　ある。",
+    "en": "The user bites the target with toxic fangs. This may also leave the target badly poisoned."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 988,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "チヲハウハネ",
+        "en": "Slither Wing"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 135,
+        "defense": 79,
+        "sp_attack": 85,
+        "sp_defense": 105,
+        "speed": 81
+      },
+      "ability_ids": [
+        281
+      ]
+    }
+  ]
+}

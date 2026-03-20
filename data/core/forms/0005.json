@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 5,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "リザード",
+        "en": "Charmeleon"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 58,
+        "attack": 64,
+        "defense": 58,
+        "sp_attack": 80,
+        "sp_defense": 65,
+        "speed": 80
+      },
+      "ability_ids": [
+        66
+      ],
+      "hidden_ability_id": 94
+    }
+  ]
+}

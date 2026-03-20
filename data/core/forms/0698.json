@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 698,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アマルス",
+        "en": "Amaura"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "stats": {
+        "hp": 77,
+        "attack": 59,
+        "defense": 50,
+        "sp_attack": 67,
+        "sp_defense": 63,
+        "speed": 46
+      },
+      "ability_ids": [
+        174
+      ],
+      "hidden_ability_id": 117
+    }
+  ]
+}

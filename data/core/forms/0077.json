@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 77,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ポニータ",
+        "en": "Ponyta"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 55,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 90
+      },
+      "ability_ids": [
+        50,
+        18
+      ],
+      "hidden_ability_id": 49
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "ポニータ（ガラルのすがた）",
+        "en": "Galarian Ponyta"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 55,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 90
+      },
+      "ability_ids": [
+        50,
+        257
+      ],
+      "hidden_ability_id": 107
+    }
+  ]
+}

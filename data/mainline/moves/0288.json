@@ -1,0 +1,18 @@
+{
+  "id": 288,
+  "identifier": "grudge",
+  "name": {
+    "ja": "おんねん",
+    "en": "Grudge"
+  },
+  "type": "ghost",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "相手の　技で　ひんしに　されたときおんねんを　かけてその技の　ＰＰを　０に　する。",
+    "en": "If the user faints, the user’s grudge fully depletes the PP of the opponent’s move that knocked it out."
+  }
+}

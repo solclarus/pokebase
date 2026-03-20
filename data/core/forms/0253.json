@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 253,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ジュプトル",
+        "en": "Grovyle"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "sp_attack": 85,
+        "sp_defense": 65,
+        "speed": 95
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 84
+    }
+  ]
+}

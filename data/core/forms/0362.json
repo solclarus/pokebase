@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 362,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オニゴーリ",
+        "en": "Glalie"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "sp_attack": 80,
+        "sp_defense": 80,
+        "speed": 80
+      },
+      "ability_ids": [
+        39,
+        115
+      ],
+      "hidden_ability_id": 141
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガオニゴーリ",
+        "en": "Mega Glalie"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 80,
+        "sp_attack": 120,
+        "sp_defense": 80,
+        "speed": 100
+      },
+      "ability_ids": [
+        174
+      ]
+    }
+  ]
+}

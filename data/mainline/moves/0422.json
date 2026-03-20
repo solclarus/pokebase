@@ -1,0 +1,18 @@
+{
+  "id": 422,
+  "identifier": "thunder-fang",
+  "name": {
+    "ja": "かみなりのキバ",
+    "en": "Thunder Fang"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "電気を　ためた　キバで　かみつく。相手を　ひるませたりまひ状態に　することが　ある。",
+    "en": "The user bites with electrified fangs. This may also make the target flinch or leave it with paralysis."
+  }
+}

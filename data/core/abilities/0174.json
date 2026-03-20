@@ -1,0 +1,13 @@
+{
+  "id": 174,
+  "identifier": "refrigerate",
+  "name": {
+    "ja": "フリーズスキン",
+    "en": "Refrigerate"
+  },
+  "description": {
+    "ja": "ノーマルタイプの　技がこおりタイプに　なる。威力が　少し　上がる。",
+    "en": "Normal-type moves become Ice-type moves. The power of those moves is boosted a little."
+  },
+  "generation": 6
+}

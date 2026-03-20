@@ -1,0 +1,13 @@
+{
+  "id": 392,
+  "identifier": "trailblaze",
+  "name": {
+    "ja": "くさわけ",
+    "en": "Trailblaze"
+  },
+  "type": "grass",
+  "move_type": "charged",
+  "power": 65,
+  "energy_delta": -50,
+  "duration_ms": 2000
+}

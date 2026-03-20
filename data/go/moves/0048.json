@@ -1,0 +1,13 @@
+{
+  "id": 48,
+  "identifier": "mega-drain",
+  "name": {
+    "ja": "メガドレイン",
+    "en": "Mega Drain"
+  },
+  "type": "grass",
+  "move_type": "charged",
+  "power": 25,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

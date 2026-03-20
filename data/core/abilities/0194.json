@@ -1,0 +1,13 @@
+{
+  "id": 194,
+  "identifier": "emergency-exit",
+  "name": {
+    "ja": "ききかいひ",
+    "en": "Emergency Exit"
+  },
+  "description": {
+    "ja": "ＨＰが　半分に　なると危険を　回避するため手持ちに　引っ込んで　しまう。",
+    "en": "The Pokémon, sensing danger, switches out when its HP becomes half or less."
+  },
+  "generation": 7
+}

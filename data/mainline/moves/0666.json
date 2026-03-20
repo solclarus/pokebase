@@ -1,0 +1,18 @@
+{
+  "id": 666,
+  "identifier": "floral-healing",
+  "name": {
+    "ja": "フラワーヒール",
+    "en": "Floral Healing"
+  },
+  "type": "fairy",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "最大ＨＰの　半分相手の　ＨＰを　回復する。グラスフィールドの時　効果が　あがる。",
+    "en": "The user restores the target's HP by up to half its max HP. More HP is restored when the ground is Grassy Terrain."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 705,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヌメイル",
+        "en": "Sliggoo"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 75,
+        "defense": 53,
+        "sp_attack": 83,
+        "sp_defense": 113,
+        "speed": 60
+      },
+      "ability_ids": [
+        157,
+        93
+      ],
+      "hidden_ability_id": 183
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ヒスイのすがた",
+        "en": "Hisuian Form"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 58,
+        "attack": 75,
+        "defense": 83,
+        "sp_attack": 83,
+        "sp_defense": 113,
+        "speed": 40
+      },
+      "ability_ids": [
+        157,
+        75
+      ],
+      "hidden_ability_id": 183
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 580,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コアルヒー",
+        "en": "Ducklett"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "stats": {
+        "hp": 62,
+        "attack": 44,
+        "defense": 50,
+        "sp_attack": 44,
+        "sp_defense": 50,
+        "speed": 55
+      },
+      "ability_ids": [
+        51,
+        145
+      ],
+      "hidden_ability_id": 93
+    }
+  ]
+}

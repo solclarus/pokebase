@@ -1,0 +1,18 @@
+{
+  "id": 122,
+  "identifier": "lick",
+  "name": {
+    "ja": "したでなめる",
+    "en": "Lick"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "長い　舌で相手を　なめまわして　攻撃する。まひ状態に　することが　ある。",
+    "en": "The user licks the target with a long tongue to inflict damage. This may also leave the target with paralysis."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 234,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オドシシ",
+        "en": "Stantler"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 73,
+        "attack": 95,
+        "defense": 62,
+        "sp_attack": 85,
+        "sp_defense": 65,
+        "speed": 85
+      },
+      "ability_ids": [
+        22,
+        119
+      ],
+      "hidden_ability_id": 157
+    }
+  ]
+}

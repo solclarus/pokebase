@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 305,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コドラ",
+        "en": "Lairon"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "steel",
+        "rock"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 140,
+        "sp_attack": 50,
+        "sp_defense": 50,
+        "speed": 40
+      },
+      "ability_ids": [
+        5,
+        69
+      ],
+      "hidden_ability_id": 134
+    }
+  ]
+}

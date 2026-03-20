@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 123,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ストライク",
+        "en": "Scyther"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 80,
+        "sp_attack": 55,
+        "sp_defense": 80,
+        "speed": 105
+      },
+      "ability_ids": [
+        68,
+        101
+      ],
+      "hidden_ability_id": 80
+    }
+  ]
+}

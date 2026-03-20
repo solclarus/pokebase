@@ -1,0 +1,18 @@
+{
+  "id": 199,
+  "identifier": "lock-on",
+  "name": {
+    "ja": "ロックオン",
+    "en": "Lock-On"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "照準を　しっかり　あわせて次の　攻撃が　必ず相手に　当たるように　する。",
+    "en": "The user takes sure aim at the target. This ensures the user's next move does not miss that target."
+  }
+}

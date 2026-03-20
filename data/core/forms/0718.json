@@ -1,0 +1,153 @@
+{
+  "pokemon_id": 718,
+  "forms": [
+    {
+      "id": "50",
+      "order": 0,
+      "name": {
+        "ja": "ジガルデ",
+        "en": "Zygarde"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats": {
+        "hp": 108,
+        "attack": 100,
+        "defense": 121,
+        "sp_attack": 81,
+        "sp_defense": 95,
+        "speed": 95
+      },
+      "ability_ids": [
+        188
+      ]
+    },
+    {
+      "id": "10-power-construct",
+      "order": 1,
+      "name": {
+        "ja": "１０％フォルム",
+        "en": "10% Forme"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats": {
+        "hp": 54,
+        "attack": 100,
+        "defense": 71,
+        "sp_attack": 61,
+        "sp_defense": 85,
+        "speed": 115
+      },
+      "ability_ids": [
+        211
+      ]
+    },
+    {
+      "id": "50-power-construct",
+      "order": 2,
+      "name": {
+        "ja": "５０％フォルム",
+        "en": "50% Forme"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats": {
+        "hp": 108,
+        "attack": 100,
+        "defense": 121,
+        "sp_attack": 81,
+        "sp_defense": 95,
+        "speed": 95
+      },
+      "ability_ids": [
+        211
+      ]
+    },
+    {
+      "id": "complete",
+      "order": 3,
+      "name": {
+        "ja": "パーフェクトフォルム",
+        "en": "Complete Forme"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats": {
+        "hp": 216,
+        "attack": 100,
+        "defense": 121,
+        "sp_attack": 91,
+        "sp_defense": 95,
+        "speed": 85
+      },
+      "ability_ids": [
+        211
+      ]
+    },
+    {
+      "id": "10",
+      "order": 4,
+      "name": {
+        "ja": "１０％フォルム",
+        "en": "10% Forme"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats": {
+        "hp": 54,
+        "attack": 100,
+        "defense": 71,
+        "sp_attack": 61,
+        "sp_defense": 85,
+        "speed": 115
+      },
+      "ability_ids": [
+        188
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 5,
+      "name": {
+        "ja": "メガジガルデ",
+        "en": "Mega Zygarde"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats": {
+        "hp": 216,
+        "attack": 70,
+        "defense": 91,
+        "sp_attack": 216,
+        "sp_defense": 85,
+        "speed": 100
+      },
+      "ability_ids": []
+    }
+  ]
+}

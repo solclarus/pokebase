@@ -1,0 +1,18 @@
+{
+  "id": 410,
+  "identifier": "vacuum-wave",
+  "name": {
+    "ja": "しんくうは",
+    "en": "Vacuum Wave"
+  },
+  "type": "fighting",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 4,
+  "description": {
+    "ja": "こぶしを　ふって真空の　波を　まきおこす。必ず　先制攻撃できる。",
+    "en": "The user whirls its fists to send a wave of pure vacuum at the target. This move always goes first."
+  }
+}

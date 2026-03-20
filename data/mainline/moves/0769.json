@@ -1,0 +1,18 @@
+{
+  "id": 769,
+  "identifier": "max-mindstorm",
+  "name": {
+    "ja": "ダイサイコ",
+    "en": "Max Mindstorm"
+  },
+  "type": "psychic",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　エスパータイプの　攻撃。５ターンの　間　サイコフィールドにする。",
+    "en": "This is a Psychic-type attack Dynamax Pokémon use. The user turns the ground into Psychic Terrain for five turns."
+  }
+}

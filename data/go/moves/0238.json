@@ -1,0 +1,13 @@
+{
+  "id": 238,
+  "identifier": "feint-attack",
+  "name": {
+    "ja": "だましうち",
+    "en": "Feint Attack"
+  },
+  "type": "dark",
+  "move_type": "fast",
+  "power": 11,
+  "energy_delta": 10,
+  "duration_ms": 1000
+}

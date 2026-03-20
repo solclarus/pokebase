@@ -1,0 +1,18 @@
+{
+  "id": 87,
+  "identifier": "thunder",
+  "name": {
+    "ja": "かみなり",
+    "en": "Thunder"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 110,
+  "accuracy": 70,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "激しい　雷を相手に　落として　攻撃する。まひ状態に　することが　ある。",
+    "en": "A wicked thunderbolt is dropped on the target to inflict damage. This may also leave the target with paralysis."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 275,
+  "identifier": "ingrain",
+  "name": {
+    "ja": "ねをはる",
+    "en": "Ingrain"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "大地に　根を　張り毎ターン　自分の　ＨＰを　回復する。根を　張っているので　入れ替えられない。",
+    "en": "The user lays roots that restore its own HP every turn. Because the user is now rooted, it can't switch out."
+  }
+}

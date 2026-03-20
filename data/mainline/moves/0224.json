@@ -1,0 +1,18 @@
+{
+  "id": 224,
+  "identifier": "megahorn",
+  "name": {
+    "ja": "メガホーン",
+    "en": "Megahorn"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "硬くて　りっぱな　つので　おもいっきり相手を　突き刺して　攻撃する。",
+    "en": "Using its tough and impressive horn, the user rams into the target with no letup."
+  }
+}

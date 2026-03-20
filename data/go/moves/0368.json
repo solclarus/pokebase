@@ -1,0 +1,13 @@
+{
+  "id": 368,
+  "identifier": "rollout",
+  "name": {
+    "ja": "ころがる",
+    "en": "Rollout"
+  },
+  "type": "rock",
+  "move_type": "fast",
+  "power": 15,
+  "energy_delta": 19,
+  "duration_ms": 1500
+}

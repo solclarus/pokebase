@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 363,
+  "costumes": [
+    {
+      "costume_id": "0363-holiday",
+      "identifier": "spheal-holiday",
+      "name": {
+        "ja": "タマザラシ（ホリデー）",
+        "en": "Spheal (Holiday)"
+      },
+      "event": "December 16, 2021",
+      "available_from": "2021-12-16",
+      "available_until": null
+    }
+  ]
+}

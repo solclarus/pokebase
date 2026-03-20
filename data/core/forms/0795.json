@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 795,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フェローチェ",
+        "en": "Pheromosa"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 137,
+        "defense": 37,
+        "sp_attack": 137,
+        "sp_defense": 37,
+        "speed": 151
+      },
+      "ability_ids": [
+        224
+      ]
+    }
+  ]
+}

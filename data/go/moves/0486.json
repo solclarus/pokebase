@@ -1,0 +1,13 @@
+{
+  "id": 486,
+  "identifier": "dragon-energy",
+  "name": {
+    "ja": "ドラゴンエナジー",
+    "en": "Dragon Energy"
+  },
+  "type": "dragon",
+  "move_type": "charged",
+  "power": 155,
+  "energy_delta": -50,
+  "duration_ms": 3300
+}

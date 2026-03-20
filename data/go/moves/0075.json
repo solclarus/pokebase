@@ -1,0 +1,13 @@
+{
+  "id": 75,
+  "identifier": "parabolic-charge",
+  "name": {
+    "ja": "パラボラチャージ",
+    "en": "Parabolic Charge"
+  },
+  "type": "electric",
+  "move_type": "charged",
+  "power": 70,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

@@ -1,0 +1,13 @@
+{
+  "id": 96,
+  "identifier": "normalize",
+  "name": {
+    "ja": "ノーマルスキン",
+    "en": "Normalize"
+  },
+  "description": {
+    "ja": "どんな　タイプの　技でもすべて　ノーマルタイプに　なる。威力が　少し　上がる。",
+    "en": "All the Pokémon’s moves become Normal type. The power of those moves is boosted a little."
+  },
+  "generation": 4
+}

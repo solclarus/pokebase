@@ -1,0 +1,18 @@
+{
+  "id": 901,
+  "identifier": "blood-moon",
+  "name": {
+    "ja": "ブラッドムーン",
+    "en": "Blood Moon"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user unleashes the full brunt of its spirit from a full moon that shines as red as blood. This move can't be used twice in a row."
+  }
+}

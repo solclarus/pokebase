@@ -1,0 +1,13 @@
+{
+  "id": 15,
+  "identifier": "insomnia",
+  "name": {
+    "ja": "ふみん",
+    "en": "Insomnia"
+  },
+  "description": {
+    "ja": "眠れない　体質　なのでねむり状態に　ならない。",
+    "en": "The Pokémon's insomnia prevents it from falling asleep."
+  },
+  "generation": 3
+}

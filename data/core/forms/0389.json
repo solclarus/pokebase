@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 389,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドダイトス",
+        "en": "Torterra"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "grass",
+        "ground"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 109,
+        "defense": 105,
+        "sp_attack": 75,
+        "sp_defense": 85,
+        "speed": 56
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 75
+    }
+  ]
+}

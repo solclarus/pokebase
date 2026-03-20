@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 175,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "トゲピー",
+        "en": "Togepi"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 20,
+        "defense": 65,
+        "sp_attack": 40,
+        "sp_defense": 65,
+        "speed": 20
+      },
+      "ability_ids": [
+        55,
+        32
+      ],
+      "hidden_ability_id": 105
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 297,
+  "identifier": "earth-eater",
+  "name": {
+    "ja": "どしょく",
+    "en": "Earth Eater"
+  },
+  "description": {
+    "ja": "じめんタイプの技を受けるとダメージを受けずに回復する。",
+    "en": "If hit by a Ground-type move, the Pokémon has its HP restored instead of taking damage."
+  },
+  "generation": 9
+}

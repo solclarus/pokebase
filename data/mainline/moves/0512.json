@@ -1,0 +1,18 @@
+{
+  "id": 512,
+  "identifier": "acrobatics",
+  "name": {
+    "ja": "アクロバット",
+    "en": "Acrobatics"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "軽やかに　相手を　攻撃する。自分が　道具を　持っていないとき大きな　ダメージを　与える。",
+    "en": "The user nimbly strikes the target. This attack does massive damage if the user isn't holding an item."
+  }
+}

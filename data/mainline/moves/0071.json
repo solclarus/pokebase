@@ -1,0 +1,18 @@
+{
+  "id": 71,
+  "identifier": "absorb",
+  "name": {
+    "ja": "すいとる",
+    "en": "Absorb"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 25,
+  "generation": 1,
+  "description": {
+    "ja": "養分を　吸い取り　攻撃する。相手に　与えた　ダメージの半分の　ＨＰを　回復できる。",
+    "en": "A nutrient-draining attack. The user's HP is restored by up to half the damage taken by the target."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 138,
+  "identifier": "dream-eater",
+  "name": {
+    "ja": "ゆめくい",
+    "en": "Dream Eater"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "寝ている　相手の　夢を　食べて攻撃する。　ダメージの　半分のＨＰを　回復する。",
+    "en": "The user eats the dreams of a sleeping target. The user's HP is restored by up to half the damage taken by the target."
+  }
+}

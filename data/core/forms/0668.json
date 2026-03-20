@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 668,
+  "forms": [
+    {
+      "id": "male",
+      "order": 0,
+      "name": {
+        "ja": "カエンジシ",
+        "en": "Pyroar"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "stats": {
+        "hp": 86,
+        "attack": 68,
+        "defense": 72,
+        "sp_attack": 109,
+        "sp_defense": 66,
+        "speed": 106
+      },
+      "ability_ids": [
+        79,
+        127
+      ],
+      "hidden_ability_id": 153
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガカエンジシ",
+        "en": "Mega Pyroar"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "stats": {
+        "hp": 86,
+        "attack": 88,
+        "defense": 92,
+        "sp_attack": 129,
+        "sp_defense": 86,
+        "speed": 126
+      },
+      "ability_ids": []
+    }
+  ]
+}

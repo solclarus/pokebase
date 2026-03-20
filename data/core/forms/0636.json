@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 636,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メラルバ",
+        "en": "Larvesta"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "fire"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 85,
+        "defense": 55,
+        "sp_attack": 50,
+        "sp_defense": 55,
+        "speed": 60
+      },
+      "ability_ids": [
+        49
+      ],
+      "hidden_ability_id": 68
+    }
+  ]
+}

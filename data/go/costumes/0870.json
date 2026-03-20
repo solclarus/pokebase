@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 870,
+  "costumes": [
+    {
+      "costume_id": "0870-train",
+      "identifier": "falinks-train",
+      "name": {
+        "ja": "タイレーツ（トレイン）",
+        "en": "Falinks (Train)"
+      },
+      "event": "May 29, 2025",
+      "available_from": "2025-05-29",
+      "available_until": null
+    }
+  ]
+}

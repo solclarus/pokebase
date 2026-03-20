@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 570,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゾロア",
+        "en": "Zorua"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 40,
+        "sp_attack": 80,
+        "sp_defense": 40,
+        "speed": 65
+      },
+      "ability_ids": [
+        149
+      ]
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ヒスイのすがた",
+        "en": "Hisuian Form"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "normal",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 60,
+        "defense": 40,
+        "sp_attack": 85,
+        "sp_defense": 40,
+        "speed": 70
+      },
+      "ability_ids": [
+        149
+      ]
+    }
+  ]
+}

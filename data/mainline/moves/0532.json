@@ -1,0 +1,18 @@
+{
+  "id": 532,
+  "identifier": "horn-leech",
+  "name": {
+    "ja": "ウッドホーン",
+    "en": "Horn Leech"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "つのを　突き刺して　相手の　養分を吸い取る。　与えた　ダメージの半分の　ＨＰを　回復できる。",
+    "en": "The user drains the target's energy with its horns. The user's HP is restored by up to half the damage taken by the target."
+  }
+}

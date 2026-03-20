@@ -1,0 +1,13 @@
+{
+  "id": 72,
+  "identifier": "vital-spirit",
+  "name": {
+    "ja": "やるき",
+    "en": "Vital Spirit"
+  },
+  "description": {
+    "ja": "やる気を　だすことに　よってねむり状態に　ならない。",
+    "en": "The Pokémon is full of vitality, and that prevents it from falling asleep."
+  },
+  "generation": 3
+}

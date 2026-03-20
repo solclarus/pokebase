@@ -1,0 +1,18 @@
+{
+  "id": 448,
+  "identifier": "chatter",
+  "name": {
+    "ja": "おしゃべり",
+    "en": "Chatter"
+  },
+  "type": "flying",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "とても　うるさい　おしゃべりの音波で　相手を　攻撃する。相手を　混乱させる。",
+    "en": "The user attacks the target with sound waves of deafening chatter. This confuses the target."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 672,
+  "identifier": "toxic-thread",
+  "name": {
+    "ja": "どくのいと",
+    "en": "Toxic Thread"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 7,
+  "description": {
+    "ja": "毒の　混じった　糸を　吹き付ける。相手を　毒にして素早さを　さげる。",
+    "en": "The user shoots poisonous threads to poison the target and lower the target's Speed stat."
+  }
+}

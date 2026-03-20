@@ -1,0 +1,18 @@
+{
+  "id": 551,
+  "identifier": "blue-flare",
+  "name": {
+    "ja": "あおいほのお",
+    "en": "Blue Flare"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 130,
+  "accuracy": 85,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "美しくも　激しい　青い炎で相手を　包みこんで　攻撃する。やけど状態に　することが　ある。",
+    "en": "The user attacks by engulfing the target in an intense, yet beautiful, blue flame. This may also leave the target with a burn."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 344,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ネンドール",
+        "en": "Claydol"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 70,
+        "defense": 105,
+        "sp_attack": 70,
+        "sp_defense": 120,
+        "speed": 75
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

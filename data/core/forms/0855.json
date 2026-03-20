@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 855,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ポットデス",
+        "en": "Polteageist"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 65,
+        "sp_attack": 134,
+        "sp_defense": 114,
+        "speed": 70
+      },
+      "ability_ids": [
+        133
+      ],
+      "hidden_ability_id": 130
+    },
+    {
+      "id": "antique",
+      "order": 1,
+      "name": {
+        "ja": "ポットデス",
+        "en": "Polteageist"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 65,
+        "sp_attack": 134,
+        "sp_defense": 114,
+        "speed": 70
+      },
+      "ability_ids": [
+        133
+      ],
+      "hidden_ability_id": 130
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "pokemon_id": 741,
+  "forms": [
+    {
+      "id": "baile",
+      "order": 0,
+      "name": {
+        "ja": "オドリドリ",
+        "en": "Oricorio"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 70,
+        "defense": 70,
+        "sp_attack": 98,
+        "sp_defense": 70,
+        "speed": 93
+      },
+      "ability_ids": [
+        216
+      ]
+    },
+    {
+      "id": "pom-pom",
+      "order": 1,
+      "name": {
+        "ja": "ぱちぱちスタイル",
+        "en": "Pom-Pom Style"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 70,
+        "defense": 70,
+        "sp_attack": 98,
+        "sp_defense": 70,
+        "speed": 93
+      },
+      "ability_ids": [
+        216
+      ]
+    },
+    {
+      "id": "pau",
+      "order": 2,
+      "name": {
+        "ja": "ふらふらスタイル",
+        "en": "Pa’u Style"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 70,
+        "defense": 70,
+        "sp_attack": 98,
+        "sp_defense": 70,
+        "speed": 93
+      },
+      "ability_ids": [
+        216
+      ]
+    },
+    {
+      "id": "sensu",
+      "order": 3,
+      "name": {
+        "ja": "まいまいスタイル",
+        "en": "Sensu Style"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ghost",
+        "flying"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 70,
+        "defense": 70,
+        "sp_attack": 98,
+        "sp_defense": 70,
+        "speed": 93
+      },
+      "ability_ids": [
+        216
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 332,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ノクタス",
+        "en": "Cacturne"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 115,
+        "defense": 60,
+        "sp_attack": 115,
+        "sp_defense": 60,
+        "speed": 55
+      },
+      "ability_ids": [
+        8
+      ],
+      "hidden_ability_id": 11
+    }
+  ]
+}

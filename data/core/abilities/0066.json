@@ -1,0 +1,13 @@
+{
+  "id": 66,
+  "identifier": "blaze",
+  "name": {
+    "ja": "もうか",
+    "en": "Blaze"
+  },
+  "description": {
+    "ja": "ＨＰが　減ったときほのおタイプの　技の威力が　上がる。",
+    "en": "Powers up Fire-type moves when the Pokémon's HP is low."
+  },
+  "generation": 3
+}

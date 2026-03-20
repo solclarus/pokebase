@@ -1,0 +1,13 @@
+{
+  "id": 273,
+  "identifier": "well-baked-body",
+  "name": {
+    "ja": "こんがりボディ",
+    "en": "Well-Baked Body"
+  },
+  "description": {
+    "ja": "ほのおタイプの技を受けるとダメージを受けずに防御がぐーんと上がる。",
+    "en": "The Pokémon takes no damage when hit by Fire-type moves. Instead, its Defense stat is sharply boosted."
+  },
+  "generation": 9
+}

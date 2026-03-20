@@ -1,0 +1,18 @@
+{
+  "id": 150,
+  "identifier": "splash",
+  "name": {
+    "ja": "はねる",
+    "en": "Splash"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "generation": 1,
+  "description": {
+    "ja": "攻撃もせずに　ピョン　ピョンと跳ねるだけで　なにも　おこらない……。",
+    "en": "The user just flops and splashes around to no effect at all..."
+  }
+}

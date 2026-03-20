@@ -1,0 +1,13 @@
+{
+  "id": 464,
+  "identifier": "rage-fist",
+  "name": {
+    "ja": "ふんどのこぶし",
+    "en": "Rage Fist"
+  },
+  "type": "ghost",
+  "move_type": "charged",
+  "power": 100,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

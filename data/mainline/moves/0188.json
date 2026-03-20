@@ -1,0 +1,18 @@
+{
+  "id": 188,
+  "identifier": "sludge-bomb",
+  "name": {
+    "ja": "ヘドロばくだん",
+    "en": "Sludge Bomb"
+  },
+  "type": "poison",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "汚い　ヘドロを相手に　投げつけて　攻撃する。毒状態に　することが　ある。",
+    "en": "The user hurls unsanitary sludge at the target to inflict damage. This may also poison the target."
+  }
+}

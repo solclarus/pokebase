@@ -1,0 +1,18 @@
+{
+  "id": 276,
+  "identifier": "superpower",
+  "name": {
+    "ja": "ばかぢから",
+    "en": "Superpower"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "すごい　力を　発揮して相手を　攻撃する。自分の攻撃と　防御が　さがる。",
+    "en": "The user attacks the target with great power. This also lowers the user's Attack and Defense stats."
+  }
+}

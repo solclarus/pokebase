@@ -1,0 +1,18 @@
+{
+  "id": 125,
+  "identifier": "bone-club",
+  "name": {
+    "ja": "ホネこんぼう",
+    "en": "Bone Club"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 85,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+  }
+}

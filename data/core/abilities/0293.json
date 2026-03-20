@@ -1,0 +1,13 @@
+{
+  "id": 293,
+  "identifier": "supreme-overlord",
+  "name": {
+    "ja": "そうだいしょう",
+    "en": "Supreme Overlord"
+  },
+  "description": {
+    "ja": "登場したとき今まで倒された味方の数が多いほど少しずつ攻撃と特攻が上がる。",
+    "en": "When the Pokémon enters a battle, its Attack and Sp. Atk stats are slightly boosted for each of the allies in its party that have already been defeated."
+  },
+  "generation": 9
+}

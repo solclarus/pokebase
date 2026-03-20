@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 440,
+  "costumes": [
+    {
+      "costume_id": "0440-flower",
+      "identifier": "happiny-flower",
+      "name": {
+        "ja": "ピンプク（はなかんむり）",
+        "en": "Happiny (Flower)"
+      },
+      "event": "April 4, 2021",
+      "available_from": "2021-04-04",
+      "available_until": null
+    }
+  ]
+}

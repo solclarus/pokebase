@@ -1,0 +1,37 @@
+{
+  "pokemon_id": 746,
+  "forms": [
+    {
+      "form_id": "solo",
+      "base_attack": 46,
+      "base_defense": 43,
+      "base_stamina": 128,
+      "fast_move_ids": [
+        230,
+        283,
+        266
+      ],
+      "charged_move_ids": [
+        104,
+        284,
+        58
+      ],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "school",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

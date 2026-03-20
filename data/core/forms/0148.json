@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 148,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハクリュー",
+        "en": "Dragonair"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 61,
+        "attack": 84,
+        "defense": 65,
+        "sp_attack": 70,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "ability_ids": [
+        61
+      ],
+      "hidden_ability_id": 63
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 107,
+  "identifier": "minimize",
+  "name": {
+    "ja": "ちいさくなる",
+    "en": "Minimize"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "体を　ちぢめて　小さく　みせて自分の　回避率をぐーんと　あげる。",
+    "en": "The user compresses its body to make itself look smaller, which sharply boosts its evasiveness."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 50,
+  "identifier": "poison-fang",
+  "name": {
+    "ja": "どくどくのキバ",
+    "en": "Poison Fang"
+  },
+  "type": "poison",
+  "move_type": "charged",
+  "power": 30,
+  "energy_delta": -33,
+  "duration_ms": 1500
+}

@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 198,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤミカラス",
+        "en": "Murkrow"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 42,
+        "sp_attack": 85,
+        "sp_defense": 42,
+        "speed": 91
+      },
+      "ability_ids": [
+        15,
+        105
+      ],
+      "hidden_ability_id": 158
+    }
+  ]
+}

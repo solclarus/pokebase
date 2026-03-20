@@ -1,0 +1,18 @@
+{
+  "id": 402,
+  "identifier": "seed-bomb",
+  "name": {
+    "ja": "タネばくだん",
+    "en": "Seed Bomb"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "硬い　殻を　もつ　大きな　タネを上から　たたきつけて相手を　攻撃する。",
+    "en": "The user attacks by slamming a barrage of hard-shelled seeds down on the target from above."
+  }
+}

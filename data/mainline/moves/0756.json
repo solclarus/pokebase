@@ -1,0 +1,18 @@
+{
+  "id": 756,
+  "identifier": "court-change",
+  "name": {
+    "ja": "コートチェンジ",
+    "en": "Court Change"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "不思議な　力でお互いの　場の　効果を　入れ替える。",
+    "en": "With its mysterious power, the user swaps the effects on either side of the field."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 835,
+  "identifier": "chloroblast",
+  "name": {
+    "ja": "クロロブラスト",
+    "en": "Chloroblast"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 150,
+  "accuracy": 95,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user launches its amassed chlorophyll to inflict damage on the target. This also damages the user."
+  }
+}

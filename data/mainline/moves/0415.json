@@ -1,0 +1,18 @@
+{
+  "id": 415,
+  "identifier": "switcheroo",
+  "name": {
+    "ja": "すりかえ",
+    "en": "Switcheroo"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "目にも　とまらぬ　速さで自分と　相手の持ち物を　交換する。",
+    "en": "The user trades held items with the target faster than the eye can follow."
+  }
+}

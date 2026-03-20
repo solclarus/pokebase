@@ -1,0 +1,13 @@
+{
+  "id": 105,
+  "identifier": "water-pulse",
+  "name": {
+    "ja": "みずのはどう",
+    "en": "Water Pulse"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 65,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

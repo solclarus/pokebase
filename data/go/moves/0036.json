@@ -1,0 +1,13 @@
+{
+  "id": 36,
+  "identifier": "flash-cannon",
+  "name": {
+    "ja": "ラスターカノン",
+    "en": "Flash Cannon"
+  },
+  "type": "steel",
+  "move_type": "charged",
+  "power": 100,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

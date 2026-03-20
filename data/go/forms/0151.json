@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 151,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 210,
+      "base_defense": 210,
+      "base_stamina": 225,
+      "fast_move_ids": [
+        222,
+        239,
+        249,
+        213,
+        250,
+        261,
+        218,
+        253,
+        260,
+        224,
+        241,
+        278,
+        223,
+        283
+      ],
+      "charged_move_ids": [
+        108,
+        62,
+        83,
+        60,
+        39,
+        40,
+        14,
+        116,
+        79,
+        78,
+        101,
+        56,
+        270,
+        247,
+        273,
+        32,
+        267,
+        95,
+        64,
+        272,
+        36,
+        251,
+        16,
+        86,
+        284
+      ],
+      "released_at": "2018-03-30",
+      "shiny_released_at": "2021-02-20",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

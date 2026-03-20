@@ -1,0 +1,13 @@
+{
+  "id": 408,
+  "identifier": "high-jump-kick",
+  "name": {
+    "ja": "とびひざげり",
+    "en": "High Jump Kick"
+  },
+  "type": "fighting",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -100,
+  "duration_ms": 1500
+}

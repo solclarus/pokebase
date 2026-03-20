@@ -1,0 +1,18 @@
+{
+  "id": 265,
+  "identifier": "smelling-salts",
+  "name": {
+    "ja": "きつけ",
+    "en": "Smelling Salts"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+  }
+}

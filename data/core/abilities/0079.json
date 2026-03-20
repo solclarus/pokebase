@@ -1,0 +1,13 @@
+{
+  "id": 79,
+  "identifier": "rivalry",
+  "name": {
+    "ja": "とうそうしん",
+    "en": "Rivalry"
+  },
+  "description": {
+    "ja": "性別が　同じだと闘争心を　燃やして　強くなる。性別が　違うと　弱くなる。",
+    "en": "The Pokémon's competitive spirit makes it deal more damage to Pokémon of the same gender, but less damage to Pokémon of the opposite gender."
+  },
+  "generation": 4
+}

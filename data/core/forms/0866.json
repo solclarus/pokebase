@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 866,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バリコオル",
+        "en": "Mr. Rime"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ice",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 85,
+        "defense": 75,
+        "sp_attack": 110,
+        "sp_defense": 100,
+        "speed": 70
+      },
+      "ability_ids": [
+        77,
+        251
+      ],
+      "hidden_ability_id": 115
+    }
+  ]
+}

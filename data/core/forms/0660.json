@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 660,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ホルード",
+        "en": "Diggersby"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "normal",
+        "ground"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 56,
+        "defense": 77,
+        "sp_attack": 50,
+        "sp_defense": 77,
+        "speed": 78
+      },
+      "ability_ids": [
+        53,
+        167
+      ],
+      "hidden_ability_id": 37
+    }
+  ]
+}

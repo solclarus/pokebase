@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 450,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カバルドン",
+        "en": "Hippowdon"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "hp": 108,
+        "attack": 112,
+        "defense": 118,
+        "sp_attack": 68,
+        "sp_defense": 72,
+        "speed": 47
+      },
+      "ability_ids": [
+        45
+      ],
+      "hidden_ability_id": 159
+    }
+  ]
+}

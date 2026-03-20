@@ -1,0 +1,13 @@
+{
+  "id": 63,
+  "identifier": "marvel-scale",
+  "name": {
+    "ja": "ふしぎなうろこ",
+    "en": "Marvel Scale"
+  },
+  "description": {
+    "ja": "状態異常に　なると不思議なウロコが　反応して防御が　上がる。",
+    "en": "The Pokémon's marvelous scales boost its Defense stat if it has a status condition."
+  },
+  "generation": 3
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 129,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コイキング",
+        "en": "Magikarp"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 20,
+        "attack": 10,
+        "defense": 55,
+        "sp_attack": 15,
+        "sp_defense": 20,
+        "speed": 80
+      },
+      "ability_ids": [
+        33
+      ],
+      "hidden_ability_id": 155
+    }
+  ]
+}

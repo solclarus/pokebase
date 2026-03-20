@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 667,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "シシコ",
+        "en": "Litleo"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fire",
+        "normal"
+      ],
+      "stats": {
+        "hp": 62,
+        "attack": 50,
+        "defense": 58,
+        "sp_attack": 73,
+        "sp_defense": 54,
+        "speed": 72
+      },
+      "ability_ids": [
+        79,
+        127
+      ],
+      "hidden_ability_id": 153
+    }
+  ]
+}

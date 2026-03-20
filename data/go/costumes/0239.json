@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 239,
+  "costumes": [
+    {
+      "costume_id": "0239-spark",
+      "identifier": "elekid-spark",
+      "name": {
+        "ja": "エレキッド（スパーク）",
+        "en": "Elekid (Spark)"
+      },
+      "event": "May 2, 2023",
+      "available_from": "2023-05-02",
+      "available_until": null
+    }
+  ]
+}

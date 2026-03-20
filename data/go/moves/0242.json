@@ -1,0 +1,13 @@
+{
+  "id": 242,
+  "identifier": "transform",
+  "name": {
+    "ja": "へんしん",
+    "en": "Transform"
+  },
+  "type": "normal",
+  "move_type": "fast",
+  "power": 0,
+  "energy_delta": 0,
+  "duration_ms": 2000
+}

@@ -1,0 +1,18 @@
+{
+  "id": 91,
+  "identifier": "dig",
+  "name": {
+    "ja": "あなをほる",
+    "en": "Dig"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "１ターン目に　潜り　２ターン目で相手を　攻撃する。",
+    "en": "The user burrows into the ground on the first turn, then attacks on the next turn."
+  }
+}

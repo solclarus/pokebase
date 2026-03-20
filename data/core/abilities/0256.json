@@ -1,0 +1,13 @@
+{
+  "id": 256,
+  "identifier": "neutralizing-gas",
+  "name": {
+    "ja": "かがくへんかガス",
+    "en": "Neutralizing Gas"
+  },
+  "description": {
+    "ja": "かがくへんかガスの　ポケモンが　場にいるとすべての　ポケモンの　特性の効果が　消えたり　発動　しなくなる。",
+    "en": "While the Pokémon is in the battle, the effects of all other Pokémon's Abilities will be nullified or will not be triggered."
+  },
+  "generation": 8
+}

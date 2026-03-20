@@ -1,0 +1,59 @@
+{
+  "pokemon_id": 823,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アーマーガア",
+        "en": "Corviknight"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "stats": {
+        "hp": 98,
+        "attack": 87,
+        "defense": 105,
+        "sp_attack": 53,
+        "sp_defense": 85,
+        "speed": 67
+      },
+      "ability_ids": [
+        46,
+        127
+      ],
+      "hidden_ability_id": 240
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスアーマーガア",
+        "en": "Gigantamax Corviknight"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "stats": {
+        "hp": 98,
+        "attack": 87,
+        "defense": 105,
+        "sp_attack": 53,
+        "sp_defense": 85,
+        "speed": 67
+      },
+      "ability_ids": [
+        46,
+        127
+      ],
+      "hidden_ability_id": 240
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 825,
+  "identifier": "astral-barrage",
+  "name": {
+    "ja": "アストラルビット",
+    "en": "Astral Barrage"
+  },
+  "type": "ghost",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "たくさんの　小さな　霊体を相手に　ぶつけて　攻撃する。",
+    "en": "The user attacks by sending a frightful amount of small ghosts at opposing Pokémon."
+  }
+}

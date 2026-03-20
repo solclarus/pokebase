@@ -1,0 +1,10 @@
+{
+  "id": 82,
+  "identifier": "magneton",
+  "name": {
+    "ja": "レアコイル",
+    "en": "Magneton"
+  },
+  "generation": 1,
+  "category": "normal"
+}

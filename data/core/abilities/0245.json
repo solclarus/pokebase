@@ -1,0 +1,13 @@
+{
+  "id": 245,
+  "identifier": "sand-spit",
+  "name": {
+    "ja": "すなはき",
+    "en": "Sand Spit"
+  },
+  "description": {
+    "ja": "攻撃を　受けると砂あらしを　起こす。",
+    "en": "The Pokémon creates a sandstorm when it's hit by an attack."
+  },
+  "generation": 8
+}

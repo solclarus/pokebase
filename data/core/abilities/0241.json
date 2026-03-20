@@ -1,0 +1,13 @@
+{
+  "id": 241,
+  "identifier": "gulp-missile",
+  "name": {
+    "ja": "うのミサイル",
+    "en": "Gulp Missile"
+  },
+  "description": {
+    "ja": "なみのりか　ダイビングを　すると獲物を　くわえてくる。　ダメージを受けると　獲物を　吐きだして　攻撃。",
+    "en": "When the Pokémon uses Surf or Dive, it will come back with prey. When it takes damage, it will spit out the prey to attack."
+  },
+  "generation": 8
+}

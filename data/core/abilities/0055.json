@@ -1,0 +1,13 @@
+{
+  "id": 55,
+  "identifier": "hustle",
+  "name": {
+    "ja": "はりきり",
+    "en": "Hustle"
+  },
+  "description": {
+    "ja": "自分の　攻撃が　高くなるが命中率が　下がる。",
+    "en": "Boosts the Pokémon's Attack stat but lowers its accuracy."
+  },
+  "generation": 3
+}

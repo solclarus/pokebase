@@ -1,0 +1,13 @@
+{
+  "id": 252,
+  "identifier": "zap-cannon",
+  "name": {
+    "ja": "でんじほう",
+    "en": "Zap Cannon"
+  },
+  "type": "electric",
+  "move_type": "charged",
+  "power": 140,
+  "energy_delta": -100,
+  "duration_ms": 3500
+}

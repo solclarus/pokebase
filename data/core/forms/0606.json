@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 606,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オーベム",
+        "en": "Beheeyem"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 75,
+        "sp_attack": 125,
+        "sp_defense": 95,
+        "speed": 40
+      },
+      "ability_ids": [
+        140,
+        28
+      ],
+      "hidden_ability_id": 148
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1022,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テツノイワオ",
+        "en": "Iron Boulder"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "rock",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 120,
+        "defense": 80,
+        "sp_attack": 68,
+        "sp_defense": 108,
+        "speed": 124
+      },
+      "ability_ids": [
+        282
+      ]
+    }
+  ]
+}

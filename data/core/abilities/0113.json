@@ -1,0 +1,13 @@
+{
+  "id": 113,
+  "identifier": "scrappy",
+  "name": {
+    "ja": "きもったま",
+    "en": "Scrappy"
+  },
+  "description": {
+    "ja": "ゴーストタイプの　ポケモンにノーマルタイプと　かくとうタイプの技を　当てることが　できる。",
+    "en": "The Pokémon can hit Ghost-type Pokémon with Normal- and Fighting-type moves. It is also unaffected by Intimidate."
+  },
+  "generation": 4
+}

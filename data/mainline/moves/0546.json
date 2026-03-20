@@ -1,0 +1,18 @@
+{
+  "id": 546,
+  "identifier": "techno-blast",
+  "name": {
+    "ja": "テクノバスター",
+    "en": "Techno Blast"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "光弾を　相手に　放出する。自分の　持つカセットにより　タイプが　変わる。",
+    "en": "The user fires a beam of light at its target. The move’s type changes depending on the Drive the user holds."
+  }
+}

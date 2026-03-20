@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 403,
+  "costumes": [
+    {
+      "costume_id": "0403-hat",
+      "identifier": "shinx-hat",
+      "name": {
+        "ja": "コリンク（ぼうし）",
+        "en": "Shinx (Hat)"
+      },
+      "event": "October 2, 2020",
+      "available_from": "2020-10-02",
+      "available_until": null
+    }
+  ]
+}

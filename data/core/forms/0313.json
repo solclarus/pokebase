@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 313,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バルビート",
+        "en": "Volbeat"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 73,
+        "defense": 75,
+        "sp_attack": 47,
+        "sp_defense": 85,
+        "speed": 85
+      },
+      "ability_ids": [
+        35,
+        68
+      ],
+      "hidden_ability_id": 158
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 861,
+  "identifier": "ice-spinner",
+  "name": {
+    "ja": "アイススピナー",
+    "en": "Ice Spinner"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user covers its feet in thin ice and twirls around, slamming into the target. This move's spinning motion also destroys the terrain."
+  }
+}

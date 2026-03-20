@@ -1,0 +1,18 @@
+{
+  "id": 561,
+  "identifier": "mat-block",
+  "name": {
+    "ja": "たたみがえし",
+    "en": "Mat Block"
+  },
+  "type": "fighting",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "かえした　タタミを　盾にして　自分や味方への　技の　ダメージを　防ぐ。変化技は　防ぐことが　できない。",
+    "en": "Using a pulled-up mat as a shield, the user protects itself and its allies from damaging moves. This does not stop status moves."
+  }
+}

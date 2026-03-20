@@ -1,0 +1,18 @@
+{
+  "id": 291,
+  "identifier": "dive",
+  "name": {
+    "ja": "ダイビング",
+    "en": "Dive"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "１ターン目で　潜り　２ターン目に浮きあがって　攻撃する。",
+    "en": "The user dives on the first turn, then floats up and attacks on the next turn."
+  }
+}

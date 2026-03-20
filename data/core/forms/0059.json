@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 59,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウインディ",
+        "en": "Arcanine"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 110,
+        "defense": 80,
+        "sp_attack": 100,
+        "sp_defense": 80,
+        "speed": 95
+      },
+      "ability_ids": [
+        22,
+        18
+      ],
+      "hidden_ability_id": 154
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ウインディ（ヒスイのすがた）",
+        "en": "Hisuian Arcanine"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 115,
+        "defense": 80,
+        "sp_attack": 95,
+        "sp_defense": 80,
+        "speed": 90
+      },
+      "ability_ids": [
+        22,
+        18
+      ],
+      "hidden_ability_id": 69
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 238,
+  "costumes": [
+    {
+      "costume_id": "0238-bow",
+      "identifier": "smoochum-bow",
+      "name": {
+        "ja": "ムチュール（リボン）",
+        "en": "Smoochum (Bow)"
+      },
+      "event": "October 2, 2020",
+      "available_from": "2020-10-02",
+      "available_until": null
+    }
+  ]
+}

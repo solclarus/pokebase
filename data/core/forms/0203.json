@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 203,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キリンリキ",
+        "en": "Girafarig"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 65,
+        "sp_attack": 90,
+        "sp_defense": 65,
+        "speed": 85
+      },
+      "ability_ids": [
+        39,
+        48
+      ],
+      "hidden_ability_id": 157
+    }
+  ]
+}

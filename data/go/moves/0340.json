@@ -1,0 +1,13 @@
+{
+  "id": 340,
+  "identifier": "techno-blast-shock",
+  "name": {
+    "ja": "テクノバスター",
+    "en": "Techno Blast Shock"
+  },
+  "type": "electric",
+  "move_type": "charged",
+  "power": 120,
+  "energy_delta": -100,
+  "duration_ms": 2000
+}

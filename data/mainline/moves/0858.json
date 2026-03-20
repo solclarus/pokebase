@@ -1,0 +1,18 @@
+{
+  "id": 858,
+  "identifier": "spicy-extract",
+  "name": {
+    "ja": "ハバネロエキス",
+    "en": "Spicy Extract"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user emits an incredibly spicy extract, sharply boosting the target's Attack stat and harshly lowering the target's Defense stat."
+  }
+}

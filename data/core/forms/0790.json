@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 790,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コスモウム",
+        "en": "Cosmoem"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 43,
+        "attack": 29,
+        "defense": 131,
+        "sp_attack": 29,
+        "sp_defense": 131,
+        "speed": 37
+      },
+      "ability_ids": [
+        5
+      ]
+    }
+  ]
+}

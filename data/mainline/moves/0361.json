@@ -1,0 +1,18 @@
+{
+  "id": 361,
+  "identifier": "healing-wish",
+  "name": {
+    "ja": "いやしのねがい",
+    "en": "Healing Wish"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "自分は　ひんしに　なるが控えから　でてくる　ポケモンの状態異常と　ＨＰを　回復する。",
+    "en": "The user faints. In return, the Pokémon taking its place will have its HP restored and status conditions cured."
+  }
+}

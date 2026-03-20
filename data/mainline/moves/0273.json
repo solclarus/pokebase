@@ -1,0 +1,18 @@
+{
+  "id": 273,
+  "identifier": "wish",
+  "name": {
+    "ja": "ねがいごと",
+    "en": "Wish"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "次の　ターンに　自分　もしくは入れ替わった　ポケモンの　ＨＰを最大ＨＰの　半分　回復する。",
+    "en": "One turn after this move is used, the user's or its replacement's HP is restored by up to half the user's max HP."
+  }
+}

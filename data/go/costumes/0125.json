@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 125,
+  "costumes": [
+    {
+      "costume_id": "0125-spark",
+      "identifier": "electabuzz-spark",
+      "name": {
+        "ja": "エレブー（スパーク）",
+        "en": "Electabuzz (Spark)"
+      },
+      "event": "May 2, 2023",
+      "available_from": "2023-05-02",
+      "available_until": null
+    }
+  ]
+}

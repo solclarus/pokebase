@@ -1,0 +1,13 @@
+{
+  "id": 121,
+  "identifier": "multitype",
+  "name": {
+    "ja": "マルチタイプ",
+    "en": "Multitype"
+  },
+  "description": {
+    "ja": "持っている　プレートやＺクリスタルの　タイプによって自分の　タイプが　変わる。",
+    "en": "Changes the Pokémon's type to match the plate it holds. "
+  },
+  "generation": 4
+}

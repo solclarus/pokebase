@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 894,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レジエレキ",
+        "en": "Regieleki"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 50,
+        "sp_attack": 100,
+        "sp_defense": 50,
+        "speed": 200
+      },
+      "ability_ids": [
+        262
+      ]
+    }
+  ]
+}

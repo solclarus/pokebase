@@ -1,0 +1,13 @@
+{
+  "id": 212,
+  "identifier": "corrosion",
+  "name": {
+    "ja": "ふしょく",
+    "en": "Corrosion"
+  },
+  "description": {
+    "ja": "はがねタイプや　どくタイプもどく状態に　することが　できる。",
+    "en": "The Pokémon can poison the target even if it's a Steel or Poison type."
+  },
+  "generation": 7
+}

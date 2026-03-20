@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 662,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヒノヤコマ",
+        "en": "Fletchinder"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "hp": 62,
+        "attack": 73,
+        "defense": 55,
+        "sp_attack": 56,
+        "sp_defense": 52,
+        "speed": 84
+      },
+      "ability_ids": [
+        49
+      ],
+      "hidden_ability_id": 177
+    }
+  ]
+}

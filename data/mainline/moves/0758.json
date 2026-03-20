@@ -1,0 +1,18 @@
+{
+  "id": 758,
+  "identifier": "max-flutterby",
+  "name": {
+    "ja": "ダイワーム",
+    "en": "Max Flutterby"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　むしタイプの　攻撃。相手の　特攻を　下げる。",
+    "en": "This is a Bug-type attack Dynamax Pokémon use. This lowers the target’s Sp. Atk stat."
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "pokemon_id": 628,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウォーグル",
+        "en": "Braviary"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 123,
+        "defense": 75,
+        "sp_attack": 57,
+        "sp_defense": 75,
+        "speed": 80
+      },
+      "ability_ids": [
+        51,
+        125
+      ],
+      "hidden_ability_id": 128
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ヒスイのすがた",
+        "en": "Hisuian Form"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "stats": {
+        "hp": 110,
+        "attack": 83,
+        "defense": 70,
+        "sp_attack": 112,
+        "sp_defense": 70,
+        "speed": 65
+      },
+      "ability_ids": [
+        51,
+        125
+      ],
+      "hidden_ability_id": 110
+    }
+  ]
+}

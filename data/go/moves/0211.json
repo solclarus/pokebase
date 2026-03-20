@@ -1,0 +1,13 @@
+{
+  "id": 211,
+  "identifier": "peck",
+  "name": {
+    "ja": "つつく",
+    "en": "Peck"
+  },
+  "type": "flying",
+  "move_type": "fast",
+  "power": 10,
+  "energy_delta": 10,
+  "duration_ms": 1000
+}

@@ -1,0 +1,13 @@
+{
+  "id": 338,
+  "identifier": "techno-blast-chill",
+  "name": {
+    "ja": "テクノバスター",
+    "en": "Techno Blast Chill"
+  },
+  "type": "ice",
+  "move_type": "charged",
+  "power": 120,
+  "energy_delta": -100,
+  "duration_ms": 2000
+}

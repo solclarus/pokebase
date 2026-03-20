@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 517,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ムンナ",
+        "en": "Munna"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 76,
+        "attack": 25,
+        "defense": 45,
+        "sp_attack": 67,
+        "sp_defense": 55,
+        "speed": 24
+      },
+      "ability_ids": [
+        108,
+        28
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

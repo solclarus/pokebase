@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 982,
+  "forms": [
+    {
+      "id": "two-segment",
+      "order": 0,
+      "name": {
+        "ja": "ノココッチ",
+        "en": "Dudunsparce"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 125,
+        "attack": 100,
+        "defense": 80,
+        "sp_attack": 85,
+        "sp_defense": 75,
+        "speed": 55
+      },
+      "ability_ids": [
+        32,
+        50
+      ],
+      "hidden_ability_id": 155
+    },
+    {
+      "id": "three-segment",
+      "order": 1,
+      "name": {
+        "ja": "みつふしフォルム",
+        "en": "Three-Segment Form"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 125,
+        "attack": 100,
+        "defense": 80,
+        "sp_attack": 85,
+        "sp_defense": 75,
+        "speed": 55
+      },
+      "ability_ids": [
+        32,
+        50
+      ],
+      "hidden_ability_id": 155
+    }
+  ]
+}

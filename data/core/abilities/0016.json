@@ -1,0 +1,13 @@
+{
+  "id": 16,
+  "identifier": "color-change",
+  "name": {
+    "ja": "へんしょく",
+    "en": "Color Change"
+  },
+  "description": {
+    "ja": "相手から　受けた　技の　タイプに自分の　タイプが　変化　する。",
+    "en": "The Pokémon’s type becomes the type of the move used on it."
+  },
+  "generation": 3
+}

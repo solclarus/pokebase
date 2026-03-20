@@ -1,0 +1,18 @@
+{
+  "id": 747,
+  "identifier": "stuff-cheeks",
+  "name": {
+    "ja": "ほおばる",
+    "en": "Stuff Cheeks"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "持っている　きのみを　食べて防御を　ぐーんと　あげる。",
+    "en": "The user eats its held Berry, then sharply boosts its Defense stat."
+  }
+}

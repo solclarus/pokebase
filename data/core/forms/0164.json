@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 164,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヨルノズク",
+        "en": "Noctowl"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 50,
+        "defense": 50,
+        "sp_attack": 86,
+        "sp_defense": 96,
+        "speed": 70
+      },
+      "ability_ids": [
+        15,
+        51
+      ],
+      "hidden_ability_id": 110
+    }
+  ]
+}

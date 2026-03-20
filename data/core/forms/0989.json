@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 989,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "スナノケガワ",
+        "en": "Sandy Shocks"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "ground"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 81,
+        "defense": 97,
+        "sp_attack": 121,
+        "sp_defense": 85,
+        "speed": 101
+      },
+      "ability_ids": [
+        281
+      ]
+    }
+  ]
+}

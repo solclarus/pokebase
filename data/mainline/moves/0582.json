@@ -1,0 +1,18 @@
+{
+  "id": 582,
+  "identifier": "electrify",
+  "name": {
+    "ja": "そうでん",
+    "en": "Electrify"
+  },
+  "type": "electric",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "相手が　技を　だす前にそうでん　すると　そのターン相手の　技は　でんきタイプになる。",
+    "en": "If the target is electrified before it uses a move during that turn, the target’s move becomes Electric type."
+  }
+}

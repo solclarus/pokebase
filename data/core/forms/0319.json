@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 319,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サメハダー",
+        "en": "Sharpedo"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 40,
+        "sp_attack": 95,
+        "sp_defense": 40,
+        "speed": 95
+      },
+      "ability_ids": [
+        24
+      ],
+      "hidden_ability_id": 3
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガサメハダー",
+        "en": "Mega Sharpedo"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 140,
+        "defense": 70,
+        "sp_attack": 110,
+        "sp_defense": 65,
+        "speed": 105
+      },
+      "ability_ids": [
+        173
+      ]
+    }
+  ]
+}

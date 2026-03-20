@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1009,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウネルミナモ",
+        "en": "Walking Wake"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "water",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 99,
+        "attack": 83,
+        "defense": 91,
+        "sp_attack": 125,
+        "sp_defense": 83,
+        "speed": 109
+      },
+      "ability_ids": [
+        281
+      ]
+    }
+  ]
+}

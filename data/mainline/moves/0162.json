@@ -1,0 +1,18 @@
+{
+  "id": 162,
+  "identifier": "super-fang",
+  "name": {
+    "ja": "いかりのまえば",
+    "en": "Super Fang"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "鋭い　前歯で激しく　かみついて　攻撃する。相手の　ＨＰは　半分に　なる。",
+    "en": "The user chomps hard on the target with its sharp front fangs. This cuts the target's HP in half."
+  }
+}

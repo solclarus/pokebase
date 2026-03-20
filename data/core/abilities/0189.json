@@ -1,0 +1,13 @@
+{
+  "id": 189,
+  "identifier": "primordial-sea",
+  "name": {
+    "ja": "はじまりのうみ",
+    "en": "Primordial Sea"
+  },
+  "description": {
+    "ja": "ほのおタイプの　攻撃を受けない　天気にする。",
+    "en": "The Pokémon changes the weather to nullify Fire-type attacks."
+  },
+  "generation": 6
+}

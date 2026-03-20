@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 531,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "タブンネ",
+        "en": "Audino"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 103,
+        "attack": 60,
+        "defense": 86,
+        "sp_attack": 60,
+        "sp_defense": 86,
+        "speed": 50
+      },
+      "ability_ids": [
+        131,
+        144
+      ],
+      "hidden_ability_id": 103
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガタブンネ",
+        "en": "Mega Audino"
+      },
+      "form_type": "mega",
+      "region": "unova",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 103,
+        "attack": 60,
+        "defense": 126,
+        "sp_attack": 80,
+        "sp_defense": 126,
+        "speed": 50
+      },
+      "ability_ids": [
+        131
+      ]
+    }
+  ]
+}

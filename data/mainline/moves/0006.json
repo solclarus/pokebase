@@ -1,0 +1,18 @@
+{
+  "id": 6,
+  "identifier": "pay-day",
+  "name": {
+    "ja": "ネコにこばん",
+    "en": "Pay Day"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "相手の　体に小判を　投げつけて　攻撃する。戦闘の　あとで　お金が　もらえる。",
+    "en": "Coins are hurled at the target to inflict damage. Money is earned after the battle."
+  }
+}

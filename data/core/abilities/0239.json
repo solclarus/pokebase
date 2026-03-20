@@ -1,0 +1,13 @@
+{
+  "id": 239,
+  "identifier": "propeller-tail",
+  "name": {
+    "ja": "スクリューおびれ",
+    "en": "Propeller Tail"
+  },
+  "description": {
+    "ja": "相手の　技を　引き受ける特性や　技の影響を　無視　できる。",
+    "en": "Ignores the effects of opposing Pokémon's Abilities and moves that draw in moves."
+  },
+  "generation": 8
+}

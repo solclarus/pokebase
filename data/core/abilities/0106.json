@@ -1,0 +1,13 @@
+{
+  "id": 106,
+  "identifier": "aftermath",
+  "name": {
+    "ja": "ゆうばく",
+    "en": "Aftermath"
+  },
+  "description": {
+    "ja": "ひんしに　なったとき触った　相手にダメージを　あたえる。",
+    "en": "Damages the attacker if it knocks out the Pokémon with a move that makes direct contact."
+  },
+  "generation": 4
+}

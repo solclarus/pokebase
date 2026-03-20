@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 433,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "リーシャン",
+        "en": "Chingling"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 50,
+        "sp_attack": 65,
+        "sp_defense": 50,
+        "speed": 45
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

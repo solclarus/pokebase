@@ -1,0 +1,59 @@
+{
+  "pokemon_id": 858,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ブリムオン",
+        "en": "Hatterene"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 57,
+        "attack": 90,
+        "defense": 95,
+        "sp_attack": 136,
+        "sp_defense": 103,
+        "speed": 29
+      },
+      "ability_ids": [
+        131,
+        107
+      ],
+      "hidden_ability_id": 156
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスブリムオン",
+        "en": "Gigantamax Hatterene"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 57,
+        "attack": 90,
+        "defense": 95,
+        "sp_attack": 136,
+        "sp_defense": 103,
+        "speed": 29
+      },
+      "ability_ids": [
+        131,
+        107
+      ],
+      "hidden_ability_id": 156
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 136,
+  "identifier": "high-jump-kick",
+  "name": {
+    "ja": "とびひざげり",
+    "en": "High Jump Kick"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 130,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "ジャンプからの　ひざげりで相手を　攻撃する。はずすと　自分が　ダメージを　受ける。",
+    "en": "The target is attacked with a knee kick from a jump. If this move misses, the user takes damage instead."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 294,
+  "identifier": "costar",
+  "name": {
+    "ja": "きょうえん",
+    "en": "Costar"
+  },
+  "description": {
+    "ja": "登場したときに味方の能力変化をコピーする。",
+    "en": "When the Pokémon enters a battle, it copies an ally's stat changes."
+  },
+  "generation": 9
+}

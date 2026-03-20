@@ -1,0 +1,18 @@
+{
+  "id": 141,
+  "identifier": "leech-life",
+  "name": {
+    "ja": "きゅうけつ",
+    "en": "Leech Life"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "血を　吸い取って　相手を攻撃する。　与えた　ダメージの半分の　ＨＰを　回復できる。",
+    "en": "The user drains the target's blood. The user's HP is restored by up to half the damage taken by the target."
+  }
+}

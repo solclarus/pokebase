@@ -1,0 +1,18 @@
+{
+  "id": 876,
+  "identifier": "hydro-steam",
+  "name": {
+    "ja": "ハイドロスチーム",
+    "en": "Hydro Steam"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user blasts the target with boiling-hot water. This move's power is not lowered in harsh sunlight but rather boosted by 50 percent."
+  }
+}

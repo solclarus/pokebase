@@ -1,0 +1,18 @@
+{
+  "id": 799,
+  "identifier": "scale-shot",
+  "name": {
+    "ja": "スケイルショット",
+    "en": "Scale Shot"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 90,
+  "pp": 20,
+  "generation": 8,
+  "description": {
+    "ja": "ウロコを　撃ちだして　攻撃する。２ー５回の　間　連続で　だす。素早さが　あがるが　防御が　さがる。",
+    "en": "The user attacks by shooting scales two to five times in a row. This move boosts the user's Speed stat but lowers its Defense stat."
+  }
+}

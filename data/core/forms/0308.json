@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 308,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "チャーレム",
+        "en": "Medicham"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 75,
+        "sp_attack": 60,
+        "sp_defense": 75,
+        "speed": 80
+      },
+      "ability_ids": [
+        74
+      ],
+      "hidden_ability_id": 140
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガチャーレム",
+        "en": "Mega Medicham"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 85,
+        "sp_attack": 80,
+        "sp_defense": 85,
+        "speed": 100
+      },
+      "ability_ids": [
+        74
+      ]
+    }
+  ]
+}

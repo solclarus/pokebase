@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 879,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ダイオウドウ",
+        "en": "Copperajah"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "hp": 122,
+        "attack": 130,
+        "defense": 69,
+        "sp_attack": 80,
+        "sp_defense": 69,
+        "speed": 30
+      },
+      "ability_ids": [
+        125
+      ],
+      "hidden_ability_id": 134
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスダイオウドウ",
+        "en": "Gigantamax Copperajah"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "hp": 122,
+        "attack": 130,
+        "defense": 69,
+        "sp_attack": 80,
+        "sp_defense": 69,
+        "speed": 30
+      },
+      "ability_ids": [
+        125
+      ],
+      "hidden_ability_id": 134
+    }
+  ]
+}

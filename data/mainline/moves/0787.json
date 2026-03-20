@@ -1,0 +1,18 @@
+{
+  "id": 787,
+  "identifier": "apple-acid",
+  "name": {
+    "ja": "りんごさん",
+    "en": "Apple Acid"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "すっぱい　りんごから　つくりだした酸性の　液体で　攻撃。相手の　特防を　下げる。",
+    "en": "The user attacks the target with an acidic liquid created from tart apples. This also lowers the target's Sp. Def stat."
+  }
+}

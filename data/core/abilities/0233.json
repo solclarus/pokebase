@@ -1,0 +1,13 @@
+{
+  "id": 233,
+  "identifier": "neuroforce",
+  "name": {
+    "ja": "ブレインフォース",
+    "en": "Neuroforce"
+  },
+  "description": {
+    "ja": "効果バツグンの　攻撃で威力が　さらに　上がる。",
+    "en": "Powers up moves that are super effective."
+  },
+  "generation": 7
+}

@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 38,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キュウコン",
+        "en": "Ninetales"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 73,
+        "attack": 76,
+        "defense": 75,
+        "sp_attack": 81,
+        "sp_defense": 100,
+        "speed": 100
+      },
+      "ability_ids": [
+        18
+      ],
+      "hidden_ability_id": 70
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "キュウコン（アローラのすがた）",
+        "en": "Alolan Ninetales"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ice",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 73,
+        "attack": 67,
+        "defense": 75,
+        "sp_attack": 81,
+        "sp_defense": 100,
+        "speed": 109
+      },
+      "ability_ids": [
+        81
+      ],
+      "hidden_ability_id": 117
+    }
+  ]
+}

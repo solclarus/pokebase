@@ -1,0 +1,18 @@
+{
+  "id": 906,
+  "identifier": "tera-starstorm",
+  "name": {
+    "ja": "テラクラスター",
+    "en": "Tera Starstorm"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "With the power of its crystals, the user bombards and eliminates the target. When used by Terapagos in its Stellar Form, this move damages all opposing Pokémon."
+  }
+}

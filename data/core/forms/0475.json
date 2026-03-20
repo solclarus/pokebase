@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 475,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エルレイド",
+        "en": "Gallade"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 125,
+        "defense": 65,
+        "sp_attack": 65,
+        "sp_defense": 115,
+        "speed": 80
+      },
+      "ability_ids": [
+        80,
+        292
+      ],
+      "hidden_ability_id": 154
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガエルレイド",
+        "en": "Mega Gallade"
+      },
+      "form_type": "mega",
+      "region": "sinnoh",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 165,
+        "defense": 95,
+        "sp_attack": 65,
+        "sp_defense": 115,
+        "speed": 110
+      },
+      "ability_ids": [
+        39
+      ]
+    }
+  ]
+}

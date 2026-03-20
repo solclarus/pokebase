@@ -1,0 +1,18 @@
+{
+  "id": 616,
+  "identifier": "lands-wrath",
+  "name": {
+    "ja": "グランドフォース",
+    "en": "Land’s Wrath"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "大地の　パワーを　集め力を　相手に　集中させてダメージを　与える。",
+    "en": "The user gathers the energy of the land and focuses that power on opposing Pokémon to damage them."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 202,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ソーナンス",
+        "en": "Wobbuffet"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 190,
+        "attack": 33,
+        "defense": 58,
+        "sp_attack": 33,
+        "sp_defense": 58,
+        "speed": 33
+      },
+      "ability_ids": [
+        23
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

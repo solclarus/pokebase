@@ -1,0 +1,18 @@
+{
+  "id": 62,
+  "identifier": "aurora-beam",
+  "name": {
+    "ja": "オーロラビーム",
+    "en": "Aurora Beam"
+  },
+  "type": "ice",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "にじいろの　ビームを相手に　発射して　攻撃する。攻撃を　さげる　ことが　ある。",
+    "en": "The target is hit with a rainbow-colored beam. This may also lower the target's Attack stat."
+  }
+}

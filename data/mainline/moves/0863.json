@@ -1,0 +1,18 @@
+{
+  "id": 863,
+  "identifier": "revival-blessing",
+  "name": {
+    "ja": "さいきのいのり",
+    "en": "Revival Blessing"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 1,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user bestows a loving blessing, reviving a party Pokémon that has fainted and restoring half that Pokémon's max HP."
+  }
+}

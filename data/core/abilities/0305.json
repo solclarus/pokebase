@@ -1,0 +1,13 @@
+{
+  "id": 305,
+  "identifier": "tera-shell",
+  "name": {
+    "ja": "テラスシェル",
+    "en": "Tera Shell"
+  },
+  "description": {
+    "ja": "全タイプの力を秘めた甲羅はHPが満タンのときに受けるダメージをすべて今ひとつにする。",
+    "en": "The Pokémon's shell contains the powers of each type. All damage-dealing moves that hit the Pokémon when its HP is full will not be very effective."
+  },
+  "generation": 9
+}

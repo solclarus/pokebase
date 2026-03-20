@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 144,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フリーザー",
+        "en": "Articuno"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "ice",
+        "flying"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 100,
+        "sp_attack": 95,
+        "sp_defense": 125,
+        "speed": 85
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 81
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "フリーザー（ガラルのすがた）",
+        "en": "Galarian Articuno"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 85,
+        "defense": 85,
+        "sp_attack": 125,
+        "sp_defense": 100,
+        "speed": 95
+      },
+      "ability_ids": [
+        172
+      ]
+    }
+  ]
+}

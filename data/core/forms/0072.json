@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 72,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メノクラゲ",
+        "en": "Tentacool"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 35,
+        "sp_attack": 50,
+        "sp_defense": 100,
+        "speed": 70
+      },
+      "ability_ids": [
+        29,
+        64
+      ],
+      "hidden_ability_id": 44
+    }
+  ]
+}

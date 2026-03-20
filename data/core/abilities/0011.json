@@ -1,0 +1,13 @@
+{
+  "id": 11,
+  "identifier": "water-absorb",
+  "name": {
+    "ja": "ちょすい",
+    "en": "Water Absorb"
+  },
+  "description": {
+    "ja": "みずタイプの　技を　受けるとダメージを　受けずに　回復する。",
+    "en": "If hit by a Water-type move, the Pokémon has its HP restored instead of taking damage."
+  },
+  "generation": 3
+}

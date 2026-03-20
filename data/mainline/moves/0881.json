@@ -1,0 +1,18 @@
+{
+  "id": 881,
+  "identifier": "chilly-reception",
+  "name": {
+    "ja": "さむいギャグ",
+    "en": "Chilly Reception"
+  },
+  "type": "ice",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": ""
+  }
+}

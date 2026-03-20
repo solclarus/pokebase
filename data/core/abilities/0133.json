@@ -1,0 +1,13 @@
+{
+  "id": 133,
+  "identifier": "weak-armor",
+  "name": {
+    "ja": "くだけるよろい",
+    "en": "Weak Armor"
+  },
+  "description": {
+    "ja": "物理技で　ダメージを　受けると防御が　下がり素早さが　ぐーんと　上がる。",
+    "en": "The Pokémon's Defense stat is lowered when it takes damage from physical moves, but its Speed stat is sharply boosted."
+  },
+  "generation": 5
+}

@@ -1,0 +1,18 @@
+{
+  "id": 77,
+  "identifier": "poison-powder",
+  "name": {
+    "ja": "どくのこな",
+    "en": "Poison Powder"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 35,
+  "generation": 1,
+  "description": {
+    "ja": "毒の　ある　粉をたくさん　ふりまいて相手を　毒状態に　する。",
+    "en": "The user scatters a cloud of poisonous dust that poisons the target."
+  }
+}

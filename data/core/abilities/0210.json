@@ -1,0 +1,13 @@
+{
+  "id": 210,
+  "identifier": "battle-bond",
+  "name": {
+    "ja": "きずなへんげ",
+    "en": "Battle Bond"
+  },
+  "description": {
+    "ja": "相手を　倒すと　トレーナーとのキズナが　深まり　サトシゲッコウガに変化する。みずしゅりけんが　強くなる。",
+    "en": "When the Pokémon knocks out a target, its bond with its Trainer is strengthened, and its Attack, Sp. Atk, and Speed stats are boosted."
+  },
+  "generation": 7
+}

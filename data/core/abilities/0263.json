@@ -1,0 +1,13 @@
+{
+  "id": 263,
+  "identifier": "dragons-maw",
+  "name": {
+    "ja": "りゅうのあぎと",
+    "en": "Dragon’s Maw"
+  },
+  "description": {
+    "ja": "ドラゴンタイプの　技の威力が　上がる。",
+    "en": "Powers up Dragon-type moves."
+  },
+  "generation": 8
+}

@@ -1,0 +1,13 @@
+{
+  "id": 89,
+  "identifier": "iron-fist",
+  "name": {
+    "ja": "てつのこぶし",
+    "en": "Iron Fist"
+  },
+  "description": {
+    "ja": "パンチを　使う　技の威力が　上がる。",
+    "en": "Powers up punching moves."
+  },
+  "generation": 4
+}

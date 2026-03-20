@@ -1,0 +1,18 @@
+{
+  "id": 711,
+  "identifier": "prismatic-laser",
+  "name": {
+    "ja": "プリズムレーザー",
+    "en": "Prismatic Laser"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 160,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "プリズムの　力で　強力な光線を　発射する。次の　ターンは　動けなくなる。",
+    "en": "The user shoots powerful lasers using the power of a prism. The user can't move on the next turn."
+  }
+}

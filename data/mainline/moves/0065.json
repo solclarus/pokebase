@@ -1,0 +1,18 @@
+{
+  "id": 65,
+  "identifier": "drill-peck",
+  "name": {
+    "ja": "ドリルくちばし",
+    "en": "Drill Peck"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "回転しながら　とがった　くちばしを相手に　突き刺して　攻撃する。",
+    "en": "A corkscrewing attack that strikes the target with a sharp beak acting as a drill."
+  }
+}

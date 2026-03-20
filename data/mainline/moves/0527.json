@@ -1,0 +1,18 @@
+{
+  "id": 527,
+  "identifier": "electroweb",
+  "name": {
+    "ja": "エレキネット",
+    "en": "Electroweb"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "電気の　ネットで相手を　捕まえて　攻撃する。相手の　素早さを　さげる。",
+    "en": "The user captures opposing Pokémon in an electric net to inflict damage. This also lowers their Speed stats."
+  }
+}

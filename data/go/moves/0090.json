@@ -1,0 +1,13 @@
+{
+  "id": 90,
+  "identifier": "sludge-bomb",
+  "name": {
+    "ja": "ヘドロばくだん",
+    "en": "Sludge Bomb"
+  },
+  "type": "poison",
+  "move_type": "charged",
+  "power": 85,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

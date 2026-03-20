@@ -1,0 +1,13 @@
+{
+  "id": 345,
+  "identifier": "gust",
+  "name": {
+    "ja": "かぜおこし",
+    "en": "Gust"
+  },
+  "type": "flying",
+  "move_type": "fast",
+  "power": 25,
+  "energy_delta": 20,
+  "duration_ms": 2000
+}

@@ -1,0 +1,18 @@
+{
+  "id": 755,
+  "identifier": "fishious-rend",
+  "name": {
+    "ja": "エラがみ",
+    "en": "Fishious Rend"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "かたい　エラで　かみつく。相手より　先に　攻撃できると技の　威力は　２倍に　なる。",
+    "en": "The user rends the target with its hard gills. If the user attacks before the target, the power of this move is doubled."
+  }
+}

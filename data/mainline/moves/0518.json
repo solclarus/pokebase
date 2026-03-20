@@ -1,0 +1,18 @@
+{
+  "id": 518,
+  "identifier": "water-pledge",
+  "name": {
+    "ja": "みずのちかい",
+    "en": "Water Pledge"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "水の柱で　攻撃する。ほのおと　組みあわせると　威力があがって　空に　にじが　かかる。",
+    "en": "A column of water hits the target. When used with its fire counterpart, this move's power is boosted and a rainbow appears."
+  }
+}

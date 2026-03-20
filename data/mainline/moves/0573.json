@@ -1,0 +1,18 @@
+{
+  "id": 573,
+  "identifier": "freeze-dry",
+  "name": {
+    "ja": "フリーズドライ",
+    "en": "Freeze-Dry"
+  },
+  "type": "ice",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "相手を　急激に　冷やしてこおり　状態に　することが　ある。みずタイプにも　効果バツグンになる。",
+    "en": "The user rapidly cools the target. This may also leave the target frozen. This move is super effective on Water types."
+  }
+}

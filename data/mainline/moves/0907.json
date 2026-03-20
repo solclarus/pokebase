@@ -1,0 +1,18 @@
+{
+  "id": 907,
+  "identifier": "fickle-beam",
+  "name": {
+    "ja": "きまぐレーザー",
+    "en": "Fickle Beam"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user shoots a beam of light to inflict damage. Sometimes all the user's heads shoot beams in unison, doubling the move's power."
+  }
+}

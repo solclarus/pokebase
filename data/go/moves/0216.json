@@ -1,0 +1,13 @@
+{
+  "id": 216,
+  "identifier": "mud-shot",
+  "name": {
+    "ja": "マッドショット",
+    "en": "Mud Shot"
+  },
+  "type": "ground",
+  "move_type": "fast",
+  "power": 4,
+  "energy_delta": 6,
+  "duration_ms": 500
+}

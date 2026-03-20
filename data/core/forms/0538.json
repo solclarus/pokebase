@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 538,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ナゲキ",
+        "en": "Throh"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 120,
+        "attack": 100,
+        "defense": 85,
+        "sp_attack": 30,
+        "sp_defense": 85,
+        "speed": 45
+      },
+      "ability_ids": [
+        62,
+        39
+      ],
+      "hidden_ability_id": 104
+    }
+  ]
+}

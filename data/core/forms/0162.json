@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 162,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オオタチ",
+        "en": "Furret"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 76,
+        "defense": 64,
+        "sp_attack": 45,
+        "sp_defense": 55,
+        "speed": 90
+      },
+      "ability_ids": [
+        50,
+        51
+      ],
+      "hidden_ability_id": 119
+    }
+  ]
+}

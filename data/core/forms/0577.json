@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 577,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ユニラン",
+        "en": "Solosis"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 30,
+        "defense": 40,
+        "sp_attack": 105,
+        "sp_defense": 50,
+        "speed": 20
+      },
+      "ability_ids": [
+        142,
+        98
+      ],
+      "hidden_ability_id": 144
+    }
+  ]
+}

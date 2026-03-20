@@ -1,0 +1,18 @@
+{
+  "id": 554,
+  "identifier": "ice-burn",
+  "name": {
+    "ja": "コールドフレア",
+    "en": "Ice Burn"
+  },
+  "type": "ice",
+  "category": "special",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "すべてを　凍らせる　激しい　冷気で２ターン目に　相手を　包みこむ。やけど状態に　することが　ある。",
+    "en": "The turn after using this move, the user surrounds the target with an ultracold, freezing wind to inflict damage. This may also leave the target with a burn."
+  }
+}

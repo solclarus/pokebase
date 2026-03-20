@@ -1,0 +1,13 @@
+{
+  "id": 281,
+  "identifier": "hidden-power",
+  "name": {
+    "ja": "めざめるパワー",
+    "en": "Hidden Power"
+  },
+  "type": "normal",
+  "move_type": "fast",
+  "power": 15,
+  "energy_delta": 15,
+  "duration_ms": 1500
+}

@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 689,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ガメノデス",
+        "en": "Barbaracle"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "stats": {
+        "hp": 72,
+        "attack": 105,
+        "defense": 115,
+        "sp_attack": 54,
+        "sp_defense": 86,
+        "speed": 68
+      },
+      "ability_ids": [
+        181,
+        97
+      ],
+      "hidden_ability_id": 124
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガガメノデス",
+        "en": "Mega Barbaracle"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 72,
+        "attack": 140,
+        "defense": 130,
+        "sp_attack": 64,
+        "sp_defense": 106,
+        "speed": 88
+      },
+      "ability_ids": []
+    }
+  ]
+}

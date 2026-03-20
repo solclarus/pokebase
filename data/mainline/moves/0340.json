@@ -1,0 +1,18 @@
+{
+  "id": 340,
+  "identifier": "bounce",
+  "name": {
+    "ja": "とびはねる",
+    "en": "Bounce"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 85,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "空高く　飛び跳ねて２ターン目に　相手を　攻撃する。まひ状態に　することが　ある。",
+    "en": "The user bounces up high on the first turn, then drops onto the target on the next turn. This may also leave the target with paralysis."
+  }
+}

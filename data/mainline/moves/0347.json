@@ -1,0 +1,18 @@
+{
+  "id": 347,
+  "identifier": "calm-mind",
+  "name": {
+    "ja": "めいそう",
+    "en": "Calm Mind"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "静かに　精神を　統一し心を　鎮めることで　自分の特攻と　特防を　あげる。",
+    "en": "The user quietly focuses its mind and calms its spirit to boost its Sp. Atk and Sp. Def stats."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "identifier": "bulbasaur",
+  "name": {
+    "ja": "フシギダネ",
+    "en": "Bulbasaur"
+  },
+  "generation": 1,
+  "category": "normal"
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 993,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テツノコウベ",
+        "en": "Iron Jugulis"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "stats": {
+        "hp": 94,
+        "attack": 80,
+        "defense": 86,
+        "sp_attack": 122,
+        "sp_defense": 80,
+        "speed": 108
+      },
+      "ability_ids": [
+        282
+      ]
+    }
+  ]
+}

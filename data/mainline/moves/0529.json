@@ -1,0 +1,18 @@
+{
+  "id": 529,
+  "identifier": "drill-run",
+  "name": {
+    "ja": "ドリルライナー",
+    "en": "Drill Run"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 95,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "ドリルのように　体を　回転しながら相手に　体当たりする。急所に　当たりやすい。",
+    "en": "The user crashes into the target while rotating its body like a drill. This move has a heightened chance of landing a critical hit."
+  }
+}

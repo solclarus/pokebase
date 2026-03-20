@@ -1,0 +1,18 @@
+{
+  "id": 304,
+  "identifier": "hyper-voice",
+  "name": {
+    "ja": "ハイパーボイス",
+    "en": "Hyper Voice"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "うるさく　響く　大きな　振動を相手に　与えて　攻撃する。",
+    "en": "The user attacks by letting loose a horribly loud, resounding cry."
+  }
+}

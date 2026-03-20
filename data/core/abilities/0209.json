@@ -1,0 +1,13 @@
+{
+  "id": 209,
+  "identifier": "disguise",
+  "name": {
+    "ja": "ばけのかわ",
+    "en": "Disguise"
+  },
+  "description": {
+    "ja": "体を　被う　化けの皮で１回　攻撃を　防ぐことが　できる。",
+    "en": "Once per battle, the shroud that covers the Pokémon can protect it from an attack."
+  },
+  "generation": 7
+}

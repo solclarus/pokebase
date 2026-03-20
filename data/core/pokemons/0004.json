@@ -1,0 +1,10 @@
+{
+  "id": 4,
+  "identifier": "charmander",
+  "name": {
+    "ja": "ヒトカゲ",
+    "en": "Charmander"
+  },
+  "generation": 1,
+  "category": "normal"
+}

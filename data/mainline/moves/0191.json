@@ -1,0 +1,18 @@
+{
+  "id": 191,
+  "identifier": "spikes",
+  "name": {
+    "ja": "まきびし",
+    "en": "Spikes"
+  },
+  "type": "ground",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 2,
+  "description": {
+    "ja": "相手の　足下に　まきびしをしかける。交代で　でてきた　相手のポケモンに　ダメージを　与える。",
+    "en": "The user lays a trap of spikes at the feet of the opposing team. The spikes will damage opposing Pokémon that switch into battle."
+  }
+}

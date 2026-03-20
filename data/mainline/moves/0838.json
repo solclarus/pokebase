@@ -1,0 +1,18 @@
+{
+  "id": 838,
+  "identifier": "headlong-rush",
+  "name": {
+    "ja": "ぶちかまし",
+    "en": "Headlong Rush"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user smashes into the target in a full-body tackle. This also lowers the user’s Defense and Sp. Def stats."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 100,
+  "identifier": "teleport",
+  "name": {
+    "ja": "テレポート",
+    "en": "Teleport"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "ひかえの　ポケモンが　いるときに使うと　入れ替わる。野生の　ポケモンは　逃げてしまう。",
+    "en": "The user switches places with a party Pokémon in waiting, if any. If a wild Pokémon uses this move, it flees."
+  }
+}

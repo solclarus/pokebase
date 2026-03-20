@@ -1,0 +1,18 @@
+{
+  "id": 186,
+  "identifier": "sweet-kiss",
+  "name": {
+    "ja": "てんしのキッス",
+    "en": "Sweet Kiss"
+  },
+  "type": "fairy",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "天使のように　かわいく　キスして相手を　混乱させる。",
+    "en": "The user kisses the target with a sweet, angelic cuteness that causes confusion."
+  }
+}

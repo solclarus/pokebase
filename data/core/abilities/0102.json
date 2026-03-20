@@ -1,0 +1,13 @@
+{
+  "id": 102,
+  "identifier": "leaf-guard",
+  "name": {
+    "ja": "リーフガード",
+    "en": "Leaf Guard"
+  },
+  "description": {
+    "ja": "天気が　晴れのときは状態異常に　ならない。",
+    "en": "Prevents status conditions in harsh sunlight."
+  },
+  "generation": 4
+}

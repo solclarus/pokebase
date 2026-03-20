@@ -1,0 +1,18 @@
+{
+  "id": 301,
+  "identifier": "ice-ball",
+  "name": {
+    "ja": "アイスボール",
+    "en": "Ice Ball"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 90,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+  }
+}

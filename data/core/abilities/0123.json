@@ -1,0 +1,13 @@
+{
+  "id": 123,
+  "identifier": "bad-dreams",
+  "name": {
+    "ja": "ナイトメア",
+    "en": "Bad Dreams"
+  },
+  "description": {
+    "ja": "ねむり状態の　相手にダメージを　あたえる。",
+    "en": "Damages opposing Pokémon that are asleep."
+  },
+  "generation": 4
+}

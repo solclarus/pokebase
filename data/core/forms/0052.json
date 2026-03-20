@@ -1,0 +1,108 @@
+{
+  "pokemon_id": 52,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ニャース",
+        "en": "Meowth"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "sp_attack": 40,
+        "sp_defense": 40,
+        "speed": 90
+      },
+      "ability_ids": [
+        53,
+        101
+      ],
+      "hidden_ability_id": 127
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスニャース",
+        "en": "Gigantamax Meowth"
+      },
+      "form_type": "gigantamax",
+      "region": "kanto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 35,
+        "sp_attack": 40,
+        "sp_defense": 40,
+        "speed": 90
+      },
+      "ability_ids": [
+        53,
+        101
+      ],
+      "hidden_ability_id": 127
+    },
+    {
+      "id": "alola",
+      "order": 2,
+      "name": {
+        "ja": "ニャース（アローラのすがた）",
+        "en": "Alolan Meowth"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 35,
+        "sp_attack": 50,
+        "sp_defense": 40,
+        "speed": 90
+      },
+      "ability_ids": [
+        53,
+        101
+      ],
+      "hidden_ability_id": 155
+    },
+    {
+      "id": "galar",
+      "order": 3,
+      "name": {
+        "ja": "ニャース（ガラルのすがた）",
+        "en": "Galarian Meowth"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 55,
+        "sp_attack": 40,
+        "sp_defense": 40,
+        "speed": 40
+      },
+      "ability_ids": [
+        181
+      ],
+      "hidden_ability_id": 127
+    }
+  ]
+}

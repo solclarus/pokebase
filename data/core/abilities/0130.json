@@ -1,0 +1,13 @@
+{
+  "id": 130,
+  "identifier": "cursed-body",
+  "name": {
+    "ja": "のろわれボディ",
+    "en": "Cursed Body"
+  },
+  "description": {
+    "ja": "攻撃を　受けると　相手の　技をかなしばり状態にすることが　ある。",
+    "en": "May disable a move that has dealt damage to the Pokémon."
+  },
+  "generation": 5
+}

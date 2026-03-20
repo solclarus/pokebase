@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 46,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "パラス",
+        "en": "Paras"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 70,
+        "defense": 55,
+        "sp_attack": 45,
+        "sp_defense": 55,
+        "speed": 25
+      },
+      "ability_ids": [
+        27,
+        87
+      ],
+      "hidden_ability_id": 6
+    }
+  ]
+}

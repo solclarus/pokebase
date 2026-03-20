@@ -1,0 +1,18 @@
+{
+  "id": 686,
+  "identifier": "revelation-dance",
+  "name": {
+    "ja": "めざめるダンス",
+    "en": "Revelation Dance"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 7,
+  "description": {
+    "ja": "全力で　踊って　攻撃する。この　技の　タイプは自分の　タイプと　同じになる。",
+    "en": "The user attacks the target by dancing with all its might. This move becomes the same type as the user's type."
+  }
+}

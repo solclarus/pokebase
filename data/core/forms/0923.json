@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 923,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "パーモット",
+        "en": "Pawmot"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 115,
+        "defense": 70,
+        "sp_attack": 70,
+        "sp_defense": 60,
+        "speed": 105
+      },
+      "ability_ids": [
+        10,
+        30
+      ],
+      "hidden_ability_id": 89
+    }
+  ]
+}

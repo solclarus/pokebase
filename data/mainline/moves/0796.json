@@ -1,0 +1,18 @@
+{
+  "id": 796,
+  "identifier": "steel-beam",
+  "name": {
+    "ja": "てっていこうせん",
+    "en": "Steel Beam"
+  },
+  "type": "steel",
+  "category": "special",
+  "power": 140,
+  "accuracy": 95,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "全身から　集めた　はがねをビームとして　激しく　撃ちだす。自分も　ダメージを　受けてしまう。",
+    "en": "The user fires a beam of steel that it collected from its entire body. This also damages the user."
+  }
+}

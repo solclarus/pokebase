@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 31,
+  "costumes": [
+    {
+      "costume_id": "0031-crown",
+      "identifier": "nidoqueen-crown",
+      "name": {
+        "ja": "ニドクイン（クラウン）",
+        "en": "Nidoqueen (Crown)"
+      },
+      "event": "May 10, 2025",
+      "available_from": "2025-05-10",
+      "available_until": null
+    }
+  ]
+}

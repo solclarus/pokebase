@@ -1,0 +1,13 @@
+{
+  "id": 211,
+  "identifier": "power-construct",
+  "name": {
+    "ja": "スワームチェンジ",
+    "en": "Power Construct"
+  },
+  "description": {
+    "ja": "ＨＰが　半分に　なるとセルたちが　応援に　駆けつけパーフェクトフォルムに　姿を　変える。",
+    "en": "Other Cells gather to aid when its HP becomes half or less. Then the Pokémon changes its form to Complete Forme."
+  },
+  "generation": 7
+}

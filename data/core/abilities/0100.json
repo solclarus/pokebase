@@ -1,0 +1,13 @@
+{
+  "id": 100,
+  "identifier": "stall",
+  "name": {
+    "ja": "あとだし",
+    "en": "Stall"
+  },
+  "description": {
+    "ja": "技を　出す　順番がかならず　最後に　なる。",
+    "en": "The Pokémon is always the last to use its moves. "
+  },
+  "generation": 4
+}

@@ -1,0 +1,13 @@
+{
+  "id": 70,
+  "identifier": "drought",
+  "name": {
+    "ja": "ひでり",
+    "en": "Drought"
+  },
+  "description": {
+    "ja": "登場　したときに天気を　晴れに　する。",
+    "en": "Turns the sunlight harsh when the Pokémon enters a battle."
+  },
+  "generation": 3
+}

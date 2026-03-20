@@ -1,0 +1,13 @@
+{
+  "id": 466,
+  "identifier": "freeze-shock",
+  "name": {
+    "ja": "フリーズボルト",
+    "en": "Freeze Shock"
+  },
+  "type": "ice",
+  "move_type": "charged",
+  "power": 160,
+  "energy_delta": -100,
+  "duration_ms": 1500
+}

@@ -1,0 +1,13 @@
+{
+  "id": 469,
+  "identifier": "behemoth-blade",
+  "name": {
+    "ja": "きょじゅうざん",
+    "en": "Behemoth Blade"
+  },
+  "type": "steel",
+  "move_type": "charged",
+  "power": 200,
+  "energy_delta": -100,
+  "duration_ms": 3500
+}

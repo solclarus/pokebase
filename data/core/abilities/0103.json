@@ -1,0 +1,13 @@
+{
+  "id": 103,
+  "identifier": "klutz",
+  "name": {
+    "ja": "ぶきよう",
+    "en": "Klutz"
+  },
+  "description": {
+    "ja": "持っている　道具を使うことが　できない。",
+    "en": "The Pokémon can't use any held items."
+  },
+  "generation": 4
+}

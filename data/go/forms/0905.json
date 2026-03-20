@@ -1,0 +1,37 @@
+{
+  "pokemon_id": 905,
+  "forms": [
+    {
+      "form_id": "incarnate",
+      "base_attack": 250,
+      "base_defense": 201,
+      "base_stamina": 179,
+      "fast_move_ids": [
+        263,
+        234,
+        350
+      ],
+      "charged_move_ids": [
+        86,
+        341,
+        272
+      ],
+      "released_at": "2024-02-14",
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "therian",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

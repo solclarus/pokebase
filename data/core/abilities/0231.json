@@ -1,0 +1,13 @@
+{
+  "id": 231,
+  "identifier": "shadow-shield",
+  "name": {
+    "ja": "ファントムガード",
+    "en": "Shadow Shield"
+  },
+  "description": {
+    "ja": "ＨＰが　満タンの　ときに受ける　ダメージが　少なくなる。",
+    "en": "Reduces the amount of damage the Pokémon takes while its HP is full."
+  },
+  "generation": 7
+}

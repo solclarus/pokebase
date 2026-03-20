@@ -1,0 +1,13 @@
+{
+  "id": 230,
+  "identifier": "full-metal-body",
+  "name": {
+    "ja": "メタルプロテクト",
+    "en": "Full Metal Body"
+  },
+  "description": {
+    "ja": "相手の　技や　特性で能力を　下げられない。",
+    "en": "Prevents other Pokémon’s moves or Abilities from lowering the Pokémon’s stats."
+  },
+  "generation": 7
+}

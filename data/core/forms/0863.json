@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 863,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ニャイキング",
+        "en": "Perrserker"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 100,
+        "sp_attack": 50,
+        "sp_defense": 60,
+        "speed": 50
+      },
+      "ability_ids": [
+        4,
+        181
+      ],
+      "hidden_ability_id": 252
+    }
+  ]
+}

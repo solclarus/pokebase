@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 546,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "モンメン",
+        "en": "Cottonee"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 27,
+        "defense": 60,
+        "sp_attack": 37,
+        "sp_defense": 50,
+        "speed": 66
+      },
+      "ability_ids": [
+        158,
+        151
+      ],
+      "hidden_ability_id": 34
+    }
+  ]
+}

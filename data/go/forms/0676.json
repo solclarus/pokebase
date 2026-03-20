@@ -1,0 +1,145 @@
+{
+  "pokemon_id": 676,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 164,
+      "base_defense": 167,
+      "base_stamina": 181,
+      "fast_move_ids": [
+        282,
+        202,
+        203
+      ],
+      "charged_move_ids": [
+        284,
+        16,
+        272
+      ],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "heart",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2022-02-10",
+      "shiny_released_at": "2023-02-08"
+    },
+    {
+      "form_id": "star",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-09-21",
+      "shiny_released_at": "2022-09-27"
+    },
+    {
+      "form_id": "diamond",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-09-21",
+      "shiny_released_at": "2022-09-27"
+    },
+    {
+      "form_id": "debutante",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-09-21",
+      "shiny_released_at": "2022-09-27"
+    },
+    {
+      "form_id": "matron",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-09-21",
+      "shiny_released_at": "2022-09-27"
+    },
+    {
+      "form_id": "dandy",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-09-21",
+      "shiny_released_at": "2022-09-27"
+    },
+    {
+      "form_id": "la-reine",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-09-21",
+      "shiny_released_at": "2022-09-27"
+    },
+    {
+      "form_id": "kabuki",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-09-21",
+      "shiny_released_at": "2022-09-27"
+    },
+    {
+      "form_id": "pharaoh",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-09-21",
+      "shiny_released_at": "2022-09-27"
+    },
+    {
+      "form_id": "natural",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-09-21",
+      "shiny_released_at": "2022-09-27"
+    }
+  ]
+}

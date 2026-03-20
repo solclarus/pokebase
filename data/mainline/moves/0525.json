@@ -1,0 +1,18 @@
+{
+  "id": 525,
+  "identifier": "dragon-tail",
+  "name": {
+    "ja": "ドラゴンテール",
+    "en": "Dragon Tail"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "相手を　はじきとばして控えの　ポケモンを　ひきずりだす。野生の　場合は　戦闘が　終わる。",
+    "en": "The target is knocked away, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "pokemon_id": 877,
+  "forms": [
+    {
+      "form_id": "full-belly",
+      "base_attack": 192,
+      "base_defense": 121,
+      "base_stamina": 151,
+      "fast_move_ids": [
+        249,
+        202,
+        205
+      ],
+      "charged_move_ids": [
+        59,
+        277,
+        407,
+        353
+      ],
+      "released_at": "2024-10-22",
+      "shiny_released_at": "2025-11-18",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "hangry",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2024-10-22",
+      "shiny_released_at": "2025-11-18",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

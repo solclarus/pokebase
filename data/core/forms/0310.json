@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 310,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ライボルト",
+        "en": "Manectric"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 60,
+        "sp_attack": 105,
+        "sp_defense": 60,
+        "speed": 105
+      },
+      "ability_ids": [
+        9,
+        31
+      ],
+      "hidden_ability_id": 58
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガライボルト",
+        "en": "Mega Manectric"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 80,
+        "sp_attack": 135,
+        "sp_defense": 80,
+        "speed": 135
+      },
+      "ability_ids": [
+        22
+      ]
+    }
+  ]
+}

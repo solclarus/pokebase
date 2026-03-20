@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 575,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴチミル",
+        "en": "Gothorita"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 70,
+        "sp_attack": 75,
+        "sp_defense": 85,
+        "speed": 55
+      },
+      "ability_ids": [
+        119,
+        172
+      ],
+      "hidden_ability_id": 23
+    }
+  ]
+}

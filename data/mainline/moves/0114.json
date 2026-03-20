@@ -1,0 +1,18 @@
+{
+  "id": 114,
+  "identifier": "haze",
+  "name": {
+    "ja": "くろいきり",
+    "en": "Haze"
+  },
+  "type": "ice",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "黒い霧を　だして　戦闘にでている　ポケモン　全員の能力変化を　もとに　もどす。",
+    "en": "The user creates a haze that eliminates every stat change among all the Pokémon engaged in battle."
+  }
+}

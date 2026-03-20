@@ -1,0 +1,18 @@
+{
+  "id": 116,
+  "identifier": "focus-energy",
+  "name": {
+    "ja": "きあいだめ",
+    "en": "Focus Energy"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "深く　息を　吸い　気合を　こめる。自分の　攻撃が急所に　当たりやすくなる。",
+    "en": "The user takes a deep breath and focuses so that its future attacks have a heightened chance of landing critical hits."
+  }
+}

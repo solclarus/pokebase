@@ -1,0 +1,13 @@
+{
+  "id": 210,
+  "identifier": "wing-attack",
+  "name": {
+    "ja": "つばさでうつ",
+    "en": "Wing Attack"
+  },
+  "type": "flying",
+  "move_type": "fast",
+  "power": 10,
+  "energy_delta": 11,
+  "duration_ms": 1000
+}

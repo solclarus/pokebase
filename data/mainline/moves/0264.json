@@ -1,0 +1,18 @@
+{
+  "id": 264,
+  "identifier": "focus-punch",
+  "name": {
+    "ja": "きあいパンチ",
+    "en": "Focus Punch"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "精神を　高めて　パンチを　くりだす。技を　だすまでに攻撃を　受けると　失敗する。",
+    "en": "The user focuses its mind before launching a punch. This move fails if the user is hit before using the move."
+  }
+}

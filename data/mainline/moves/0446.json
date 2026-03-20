@@ -1,0 +1,18 @@
+{
+  "id": 446,
+  "identifier": "stealth-rock",
+  "name": {
+    "ja": "ステルスロック",
+    "en": "Stealth Rock"
+  },
+  "type": "rock",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "相手の　周りに　無数の　岩を浮かべて　交代で　でてきた　相手のポケモンに　ダメージを　与える。",
+    "en": "The user lays a trap of levitating stones around the opposing team. The trap damages opposing Pokémon that switch into battle."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 12,
+  "costumes": [
+    {
+      "costume_id": "0012-bow",
+      "identifier": "butterfree-bow",
+      "name": {
+        "ja": "バタフリー（リボン）",
+        "en": "Butterfree (Bow)"
+      },
+      "event": "September 21, 2021",
+      "available_from": "2021-09-21",
+      "available_until": null
+    }
+  ]
+}

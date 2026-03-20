@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 808,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メルタン",
+        "en": "Meltan"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "hp": 46,
+        "attack": 65,
+        "defense": 65,
+        "sp_attack": 55,
+        "sp_defense": 35,
+        "speed": 34
+      },
+      "ability_ids": [
+        42
+      ]
+    }
+  ]
+}

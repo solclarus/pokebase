@@ -1,0 +1,13 @@
+{
+  "id": 101,
+  "identifier": "technician",
+  "name": {
+    "ja": "テクニシャン",
+    "en": "Technician"
+  },
+  "description": {
+    "ja": "威力が　低い　技の威力を　高くして　攻撃できる。",
+    "en": "Powers up weak moves so the Pokémon can deal more damage with them."
+  },
+  "generation": 4
+}

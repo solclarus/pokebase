@@ -1,0 +1,18 @@
+{
+  "id": 438,
+  "identifier": "power-whip",
+  "name": {
+    "ja": "パワーウィップ",
+    "en": "Power Whip"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "ツタや　触手を　激しく　ふるって相手を　たたきつけ　攻撃する。",
+    "en": "The user violently whirls its vines, tentacles, or the like to lash the target."
+  }
+}

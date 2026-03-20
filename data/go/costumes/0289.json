@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 289,
+  "costumes": [
+    {
+      "costume_id": "0289-visor",
+      "identifier": "slaking-visor",
+      "name": {
+        "ja": "ケッキング（バイザー）",
+        "en": "Slaking (Visor)"
+      },
+      "event": "June 7, 2024",
+      "available_from": "2024-06-07",
+      "available_until": null
+    }
+  ]
+}

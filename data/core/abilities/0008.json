@@ -1,0 +1,13 @@
+{
+  "id": 8,
+  "identifier": "sand-veil",
+  "name": {
+    "ja": "すながくれ",
+    "en": "Sand Veil"
+  },
+  "description": {
+    "ja": "砂あらしの　とき回避率が　上がる。",
+    "en": "Boosts the Pokémon's evasiveness in a sandstorm."
+  },
+  "generation": 3
+}

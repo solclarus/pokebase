@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 372,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コモルー",
+        "en": "Shelgon"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 95,
+        "defense": 100,
+        "sp_attack": 60,
+        "sp_defense": 50,
+        "speed": 50
+      },
+      "ability_ids": [
+        69
+      ],
+      "hidden_ability_id": 142
+    }
+  ]
+}

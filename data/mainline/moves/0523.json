@@ -1,0 +1,18 @@
+{
+  "id": 523,
+  "identifier": "bulldoze",
+  "name": {
+    "ja": "じならし",
+    "en": "Bulldoze"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "地面を　踏みならして　自分の周りに　いるものを　攻撃する。相手の　素早さを　さげる。",
+    "en": "The user strikes everything around it by stomping down on the ground. This lowers the Speed stats of those hit."
+  }
+}

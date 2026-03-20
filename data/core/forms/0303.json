@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 303,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "クチート",
+        "en": "Mawile"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 85,
+        "sp_attack": 55,
+        "sp_defense": 55,
+        "speed": 50
+      },
+      "ability_ids": [
+        52,
+        22
+      ],
+      "hidden_ability_id": 125
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガクチート",
+        "en": "Mega Mawile"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "steel",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 105,
+        "defense": 125,
+        "sp_attack": 55,
+        "sp_defense": 95,
+        "speed": 50
+      },
+      "ability_ids": [
+        37
+      ]
+    }
+  ]
+}

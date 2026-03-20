@@ -1,0 +1,67 @@
+{
+  "pokemon_id": 26,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 193,
+      "base_defense": 151,
+      "base_stamina": 155,
+      "fast_move_ids": [
+        250,
+        206,
+        320,
+        205
+      ],
+      "charged_move_ids": [
+        123,
+        77,
+        251,
+        302,
+        392,
+        284
+      ],
+      "released_at": "2016-07-06",
+      "shiny_released_at": "2017-08-09",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [
+        78
+      ]
+    },
+    {
+      "form_id": "alola",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2018-07-19",
+      "shiny_released_at": "2018-11-23",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "mega-x",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "mega-y",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

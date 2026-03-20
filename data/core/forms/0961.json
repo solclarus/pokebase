@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 961,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウミトリオ",
+        "en": "Wugtrio"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 100,
+        "defense": 50,
+        "sp_attack": 50,
+        "sp_defense": 70,
+        "speed": 120
+      },
+      "ability_ids": [
+        183,
+        155
+      ],
+      "hidden_ability_id": 8
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 611,
+  "identifier": "infestation",
+  "name": {
+    "ja": "まとわりつく",
+    "en": "Infestation"
+  },
+  "type": "bug",
+  "category": "special",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "４ー５ターンの　間　相手にまとわりついて　攻撃する。そのあいだ　相手は　逃げられない。",
+    "en": "The target is infested and attacked for four to five turns. The target can't flee during this time."
+  }
+}

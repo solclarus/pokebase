@@ -1,0 +1,13 @@
+{
+  "id": 327,
+  "identifier": "ice-fang",
+  "name": {
+    "ja": "こおりのキバ",
+    "en": "Ice Fang"
+  },
+  "type": "ice",
+  "move_type": "fast",
+  "power": 12,
+  "energy_delta": 20,
+  "duration_ms": 1500
+}

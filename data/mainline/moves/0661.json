@@ -1,0 +1,18 @@
+{
+  "id": 661,
+  "identifier": "baneful-bunker",
+  "name": {
+    "ja": "トーチカ",
+    "en": "Baneful Bunker"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "相手の　攻撃を　防ぐと同時に　触れた　相手に毒を　与えてしまう。",
+    "en": "In addition to protecting the user from attacks, this move also poisons any attacker that makes direct contact."
+  }
+}

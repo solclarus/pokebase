@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 356,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サマヨール",
+        "en": "Dusclops"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 70,
+        "defense": 130,
+        "sp_attack": 60,
+        "sp_defense": 130,
+        "speed": 25
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 119
+    }
+  ]
+}

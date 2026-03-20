@@ -1,0 +1,13 @@
+{
+  "id": 106,
+  "identifier": "scald",
+  "name": {
+    "ja": "ねっとう",
+    "en": "Scald"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 75,
+  "energy_delta": -50,
+  "duration_ms": 3500
+}

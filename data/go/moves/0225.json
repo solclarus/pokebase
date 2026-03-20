@@ -1,0 +1,13 @@
+{
+  "id": 225,
+  "identifier": "acid",
+  "name": {
+    "ja": "ようかいえき",
+    "en": "Acid"
+  },
+  "type": "poison",
+  "move_type": "fast",
+  "power": 11,
+  "energy_delta": 10,
+  "duration_ms": 1000
+}

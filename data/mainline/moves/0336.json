@@ -1,0 +1,18 @@
+{
+  "id": 336,
+  "identifier": "howl",
+  "name": {
+    "ja": "とおぼえ",
+    "en": "Howl"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "generation": 3,
+  "description": {
+    "ja": "大声で　ほえて　気合を　高め自分と　味方の　攻撃を　あげる。",
+    "en": "The user howls loudly to rouse itself and its allies. This boosts their Attack stats."
+  }
+}

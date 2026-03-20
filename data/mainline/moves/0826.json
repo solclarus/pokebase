@@ -1,0 +1,18 @@
+{
+  "id": 826,
+  "identifier": "eerie-spell",
+  "name": {
+    "ja": "ぶきみなじゅもん",
+    "en": "Eerie Spell"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "強力な　サイコパワーで　攻撃。相手が　最後に　使った技のＰＰを　３だけ　減らす。",
+    "en": "The user attacks with its tremendous psychic power. This also drains 3 PP from the move last used by the target."
+  }
+}

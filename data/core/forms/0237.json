@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 237,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カポエラー",
+        "en": "Hitmontop"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 95,
+        "defense": 95,
+        "sp_attack": 35,
+        "sp_defense": 110,
+        "speed": 70
+      },
+      "ability_ids": [
+        22,
+        101
+      ],
+      "hidden_ability_id": 80
+    }
+  ]
+}

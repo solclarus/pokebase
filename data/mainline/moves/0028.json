@@ -1,0 +1,18 @@
+{
+  "id": 28,
+  "identifier": "sand-attack",
+  "name": {
+    "ja": "すなかけ",
+    "en": "Sand Attack"
+  },
+  "type": "ground",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "相手の　顔に　砂を　かけて命中率を　さげる。",
+    "en": "Sand is hurled in the target's face, lowering the target's accuracy."
+  }
+}

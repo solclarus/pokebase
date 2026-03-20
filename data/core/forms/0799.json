@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 799,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アクジキング",
+        "en": "Guzzlord"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 223,
+        "attack": 101,
+        "defense": 53,
+        "sp_attack": 97,
+        "sp_defense": 53,
+        "speed": 43
+      },
+      "ability_ids": [
+        224
+      ]
+    }
+  ]
+}

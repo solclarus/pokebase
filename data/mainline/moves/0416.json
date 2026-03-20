@@ -1,0 +1,18 @@
+{
+  "id": 416,
+  "identifier": "giga-impact",
+  "name": {
+    "ja": "ギガインパクト",
+    "en": "Giga Impact"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "持てる　力を　すべて　使って相手に　突撃する。次の　ターンは　動けなくなる。",
+    "en": "The user charges at the target using every bit of its power. The user can't move on the next turn."
+  }
+}

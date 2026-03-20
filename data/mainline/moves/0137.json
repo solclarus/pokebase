@@ -1,0 +1,18 @@
+{
+  "id": 137,
+  "identifier": "glare",
+  "name": {
+    "ja": "へびにらみ",
+    "en": "Glare"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "おなかの　模様で　おびえさせて相手を　まひの　状態に　する。",
+    "en": "The user intimidates the target with the pattern on its belly to cause paralysis."
+  }
+}

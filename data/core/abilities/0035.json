@@ -1,0 +1,13 @@
+{
+  "id": 35,
+  "identifier": "illuminate",
+  "name": {
+    "ja": "はっこう",
+    "en": "Illuminate"
+  },
+  "description": {
+    "ja": "あたりを　明るくする　ことで野生の　ポケモンに遭遇　しやすくなる。",
+    "en": "By illuminating its surroundings, the Pokémon prevents its accuracy from being lowered."
+  },
+  "generation": 3
+}

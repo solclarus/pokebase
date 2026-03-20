@@ -1,0 +1,13 @@
+{
+  "id": 9,
+  "identifier": "static",
+  "name": {
+    "ja": "せいでんき",
+    "en": "Static"
+  },
+  "description": {
+    "ja": "静電気を　体に　まとい触った　相手をまひさせる　ことがある。",
+    "en": "The Pokémon is charged with static electricity and may paralyze attackers that make direct contact with it."
+  },
+  "generation": 3
+}

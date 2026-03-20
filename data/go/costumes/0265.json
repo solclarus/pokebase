@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 265,
+  "costumes": [
+    {
+      "costume_id": "0265-party",
+      "identifier": "wurmple-party",
+      "name": {
+        "ja": "ケムッソ（パーティー）",
+        "en": "Wurmple (Party)"
+      },
+      "event": "January 2, 2020",
+      "available_from": "2020-01-02",
+      "available_until": null
+    }
+  ]
+}

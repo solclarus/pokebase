@@ -1,0 +1,13 @@
+{
+  "id": 381,
+  "identifier": "double-iron-bash",
+  "name": {
+    "ja": "ダブルパンツァー",
+    "en": "Double Iron Bash"
+  },
+  "type": "steel",
+  "move_type": "charged",
+  "power": 70,
+  "energy_delta": -33,
+  "duration_ms": 2000
+}

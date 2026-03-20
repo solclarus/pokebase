@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 431,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ニャルマー",
+        "en": "Glameow"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 49,
+        "attack": 55,
+        "defense": 42,
+        "sp_attack": 42,
+        "sp_defense": 37,
+        "speed": 85
+      },
+      "ability_ids": [
+        7,
+        20
+      ],
+      "hidden_ability_id": 51
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 343,
+  "identifier": "covet",
+  "name": {
+    "ja": "ほしがる",
+    "en": "Covet"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 25,
+  "generation": 3,
+  "description": {
+    "ja": "かわいく　あまえながら相手に　ちかづき持っている　道具を　うばう。",
+    "en": "The user endearingly approaches the target, then steals the target's held item."
+  }
+}

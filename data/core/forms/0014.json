@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 14,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コクーン",
+        "en": "Kakuna"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 25,
+        "defense": 50,
+        "sp_attack": 25,
+        "sp_defense": 25,
+        "speed": 35
+      },
+      "ability_ids": [
+        61
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 406,
+  "identifier": "aura-wheel-electric",
+  "name": {
+    "ja": "オーラぐるま",
+    "en": "Aura Wheel Electric"
+  },
+  "type": "electric",
+  "move_type": "charged",
+  "power": 100,
+  "energy_delta": -45,
+  "duration_ms": 2700
+}

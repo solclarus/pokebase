@@ -1,0 +1,59 @@
+{
+  "pokemon_id": 74,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イシツブテ",
+        "en": "Geodude"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 100,
+        "sp_attack": 30,
+        "sp_defense": 30,
+        "speed": 20
+      },
+      "ability_ids": [
+        69,
+        5
+      ],
+      "hidden_ability_id": 8
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "イシツブテ（アローラのすがた）",
+        "en": "Alolan Geodude"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "rock",
+        "electric"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 80,
+        "defense": 100,
+        "sp_attack": 30,
+        "sp_defense": 30,
+        "speed": 20
+      },
+      "ability_ids": [
+        42,
+        5
+      ],
+      "hidden_ability_id": 206
+    }
+  ]
+}

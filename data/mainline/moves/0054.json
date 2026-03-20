@@ -1,0 +1,18 @@
+{
+  "id": 54,
+  "identifier": "mist",
+  "name": {
+    "ja": "しろいきり",
+    "en": "Mist"
+  },
+  "type": "ice",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "白い霧で　体を　おおう。５ターンの　間　相手に能力を　さげられなく　なる。",
+    "en": "The user cloaks itself and its allies in a white mist that prevents any of their stats from being lowered for five turns."
+  }
+}

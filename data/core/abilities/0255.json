@@ -1,0 +1,13 @@
+{
+  "id": 255,
+  "identifier": "gorilla-tactics",
+  "name": {
+    "ja": "ごりむちゅう",
+    "en": "Gorilla Tactics"
+  },
+  "description": {
+    "ja": "攻撃は　上がるが最初に　選んだ技しか　出せなくなる。",
+    "en": "Boosts the Pokémon’s Attack stat but only allows the use of the first selected move."
+  },
+  "generation": 8
+}

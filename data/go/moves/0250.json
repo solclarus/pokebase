@@ -1,0 +1,13 @@
+{
+  "id": 250,
+  "identifier": "volt-switch",
+  "name": {
+    "ja": "ボルトチェンジ",
+    "en": "Volt Switch"
+  },
+  "type": "electric",
+  "move_type": "fast",
+  "power": 13,
+  "energy_delta": 20,
+  "duration_ms": 1500
+}

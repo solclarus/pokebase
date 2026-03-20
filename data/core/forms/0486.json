@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 486,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レジギガス",
+        "en": "Regigigas"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 110,
+        "attack": 160,
+        "defense": 110,
+        "sp_attack": 80,
+        "sp_defense": 110,
+        "speed": 100
+      },
+      "ability_ids": [
+        112
+      ]
+    }
+  ]
+}

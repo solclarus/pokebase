@@ -1,0 +1,13 @@
+{
+  "id": 326,
+  "identifier": "thunder-fang",
+  "name": {
+    "ja": "かみなりのキバ",
+    "en": "Thunder Fang"
+  },
+  "type": "electric",
+  "move_type": "fast",
+  "power": 10,
+  "energy_delta": 13,
+  "duration_ms": 1000
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 378,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レジアイス",
+        "en": "Regice"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 50,
+        "defense": 100,
+        "sp_attack": 100,
+        "sp_defense": 200,
+        "speed": 50
+      },
+      "ability_ids": [
+        29
+      ],
+      "hidden_ability_id": 115
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 337,
+  "identifier": "dragon-claw",
+  "name": {
+    "ja": "ドラゴンクロー",
+    "en": "Dragon Claw"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "鋭く　とがった　巨大な　ツメで相手を　切り裂いて　攻撃する。",
+    "en": "The user slashes the target with huge, sharp claws to inflict damage."
+  }
+}

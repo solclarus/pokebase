@@ -1,0 +1,13 @@
+{
+  "id": 78,
+  "identifier": "motor-drive",
+  "name": {
+    "ja": "でんきエンジン",
+    "en": "Motor Drive"
+  },
+  "description": {
+    "ja": "でんきタイプの　技を　受けるとダメージを　受けずに素早さが　上がる。",
+    "en": "The Pokémon takes no damage when hit by Electric-type moves. Instead, its Speed stat is boosted."
+  },
+  "generation": 4
+}

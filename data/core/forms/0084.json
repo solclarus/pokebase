@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 84,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドードー",
+        "en": "Doduo"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 85,
+        "defense": 45,
+        "sp_attack": 35,
+        "sp_defense": 35,
+        "speed": 75
+      },
+      "ability_ids": [
+        50,
+        48
+      ],
+      "hidden_ability_id": 77
+    }
+  ]
+}

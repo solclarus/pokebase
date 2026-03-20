@@ -1,0 +1,18 @@
+{
+  "id": 454,
+  "identifier": "attack-order",
+  "name": {
+    "ja": "こうげきしれい",
+    "en": "Attack Order"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "しもべを　呼びだして相手に　むかって　攻撃させる。急所に　当たりやすい。",
+    "en": "The user calls out its underlings to pummel the target. This move has a heightened chance of landing a critical hit."
+  }
+}

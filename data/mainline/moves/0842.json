@@ -1,0 +1,18 @@
+{
+  "id": 842,
+  "identifier": "shelter",
+  "name": {
+    "ja": "たてこもる",
+    "en": "Shelter"
+  },
+  "type": "steel",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user makes its skin as hard as an iron shield, sharply boosting its Defense stat."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 245,
+  "identifier": "extreme-speed",
+  "name": {
+    "ja": "しんそく",
+    "en": "Extreme Speed"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "目にも　留まらぬ　ものすごい　速さで相手に　突進して　攻撃する。必ず　先制攻撃　できる。",
+    "en": "The user charges the target at blinding speed. This move always goes first."
+  }
+}

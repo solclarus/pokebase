@@ -1,0 +1,13 @@
+{
+  "id": 99,
+  "identifier": "no-guard",
+  "name": {
+    "ja": "ノーガード",
+    "en": "No Guard"
+  },
+  "description": {
+    "ja": "ノーガード戦法に　よってお互いの　出す　技がかならず　当たる　ようになる。",
+    "en": "The Pokémon employs no-guard tactics to ensure incoming and outgoing attacks always land. "
+  },
+  "generation": 4
+}

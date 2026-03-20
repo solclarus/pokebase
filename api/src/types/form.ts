@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { LocalizedNameSchema } from "./pokemon";
+import { LocalizedNameSchema } from "@/types/pokemon";
 
 export const StatsSchema = z.object({
   hp: z.number().int().nonnegative(),
@@ -11,22 +11,29 @@ export const StatsSchema = z.object({
 });
 
 export const FormTypeSchema = z.enum([
-  "default",
+  "normal",
   "mega",
   "gigantamax",
-  "regional",
-  "special",
 ]);
 
 export const FormSchema = z.object({
   id: z.string(),
+  order: z.number().int().nonnegative(),
   name: LocalizedNameSchema,
   form_type: FormTypeSchema,
-  is_default: z.boolean(),
+  region: z.string(),
   types: z.array(z.string()).min(1).max(2),
   stats: StatsSchema,
   ability_ids: z.array(z.number().int().positive()),
   hidden_ability_id: z.number().int().positive().optional(),
+});
+
+export const FormIndexEntrySchema = z.object({
+  pokemon_id: z.number().int().positive(),
+  form_id: z.string(),
+  form_type: FormTypeSchema,
+  name: LocalizedNameSchema,
+  types: z.array(z.string()).min(1).max(2),
 });
 
 export const FormsFileSchema = z.object({
@@ -38,3 +45,4 @@ export type Stats = z.infer<typeof StatsSchema>;
 export type FormType = z.infer<typeof FormTypeSchema>;
 export type Form = z.infer<typeof FormSchema>;
 export type FormsFile = z.infer<typeof FormsFileSchema>;
+export type FormIndexEntry = z.infer<typeof FormIndexEntrySchema>;

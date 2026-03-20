@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 965,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ブロロン",
+        "en": "Varoom"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "steel",
+        "poison"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 70,
+        "defense": 63,
+        "sp_attack": 30,
+        "sp_defense": 45,
+        "speed": 47
+      },
+      "ability_ids": [
+        142
+      ],
+      "hidden_ability_id": 112
+    }
+  ]
+}

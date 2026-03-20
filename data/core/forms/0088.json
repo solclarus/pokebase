@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 88,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ベトベター",
+        "en": "Grimer"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 50,
+        "sp_attack": 40,
+        "sp_defense": 50,
+        "speed": 25
+      },
+      "ability_ids": [
+        1,
+        60
+      ],
+      "hidden_ability_id": 143
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "ベトベター（アローラのすがた）",
+        "en": "Alolan Grimer"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 50,
+        "sp_attack": 40,
+        "sp_defense": 50,
+        "speed": 25
+      },
+      "ability_ids": [
+        143,
+        82
+      ],
+      "hidden_ability_id": 223
+    }
+  ]
+}

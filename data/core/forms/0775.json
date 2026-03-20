@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 775,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ネッコアラ",
+        "en": "Komala"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 115,
+        "defense": 65,
+        "sp_attack": 75,
+        "sp_defense": 95,
+        "speed": 65
+      },
+      "ability_ids": [
+        213
+      ]
+    }
+  ]
+}

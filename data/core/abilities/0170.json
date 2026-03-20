@@ -1,0 +1,13 @@
+{
+  "id": 170,
+  "identifier": "magician",
+  "name": {
+    "ja": "マジシャン",
+    "en": "Magician"
+  },
+  "description": {
+    "ja": "技を　当てた　相手の道具を　奪ってしまう。",
+    "en": "The Pokémon steals the held item from any target it hits with a move."
+  },
+  "generation": 6
+}

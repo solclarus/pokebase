@@ -1,0 +1,18 @@
+{
+  "id": 716,
+  "identifier": "zing-zap",
+  "name": {
+    "ja": "びりびりちくちく",
+    "en": "Zing Zap"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "相手に　ぶつかって　強力な電気を浴びせ　びりびりちくちく　させる。相手を　ひるませる　ことが　ある。",
+    "en": "The user crashes into the target, delivering a powerful electric shock. This may also make the target flinch."
+  }
+}

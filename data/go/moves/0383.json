@@ -1,0 +1,13 @@
+{
+  "id": 383,
+  "identifier": "liquidation",
+  "name": {
+    "ja": "アクアブレイク",
+    "en": "Liquidation"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 70,
+  "energy_delta": -33,
+  "duration_ms": 3000
+}

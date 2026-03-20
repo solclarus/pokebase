@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 765,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤレユータン",
+        "en": "Oranguru"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 60,
+        "defense": 80,
+        "sp_attack": 90,
+        "sp_defense": 110,
+        "speed": 60
+      },
+      "ability_ids": [
+        39,
+        140
+      ],
+      "hidden_ability_id": 180
+    }
+  ]
+}

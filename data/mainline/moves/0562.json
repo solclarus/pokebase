@@ -1,0 +1,18 @@
+{
+  "id": 562,
+  "identifier": "belch",
+  "name": {
+    "ja": "ゲップ",
+    "en": "Belch"
+  },
+  "type": "poison",
+  "category": "special",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "相手に　向かって　ゲップを浴びせて　ダメージを　与える。きのみを　食べないと　だせない。",
+    "en": "The user lets out a damaging belch at the target. The user must eat a held Berry to use this move."
+  }
+}

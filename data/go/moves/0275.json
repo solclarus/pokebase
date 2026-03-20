@@ -1,0 +1,13 @@
+{
+  "id": 275,
+  "identifier": "futuresight",
+  "name": {
+    "ja": "みらいよち",
+    "en": "Futuresight"
+  },
+  "type": "psychic",
+  "move_type": "charged",
+  "power": 115,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

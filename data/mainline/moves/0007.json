@@ -1,0 +1,18 @@
+{
+  "id": 7,
+  "identifier": "fire-punch",
+  "name": {
+    "ja": "ほのおのパンチ",
+    "en": "Fire Punch"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "炎を　こめた　パンチで相手を　攻撃する。やけど状態に　することが　ある。",
+    "en": "The target is attacked with a fiery punch. This may also leave the target with a burn."
+  }
+}

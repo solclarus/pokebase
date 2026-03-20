@@ -1,0 +1,83 @@
+{
+  "pokemon_id": 413,
+  "forms": [
+    {
+      "id": "plant",
+      "order": 0,
+      "name": {
+        "ja": "ミノマダム",
+        "en": "Wormadam"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 59,
+        "defense": 85,
+        "sp_attack": 79,
+        "sp_defense": 105,
+        "speed": 36
+      },
+      "ability_ids": [
+        107
+      ],
+      "hidden_ability_id": 142
+    },
+    {
+      "id": "sandy",
+      "order": 1,
+      "name": {
+        "ja": "すなちのミノ",
+        "en": "Sandy Cloak"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 79,
+        "defense": 105,
+        "sp_attack": 59,
+        "sp_defense": 85,
+        "speed": 36
+      },
+      "ability_ids": [
+        107
+      ],
+      "hidden_ability_id": 142
+    },
+    {
+      "id": "trash",
+      "order": 2,
+      "name": {
+        "ja": "ゴミのミノ",
+        "en": "Trash Cloak"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 69,
+        "defense": 95,
+        "sp_attack": 69,
+        "sp_defense": 95,
+        "speed": 36
+      },
+      "ability_ids": [
+        107
+      ],
+      "hidden_ability_id": 142
+    }
+  ]
+}

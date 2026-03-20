@@ -1,0 +1,13 @@
+{
+  "id": 282,
+  "identifier": "quark-drive",
+  "name": {
+    "ja": "クォークチャージ",
+    "en": "Quark Drive"
+  },
+  "description": {
+    "ja": "ブーストエナジーを持たせるかエレキフィールドのときいちばん高い能力が上がる。",
+    "en": "Boosts the Pokémon's most proficient stat on Electric Terrain or if the Pokémon is holding Booster Energy."
+  },
+  "generation": 9
+}

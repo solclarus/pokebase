@@ -1,0 +1,13 @@
+{
+  "id": 300,
+  "identifier": "last-resort",
+  "name": {
+    "ja": "とっておき",
+    "en": "Last Resort"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

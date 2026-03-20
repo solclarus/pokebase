@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 547,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エルフーン",
+        "en": "Whimsicott"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 67,
+        "defense": 85,
+        "sp_attack": 77,
+        "sp_defense": 75,
+        "speed": 116
+      },
+      "ability_ids": [
+        158,
+        151
+      ],
+      "hidden_ability_id": 34
+    }
+  ]
+}

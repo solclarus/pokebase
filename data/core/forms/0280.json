@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 280,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ラルトス",
+        "en": "Ralts"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 28,
+        "attack": 25,
+        "defense": 25,
+        "sp_attack": 45,
+        "sp_defense": 35,
+        "speed": 40
+      },
+      "ability_ids": [
+        28,
+        36
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pokemon_id": 890,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 278,
+      "base_defense": 192,
+      "base_stamina": 268,
+      "fast_move_ids": [
+        253,
+        224
+      ],
+      "charged_move_ids": [
+        90,
+        82,
+        24
+      ],
+      "released_at": "2025-08-17",
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [
+        482
+      ]
+    },
+    {
+      "form_id": "eternamax",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

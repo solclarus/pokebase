@@ -1,0 +1,18 @@
+{
+  "id": 605,
+  "identifier": "dazzling-gleam",
+  "name": {
+    "ja": "マジカルシャイン",
+    "en": "Dazzling Gleam"
+  },
+  "type": "fairy",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "強力な　光を　放ち相手に　ダメージを　与える。",
+    "en": "The user damages opposing Pokémon by emitting a powerful flash."
+  }
+}

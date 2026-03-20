@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 873,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "モスノウ",
+        "en": "Frosmoth"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 65,
+        "defense": 60,
+        "sp_attack": 125,
+        "sp_defense": 90,
+        "speed": 65
+      },
+      "ability_ids": [
+        19
+      ],
+      "hidden_ability_id": 246
+    }
+  ]
+}

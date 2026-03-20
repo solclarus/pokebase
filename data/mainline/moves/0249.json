@@ -1,0 +1,18 @@
+{
+  "id": 249,
+  "identifier": "rock-smash",
+  "name": {
+    "ja": "いわくだき",
+    "en": "Rock Smash"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 2,
+  "description": {
+    "ja": "パンチで　攻撃する。相手の防御を　さげる　ことが　ある。",
+    "en": "The user attacks with a punch. This may also lower the target's Defense stat."
+  }
+}

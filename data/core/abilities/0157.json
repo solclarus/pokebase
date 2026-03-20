@@ -1,0 +1,13 @@
+{
+  "id": 157,
+  "identifier": "sap-sipper",
+  "name": {
+    "ja": "そうしょく",
+    "en": "Sap Sipper"
+  },
+  "description": {
+    "ja": "くさタイプの　技を　受けるとダメージを　受けずに攻撃が　上がる。",
+    "en": "The Pokémon takes no damage when hit by Grass-type moves. Instead, its Attack stat is boosted."
+  },
+  "generation": 5
+}

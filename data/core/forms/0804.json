@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 804,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アーゴヨン",
+        "en": "Naganadel"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 73,
+        "attack": 73,
+        "defense": 73,
+        "sp_attack": 127,
+        "sp_defense": 73,
+        "speed": 121
+      },
+      "ability_ids": [
+        224
+      ]
+    }
+  ]
+}

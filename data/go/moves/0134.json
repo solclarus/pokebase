@@ -1,0 +1,13 @@
+{
+  "id": 134,
+  "identifier": "scald-blastoise",
+  "name": {
+    "ja": "ねっとう",
+    "en": "Scald Blastoise"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 50,
+  "energy_delta": -100,
+  "duration_ms": 4500
+}

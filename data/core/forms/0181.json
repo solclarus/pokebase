@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 181,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "デンリュウ",
+        "en": "Ampharos"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 75,
+        "defense": 85,
+        "sp_attack": 115,
+        "sp_defense": 90,
+        "speed": 55
+      },
+      "ability_ids": [
+        9
+      ],
+      "hidden_ability_id": 57
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガデンリュウ",
+        "en": "Mega Ampharos"
+      },
+      "form_type": "mega",
+      "region": "johto",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 95,
+        "defense": 105,
+        "sp_attack": 165,
+        "sp_defense": 110,
+        "speed": 45
+      },
+      "ability_ids": [
+        104
+      ]
+    }
+  ]
+}

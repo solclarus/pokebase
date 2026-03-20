@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 782,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ジャラコ",
+        "en": "Jangmo-o"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 55,
+        "defense": 65,
+        "sp_attack": 45,
+        "sp_defense": 45,
+        "speed": 45
+      },
+      "ability_ids": [
+        171,
+        43
+      ],
+      "hidden_ability_id": 142
+    }
+  ]
+}

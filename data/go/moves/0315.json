@@ -1,0 +1,13 @@
+{
+  "id": 315,
+  "identifier": "shadow-bone",
+  "name": {
+    "ja": "シャドーボーン",
+    "en": "Shadow Bone"
+  },
+  "type": "ghost",
+  "move_type": "charged",
+  "power": 85,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

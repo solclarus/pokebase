@@ -1,0 +1,13 @@
+{
+  "id": 26,
+  "identifier": "levitate",
+  "name": {
+    "ja": "ふゆう",
+    "en": "Levitate"
+  },
+  "description": {
+    "ja": "地面から　浮くことによってじめんタイプの　技を　受けない。",
+    "en": "By floating in the air, the Pokémon receives full immunity to all Ground-type moves."
+  },
+  "generation": 3
+}

@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 288,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤルキモノ",
+        "en": "Vigoroth"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 80,
+        "sp_attack": 55,
+        "sp_defense": 55,
+        "speed": 90
+      },
+      "ability_ids": [
+        72
+      ]
+    }
+  ]
+}

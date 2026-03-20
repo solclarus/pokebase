@@ -1,0 +1,18 @@
+{
+  "id": 110,
+  "identifier": "withdraw",
+  "name": {
+    "ja": "からにこもる",
+    "en": "Withdraw"
+  },
+  "type": "water",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "generation": 1,
+  "description": {
+    "ja": "殻に　潜りこんで　身を守り自分の　防御を　あげる。",
+    "en": "The user withdraws its body into its hard shell, boosting its Defense stat."
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "id": 25,
+  "identifier": "pikachu",
+  "name": {
+    "ja": "ピカチュウ",
+    "en": "Pikachu"
+  },
+  "generation": 1,
+  "category": "normal"
+}

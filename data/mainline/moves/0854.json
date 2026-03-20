@@ -1,0 +1,18 @@
+{
+  "id": 854,
+  "identifier": "last-respects",
+  "name": {
+    "ja": "おはかまいり",
+    "en": "Last Respects"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user attacks to avenge its allies. The more defeated allies there are in the user's party, the greater the move's power."
+  }
+}

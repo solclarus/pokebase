@@ -1,0 +1,18 @@
+{
+  "id": 490,
+  "identifier": "low-sweep",
+  "name": {
+    "ja": "ローキック",
+    "en": "Low Sweep"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "素早い　動きで　相手の　足をねらって　攻撃する。相手の　素早さを　さげる。",
+    "en": "The user makes a swift attack on the target's legs, which lowers the target's Speed stat."
+  }
+}

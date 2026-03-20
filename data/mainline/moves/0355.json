@@ -1,0 +1,18 @@
+{
+  "id": 355,
+  "identifier": "roost",
+  "name": {
+    "ja": "はねやすめ",
+    "en": "Roost"
+  },
+  "type": "flying",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "地面に　降りて　体を　やすめる。最大ＨＰの　半分のＨＰを　回復する。",
+    "en": "The user lands and rests its body. This move restores the user's HP by up to half its max HP."
+  }
+}

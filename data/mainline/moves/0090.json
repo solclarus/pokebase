@@ -1,0 +1,18 @@
+{
+  "id": 90,
+  "identifier": "fissure",
+  "name": {
+    "ja": "じわれ",
+    "en": "Fissure"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "地割れの　裂け目に相手を　落として　攻撃する。当たれば　一撃で　ひんしに　する。",
+    "en": "The user opens up a fissure in the ground and drops the target in. The target faints instantly if this attack hits."
+  }
+}

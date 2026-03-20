@@ -1,0 +1,18 @@
+{
+  "id": 425,
+  "identifier": "shadow-sneak",
+  "name": {
+    "ja": "かげうち",
+    "en": "Shadow Sneak"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 4,
+  "description": {
+    "ja": "影を　のばして相手の　背後から　攻撃する。必ず　先制攻撃　できる。",
+    "en": "The user extends its shadow and attacks the target from behind. This move always goes first."
+  }
+}

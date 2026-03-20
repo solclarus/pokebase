@@ -1,0 +1,18 @@
+{
+  "id": 430,
+  "identifier": "flash-cannon",
+  "name": {
+    "ja": "ラスターカノン",
+    "en": "Flash Cannon"
+  },
+  "type": "steel",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "体の　光を　一点に　集めて力を　放つ。相手の　特防を　さげることが　ある。",
+    "en": "The user gathers all its light energy and releases it at once. This may also lower the target's Sp. Def stat."
+  }
+}

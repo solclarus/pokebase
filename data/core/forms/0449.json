@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 449,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヒポポタス",
+        "en": "Hippopotas"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 72,
+        "defense": 78,
+        "sp_attack": 38,
+        "sp_defense": 42,
+        "speed": 32
+      },
+      "ability_ids": [
+        45
+      ],
+      "hidden_ability_id": 159
+    }
+  ]
+}

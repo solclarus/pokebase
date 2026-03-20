@@ -1,0 +1,18 @@
+{
+  "id": 230,
+  "identifier": "sweet-scent",
+  "name": {
+    "ja": "あまいかおり",
+    "en": "Sweet Scent"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 2,
+  "description": {
+    "ja": "香りで　相手の　回避率をがくっと　さげる。",
+    "en": "The user releases a scent that harshly lowers opposing Pokémon's evasiveness."
+  }
+}

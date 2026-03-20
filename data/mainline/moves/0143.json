@@ -1,0 +1,18 @@
+{
+  "id": 143,
+  "identifier": "sky-attack",
+  "name": {
+    "ja": "ゴッドバード",
+    "en": "Sky Attack"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "２ターン目に　相手を　攻撃する。たまに　ひるませる。急所にも　当たりやすい。",
+    "en": "The user attacks the turn after using this move. This move has a heightened chance of landing a critical hit and may also make the target flinch."
+  }
+}

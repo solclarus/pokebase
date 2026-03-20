@@ -1,0 +1,13 @@
+{
+  "id": 159,
+  "identifier": "sand-force",
+  "name": {
+    "ja": "すなのちから",
+    "en": "Sand Force"
+  },
+  "description": {
+    "ja": "天気が　すなあらしの　ときいわタイプと　じめんタイプとはがねタイプの　威力が　上がる。",
+    "en": "Boosts the power of Rock-, Ground-, and Steel-type moves in a sandstorm. "
+  },
+  "generation": 5
+}

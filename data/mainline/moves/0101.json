@@ -1,0 +1,18 @@
+{
+  "id": 101,
+  "identifier": "night-shade",
+  "name": {
+    "ja": "ナイトヘッド",
+    "en": "Night Shade"
+  },
+  "type": "ghost",
+  "category": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "恐ろしい　幻を　みせて自分の　レベルと　同じだけのダメージを　相手に　与える。",
+    "en": "The user makes the target see a frightening mirage. It inflicts damage equal to the user's level."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 944,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "シルシュルー",
+        "en": "Shroodle"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "poison",
+        "normal"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 65,
+        "defense": 35,
+        "sp_attack": 40,
+        "sp_defense": 35,
+        "speed": 75
+      },
+      "ability_ids": [
+        84,
+        124
+      ],
+      "hidden_ability_id": 158
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 220,
+  "identifier": "soul-heart",
+  "name": {
+    "ja": "ソウルハート",
+    "en": "Soul-Heart"
+  },
+  "description": {
+    "ja": "ポケモンが　ひんしに　なるたびに特攻が　上がる。",
+    "en": "Boosts the Pokémon's Sp. Atk stat every time another Pokémon faints."
+  },
+  "generation": 7
+}

@@ -1,0 +1,13 @@
+{
+  "id": 257,
+  "identifier": "pastel-veil",
+  "name": {
+    "ja": "パステルベール",
+    "en": "Pastel Veil"
+  },
+  "description": {
+    "ja": "自分も　味方もどくの　状態異常を受けなくなる。",
+    "en": "Protects the Pokémon and its ally Pokémon from being poisoned."
+  },
+  "generation": 8
+}

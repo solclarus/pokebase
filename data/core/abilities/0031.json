@@ -1,0 +1,13 @@
+{
+  "id": 31,
+  "identifier": "lightning-rod",
+  "name": {
+    "ja": "ひらいしん",
+    "en": "Lightning Rod"
+  },
+  "description": {
+    "ja": "でんきタイプの　技を　自分に寄せつけ　ダメージを　受けずに特攻が　上がる。",
+    "en": "The Pokémon draws in all Electric-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted."
+  },
+  "generation": 3
+}

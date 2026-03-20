@@ -1,0 +1,49 @@
+{
+  "pokemon_id": 710,
+  "costumes": [
+    {
+      "costume_id": "0710-small_halloween",
+      "identifier": "pumpkaboo-small-halloween",
+      "name": {
+        "ja": "バケッチャ（ハロウィン（小））",
+        "en": "Pumpkaboo (Small Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    },
+    {
+      "costume_id": "0710-halloween",
+      "identifier": "pumpkaboo-halloween",
+      "name": {
+        "ja": "バケッチャ（ハロウィン）",
+        "en": "Pumpkaboo (Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    },
+    {
+      "costume_id": "0710-large_halloween",
+      "identifier": "pumpkaboo-large-halloween",
+      "name": {
+        "ja": "バケッチャ（ハロウィン（大））",
+        "en": "Pumpkaboo (Large Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    },
+    {
+      "costume_id": "0710-super_halloween",
+      "identifier": "pumpkaboo-super-halloween",
+      "name": {
+        "ja": "バケッチャ（スーパーハロウィン）",
+        "en": "Pumpkaboo (Super Halloween)"
+      },
+      "event": "October 27, 2022",
+      "available_from": "2022-10-27",
+      "available_until": null
+    }
+  ]
+}

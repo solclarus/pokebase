@@ -1,0 +1,18 @@
+{
+  "id": 292,
+  "identifier": "arm-thrust",
+  "name": {
+    "ja": "つっぱり",
+    "en": "Arm Thrust"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "ひらいた　両手で相手を　つっぱって　攻撃する。２ー５回の　間　連続で　だす。",
+    "en": "The user attacks the target with open-palmed arm thrusts. This move hits two to five times in a row."
+  }
+}

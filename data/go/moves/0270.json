@@ -1,0 +1,13 @@
+{
+  "id": 270,
+  "identifier": "overheat",
+  "name": {
+    "ja": "オーバーヒート",
+    "en": "Overheat"
+  },
+  "type": "fire",
+  "move_type": "charged",
+  "power": 160,
+  "energy_delta": -100,
+  "duration_ms": 4000
+}

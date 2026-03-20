@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 888,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ザシアン",
+        "en": "Zacian"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 92,
+        "attack": 120,
+        "defense": 115,
+        "sp_attack": 80,
+        "sp_defense": 115,
+        "speed": 138
+      },
+      "ability_ids": [
+        234
+      ]
+    },
+    {
+      "id": "crowned",
+      "order": 1,
+      "name": {
+        "ja": "けんのおう",
+        "en": "Crowned Sword"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "stats": {
+        "hp": 92,
+        "attack": 150,
+        "defense": 115,
+        "sp_attack": 80,
+        "sp_defense": 115,
+        "speed": 148
+      },
+      "ability_ids": [
+        234
+      ]
+    }
+  ]
+}

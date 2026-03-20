@@ -1,0 +1,18 @@
+{
+  "id": 208,
+  "identifier": "milk-drink",
+  "name": {
+    "ja": "ミルクのみ",
+    "en": "Milk Drink"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "最大ＨＰの　半分自分の　ＨＰを　回復する。",
+    "en": "The user restores its own HP by up to half its max HP."
+  }
+}

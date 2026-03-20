@@ -1,0 +1,18 @@
+{
+  "id": 675,
+  "identifier": "throat-chop",
+  "name": {
+    "ja": "じごくづき",
+    "en": "Throat Chop"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 7,
+  "description": {
+    "ja": "この　技を　受けた　相手は地獄の　苦しみから　２ターンの間音の　技を　出すことが　できなくなる。",
+    "en": "The user attacks the target's throat, and the resultant suffering prevents the target from using sound-based moves for two turns."
+  }
+}

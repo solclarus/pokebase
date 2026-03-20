@@ -1,0 +1,82 @@
+{
+  "pokemon_id": 133,
+  "costumes": [
+    {
+      "costume_id": "0133-flower",
+      "identifier": "eevee-flower",
+      "name": {
+        "ja": "イーブイ（はなかんむり）",
+        "en": "Eevee (Flower)"
+      },
+      "event": "February 26, 2019",
+      "available_from": "2019-02-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0133-party_hat",
+      "identifier": "eevee-party-hat",
+      "name": {
+        "ja": "イーブイ（パーティーハット）",
+        "en": "Eevee (Party Hat)"
+      },
+      "event": "February 25, 2020",
+      "available_from": "2020-02-25",
+      "available_until": null
+    },
+    {
+      "costume_id": "0133-hat",
+      "identifier": "eevee-hat",
+      "name": {
+        "ja": "イーブイ（ぼうし）",
+        "en": "Eevee (Hat)"
+      },
+      "event": "December 23, 2022",
+      "available_from": "2022-12-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0133-spring2023",
+      "identifier": "eevee-spring2023",
+      "name": {
+        "ja": "イーブイ（スプリング（2023））",
+        "en": "Eevee (Spring2023)"
+      },
+      "event": "April 4, 2023",
+      "available_from": "2023-04-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0133-explorer",
+      "identifier": "eevee-explorer",
+      "name": {
+        "ja": "イーブイ（エクスプローラー）",
+        "en": "Eevee (Explorer)"
+      },
+      "event": "October 7, 2023",
+      "available_from": "2023-10-07",
+      "available_until": null
+    },
+    {
+      "costume_id": "0133-sun",
+      "identifier": "eevee-sun",
+      "name": {
+        "ja": "イーブイ（サン）",
+        "en": "Eevee (Sun)"
+      },
+      "event": "May 30, 2024",
+      "available_from": "2024-05-30",
+      "available_until": null
+    },
+    {
+      "costume_id": "0133-moon",
+      "identifier": "eevee-moon",
+      "name": {
+        "ja": "イーブイ（ムーン）",
+        "en": "Eevee (Moon)"
+      },
+      "event": "May 30, 2024",
+      "available_from": "2024-05-30",
+      "available_until": null
+    }
+  ]
+}

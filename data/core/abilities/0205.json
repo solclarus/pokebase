@@ -1,0 +1,13 @@
+{
+  "id": 205,
+  "identifier": "triage",
+  "name": {
+    "ja": "ヒーリングシフト",
+    "en": "Triage"
+  },
+  "description": {
+    "ja": "回復技を　先制で出すことが　できる。",
+    "en": "Gives priority to the Pokémon's healing moves."
+  },
+  "generation": 7
+}

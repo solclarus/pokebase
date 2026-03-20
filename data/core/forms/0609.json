@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 609,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "シャンデラ",
+        "en": "Chandelure"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 55,
+        "defense": 90,
+        "sp_attack": 145,
+        "sp_defense": 90,
+        "speed": 80
+      },
+      "ability_ids": [
+        18,
+        49
+      ],
+      "hidden_ability_id": 151
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガシャンデラ",
+        "en": "Mega Chandelure"
+      },
+      "form_type": "mega",
+      "region": "unova",
+      "types": [
+        "ghost",
+        "fire"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 110,
+        "sp_attack": 175,
+        "sp_defense": 110,
+        "speed": 90
+      },
+      "ability_ids": []
+    }
+  ]
+}

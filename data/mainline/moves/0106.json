@@ -1,0 +1,18 @@
+{
+  "id": 106,
+  "identifier": "harden",
+  "name": {
+    "ja": "かたくなる",
+    "en": "Harden"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "全身に　力を　こめて体を　硬くして自分の　防御を　あげる。",
+    "en": "The user stiffens all the muscles in its body to boost its Defense stat."
+  }
+}

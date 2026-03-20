@@ -1,0 +1,18 @@
+{
+  "id": 721,
+  "identifier": "plasma-fists",
+  "name": {
+    "ja": "プラズマフィスト",
+    "en": "Plasma Fists"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 7,
+  "description": {
+    "ja": "電気を　まとった　こぶしで攻撃。　ノーマルタイプの　技をでんきタイプに　してしまう。",
+    "en": "The user attacks with electrically charged fists. This move changes Normal-type moves to Electric-type moves."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 81,
+  "identifier": "snow-cloak",
+  "name": {
+    "ja": "ゆきがくれ",
+    "en": "Snow Cloak"
+  },
+  "description": {
+    "ja": "天気が　あられのとき回避率が　上がる。",
+    "en": "Boosts the Pokémon's evasiveness in snow."
+  },
+  "generation": 4
+}

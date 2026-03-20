@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 984,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イダイナキバ",
+        "en": "Great Tusk"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "ground",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 115,
+        "attack": 131,
+        "defense": 131,
+        "sp_attack": 53,
+        "sp_defense": 53,
+        "speed": 87
+      },
+      "ability_ids": [
+        281
+      ]
+    }
+  ]
+}

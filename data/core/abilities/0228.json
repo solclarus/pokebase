@@ -1,0 +1,13 @@
+{
+  "id": 228,
+  "identifier": "misty-surge",
+  "name": {
+    "ja": "ミストメイカー",
+    "en": "Misty Surge"
+  },
+  "description": {
+    "ja": "登場　したときにミストフィールドを　はりめぐらせる。",
+    "en": "Turns the ground into Misty Terrain when the Pokémon enters a battle."
+  },
+  "generation": 7
+}

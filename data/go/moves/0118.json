@@ -1,0 +1,13 @@
+{
+  "id": 118,
+  "identifier": "power-whip",
+  "name": {
+    "ja": "パワーウィップ",
+    "en": "Power Whip"
+  },
+  "type": "grass",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

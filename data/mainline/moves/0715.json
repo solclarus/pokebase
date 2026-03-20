@@ -1,0 +1,18 @@
+{
+  "id": 715,
+  "identifier": "tearful-look",
+  "name": {
+    "ja": "なみだめ",
+    "en": "Tearful Look"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 7,
+  "description": {
+    "ja": "なみだめに　なって相手の　戦力を　喪失させる。相手の　攻撃と　特攻が　さがる。",
+    "en": "The user gets teary-eyed to make the target lose its combative spirit. This lowers the target's Attack and Sp. Atk stats."
+  }
+}

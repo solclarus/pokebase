@@ -1,0 +1,13 @@
+{
+  "id": 132,
+  "identifier": "friend-guard",
+  "name": {
+    "ja": "フレンドガード",
+    "en": "Friend Guard"
+  },
+  "description": {
+    "ja": "味方の　ダメージを減らすことが　できる。",
+    "en": "Reduces damage dealt to allies."
+  },
+  "generation": 5
+}

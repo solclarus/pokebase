@@ -1,0 +1,83 @@
+{
+  "pokemon_id": 422,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カラナクシ",
+        "en": "Shellos"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 76,
+        "attack": 48,
+        "defense": 48,
+        "sp_attack": 57,
+        "sp_defense": 62,
+        "speed": 34
+      },
+      "ability_ids": [
+        60,
+        114
+      ],
+      "hidden_ability_id": 159
+    },
+    {
+      "id": "east",
+      "order": 1,
+      "name": {
+        "ja": "カラナクシ",
+        "en": "Shellos"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 76,
+        "attack": 48,
+        "defense": 48,
+        "sp_attack": 57,
+        "sp_defense": 62,
+        "speed": 34
+      },
+      "ability_ids": [
+        60,
+        114
+      ],
+      "hidden_ability_id": 159
+    },
+    {
+      "id": "west",
+      "order": 2,
+      "name": {
+        "ja": "カラナクシ",
+        "en": "Shellos"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 76,
+        "attack": 48,
+        "defense": 48,
+        "sp_attack": 57,
+        "sp_defense": 62,
+        "speed": 34
+      },
+      "ability_ids": [
+        60,
+        114
+      ],
+      "hidden_ability_id": 159
+    }
+  ]
+}

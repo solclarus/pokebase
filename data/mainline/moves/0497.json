@@ -1,0 +1,18 @@
+{
+  "id": 497,
+  "identifier": "echoed-voice",
+  "name": {
+    "ja": "エコーボイス",
+    "en": "Echoed Voice"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "響く　声で　相手を　攻撃する。毎ターン　だれかが　技を使い続けると　威力が　あがる。",
+    "en": "The user attacks the target with an echoing voice. If this move is used consecutively by any Pokémon, its power is boosted."
+  }
+}

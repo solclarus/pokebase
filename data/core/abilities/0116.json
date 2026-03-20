@@ -1,0 +1,13 @@
+{
+  "id": 116,
+  "identifier": "solid-rock",
+  "name": {
+    "ja": "ハードロック",
+    "en": "Solid Rock"
+  },
+  "description": {
+    "ja": "効果バツグンに　なってしまう攻撃の　威力を弱める　ことが　できる。",
+    "en": "Reduces the power of supereffective attacks that hit the Pokémon."
+  },
+  "generation": 4
+}

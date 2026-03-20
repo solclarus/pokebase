@@ -1,0 +1,13 @@
+{
+  "id": 295,
+  "identifier": "toxic-debris",
+  "name": {
+    "ja": "どくげしょう",
+    "en": "Toxic Debris"
+  },
+  "description": {
+    "ja": "物理技でダメージを受けると相手の足下にどくびしがちらばる。",
+    "en": "Scatters poison spikes at the feet of the opposing team when the Pokémon takes damage from physical moves."
+  },
+  "generation": 9
+}

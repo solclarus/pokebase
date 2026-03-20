@@ -1,0 +1,18 @@
+{
+  "id": 105,
+  "identifier": "recover",
+  "name": {
+    "ja": "じこさいせい",
+    "en": "Recover"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "細胞を　再生させて自分の　最大ＨＰの半分の　ＨＰを　回復する。",
+    "en": "The user regenerates its cells, restoring its own HP by up to half its max HP."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 30,
+  "identifier": "natural-cure",
+  "name": {
+    "ja": "しぜんかいふく",
+    "en": "Natural Cure"
+  },
+  "description": {
+    "ja": "手持ちに　ひっこむと状態異常が　治る。",
+    "en": "The Pokémon's status conditions are cured when it switches out."
+  },
+  "generation": 3
+}

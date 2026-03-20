@@ -1,0 +1,13 @@
+{
+  "id": 396,
+  "identifier": "sandsear-storm",
+  "name": {
+    "ja": "ねっさのあらし",
+    "en": "Sandsear Storm"
+  },
+  "type": "ground",
+  "move_type": "charged",
+  "power": 150,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

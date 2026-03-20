@@ -1,0 +1,13 @@
+{
+  "id": 199,
+  "identifier": "water-bubble",
+  "name": {
+    "ja": "すいほう",
+    "en": "Water Bubble"
+  },
+  "description": {
+    "ja": "自分に　対する　ほのおタイプの技の　威力を　下げる。やけど　しない。",
+    "en": "Lowers the power of Fire-type moves that hit the Pokémon and prevents it from being burned."
+  },
+  "generation": 7
+}

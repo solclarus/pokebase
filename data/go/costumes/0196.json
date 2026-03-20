@@ -1,0 +1,60 @@
+{
+  "pokemon_id": 196,
+  "costumes": [
+    {
+      "costume_id": "0196-flower",
+      "identifier": "espeon-flower",
+      "name": {
+        "ja": "エーフィ（はなかんむり）",
+        "en": "Espeon (Flower)"
+      },
+      "event": "February 26, 2019",
+      "available_from": "2019-02-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0196-hat",
+      "identifier": "espeon-hat",
+      "name": {
+        "ja": "エーフィ（ぼうし）",
+        "en": "Espeon (Hat)"
+      },
+      "event": "December 23, 2022",
+      "available_from": "2022-12-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0196-spring2023",
+      "identifier": "espeon-spring2023",
+      "name": {
+        "ja": "エーフィ（スプリング（2023））",
+        "en": "Espeon (Spring2023)"
+      },
+      "event": "April 4, 2023",
+      "available_from": "2023-04-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0196-explorer",
+      "identifier": "espeon-explorer",
+      "name": {
+        "ja": "エーフィ（エクスプローラー）",
+        "en": "Espeon (Explorer)"
+      },
+      "event": "October 7, 2023",
+      "available_from": "2023-10-07",
+      "available_until": null
+    },
+    {
+      "costume_id": "0196-day",
+      "identifier": "espeon-day",
+      "name": {
+        "ja": "エーフィ（デイ）",
+        "en": "Espeon (Day)"
+      },
+      "event": "May 30, 2024",
+      "available_from": "2024-05-30",
+      "available_until": null
+    }
+  ]
+}

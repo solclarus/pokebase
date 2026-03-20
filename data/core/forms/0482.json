@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 482,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アグノム",
+        "en": "Azelf"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 70,
+        "sp_attack": 125,
+        "sp_defense": 70,
+        "speed": 115
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

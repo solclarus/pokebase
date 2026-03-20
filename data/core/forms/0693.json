@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 693,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ブロスター",
+        "en": "Clawitzer"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 73,
+        "defense": 88,
+        "sp_attack": 120,
+        "sp_defense": 89,
+        "speed": 59
+      },
+      "ability_ids": [
+        178
+      ]
+    }
+  ]
+}

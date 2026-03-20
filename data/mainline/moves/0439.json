@@ -1,0 +1,18 @@
+{
+  "id": 439,
+  "identifier": "rock-wrecker",
+  "name": {
+    "ja": "がんせきほう",
+    "en": "Rock Wrecker"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "巨大な　岩を相手に　発射して　攻撃する。次の　ターンは　動けなくなる。",
+    "en": "The user launches a huge boulder at the target to attack. The user can't move on the next turn."
+  }
+}

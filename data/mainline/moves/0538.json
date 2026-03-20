@@ -1,0 +1,18 @@
+{
+  "id": 538,
+  "identifier": "cotton-guard",
+  "name": {
+    "ja": "コットンガード",
+    "en": "Cotton Guard"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "フワフワの　綿毛で　自分の体を　包みこんで　守る。防御を　ぐぐーんと　あげる。",
+    "en": "The user protects itself by wrapping its body in soft cotton, drastically boosting its Defense stat."
+  }
+}

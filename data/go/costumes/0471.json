@@ -1,0 +1,60 @@
+{
+  "pokemon_id": 471,
+  "costumes": [
+    {
+      "costume_id": "0471-flower",
+      "identifier": "glaceon-flower",
+      "name": {
+        "ja": "グレイシア（はなかんむり）",
+        "en": "Glaceon (Flower)"
+      },
+      "event": "May 17, 2019",
+      "available_from": "2019-05-17",
+      "available_until": null
+    },
+    {
+      "costume_id": "0471-holiday",
+      "identifier": "glaceon-holiday",
+      "name": {
+        "ja": "グレイシア（ホリデー）",
+        "en": "Glaceon (Holiday)"
+      },
+      "event": "December 16, 2021",
+      "available_from": "2021-12-16",
+      "available_until": null
+    },
+    {
+      "costume_id": "0471-hat",
+      "identifier": "glaceon-hat",
+      "name": {
+        "ja": "グレイシア（ぼうし）",
+        "en": "Glaceon (Hat)"
+      },
+      "event": "December 23, 2022",
+      "available_from": "2022-12-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0471-spring2023",
+      "identifier": "glaceon-spring2023",
+      "name": {
+        "ja": "グレイシア（スプリング（2023））",
+        "en": "Glaceon (Spring2023)"
+      },
+      "event": "April 4, 2023",
+      "available_from": "2023-04-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0471-explorer",
+      "identifier": "glaceon-explorer",
+      "name": {
+        "ja": "グレイシア（エクスプローラー）",
+        "en": "Glaceon (Explorer)"
+      },
+      "event": "October 7, 2023",
+      "available_from": "2023-10-07",
+      "available_until": null
+    }
+  ]
+}

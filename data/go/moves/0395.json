@@ -1,0 +1,13 @@
+{
+  "id": 395,
+  "identifier": "bleakwind-storm",
+  "name": {
+    "ja": "こがらしあらし",
+    "en": "Bleakwind Storm"
+  },
+  "type": "flying",
+  "move_type": "charged",
+  "power": 150,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

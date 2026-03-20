@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 196,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エーフィ",
+        "en": "Espeon"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 65,
+        "defense": 60,
+        "sp_attack": 130,
+        "sp_defense": 95,
+        "speed": 110
+      },
+      "ability_ids": [
+        28
+      ],
+      "hidden_ability_id": 156
+    }
+  ]
+}

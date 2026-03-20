@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 217,
+  "costumes": [
+    {
+      "costume_id": "0217-witch_hat",
+      "identifier": "ursaring-witch-hat",
+      "name": {
+        "ja": "リングマ（魔女のぼうし）",
+        "en": "Ursaring (Witch Hat)"
+      },
+      "event": "October 21, 2025",
+      "available_from": "2025-10-21",
+      "available_until": null
+    }
+  ]
+}

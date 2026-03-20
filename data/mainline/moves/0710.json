@@ -1,0 +1,18 @@
+{
+  "id": 710,
+  "identifier": "liquidation",
+  "name": {
+    "ja": "アクアブレイク",
+    "en": "Liquidation"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "水の　力で　相手にぶつかって　攻撃する。相手の　防御を　さげる　ことがある。",
+    "en": "The user slams into the target using a full-force blast of water. This may also lower the target's Defense stat."
+  }
+}

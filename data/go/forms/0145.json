@@ -1,0 +1,39 @@
+{
+  "pokemon_id": 145,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 253,
+      "base_defense": 185,
+      "base_stamina": 207,
+      "fast_move_ids": [
+        249
+      ],
+      "charged_move_ids": [
+        252,
+        79,
+        78,
+        62,
+        38
+      ],
+      "released_at": "2017-08-07",
+      "shiny_released_at": "2018-07-21",
+      "elite_fast_move_ids": [
+        205
+      ],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "galar",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2022-07-25",
+      "shiny_released_at": "2024-10-04",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

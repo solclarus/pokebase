@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 948,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ノノクラゲ",
+        "en": "Toedscool"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "ground",
+        "grass"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 40,
+        "defense": 35,
+        "sp_attack": 50,
+        "sp_defense": 100,
+        "speed": 70
+      },
+      "ability_ids": [
+        298
+      ]
+    }
+  ]
+}

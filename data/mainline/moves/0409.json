@@ -1,0 +1,18 @@
+{
+  "id": 409,
+  "identifier": "drain-punch",
+  "name": {
+    "ja": "ドレインパンチ",
+    "en": "Drain Punch"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "こぶしから　相手の　力を　吸い取る。与えた　ダメージの半分の　ＨＰを　回復できる。",
+    "en": "The user attacks with an energy-draining punch. The user's HP is restored by up to half the damage taken by the target."
+  }
+}

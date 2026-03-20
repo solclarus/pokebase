@@ -1,0 +1,18 @@
+{
+  "id": 744,
+  "identifier": "dynamax-cannon",
+  "name": {
+    "ja": "ダイマックスほう",
+    "en": "Dynamax Cannon"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "コアから　ビームを　放って　攻撃。相手が　ダイマックス　しているとダメージは　２倍に　なる。",
+    "en": "The user condenses energy within its body and unleashes that energy from its core to inflict damage."
+  }
+}

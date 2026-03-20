@@ -1,0 +1,13 @@
+{
+  "id": 256,
+  "identifier": "brave-bird",
+  "name": {
+    "ja": "ブレイブバード",
+    "en": "Brave Bird"
+  },
+  "type": "flying",
+  "move_type": "charged",
+  "power": 130,
+  "energy_delta": -100,
+  "duration_ms": 2000
+}

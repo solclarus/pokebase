@@ -1,0 +1,18 @@
+{
+  "id": 500,
+  "identifier": "stored-power",
+  "name": {
+    "ja": "アシストパワー",
+    "en": "Stored Power"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "蓄積された　パワーで　相手を攻撃する。自分の　能力があがっているほど　威力が　あがる。",
+    "en": "The user attacks the target with stored power. The more the user's stats are boosted, the greater the move's power."
+  }
+}

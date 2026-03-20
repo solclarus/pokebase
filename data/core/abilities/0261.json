@@ -1,0 +1,13 @@
+{
+  "id": 261,
+  "identifier": "curious-medicine",
+  "name": {
+    "ja": "きみょうなくすり",
+    "en": "Curious Medicine"
+  },
+  "description": {
+    "ja": "登場　したときに貝がらから　薬を　振りまいて味方の　能力変化を　元に戻す。",
+    "en": "When the Pokémon enters a battle, it scatters medicine from its shell, which removes all stat changes from allies."
+  },
+  "generation": 8
+}

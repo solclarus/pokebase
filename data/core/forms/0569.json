@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 569,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ダストダス",
+        "en": "Garbodor"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 95,
+        "defense": 82,
+        "sp_attack": 60,
+        "sp_defense": 82,
+        "speed": 75
+      },
+      "ability_ids": [
+        1,
+        133
+      ],
+      "hidden_ability_id": 106
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスダストダス",
+        "en": "Gigantamax Garbodor"
+      },
+      "form_type": "gigantamax",
+      "region": "unova",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 95,
+        "defense": 82,
+        "sp_attack": 60,
+        "sp_defense": 82,
+        "speed": 75
+      },
+      "ability_ids": [
+        1,
+        133
+      ],
+      "hidden_ability_id": 106
+    }
+  ]
+}

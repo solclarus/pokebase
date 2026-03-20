@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 323,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バクーダ",
+        "en": "Camerupt"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "sp_attack": 105,
+        "sp_defense": 75,
+        "speed": 40
+      },
+      "ability_ids": [
+        40,
+        116
+      ],
+      "hidden_ability_id": 83
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガバクーダ",
+        "en": "Mega Camerupt"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "fire",
+        "ground"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 100,
+        "sp_attack": 145,
+        "sp_defense": 105,
+        "speed": 20
+      },
+      "ability_ids": [
+        125
+      ]
+    }
+  ]
+}

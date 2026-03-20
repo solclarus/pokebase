@@ -1,0 +1,18 @@
+{
+  "id": 442,
+  "identifier": "iron-head",
+  "name": {
+    "ja": "アイアンヘッド",
+    "en": "Iron Head"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "鋼の　ような硬い　頭で　攻撃する。相手を　ひるませることが　ある。",
+    "en": "The user slams the target with its steel-hard head. This may also make the target flinch."
+  }
+}

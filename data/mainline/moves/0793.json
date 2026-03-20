@@ -1,0 +1,18 @@
+{
+  "id": 793,
+  "identifier": "false-surrender",
+  "name": {
+    "ja": "どげざつき",
+    "en": "False Surrender"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 80,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "頭を　下げる　ふりを　しながら振りみだした　髪の毛を　突き刺す。攻撃は　必ず　命中する。",
+    "en": "The user pretends to bow its head, but then it stabs the target with its disheveled hair. This attack never misses."
+  }
+}

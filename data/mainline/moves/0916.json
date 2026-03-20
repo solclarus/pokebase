@@ -1,0 +1,18 @@
+{
+  "id": 916,
+  "identifier": "supercell-slam",
+  "name": {
+    "ja": "サンダーダイブ",
+    "en": "Supercell Slam"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user electrifies its body and drops onto the target to inflict damage. If this move misses, the user takes damage instead."
+  }
+}

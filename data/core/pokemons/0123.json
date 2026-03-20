@@ -1,0 +1,10 @@
+{
+  "id": 123,
+  "identifier": "scyther",
+  "name": {
+    "ja": "ストライク",
+    "en": "Scyther"
+  },
+  "generation": 1,
+  "category": "normal"
+}

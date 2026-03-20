@@ -1,0 +1,18 @@
+{
+  "id": 73,
+  "identifier": "leech-seed",
+  "name": {
+    "ja": "やどりぎのタネ",
+    "en": "Leech Seed"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "植えつけた　相手の　ＨＰを毎ターン　少しだけ　吸い取り自分の　ＨＰを　回復する。",
+    "en": "A seed is planted on the target. It steals some HP from the target every turn."
+  }
+}

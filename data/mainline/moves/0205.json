@@ -1,0 +1,18 @@
+{
+  "id": 205,
+  "identifier": "rollout",
+  "name": {
+    "ja": "ころがる",
+    "en": "Rollout"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 90,
+  "pp": 20,
+  "generation": 2,
+  "description": {
+    "ja": "５ターンの　間　転がり続けて攻撃する。　技が　当たるたびに威力が　あがる。",
+    "en": "The user continually rolls into the target over five turns. This attack becomes more powerful each time it hits."
+  }
+}

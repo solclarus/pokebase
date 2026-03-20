@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 724,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ジュナイパー",
+        "en": "Decidueye"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 107,
+        "defense": 75,
+        "sp_attack": 100,
+        "sp_defense": 100,
+        "speed": 70
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 203
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ヒスイのすがた",
+        "en": "Hisuian Form"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 112,
+        "defense": 80,
+        "sp_attack": 95,
+        "sp_defense": 95,
+        "speed": 60
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 113
+    }
+  ]
+}

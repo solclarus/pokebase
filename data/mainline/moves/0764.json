@@ -1,0 +1,18 @@
+{
+  "id": 764,
+  "identifier": "max-ooze",
+  "name": {
+    "ja": "ダイアシッド",
+    "en": "Max Ooze"
+  },
+  "type": "poison",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　どくタイプの　攻撃。味方の　特攻を　上げる。",
+    "en": "This is a Poison-type attack Dynamax Pokémon use. This raises ally Pokémon’s Sp. Atk stats."
+  }
+}

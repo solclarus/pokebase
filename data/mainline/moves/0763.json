@@ -1,0 +1,18 @@
+{
+  "id": 763,
+  "identifier": "max-hailstorm",
+  "name": {
+    "ja": "ダイアイス",
+    "en": "Max Hailstorm"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　こおりタイプの　攻撃。５ターンの　間　あられを　降らす。",
+    "en": "This is an Ice-type attack Dynamax Pokémon use. The user summons a hailstorm lasting five turns."
+  }
+}

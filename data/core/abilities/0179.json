@@ -1,0 +1,13 @@
+{
+  "id": 179,
+  "identifier": "grass-pelt",
+  "name": {
+    "ja": "くさのけがわ",
+    "en": "Grass Pelt"
+  },
+  "description": {
+    "ja": "グラスフィールドのとき防御が　上がる。",
+    "en": "Boosts the Pokémon's Defense stat on Grassy Terrain."
+  },
+  "generation": 6
+}

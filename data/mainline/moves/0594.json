@@ -1,0 +1,18 @@
+{
+  "id": 594,
+  "identifier": "water-shuriken",
+  "name": {
+    "ja": "みずしゅりけん",
+    "en": "Water Shuriken"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "粘液で　できた　手裏剣を２ー５回の　間　連続で　だす。必ず　先制攻撃　できる。",
+    "en": "The user hits the target with throwing stars two to five times in a row. This move always goes first."
+  }
+}

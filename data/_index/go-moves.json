@@ -1,0 +1,4126 @@
+{
+  "moves": [
+    {
+      "id": 13,
+      "identifier": "wrap",
+      "name": {
+        "ja": "まきつく",
+        "en": "Wrap"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 14,
+      "identifier": "hyper-beam",
+      "name": {
+        "ja": "はかいこうせん",
+        "en": "Hyper Beam"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 150,
+      "energy_delta": -100,
+      "duration_ms": 4000
+    },
+    {
+      "id": 16,
+      "identifier": "dark-pulse",
+      "name": {
+        "ja": "あくのはどう",
+        "en": "Dark Pulse"
+      },
+      "type": "dark",
+      "move_type": "charged",
+      "power": 80,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 18,
+      "identifier": "sludge",
+      "name": {
+        "ja": "ヘドロこうげき",
+        "en": "Sludge"
+      },
+      "type": "poison",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 20,
+      "identifier": "vice-grip",
+      "name": {
+        "ja": "はさむ",
+        "en": "Vice Grip"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 35,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 21,
+      "identifier": "flame-wheel",
+      "name": {
+        "ja": "かえんぐるま",
+        "en": "Flame Wheel"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 22,
+      "identifier": "megahorn",
+      "name": {
+        "ja": "メガホーン",
+        "en": "Megahorn"
+      },
+      "type": "bug",
+      "move_type": "charged",
+      "power": 105,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 24,
+      "identifier": "flamethrower",
+      "name": {
+        "ja": "かえんほうしゃ",
+        "en": "Flamethrower"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 26,
+      "identifier": "dig",
+      "name": {
+        "ja": "あなをほる",
+        "en": "Dig"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -50,
+      "duration_ms": 4500
+    },
+    {
+      "id": 28,
+      "identifier": "cross-chop",
+      "name": {
+        "ja": "クロスチョップ",
+        "en": "Cross Chop"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -50,
+      "duration_ms": 1500
+    },
+    {
+      "id": 30,
+      "identifier": "psybeam",
+      "name": {
+        "ja": "サイケこうせん",
+        "en": "Psybeam"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 31,
+      "identifier": "earthquake",
+      "name": {
+        "ja": "じしん",
+        "en": "Earthquake"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 32,
+      "identifier": "stone-edge",
+      "name": {
+        "ja": "ストーンエッジ",
+        "en": "Stone Edge"
+      },
+      "type": "rock",
+      "move_type": "charged",
+      "power": 105,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 33,
+      "identifier": "ice-punch",
+      "name": {
+        "ja": "れいとうパンチ",
+        "en": "Ice Punch"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 34,
+      "identifier": "heart-stamp",
+      "name": {
+        "ja": "ハートスタンプ",
+        "en": "Heart Stamp"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 40,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 35,
+      "identifier": "discharge",
+      "name": {
+        "ja": "ほうでん",
+        "en": "Discharge"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 36,
+      "identifier": "flash-cannon",
+      "name": {
+        "ja": "ラスターカノン",
+        "en": "Flash Cannon"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 38,
+      "identifier": "drill-peck",
+      "name": {
+        "ja": "ドリルくちばし",
+        "en": "Drill Peck"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 39,
+      "identifier": "ice-beam",
+      "name": {
+        "ja": "れいとうビーム",
+        "en": "Ice Beam"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 95,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 40,
+      "identifier": "blizzard",
+      "name": {
+        "ja": "ふぶき",
+        "en": "Blizzard"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 130,
+      "energy_delta": -100,
+      "duration_ms": 3000
+    },
+    {
+      "id": 42,
+      "identifier": "heat-wave",
+      "name": {
+        "ja": "ねっぷう",
+        "en": "Heat Wave"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 95,
+      "energy_delta": -100,
+      "duration_ms": 3000
+    },
+    {
+      "id": 45,
+      "identifier": "aerial-ace",
+      "name": {
+        "ja": "つばめがえし",
+        "en": "Aerial Ace"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 46,
+      "identifier": "drill-run",
+      "name": {
+        "ja": "ドリルライナー",
+        "en": "Drill Run"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 47,
+      "identifier": "petal-blizzard",
+      "name": {
+        "ja": "はなふぶき",
+        "en": "Petal Blizzard"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 110,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 48,
+      "identifier": "mega-drain",
+      "name": {
+        "ja": "メガドレイン",
+        "en": "Mega Drain"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 25,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 49,
+      "identifier": "bug-buzz",
+      "name": {
+        "ja": "むしのさざめき",
+        "en": "Bug Buzz"
+      },
+      "type": "bug",
+      "move_type": "charged",
+      "power": 95,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 50,
+      "identifier": "poison-fang",
+      "name": {
+        "ja": "どくどくのキバ",
+        "en": "Poison Fang"
+      },
+      "type": "poison",
+      "move_type": "charged",
+      "power": 30,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 51,
+      "identifier": "night-slash",
+      "name": {
+        "ja": "つじぎり",
+        "en": "Night Slash"
+      },
+      "type": "dark",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 53,
+      "identifier": "bubble-beam",
+      "name": {
+        "ja": "バブルこうせん",
+        "en": "Bubble Beam"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 54,
+      "identifier": "submission",
+      "name": {
+        "ja": "じごくぐるま",
+        "en": "Submission"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 56,
+      "identifier": "low-sweep",
+      "name": {
+        "ja": "ローキック",
+        "en": "Low Sweep"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 40,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 57,
+      "identifier": "aqua-jet",
+      "name": {
+        "ja": "アクアジェット",
+        "en": "Aqua Jet"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 58,
+      "identifier": "aqua-tail",
+      "name": {
+        "ja": "アクアテール",
+        "en": "Aqua Tail"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 59,
+      "identifier": "seed-bomb",
+      "name": {
+        "ja": "タネばくだん",
+        "en": "Seed Bomb"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 60,
+      "identifier": "psyshock",
+      "name": {
+        "ja": "サイコショック",
+        "en": "Psyshock"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 62,
+      "identifier": "ancient-power",
+      "name": {
+        "ja": "げんしのちから",
+        "en": "Ancient Power"
+      },
+      "type": "rock",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -33,
+      "duration_ms": 3500
+    },
+    {
+      "id": 63,
+      "identifier": "rock-tomb",
+      "name": {
+        "ja": "がんせきふうじ",
+        "en": "Rock Tomb"
+      },
+      "type": "rock",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 64,
+      "identifier": "rock-slide",
+      "name": {
+        "ja": "いわなだれ",
+        "en": "Rock Slide"
+      },
+      "type": "rock",
+      "move_type": "charged",
+      "power": 75,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 65,
+      "identifier": "power-gem",
+      "name": {
+        "ja": "パワージェム",
+        "en": "Power Gem"
+      },
+      "type": "rock",
+      "move_type": "charged",
+      "power": 80,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 66,
+      "identifier": "shadow-sneak",
+      "name": {
+        "ja": "かげうち",
+        "en": "Shadow Sneak"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 67,
+      "identifier": "shadow-punch",
+      "name": {
+        "ja": "シャドーパンチ",
+        "en": "Shadow Punch"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 35,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 69,
+      "identifier": "ominous-wind",
+      "name": {
+        "ja": "あやしいかぜ",
+        "en": "Ominous Wind"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 70,
+      "identifier": "shadow-ball",
+      "name": {
+        "ja": "シャドーボール",
+        "en": "Shadow Ball"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 72,
+      "identifier": "magnet-bomb",
+      "name": {
+        "ja": "マグネットボム",
+        "en": "Magnet Bomb"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 75,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 74,
+      "identifier": "iron-head",
+      "name": {
+        "ja": "アイアンヘッド",
+        "en": "Iron Head"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 75,
+      "identifier": "parabolic-charge",
+      "name": {
+        "ja": "パラボラチャージ",
+        "en": "Parabolic Charge"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 77,
+      "identifier": "thunder-punch",
+      "name": {
+        "ja": "かみなりパンチ",
+        "en": "Thunder Punch"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 78,
+      "identifier": "thunder",
+      "name": {
+        "ja": "かみなり",
+        "en": "Thunder"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 79,
+      "identifier": "thunderbolt",
+      "name": {
+        "ja": "１０まんボルト",
+        "en": "Thunderbolt"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 80,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 80,
+      "identifier": "twister",
+      "name": {
+        "ja": "たつまき",
+        "en": "Twister"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 82,
+      "identifier": "dragon-pulse",
+      "name": {
+        "ja": "りゅうのはどう",
+        "en": "Dragon Pulse"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 83,
+      "identifier": "dragon-claw",
+      "name": {
+        "ja": "ドラゴンクロー",
+        "en": "Dragon Claw"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 84,
+      "identifier": "disarming-voice",
+      "name": {
+        "ja": "チャームボイス",
+        "en": "Disarming Voice"
+      },
+      "type": "fairy",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -33,
+      "duration_ms": 4000
+    },
+    {
+      "id": 85,
+      "identifier": "draining-kiss",
+      "name": {
+        "ja": "ドレインキッス",
+        "en": "Draining Kiss"
+      },
+      "type": "fairy",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 86,
+      "identifier": "dazzling-gleam",
+      "name": {
+        "ja": "マジカルシャイン",
+        "en": "Dazzling Gleam"
+      },
+      "type": "fairy",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 87,
+      "identifier": "moonblast",
+      "name": {
+        "ja": "ムーンフォース",
+        "en": "Moonblast"
+      },
+      "type": "fairy",
+      "move_type": "charged",
+      "power": 130,
+      "energy_delta": -100,
+      "duration_ms": 4000
+    },
+    {
+      "id": 88,
+      "identifier": "play-rough",
+      "name": {
+        "ja": "じゃれつく",
+        "en": "Play Rough"
+      },
+      "type": "fairy",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 89,
+      "identifier": "cross-poison",
+      "name": {
+        "ja": "クロスポイズン",
+        "en": "Cross Poison"
+      },
+      "type": "poison",
+      "move_type": "charged",
+      "power": 40,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 90,
+      "identifier": "sludge-bomb",
+      "name": {
+        "ja": "ヘドロばくだん",
+        "en": "Sludge Bomb"
+      },
+      "type": "poison",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 91,
+      "identifier": "sludge-wave",
+      "name": {
+        "ja": "ヘドロウェーブ",
+        "en": "Sludge Wave"
+      },
+      "type": "poison",
+      "move_type": "charged",
+      "power": 105,
+      "energy_delta": -100,
+      "duration_ms": 3000
+    },
+    {
+      "id": 92,
+      "identifier": "gunk-shot",
+      "name": {
+        "ja": "ダストシュート",
+        "en": "Gunk Shot"
+      },
+      "type": "poison",
+      "move_type": "charged",
+      "power": 130,
+      "energy_delta": -100,
+      "duration_ms": 3000
+    },
+    {
+      "id": 94,
+      "identifier": "bone-club",
+      "name": {
+        "ja": "ホネこんぼう",
+        "en": "Bone Club"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 40,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 95,
+      "identifier": "bulldoze",
+      "name": {
+        "ja": "じならし",
+        "en": "Bulldoze"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 80,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 96,
+      "identifier": "mud-bomb",
+      "name": {
+        "ja": "どろばくだん",
+        "en": "Mud Bomb"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 99,
+      "identifier": "signal-beam",
+      "name": {
+        "ja": "シグナルビーム",
+        "en": "Signal Beam"
+      },
+      "type": "bug",
+      "move_type": "charged",
+      "power": 75,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 100,
+      "identifier": "x-scissor",
+      "name": {
+        "ja": "シザークロス",
+        "en": "X Scissor"
+      },
+      "type": "bug",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 101,
+      "identifier": "flame-charge",
+      "name": {
+        "ja": "ニトロチャージ",
+        "en": "Flame Charge"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -33,
+      "duration_ms": 4000
+    },
+    {
+      "id": 102,
+      "identifier": "flame-burst",
+      "name": {
+        "ja": "はじけるほのお",
+        "en": "Flame Burst"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 103,
+      "identifier": "fire-blast",
+      "name": {
+        "ja": "だいもんじ",
+        "en": "Fire Blast"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -100,
+      "duration_ms": 4000
+    },
+    {
+      "id": 104,
+      "identifier": "brine",
+      "name": {
+        "ja": "しおみず",
+        "en": "Brine"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 105,
+      "identifier": "water-pulse",
+      "name": {
+        "ja": "みずのはどう",
+        "en": "Water Pulse"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 106,
+      "identifier": "scald",
+      "name": {
+        "ja": "ねっとう",
+        "en": "Scald"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 75,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 107,
+      "identifier": "hydro-pump",
+      "name": {
+        "ja": "ハイドロポンプ",
+        "en": "Hydro Pump"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 135,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 108,
+      "identifier": "psychic",
+      "name": {
+        "ja": "サイコキネシス",
+        "en": "Psychic"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 95,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 109,
+      "identifier": "psystrike",
+      "name": {
+        "ja": "サイコブレイク",
+        "en": "Psystrike"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 95,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 111,
+      "identifier": "icy-wind",
+      "name": {
+        "ja": "こごえるかぜ",
+        "en": "Icy Wind"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -33,
+      "duration_ms": 3500
+    },
+    {
+      "id": 114,
+      "identifier": "giga-drain",
+      "name": {
+        "ja": "ギガドレイン",
+        "en": "Giga Drain"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -100,
+      "duration_ms": 4000
+    },
+    {
+      "id": 115,
+      "identifier": "fire-punch",
+      "name": {
+        "ja": "ほのおのパンチ",
+        "en": "Fire Punch"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 116,
+      "identifier": "solar-beam",
+      "name": {
+        "ja": "ソーラービーム",
+        "en": "Solar Beam"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 180,
+      "energy_delta": -100,
+      "duration_ms": 5000
+    },
+    {
+      "id": 117,
+      "identifier": "leaf-blade",
+      "name": {
+        "ja": "リーフブレード",
+        "en": "Leaf Blade"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 118,
+      "identifier": "power-whip",
+      "name": {
+        "ja": "パワーウィップ",
+        "en": "Power Whip"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 121,
+      "identifier": "air-cutter",
+      "name": {
+        "ja": "エアカッター",
+        "en": "Air Cutter"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 122,
+      "identifier": "hurricane",
+      "name": {
+        "ja": "ぼうふう",
+        "en": "Hurricane"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 105,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 123,
+      "identifier": "brick-break",
+      "name": {
+        "ja": "かわらわり",
+        "en": "Brick Break"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 40,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 125,
+      "identifier": "swift",
+      "name": {
+        "ja": "スピードスター",
+        "en": "Swift"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 126,
+      "identifier": "horn-attack",
+      "name": {
+        "ja": "つのでつく",
+        "en": "Horn Attack"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 127,
+      "identifier": "stomp",
+      "name": {
+        "ja": "ふみつけ",
+        "en": "Stomp"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -50,
+      "duration_ms": 1500
+    },
+    {
+      "id": 129,
+      "identifier": "hyper-fang",
+      "name": {
+        "ja": "ひっさつまえば",
+        "en": "Hyper Fang"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 80,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 131,
+      "identifier": "body-slam",
+      "name": {
+        "ja": "のしかかり",
+        "en": "Body Slam"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 132,
+      "identifier": "rest",
+      "name": {
+        "ja": "ねむる",
+        "en": "Rest"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 133,
+      "identifier": "struggle",
+      "name": {
+        "ja": "わるあがき",
+        "en": "Struggle"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 35,
+      "energy_delta": 0,
+      "duration_ms": 2000
+    },
+    {
+      "id": 134,
+      "identifier": "scald-blastoise",
+      "name": {
+        "ja": "ねっとう",
+        "en": "Scald Blastoise"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -100,
+      "duration_ms": 4500
+    },
+    {
+      "id": 135,
+      "identifier": "hydro-pump-blastoise",
+      "name": {
+        "ja": "ハイドロポンプ",
+        "en": "Hydro Pump Blastoise"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -100,
+      "duration_ms": 4500
+    },
+    {
+      "id": 136,
+      "identifier": "wrap-green",
+      "name": {
+        "ja": "まきつく",
+        "en": "Wrap Green"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 25,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 137,
+      "identifier": "wrap-pink",
+      "name": {
+        "ja": "まきつく",
+        "en": "Wrap Pink"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 25,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 200,
+      "identifier": "fury-cutter",
+      "name": {
+        "ja": "れんぞくぎり",
+        "en": "Fury Cutter"
+      },
+      "type": "bug",
+      "move_type": "fast",
+      "power": 4,
+      "energy_delta": 8,
+      "duration_ms": 500
+    },
+    {
+      "id": 201,
+      "identifier": "bug-bite",
+      "name": {
+        "ja": "むしくい",
+        "en": "Bug Bite"
+      },
+      "type": "bug",
+      "move_type": "fast",
+      "power": 5,
+      "energy_delta": 6,
+      "duration_ms": 500
+    },
+    {
+      "id": 202,
+      "identifier": "bite",
+      "name": {
+        "ja": "かみつく",
+        "en": "Bite"
+      },
+      "type": "dark",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 4,
+      "duration_ms": 500
+    },
+    {
+      "id": 203,
+      "identifier": "sucker-punch",
+      "name": {
+        "ja": "ふいうち",
+        "en": "Sucker Punch"
+      },
+      "type": "dark",
+      "move_type": "fast",
+      "power": 5,
+      "energy_delta": 6,
+      "duration_ms": 500
+    },
+    {
+      "id": 204,
+      "identifier": "dragon-breath",
+      "name": {
+        "ja": "りゅうのいぶき",
+        "en": "Dragon Breath"
+      },
+      "type": "dragon",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 4,
+      "duration_ms": 500
+    },
+    {
+      "id": 205,
+      "identifier": "thunder-shock",
+      "name": {
+        "ja": "でんきショック",
+        "en": "Thunder Shock"
+      },
+      "type": "electric",
+      "move_type": "fast",
+      "power": 4,
+      "energy_delta": 7,
+      "duration_ms": 500
+    },
+    {
+      "id": 206,
+      "identifier": "spark",
+      "name": {
+        "ja": "スパーク",
+        "en": "Spark"
+      },
+      "type": "electric",
+      "move_type": "fast",
+      "power": 4,
+      "energy_delta": 6,
+      "duration_ms": 500
+    },
+    {
+      "id": 207,
+      "identifier": "low-kick",
+      "name": {
+        "ja": "けたぐり",
+        "en": "Low Kick"
+      },
+      "type": "fighting",
+      "move_type": "fast",
+      "power": 5,
+      "energy_delta": 5,
+      "duration_ms": 500
+    },
+    {
+      "id": 208,
+      "identifier": "karate-chop",
+      "name": {
+        "ja": "からてチョップ",
+        "en": "Karate Chop"
+      },
+      "type": "fighting",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 209,
+      "identifier": "ember",
+      "name": {
+        "ja": "ひのこ",
+        "en": "Ember"
+      },
+      "type": "fire",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 10,
+      "duration_ms": 1000
+    },
+    {
+      "id": 210,
+      "identifier": "wing-attack",
+      "name": {
+        "ja": "つばさでうつ",
+        "en": "Wing Attack"
+      },
+      "type": "flying",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 11,
+      "duration_ms": 1000
+    },
+    {
+      "id": 211,
+      "identifier": "peck",
+      "name": {
+        "ja": "つつく",
+        "en": "Peck"
+      },
+      "type": "flying",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 10,
+      "duration_ms": 1000
+    },
+    {
+      "id": 212,
+      "identifier": "lick",
+      "name": {
+        "ja": "したでなめる",
+        "en": "Lick"
+      },
+      "type": "ghost",
+      "move_type": "fast",
+      "power": 5,
+      "energy_delta": 6,
+      "duration_ms": 500
+    },
+    {
+      "id": 213,
+      "identifier": "shadow-claw",
+      "name": {
+        "ja": "シャドークロー",
+        "en": "Shadow Claw"
+      },
+      "type": "ghost",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 4,
+      "duration_ms": 500
+    },
+    {
+      "id": 214,
+      "identifier": "vine-whip",
+      "name": {
+        "ja": "つるのムチ",
+        "en": "Vine Whip"
+      },
+      "type": "grass",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 5,
+      "duration_ms": 500
+    },
+    {
+      "id": 215,
+      "identifier": "razor-leaf",
+      "name": {
+        "ja": "はっぱカッター",
+        "en": "Razor Leaf"
+      },
+      "type": "grass",
+      "move_type": "fast",
+      "power": 13,
+      "energy_delta": 7,
+      "duration_ms": 1000
+    },
+    {
+      "id": 216,
+      "identifier": "mud-shot",
+      "name": {
+        "ja": "マッドショット",
+        "en": "Mud Shot"
+      },
+      "type": "ground",
+      "move_type": "fast",
+      "power": 4,
+      "energy_delta": 6,
+      "duration_ms": 500
+    },
+    {
+      "id": 217,
+      "identifier": "ice-shard",
+      "name": {
+        "ja": "こおりのつぶて",
+        "en": "Ice Shard"
+      },
+      "type": "ice",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 10,
+      "duration_ms": 1000
+    },
+    {
+      "id": 218,
+      "identifier": "frost-breath",
+      "name": {
+        "ja": "こおりのいぶき",
+        "en": "Frost Breath"
+      },
+      "type": "ice",
+      "move_type": "fast",
+      "power": 11,
+      "energy_delta": 9,
+      "duration_ms": 1000
+    },
+    {
+      "id": 219,
+      "identifier": "quick-attack",
+      "name": {
+        "ja": "でんこうせっか",
+        "en": "Quick Attack"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 220,
+      "identifier": "scratch",
+      "name": {
+        "ja": "ひっかく",
+        "en": "Scratch"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 4,
+      "duration_ms": 500
+    },
+    {
+      "id": 221,
+      "identifier": "tackle",
+      "name": {
+        "ja": "たいあたり",
+        "en": "Tackle"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 5,
+      "energy_delta": 5,
+      "duration_ms": 500
+    },
+    {
+      "id": 222,
+      "identifier": "pound",
+      "name": {
+        "ja": "はたく",
+        "en": "Pound"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 5,
+      "duration_ms": 500
+    },
+    {
+      "id": 223,
+      "identifier": "cut",
+      "name": {
+        "ja": "いあいぎり",
+        "en": "Cut"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 5,
+      "energy_delta": 5,
+      "duration_ms": 500
+    },
+    {
+      "id": 224,
+      "identifier": "poison-jab",
+      "name": {
+        "ja": "どくづき",
+        "en": "Poison Jab"
+      },
+      "type": "poison",
+      "move_type": "fast",
+      "power": 13,
+      "energy_delta": 9,
+      "duration_ms": 1000
+    },
+    {
+      "id": 225,
+      "identifier": "acid",
+      "name": {
+        "ja": "ようかいえき",
+        "en": "Acid"
+      },
+      "type": "poison",
+      "move_type": "fast",
+      "power": 11,
+      "energy_delta": 10,
+      "duration_ms": 1000
+    },
+    {
+      "id": 226,
+      "identifier": "psycho-cut",
+      "name": {
+        "ja": "サイコカッター",
+        "en": "Psycho Cut"
+      },
+      "type": "psychic",
+      "move_type": "fast",
+      "power": 4,
+      "energy_delta": 7,
+      "duration_ms": 500
+    },
+    {
+      "id": 227,
+      "identifier": "rock-throw",
+      "name": {
+        "ja": "いわおとし",
+        "en": "Rock Throw"
+      },
+      "type": "rock",
+      "move_type": "fast",
+      "power": 13,
+      "energy_delta": 8,
+      "duration_ms": 1000
+    },
+    {
+      "id": 228,
+      "identifier": "metal-claw",
+      "name": {
+        "ja": "メタルクロー",
+        "en": "Metal Claw"
+      },
+      "type": "steel",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 5,
+      "duration_ms": 500
+    },
+    {
+      "id": 229,
+      "identifier": "bullet-punch",
+      "name": {
+        "ja": "バレットパンチ",
+        "en": "Bullet Punch"
+      },
+      "type": "steel",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 11,
+      "duration_ms": 1000
+    },
+    {
+      "id": 230,
+      "identifier": "water-gun",
+      "name": {
+        "ja": "みずでっぽう",
+        "en": "Water Gun"
+      },
+      "type": "water",
+      "move_type": "fast",
+      "power": 5,
+      "energy_delta": 5,
+      "duration_ms": 500
+    },
+    {
+      "id": 231,
+      "identifier": "splash",
+      "name": {
+        "ja": "はねる",
+        "en": "Splash"
+      },
+      "type": "water",
+      "move_type": "fast",
+      "power": 0,
+      "energy_delta": 17,
+      "duration_ms": 1500
+    },
+    {
+      "id": 232,
+      "identifier": "water-gun-blastoise",
+      "name": {
+        "ja": "みずでっぽう",
+        "en": "Water Gun Blastoise"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 10,
+      "energy_delta": 6,
+      "duration_ms": 1000
+    },
+    {
+      "id": 233,
+      "identifier": "mud-slap",
+      "name": {
+        "ja": "どろかけ",
+        "en": "Mud Slap"
+      },
+      "type": "ground",
+      "move_type": "fast",
+      "power": 19,
+      "energy_delta": 13,
+      "duration_ms": 1500
+    },
+    {
+      "id": 234,
+      "identifier": "zen-headbutt",
+      "name": {
+        "ja": "しねんのずつき",
+        "en": "Zen Headbutt"
+      },
+      "type": "psychic",
+      "move_type": "fast",
+      "power": 11,
+      "energy_delta": 9,
+      "duration_ms": 1000
+    },
+    {
+      "id": 235,
+      "identifier": "confusion",
+      "name": {
+        "ja": "ねんりき",
+        "en": "Confusion"
+      },
+      "type": "psychic",
+      "move_type": "fast",
+      "power": 19,
+      "energy_delta": 14,
+      "duration_ms": 1500
+    },
+    {
+      "id": 236,
+      "identifier": "poison-sting",
+      "name": {
+        "ja": "どくばり",
+        "en": "Poison Sting"
+      },
+      "type": "poison",
+      "move_type": "fast",
+      "power": 4,
+      "energy_delta": 6,
+      "duration_ms": 500
+    },
+    {
+      "id": 237,
+      "identifier": "bubble",
+      "name": {
+        "ja": "あわ",
+        "en": "Bubble"
+      },
+      "type": "water",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 12,
+      "duration_ms": 1000
+    },
+    {
+      "id": 238,
+      "identifier": "feint-attack",
+      "name": {
+        "ja": "だましうち",
+        "en": "Feint Attack"
+      },
+      "type": "dark",
+      "move_type": "fast",
+      "power": 11,
+      "energy_delta": 10,
+      "duration_ms": 1000
+    },
+    {
+      "id": 239,
+      "identifier": "steel-wing",
+      "name": {
+        "ja": "はがねのつばさ",
+        "en": "Steel Wing"
+      },
+      "type": "steel",
+      "move_type": "fast",
+      "power": 14,
+      "energy_delta": 8,
+      "duration_ms": 1000
+    },
+    {
+      "id": 240,
+      "identifier": "fire-fang",
+      "name": {
+        "ja": "ほのおのキバ",
+        "en": "Fire Fang"
+      },
+      "type": "fire",
+      "move_type": "fast",
+      "power": 13,
+      "energy_delta": 9,
+      "duration_ms": 1000
+    },
+    {
+      "id": 241,
+      "identifier": "rock-smash",
+      "name": {
+        "ja": "いわくだき",
+        "en": "Rock Smash"
+      },
+      "type": "fighting",
+      "move_type": "fast",
+      "power": 17,
+      "energy_delta": 12,
+      "duration_ms": 1500
+    },
+    {
+      "id": 242,
+      "identifier": "transform",
+      "name": {
+        "ja": "へんしん",
+        "en": "Transform"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 0,
+      "energy_delta": 0,
+      "duration_ms": 2000
+    },
+    {
+      "id": 243,
+      "identifier": "counter",
+      "name": {
+        "ja": "カウンター",
+        "en": "Counter"
+      },
+      "type": "fighting",
+      "move_type": "fast",
+      "power": 13,
+      "energy_delta": 9,
+      "duration_ms": 1000
+    },
+    {
+      "id": 244,
+      "identifier": "powder-snow",
+      "name": {
+        "ja": "こなゆき",
+        "en": "Powder Snow"
+      },
+      "type": "ice",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 15,
+      "duration_ms": 1000
+    },
+    {
+      "id": 245,
+      "identifier": "close-combat",
+      "name": {
+        "ja": "インファイト",
+        "en": "Close Combat"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 105,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 246,
+      "identifier": "dynamic-punch",
+      "name": {
+        "ja": "ばくれつパンチ",
+        "en": "Dynamic Punch"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 247,
+      "identifier": "focus-blast",
+      "name": {
+        "ja": "きあいだま",
+        "en": "Focus Blast"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 248,
+      "identifier": "aurora-beam",
+      "name": {
+        "ja": "オーロラビーム",
+        "en": "Aurora Beam"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 80,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 249,
+      "identifier": "charge-beam",
+      "name": {
+        "ja": "チャージビーム",
+        "en": "Charge Beam"
+      },
+      "type": "electric",
+      "move_type": "fast",
+      "power": 7,
+      "energy_delta": 14,
+      "duration_ms": 1000
+    },
+    {
+      "id": 250,
+      "identifier": "volt-switch",
+      "name": {
+        "ja": "ボルトチェンジ",
+        "en": "Volt Switch"
+      },
+      "type": "electric",
+      "move_type": "fast",
+      "power": 13,
+      "energy_delta": 20,
+      "duration_ms": 1500
+    },
+    {
+      "id": 251,
+      "identifier": "wild-charge",
+      "name": {
+        "ja": "ワイルドボルト",
+        "en": "Wild Charge"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 252,
+      "identifier": "zap-cannon",
+      "name": {
+        "ja": "でんじほう",
+        "en": "Zap Cannon"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 253,
+      "identifier": "dragon-tail",
+      "name": {
+        "ja": "ドラゴンテール",
+        "en": "Dragon Tail"
+      },
+      "type": "dragon",
+      "move_type": "fast",
+      "power": 14,
+      "energy_delta": 8,
+      "duration_ms": 1000
+    },
+    {
+      "id": 254,
+      "identifier": "avalanche",
+      "name": {
+        "ja": "ゆきなだれ",
+        "en": "Avalanche"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 255,
+      "identifier": "air-slash",
+      "name": {
+        "ja": "エアスラッシュ",
+        "en": "Air Slash"
+      },
+      "type": "flying",
+      "move_type": "fast",
+      "power": 12,
+      "energy_delta": 8,
+      "duration_ms": 1000
+    },
+    {
+      "id": 256,
+      "identifier": "brave-bird",
+      "name": {
+        "ja": "ブレイブバード",
+        "en": "Brave Bird"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 130,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 257,
+      "identifier": "sky-attack",
+      "name": {
+        "ja": "ゴッドバード",
+        "en": "Sky Attack"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 80,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 258,
+      "identifier": "sand-tomb",
+      "name": {
+        "ja": "すなじごく",
+        "en": "Sand Tomb"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -33,
+      "duration_ms": 4000
+    },
+    {
+      "id": 259,
+      "identifier": "rock-blast",
+      "name": {
+        "ja": "ロックブラスト",
+        "en": "Rock Blast"
+      },
+      "type": "rock",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 260,
+      "identifier": "infestation",
+      "name": {
+        "ja": "まとわりつく",
+        "en": "Infestation"
+      },
+      "type": "bug",
+      "move_type": "fast",
+      "power": 9,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 261,
+      "identifier": "struggle-bug",
+      "name": {
+        "ja": "むしのていこう",
+        "en": "Struggle Bug"
+      },
+      "type": "bug",
+      "move_type": "fast",
+      "power": 15,
+      "energy_delta": 15,
+      "duration_ms": 1500
+    },
+    {
+      "id": 262,
+      "identifier": "silver-wind",
+      "name": {
+        "ja": "ぎんいろのかぜ",
+        "en": "Silver Wind"
+      },
+      "type": "bug",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -33,
+      "duration_ms": 3500
+    },
+    {
+      "id": 263,
+      "identifier": "astonish",
+      "name": {
+        "ja": "おどろかす",
+        "en": "Astonish"
+      },
+      "type": "ghost",
+      "move_type": "fast",
+      "power": 7,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 264,
+      "identifier": "hex",
+      "name": {
+        "ja": "たたりめ",
+        "en": "Hex"
+      },
+      "type": "ghost",
+      "move_type": "fast",
+      "power": 8,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 265,
+      "identifier": "night-shade",
+      "name": {
+        "ja": "ナイトヘッド",
+        "en": "Night Shade"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 266,
+      "identifier": "iron-tail",
+      "name": {
+        "ja": "アイアンテール",
+        "en": "Iron Tail"
+      },
+      "type": "steel",
+      "move_type": "fast",
+      "power": 14,
+      "energy_delta": 6,
+      "duration_ms": 1000
+    },
+    {
+      "id": 267,
+      "identifier": "gyro-ball",
+      "name": {
+        "ja": "ジャイロボール",
+        "en": "Gyro Ball"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 268,
+      "identifier": "heavy-slam",
+      "name": {
+        "ja": "ヘビーボンバー",
+        "en": "Heavy Slam"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 269,
+      "identifier": "fire-spin",
+      "name": {
+        "ja": "ほのおのうず",
+        "en": "Fire Spin"
+      },
+      "type": "fire",
+      "move_type": "fast",
+      "power": 13,
+      "energy_delta": 9,
+      "duration_ms": 1000
+    },
+    {
+      "id": 270,
+      "identifier": "overheat",
+      "name": {
+        "ja": "オーバーヒート",
+        "en": "Overheat"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 160,
+      "energy_delta": -100,
+      "duration_ms": 4000
+    },
+    {
+      "id": 271,
+      "identifier": "bullet-seed",
+      "name": {
+        "ja": "タネマシンガン",
+        "en": "Bullet Seed"
+      },
+      "type": "grass",
+      "move_type": "fast",
+      "power": 7,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 272,
+      "identifier": "grass-knot",
+      "name": {
+        "ja": "くさむすび",
+        "en": "Grass Knot"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 273,
+      "identifier": "energy-ball",
+      "name": {
+        "ja": "エナジーボール",
+        "en": "Energy Ball"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 4000
+    },
+    {
+      "id": 274,
+      "identifier": "extrasensory",
+      "name": {
+        "ja": "じんつうりき",
+        "en": "Extrasensory"
+      },
+      "type": "psychic",
+      "move_type": "fast",
+      "power": 11,
+      "energy_delta": 11,
+      "duration_ms": 1000
+    },
+    {
+      "id": 275,
+      "identifier": "futuresight",
+      "name": {
+        "ja": "みらいよち",
+        "en": "Futuresight"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 115,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 276,
+      "identifier": "mirror-coat",
+      "name": {
+        "ja": "ミラーコート",
+        "en": "Mirror Coat"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 277,
+      "identifier": "outrage",
+      "name": {
+        "ja": "げきりん",
+        "en": "Outrage"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 110,
+      "energy_delta": -50,
+      "duration_ms": 4000
+    },
+    {
+      "id": 278,
+      "identifier": "snarl",
+      "name": {
+        "ja": "バークアウト",
+        "en": "Snarl"
+      },
+      "type": "dark",
+      "move_type": "fast",
+      "power": 11,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 279,
+      "identifier": "crunch",
+      "name": {
+        "ja": "かみくだく",
+        "en": "Crunch"
+      },
+      "type": "dark",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 280,
+      "identifier": "foul-play",
+      "name": {
+        "ja": "イカサマ",
+        "en": "Foul Play"
+      },
+      "type": "dark",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 281,
+      "identifier": "hidden-power",
+      "name": {
+        "ja": "めざめるパワー",
+        "en": "Hidden Power"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 15,
+      "energy_delta": 15,
+      "duration_ms": 1500
+    },
+    {
+      "id": 282,
+      "identifier": "take-down",
+      "name": {
+        "ja": "とっしん",
+        "en": "Take Down"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 7,
+      "energy_delta": 8,
+      "duration_ms": 1000
+    },
+    {
+      "id": 283,
+      "identifier": "waterfall",
+      "name": {
+        "ja": "たきのぼり",
+        "en": "Waterfall"
+      },
+      "type": "water",
+      "move_type": "fast",
+      "power": 13,
+      "energy_delta": 7,
+      "duration_ms": 1000
+    },
+    {
+      "id": 284,
+      "identifier": "surf",
+      "name": {
+        "ja": "なみのり",
+        "en": "Surf"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -50,
+      "duration_ms": 1500
+    },
+    {
+      "id": 285,
+      "identifier": "draco-meteor",
+      "name": {
+        "ja": "りゅうせいぐん",
+        "en": "Draco Meteor"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 150,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 286,
+      "identifier": "doom-desire",
+      "name": {
+        "ja": "はめつのねがい",
+        "en": "Doom Desire"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 287,
+      "identifier": "yawn",
+      "name": {
+        "ja": "あくび",
+        "en": "Yawn"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 0,
+      "energy_delta": 13,
+      "duration_ms": 1500
+    },
+    {
+      "id": 288,
+      "identifier": "psycho-boost",
+      "name": {
+        "ja": "サイコブースト",
+        "en": "Psycho Boost"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -50,
+      "duration_ms": 4000
+    },
+    {
+      "id": 289,
+      "identifier": "origin-pulse",
+      "name": {
+        "ja": "こんげんのはどう",
+        "en": "Origin Pulse"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -100,
+      "duration_ms": 1500
+    },
+    {
+      "id": 290,
+      "identifier": "precipice-blades",
+      "name": {
+        "ja": "だんがいのつるぎ",
+        "en": "Precipice Blades"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -100,
+      "duration_ms": 1500
+    },
+    {
+      "id": 291,
+      "identifier": "present",
+      "name": {
+        "ja": "プレゼント",
+        "en": "Present"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 23,
+      "duration_ms": 1500
+    },
+    {
+      "id": 292,
+      "identifier": "weather-ball-fire",
+      "name": {
+        "ja": "ウェザーボール",
+        "en": "Weather Ball Fire"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 293,
+      "identifier": "weather-ball-ice",
+      "name": {
+        "ja": "ウェザーボール",
+        "en": "Weather Ball Ice"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 294,
+      "identifier": "weather-ball-rock",
+      "name": {
+        "ja": "ウェザーボール",
+        "en": "Weather Ball Rock"
+      },
+      "type": "rock",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 295,
+      "identifier": "weather-ball-water",
+      "name": {
+        "ja": "ウェザーボール",
+        "en": "Weather Ball Water"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 296,
+      "identifier": "frenzy-plant",
+      "name": {
+        "ja": "ハードプラント",
+        "en": "Frenzy Plant"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 297,
+      "identifier": "smack-down",
+      "name": {
+        "ja": "うちおとす",
+        "en": "Smack Down"
+      },
+      "type": "rock",
+      "move_type": "fast",
+      "power": 13,
+      "energy_delta": 7,
+      "duration_ms": 1000
+    },
+    {
+      "id": 298,
+      "identifier": "blast-burn",
+      "name": {
+        "ja": "ブラストバーン",
+        "en": "Blast Burn"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 299,
+      "identifier": "hydro-cannon",
+      "name": {
+        "ja": "ハイドロカノン",
+        "en": "Hydro Cannon"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 300,
+      "identifier": "last-resort",
+      "name": {
+        "ja": "とっておき",
+        "en": "Last Resort"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 301,
+      "identifier": "meteor-mash",
+      "name": {
+        "ja": "コメットパンチ",
+        "en": "Meteor Mash"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 302,
+      "identifier": "skull-bash",
+      "name": {
+        "ja": "ロケットずつき",
+        "en": "Skull Bash"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 130,
+      "energy_delta": -100,
+      "duration_ms": 3000
+    },
+    {
+      "id": 303,
+      "identifier": "acid-spray",
+      "name": {
+        "ja": "アシッドボム",
+        "en": "Acid Spray"
+      },
+      "type": "poison",
+      "move_type": "charged",
+      "power": 20,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 304,
+      "identifier": "earth-power",
+      "name": {
+        "ja": "だいちのちから",
+        "en": "Earth Power"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 305,
+      "identifier": "crabhammer",
+      "name": {
+        "ja": "クラブハンマー",
+        "en": "Crabhammer"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 306,
+      "identifier": "lunge",
+      "name": {
+        "ja": "とびかかる",
+        "en": "Lunge"
+      },
+      "type": "bug",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 307,
+      "identifier": "crush-claw",
+      "name": {
+        "ja": "ブレイククロー",
+        "en": "Crush Claw"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 0,
+      "energy_delta": 0,
+      "duration_ms": 2000
+    },
+    {
+      "id": 308,
+      "identifier": "octazooka",
+      "name": {
+        "ja": "オクタンほう",
+        "en": "Octazooka"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 309,
+      "identifier": "mirror-shot",
+      "name": {
+        "ja": "ミラーショット",
+        "en": "Mirror Shot"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 310,
+      "identifier": "super-power",
+      "name": {
+        "ja": "ばかぢから",
+        "en": "Super Power"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 311,
+      "identifier": "fell-stinger",
+      "name": {
+        "ja": "とどめばり",
+        "en": "Fell Stinger"
+      },
+      "type": "bug",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 312,
+      "identifier": "leaf-tornado",
+      "name": {
+        "ja": "グラスミキサー",
+        "en": "Leaf Tornado"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 313,
+      "identifier": "leech-life",
+      "name": {
+        "ja": "きゅうけつ",
+        "en": "Leech Life"
+      },
+      "type": "bug",
+      "move_type": "charged",
+      "power": 0,
+      "energy_delta": 0,
+      "duration_ms": 2500
+    },
+    {
+      "id": 314,
+      "identifier": "drain-punch",
+      "name": {
+        "ja": "ドレインパンチ",
+        "en": "Drain Punch"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 315,
+      "identifier": "shadow-bone",
+      "name": {
+        "ja": "シャドーボーン",
+        "en": "Shadow Bone"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 316,
+      "identifier": "muddy-water",
+      "name": {
+        "ja": "だくりゅう",
+        "en": "Muddy Water"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 317,
+      "identifier": "blaze-kick",
+      "name": {
+        "ja": "ブレイズキック",
+        "en": "Blaze Kick"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 40,
+      "energy_delta": -33,
+      "duration_ms": 1000
+    },
+    {
+      "id": 318,
+      "identifier": "razor-shell",
+      "name": {
+        "ja": "シェルブレード",
+        "en": "Razor Shell"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 319,
+      "identifier": "power-up-punch",
+      "name": {
+        "ja": "グロウパンチ",
+        "en": "Power Up Punch"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 320,
+      "identifier": "charm",
+      "name": {
+        "ja": "あまえる",
+        "en": "Charm"
+      },
+      "type": "fairy",
+      "move_type": "fast",
+      "power": 20,
+      "energy_delta": 11,
+      "duration_ms": 1500
+    },
+    {
+      "id": 321,
+      "identifier": "giga-impact",
+      "name": {
+        "ja": "ギガインパクト",
+        "en": "Giga Impact"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 200,
+      "energy_delta": -100,
+      "duration_ms": 4500
+    },
+    {
+      "id": 322,
+      "identifier": "frustration",
+      "name": {
+        "ja": "やつあたり",
+        "en": "Frustration"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 10,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 323,
+      "identifier": "return",
+      "name": {
+        "ja": "おんがえし",
+        "en": "Return"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 25,
+      "energy_delta": -33,
+      "duration_ms": 500
+    },
+    {
+      "id": 324,
+      "identifier": "synchronoise",
+      "name": {
+        "ja": "シンクロノイズ",
+        "en": "Synchronoise"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 80,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 325,
+      "identifier": "lock-on",
+      "name": {
+        "ja": "ロックオン",
+        "en": "Lock On"
+      },
+      "type": "normal",
+      "move_type": "fast",
+      "power": 2,
+      "energy_delta": 10,
+      "duration_ms": 500
+    },
+    {
+      "id": 326,
+      "identifier": "thunder-fang",
+      "name": {
+        "ja": "かみなりのキバ",
+        "en": "Thunder Fang"
+      },
+      "type": "electric",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 327,
+      "identifier": "ice-fang",
+      "name": {
+        "ja": "こおりのキバ",
+        "en": "Ice Fang"
+      },
+      "type": "ice",
+      "move_type": "fast",
+      "power": 12,
+      "energy_delta": 20,
+      "duration_ms": 1500
+    },
+    {
+      "id": 328,
+      "identifier": "horn-drill",
+      "name": {
+        "ja": "つのドリル",
+        "en": "Horn Drill"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 9000,
+      "energy_delta": -25,
+      "duration_ms": 2000
+    },
+    {
+      "id": 329,
+      "identifier": "fissure",
+      "name": {
+        "ja": "じわれ",
+        "en": "Fissure"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 9001,
+      "energy_delta": -25,
+      "duration_ms": 3000
+    },
+    {
+      "id": 330,
+      "identifier": "sacred-sword",
+      "name": {
+        "ja": "せいなるつるぎ",
+        "en": "Sacred Sword"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 1000
+    },
+    {
+      "id": 331,
+      "identifier": "flying-press",
+      "name": {
+        "ja": "フライングプレス",
+        "en": "Flying Press"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 115,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 332,
+      "identifier": "aura-sphere",
+      "name": {
+        "ja": "はどうだん",
+        "en": "Aura Sphere"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 333,
+      "identifier": "payback",
+      "name": {
+        "ja": "しっぺがえし",
+        "en": "Payback"
+      },
+      "type": "dark",
+      "move_type": "charged",
+      "power": 95,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 334,
+      "identifier": "rock-wrecker",
+      "name": {
+        "ja": "がんせきほう",
+        "en": "Rock Wrecker"
+      },
+      "type": "rock",
+      "move_type": "charged",
+      "power": 110,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 335,
+      "identifier": "aeroblast",
+      "name": {
+        "ja": "エアロブラスト",
+        "en": "Aeroblast"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 180,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 336,
+      "identifier": "techno-blast-normal",
+      "name": {
+        "ja": "テクノバスター",
+        "en": "Techno Blast Normal"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 337,
+      "identifier": "techno-blast-burn",
+      "name": {
+        "ja": "テクノバスター",
+        "en": "Techno Blast Burn"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 338,
+      "identifier": "techno-blast-chill",
+      "name": {
+        "ja": "テクノバスター",
+        "en": "Techno Blast Chill"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 339,
+      "identifier": "techno-blast-water",
+      "name": {
+        "ja": "テクノバスター",
+        "en": "Techno Blast Water"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 340,
+      "identifier": "techno-blast-shock",
+      "name": {
+        "ja": "テクノバスター",
+        "en": "Techno Blast Shock"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 341,
+      "identifier": "fly",
+      "name": {
+        "ja": "そらをとぶ",
+        "en": "Fly"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 342,
+      "identifier": "v-create",
+      "name": {
+        "ja": "Ｖジェネレート",
+        "en": "V Create"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 105,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 343,
+      "identifier": "leaf-storm",
+      "name": {
+        "ja": "リーフストーム",
+        "en": "Leaf Storm"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 130,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 344,
+      "identifier": "tri-attack",
+      "name": {
+        "ja": "トライアタック",
+        "en": "Tri Attack"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 75,
+      "energy_delta": -50,
+      "duration_ms": 2500
+    },
+    {
+      "id": 345,
+      "identifier": "gust",
+      "name": {
+        "ja": "かぜおこし",
+        "en": "Gust"
+      },
+      "type": "flying",
+      "move_type": "fast",
+      "power": 25,
+      "energy_delta": 20,
+      "duration_ms": 2000
+    },
+    {
+      "id": 346,
+      "identifier": "incinerate",
+      "name": {
+        "ja": "やきつくす",
+        "en": "Incinerate"
+      },
+      "type": "fire",
+      "move_type": "fast",
+      "power": 32,
+      "energy_delta": 22,
+      "duration_ms": 2500
+    },
+    {
+      "id": 348,
+      "identifier": "feather-dance",
+      "name": {
+        "ja": "フェザーダンス",
+        "en": "Feather Dance"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 35,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 350,
+      "identifier": "fairy-wind",
+      "name": {
+        "ja": "ようせいのかぜ",
+        "en": "Fairy Wind"
+      },
+      "type": "fairy",
+      "move_type": "fast",
+      "power": 9,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 352,
+      "identifier": "weather-ball-normal",
+      "name": {
+        "ja": "ウェザーボール",
+        "en": "Weather Ball Normal"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 353,
+      "identifier": "psychic-fangs",
+      "name": {
+        "ja": "サイコファング",
+        "en": "Psychic Fangs"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 25,
+      "energy_delta": -33,
+      "duration_ms": 1000
+    },
+    {
+      "id": 356,
+      "identifier": "double-kick",
+      "name": {
+        "ja": "にどげり",
+        "en": "Double Kick"
+      },
+      "type": "fighting",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 13,
+      "duration_ms": 1000
+    },
+    {
+      "id": 357,
+      "identifier": "magical-leaf",
+      "name": {
+        "ja": "マジカルリーフ",
+        "en": "Magical Leaf"
+      },
+      "type": "grass",
+      "move_type": "fast",
+      "power": 17,
+      "energy_delta": 17,
+      "duration_ms": 1500
+    },
+    {
+      "id": 358,
+      "identifier": "sacred-fire",
+      "name": {
+        "ja": "せいなるほのお",
+        "en": "Sacred Fire"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 359,
+      "identifier": "icicle-spear",
+      "name": {
+        "ja": "つららばり",
+        "en": "Icicle Spear"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 360,
+      "identifier": "aeroblast",
+      "name": {
+        "ja": "エアロブラスト",
+        "en": "Aeroblast"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 200,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 361,
+      "identifier": "aeroblast",
+      "name": {
+        "ja": "エアロブラスト",
+        "en": "Aeroblast"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 225,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 362,
+      "identifier": "sacred-fire",
+      "name": {
+        "ja": "せいなるほのお",
+        "en": "Sacred Fire"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 135,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 363,
+      "identifier": "sacred-fire",
+      "name": {
+        "ja": "せいなるほのお",
+        "en": "Sacred Fire"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 155,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 364,
+      "identifier": "acrobatics",
+      "name": {
+        "ja": "アクロバット",
+        "en": "Acrobatics"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 365,
+      "identifier": "luster-purge",
+      "name": {
+        "ja": "ラスターパージ",
+        "en": "Luster Purge"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -100,
+      "duration_ms": 1500
+    },
+    {
+      "id": 366,
+      "identifier": "mist-ball",
+      "name": {
+        "ja": "ミストボール",
+        "en": "Mist Ball"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 105,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 367,
+      "identifier": "brutal-swing",
+      "name": {
+        "ja": "ぶんまわす",
+        "en": "Brutal Swing"
+      },
+      "type": "dark",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 368,
+      "identifier": "rollout",
+      "name": {
+        "ja": "ころがる",
+        "en": "Rollout"
+      },
+      "type": "rock",
+      "move_type": "fast",
+      "power": 15,
+      "energy_delta": 19,
+      "duration_ms": 1500
+    },
+    {
+      "id": 369,
+      "identifier": "seed-flare",
+      "name": {
+        "ja": "シードフレア",
+        "en": "Seed Flare"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 115,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 370,
+      "identifier": "obstruct",
+      "name": {
+        "ja": "ブロッキング",
+        "en": "Obstruct"
+      },
+      "type": "dark",
+      "move_type": "charged",
+      "power": 20,
+      "energy_delta": -33,
+      "duration_ms": 1500
+    },
+    {
+      "id": 371,
+      "identifier": "shadow-force",
+      "name": {
+        "ja": "シャドーダイブ",
+        "en": "Shadow Force"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 372,
+      "identifier": "meteor-beam",
+      "name": {
+        "ja": "メテオビーム",
+        "en": "Meteor Beam"
+      },
+      "type": "rock",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 373,
+      "identifier": "water-shuriken",
+      "name": {
+        "ja": "みずしゅりけん",
+        "en": "Water Shuriken"
+      },
+      "type": "water",
+      "move_type": "fast",
+      "power": 9,
+      "energy_delta": 14,
+      "duration_ms": 1000
+    },
+    {
+      "id": 374,
+      "identifier": "fusion-bolt",
+      "name": {
+        "ja": "クロスサンダー",
+        "en": "Fusion Bolt"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 375,
+      "identifier": "fusion-flare",
+      "name": {
+        "ja": "クロスフレイム",
+        "en": "Fusion Flare"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 376,
+      "identifier": "poltergeist",
+      "name": {
+        "ja": "ポルターガイスト",
+        "en": "Poltergeist"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 377,
+      "identifier": "high-horsepower",
+      "name": {
+        "ja": "１０まんばりき",
+        "en": "High Horsepower"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 105,
+      "energy_delta": -100,
+      "duration_ms": 1500
+    },
+    {
+      "id": 378,
+      "identifier": "glaciate",
+      "name": {
+        "ja": "こごえるせかい",
+        "en": "Glaciate"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 160,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 379,
+      "identifier": "breaking-swipe",
+      "name": {
+        "ja": "ワイドブレイカー",
+        "en": "Breaking Swipe"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 45,
+      "energy_delta": -33,
+      "duration_ms": 1000
+    },
+    {
+      "id": 380,
+      "identifier": "boomburst",
+      "name": {
+        "ja": "ばくおんぱ",
+        "en": "Boomburst"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 150,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 381,
+      "identifier": "double-iron-bash",
+      "name": {
+        "ja": "ダブルパンツァー",
+        "en": "Double Iron Bash"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 382,
+      "identifier": "myst-fire",
+      "name": {
+        "ja": "マジカルフレイム",
+        "en": "Myst Fire"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 383,
+      "identifier": "liquidation",
+      "name": {
+        "ja": "アクアブレイク",
+        "en": "Liquidation"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 384,
+      "identifier": "dragon-ascent",
+      "name": {
+        "ja": "ガリョウテンセイ",
+        "en": "Dragon Ascent"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 140,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 385,
+      "identifier": "leafage",
+      "name": {
+        "ja": "このは",
+        "en": "Leafage"
+      },
+      "type": "grass",
+      "move_type": "fast",
+      "power": 6,
+      "energy_delta": 4,
+      "duration_ms": 500
+    },
+    {
+      "id": 386,
+      "identifier": "magma-storm",
+      "name": {
+        "ja": "マグマストーム",
+        "en": "Magma Storm"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 75,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 387,
+      "identifier": "geomancy",
+      "name": {
+        "ja": "ジオコントロール",
+        "en": "Geomancy"
+      },
+      "type": "fairy",
+      "move_type": "fast",
+      "power": 20,
+      "energy_delta": 14,
+      "duration_ms": 1500
+    },
+    {
+      "id": 388,
+      "identifier": "spacial-rend",
+      "name": {
+        "ja": "あくうせつだん",
+        "en": "Spacial Rend"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 160,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 389,
+      "identifier": "oblivion-wing",
+      "name": {
+        "ja": "デスウイング",
+        "en": "Oblivion Wing"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 390,
+      "identifier": "natures-madness",
+      "name": {
+        "ja": "しぜんのいかり",
+        "en": "Natures Madness"
+      },
+      "type": "fairy",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 391,
+      "identifier": "triple-axel",
+      "name": {
+        "ja": "トリプルアクセル",
+        "en": "Triple Axel"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 60,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 392,
+      "identifier": "trailblaze",
+      "name": {
+        "ja": "くさわけ",
+        "en": "Trailblaze"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 393,
+      "identifier": "scorching-sands",
+      "name": {
+        "ja": "ねっさのだいち",
+        "en": "Scorching Sands"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 394,
+      "identifier": "roar-of-time",
+      "name": {
+        "ja": "ときのほうこう",
+        "en": "Roar Of Time"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 160,
+      "energy_delta": -100,
+      "duration_ms": 2000
+    },
+    {
+      "id": 395,
+      "identifier": "bleakwind-storm",
+      "name": {
+        "ja": "こがらしあらし",
+        "en": "Bleakwind Storm"
+      },
+      "type": "flying",
+      "move_type": "charged",
+      "power": 150,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 396,
+      "identifier": "sandsear-storm",
+      "name": {
+        "ja": "ねっさのあらし",
+        "en": "Sandsear Storm"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 150,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 397,
+      "identifier": "wildbold-storm",
+      "name": {
+        "ja": "かみなりあらし",
+        "en": "Wildbold Storm"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 150,
+      "energy_delta": -100,
+      "duration_ms": 2500
+    },
+    {
+      "id": 398,
+      "identifier": "spirit-shackle",
+      "name": {
+        "ja": "かげぬい",
+        "en": "Spirit Shackle"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 70,
+      "energy_delta": -33,
+      "duration_ms": 2500
+    },
+    {
+      "id": 399,
+      "identifier": "volt-tackle",
+      "name": {
+        "ja": "ボルテッカー",
+        "en": "Volt Tackle"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -33,
+      "duration_ms": 3500
+    },
+    {
+      "id": 400,
+      "identifier": "darkest-lariat",
+      "name": {
+        "ja": "ＤＤラリアット",
+        "en": "Darkest Lariat"
+      },
+      "type": "dark",
+      "move_type": "charged",
+      "power": 80,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 401,
+      "identifier": "psywave",
+      "name": {
+        "ja": "サイコウェーブ",
+        "en": "Psywave"
+      },
+      "type": "psychic",
+      "move_type": "charged",
+      "power": 4,
+      "energy_delta": 7,
+      "duration_ms": 500
+    },
+    {
+      "id": 402,
+      "identifier": "metal-sound",
+      "name": {
+        "ja": "きんぞくおん",
+        "en": "Metal Sound"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 4,
+      "energy_delta": 6,
+      "duration_ms": 500
+    },
+    {
+      "id": 403,
+      "identifier": "sand-attack",
+      "name": {
+        "ja": "すなかけ",
+        "en": "Sand Attack"
+      },
+      "type": "ground",
+      "move_type": "charged",
+      "power": 4,
+      "energy_delta": 7,
+      "duration_ms": 500
+    },
+    {
+      "id": 404,
+      "identifier": "sunsteel-strike",
+      "name": {
+        "ja": "メテオドライブ",
+        "en": "Sunsteel Strike"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 230,
+      "energy_delta": -100,
+      "duration_ms": 3000
+    },
+    {
+      "id": 405,
+      "identifier": "moongeist-beam",
+      "name": {
+        "ja": "シャドーレイ",
+        "en": "Moongeist Beam"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 230,
+      "energy_delta": -100,
+      "duration_ms": 3000
+    },
+    {
+      "id": 406,
+      "identifier": "aura-wheel-electric",
+      "name": {
+        "ja": "オーラぐるま",
+        "en": "Aura Wheel Electric"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -45,
+      "duration_ms": 2700
+    },
+    {
+      "id": 407,
+      "identifier": "aura-wheel-electric",
+      "name": {
+        "ja": "オーラぐるま",
+        "en": "Aura Wheel Electric"
+      },
+      "type": "dark",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -45,
+      "duration_ms": 2700
+    },
+    {
+      "id": 408,
+      "identifier": "high-jump-kick",
+      "name": {
+        "ja": "とびひざげり",
+        "en": "High Jump Kick"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -100,
+      "duration_ms": 1500
+    },
+    {
+      "id": 462,
+      "identifier": "force-palm",
+      "name": {
+        "ja": "はっけい",
+        "en": "Force Palm"
+      },
+      "type": "fighting",
+      "move_type": "fast",
+      "power": 10,
+      "energy_delta": 16,
+      "duration_ms": 1000
+    },
+    {
+      "id": 463,
+      "identifier": "sparkling-aria",
+      "name": {
+        "ja": "うたかたのアリア",
+        "en": "Sparkling Aria"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 85,
+      "energy_delta": -33,
+      "duration_ms": 3000
+    },
+    {
+      "id": 464,
+      "identifier": "rage-fist",
+      "name": {
+        "ja": "ふんどのこぶし",
+        "en": "Rage Fist"
+      },
+      "type": "ghost",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -50,
+      "duration_ms": 3000
+    },
+    {
+      "id": 465,
+      "identifier": "flower-trick",
+      "name": {
+        "ja": "トリックフラワー",
+        "en": "Flower Trick"
+      },
+      "type": "grass",
+      "move_type": "charged",
+      "power": 75,
+      "energy_delta": -33,
+      "duration_ms": 2700
+    },
+    {
+      "id": 466,
+      "identifier": "freeze-shock",
+      "name": {
+        "ja": "フリーズボルト",
+        "en": "Freeze Shock"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 160,
+      "energy_delta": -100,
+      "duration_ms": 1500
+    },
+    {
+      "id": 467,
+      "identifier": "ice-burn",
+      "name": {
+        "ja": "コールドフレア",
+        "en": "Ice Burn"
+      },
+      "type": "ice",
+      "move_type": "charged",
+      "power": 90,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    },
+    {
+      "id": 468,
+      "identifier": "torch-song",
+      "name": {
+        "ja": "フレアソング",
+        "en": "Torch Song"
+      },
+      "type": "fire",
+      "move_type": "charged",
+      "power": 100,
+      "energy_delta": -50,
+      "duration_ms": 3500
+    },
+    {
+      "id": 469,
+      "identifier": "behemoth-blade",
+      "name": {
+        "ja": "きょじゅうざん",
+        "en": "Behemoth Blade"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 200,
+      "energy_delta": -100,
+      "duration_ms": 3500
+    },
+    {
+      "id": 470,
+      "identifier": "behemoth-bash",
+      "name": {
+        "ja": "きょじゅうだん",
+        "en": "Behemoth Bash"
+      },
+      "type": "steel",
+      "move_type": "charged",
+      "power": 125,
+      "energy_delta": -50,
+      "duration_ms": 1500
+    },
+    {
+      "id": 471,
+      "identifier": "upper-hand",
+      "name": {
+        "ja": "はやてがえし",
+        "en": "Upper Hand"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 50,
+      "energy_delta": -33,
+      "duration_ms": 2000
+    },
+    {
+      "id": 472,
+      "identifier": "thunder-cage",
+      "name": {
+        "ja": "サンダープリズン",
+        "en": "Thunder Cage"
+      },
+      "type": "electric",
+      "move_type": "charged",
+      "power": 220,
+      "energy_delta": -100,
+      "duration_ms": 3300
+    },
+    {
+      "id": 482,
+      "identifier": "dynamax-cannon",
+      "name": {
+        "ja": "ダイマックスほう",
+        "en": "Dynamax Cannon"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 215,
+      "energy_delta": -100,
+      "duration_ms": 1500
+    },
+    {
+      "id": 484,
+      "identifier": "clanging-scales",
+      "name": {
+        "ja": "スケイルノイズ",
+        "en": "Clanging Scales"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -100,
+      "duration_ms": 3300
+    },
+    {
+      "id": 485,
+      "identifier": "crush-grip",
+      "name": {
+        "ja": "にぎりつぶす",
+        "en": "Crush Grip"
+      },
+      "type": "normal",
+      "move_type": "charged",
+      "power": 210,
+      "energy_delta": -100,
+      "duration_ms": 1800
+    },
+    {
+      "id": 486,
+      "identifier": "dragon-energy",
+      "name": {
+        "ja": "ドラゴンエナジー",
+        "en": "Dragon Energy"
+      },
+      "type": "dragon",
+      "move_type": "charged",
+      "power": 155,
+      "energy_delta": -50,
+      "duration_ms": 3300
+    },
+    {
+      "id": 487,
+      "identifier": "aqua-step",
+      "name": {
+        "ja": "アクアステップ",
+        "en": "Aqua Step"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 55,
+      "energy_delta": -33,
+      "duration_ms": 3500
+    },
+    {
+      "id": 488,
+      "identifier": "chilling-water",
+      "name": {
+        "ja": "ひやみず",
+        "en": "Chilling Water"
+      },
+      "type": "water",
+      "move_type": "charged",
+      "power": 65,
+      "energy_delta": -33,
+      "duration_ms": 3500
+    },
+    {
+      "id": 489,
+      "identifier": "secret-sword",
+      "name": {
+        "ja": "しんぴのつるぎ",
+        "en": "Secret Sword"
+      },
+      "type": "fighting",
+      "move_type": "charged",
+      "power": 120,
+      "energy_delta": -50,
+      "duration_ms": 2000
+    }
+  ],
+  "total": 317
+}

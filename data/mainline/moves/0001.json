@@ -1,0 +1,18 @@
+{
+  "id": 1,
+  "identifier": "pound",
+  "name": {
+    "ja": "はたく",
+    "en": "Pound"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "generation": 1,
+  "description": {
+    "ja": "長い　しっぽや　手などを　使って相手を　はたいて　攻撃する。",
+    "en": "The target is physically pounded with a long tail, a foreleg, or the like."
+  }
+}

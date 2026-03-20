@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 916,
+  "forms": [
+    {
+      "id": "male",
+      "order": 0,
+      "name": {
+        "ja": "パフュートン",
+        "en": "Oinkologne"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 110,
+        "attack": 100,
+        "defense": 75,
+        "sp_attack": 59,
+        "sp_defense": 80,
+        "speed": 65
+      },
+      "ability_ids": [
+        268,
+        82
+      ],
+      "hidden_ability_id": 47
+    },
+    {
+      "id": "female",
+      "order": 1,
+      "name": {
+        "ja": "メスのすがた",
+        "en": "Female"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 115,
+        "attack": 90,
+        "defense": 70,
+        "sp_attack": 59,
+        "sp_defense": 90,
+        "speed": 65
+      },
+      "ability_ids": [
+        165,
+        82
+      ],
+      "hidden_ability_id": 47
+    }
+  ]
+}

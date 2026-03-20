@@ -1,0 +1,13 @@
+{
+  "id": 184,
+  "identifier": "aerilate",
+  "name": {
+    "ja": "スカイスキン",
+    "en": "Aerilate"
+  },
+  "description": {
+    "ja": "ノーマルタイプの　技がひこうタイプになる。威力が　少し　上がる。",
+    "en": "Normal-type moves become Flying-type moves. The power of those moves is boosted a little."
+  },
+  "generation": 6
+}

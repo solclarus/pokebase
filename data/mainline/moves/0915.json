@@ -1,0 +1,18 @@
+{
+  "id": 915,
+  "identifier": "temper-flare",
+  "name": {
+    "ja": "やけっぱち",
+    "en": "Temper Flare"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "Spurred by desperation, the user attacks the target. This move's power is doubled if the user's previous move failed."
+  }
+}

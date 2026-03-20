@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 356,
+  "costumes": [
+    {
+      "costume_id": "0356-cempas%c3%bachil",
+      "identifier": "dusclops-cempas%c3%bachil",
+      "name": {
+        "ja": "センパスーチルサマヨール",
+        "en": "Dusclops (Cempas%c3%bachil)"
+      },
+      "event": "November 1, 2022",
+      "available_from": "2022-11-01",
+      "available_until": null
+    }
+  ]
+}

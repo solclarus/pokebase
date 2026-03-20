@@ -1,0 +1,18 @@
+{
+  "id": 20,
+  "identifier": "bind",
+  "name": {
+    "ja": "しめつける",
+    "en": "Bind"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "長い　体や　つるなどを　使い４ー５ターンの　間相手を　締めつけて　攻撃する。",
+    "en": "A long body, tentacles, or the like are used to bind and squeeze the target for four to five turns."
+  }
+}

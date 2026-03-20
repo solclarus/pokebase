@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 655,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マフォクシー",
+        "en": "Delphox"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 69,
+        "defense": 72,
+        "sp_attack": 114,
+        "sp_defense": 100,
+        "speed": 104
+      },
+      "ability_ids": [
+        66
+      ],
+      "hidden_ability_id": 170
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガマフォクシー",
+        "en": "Mega Delphox"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 69,
+        "defense": 72,
+        "sp_attack": 159,
+        "sp_defense": 125,
+        "speed": 134
+      },
+      "ability_ids": []
+    }
+  ]
+}

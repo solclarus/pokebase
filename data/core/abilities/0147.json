@@ -1,0 +1,13 @@
+{
+  "id": 147,
+  "identifier": "wonder-skin",
+  "name": {
+    "ja": "ミラクルスキン",
+    "en": "Wonder Skin"
+  },
+  "description": {
+    "ja": "変化技を　受けにくい体に　なっている。",
+    "en": "Makes status moves more likely to miss the Pokémon."
+  },
+  "generation": 5
+}

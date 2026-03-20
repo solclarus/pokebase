@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 234,
+  "costumes": [
+    {
+      "costume_id": "0234-holiday",
+      "identifier": "stantler-holiday",
+      "name": {
+        "ja": "ホリデーオドシシ",
+        "en": "Stantler (Holiday)"
+      },
+      "event": "December 24, 2019",
+      "available_from": "2019-12-24",
+      "available_until": null
+    }
+  ]
+}

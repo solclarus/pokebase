@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 969,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キラーメ",
+        "en": "Glimmet"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "stats": {
+        "hp": 48,
+        "attack": 35,
+        "defense": 42,
+        "sp_attack": 105,
+        "sp_defense": 60,
+        "speed": 60
+      },
+      "ability_ids": [
+        295
+      ],
+      "hidden_ability_id": 212
+    }
+  ]
+}

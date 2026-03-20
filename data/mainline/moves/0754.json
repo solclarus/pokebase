@@ -1,0 +1,18 @@
+{
+  "id": 754,
+  "identifier": "bolt-beak",
+  "name": {
+    "ja": "でんげきくちばし",
+    "en": "Bolt Beak"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "電気を　まとった　くちばしで　刺す。相手より　先に　攻撃できると技の　威力は　２倍に　なる。",
+    "en": "The user stabs the target with its electrified beak. If the user attacks before the target, the power of this move is doubled."
+  }
+}

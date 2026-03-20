@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 893,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ザルード",
+        "en": "Zarude"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 120,
+        "defense": 105,
+        "sp_attack": 70,
+        "sp_defense": 95,
+        "speed": 105
+      },
+      "ability_ids": [
+        102
+      ]
+    },
+    {
+      "id": "dada",
+      "order": 1,
+      "name": {
+        "ja": "とうちゃん",
+        "en": "Dada"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 120,
+        "defense": 105,
+        "sp_attack": 70,
+        "sp_defense": 95,
+        "speed": 105
+      },
+      "ability_ids": [
+        102
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 60,
+  "identifier": "psybeam",
+  "name": {
+    "ja": "サイケこうせん",
+    "en": "Psybeam"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "不思議な　光線を相手に　発射して　攻撃する。混乱させることが　ある。",
+    "en": "The target is attacked with a peculiar ray. This may also confuse the target."
+  }
+}

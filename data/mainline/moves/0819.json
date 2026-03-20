@@ -1,0 +1,18 @@
+{
+  "id": 819,
+  "identifier": "thunder-cage",
+  "name": {
+    "ja": "サンダープリズン",
+    "en": "Thunder Cage"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "generation": 8,
+  "description": {
+    "ja": "ほとばしる　電気の　おりの　中に４ー５ターンの　間相手を　閉じこめて　攻撃する。",
+    "en": "The user traps the target inside a cage of sparking electricity that inflicts damage for four to five turns."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 398,
+  "identifier": "poison-jab",
+  "name": {
+    "ja": "どくづき",
+    "en": "Poison Jab"
+  },
+  "type": "poison",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "毒に　そまった　触手や　腕で相手を　突き刺す。毒状態に　することが　ある。",
+    "en": "The target is stabbed with a tentacle, an arm, or the like steeped in poison. This may also poison the target."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 593,
+  "identifier": "hyperspace-hole",
+  "name": {
+    "ja": "いじげんホール",
+    "en": "Hyperspace Hole"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 80,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 6,
+  "description": {
+    "ja": "異次元ホールで　突然　相手の真横に　現れ　攻撃する。まもるや　みきり　なども　無視　できる。",
+    "en": "Using a hyperspace hole, the user appears right next to the target and strikes. This attack can hit a target using a move such as Protect or Detect."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "pokemon_id": 94,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゲンガー",
+        "en": "Gengar"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "sp_attack": 130,
+        "sp_defense": 75,
+        "speed": 110
+      },
+      "ability_ids": [
+        130
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガゲンガー",
+        "en": "Mega Gengar"
+      },
+      "form_type": "mega",
+      "region": "kanto",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 80,
+        "sp_attack": 170,
+        "sp_defense": 95,
+        "speed": 130
+      },
+      "ability_ids": [
+        23
+      ]
+    },
+    {
+      "id": "gigantamax",
+      "order": 2,
+      "name": {
+        "ja": "キョダイマックスゲンガー",
+        "en": "Gigantamax Gengar"
+      },
+      "form_type": "gigantamax",
+      "region": "kanto",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 65,
+        "defense": 60,
+        "sp_attack": 130,
+        "sp_defense": 75,
+        "speed": 110
+      },
+      "ability_ids": [
+        130
+      ]
+    }
+  ]
+}

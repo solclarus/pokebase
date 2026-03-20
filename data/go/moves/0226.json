@@ -1,0 +1,13 @@
+{
+  "id": 226,
+  "identifier": "psycho-cut",
+  "name": {
+    "ja": "サイコカッター",
+    "en": "Psycho Cut"
+  },
+  "type": "psychic",
+  "move_type": "fast",
+  "power": 4,
+  "energy_delta": 7,
+  "duration_ms": 500
+}

@@ -1,0 +1,13 @@
+{
+  "id": 365,
+  "identifier": "luster-purge",
+  "name": {
+    "ja": "ラスターパージ",
+    "en": "Luster Purge"
+  },
+  "type": "psychic",
+  "move_type": "charged",
+  "power": 100,
+  "energy_delta": -100,
+  "duration_ms": 1500
+}

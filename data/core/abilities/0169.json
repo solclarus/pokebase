@@ -1,0 +1,13 @@
+{
+  "id": 169,
+  "identifier": "fur-coat",
+  "name": {
+    "ja": "ファーコート",
+    "en": "Fur Coat"
+  },
+  "description": {
+    "ja": "相手から　受ける　物理技のダメージが　半分に　なる。",
+    "en": "Halves the damage from physical moves."
+  },
+  "generation": 6
+}

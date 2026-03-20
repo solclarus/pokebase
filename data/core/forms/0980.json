@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 980,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドオー",
+        "en": "Clodsire"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "stats": {
+        "hp": 130,
+        "attack": 75,
+        "defense": 60,
+        "sp_attack": 45,
+        "sp_defense": 100,
+        "speed": 20
+      },
+      "ability_ids": [
+        38,
+        11
+      ],
+      "hidden_ability_id": 109
+    }
+  ]
+}

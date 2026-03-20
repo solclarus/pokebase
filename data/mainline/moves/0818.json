@@ -1,0 +1,18 @@
+{
+  "id": 818,
+  "identifier": "surging-strikes",
+  "name": {
+    "ja": "すいりゅうれんだ",
+    "en": "Surging Strikes"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "みずの型を　極めし流れるような　３回の　連撃。必ず　急所に　当たる。",
+    "en": "The user, having mastered the Water style, strikes the target with a flowing motion three times in a row. This move always lands a critical hit."
+  }
+}

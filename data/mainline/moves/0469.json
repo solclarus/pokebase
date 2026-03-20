@@ -1,0 +1,18 @@
+{
+  "id": 469,
+  "identifier": "wide-guard",
+  "name": {
+    "ja": "ワイドガード",
+    "en": "Wide Guard"
+  },
+  "type": "rock",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "味方全員に　当たる　攻撃を１ターンの　間　防ぐ。",
+    "en": "The user and its allies are protected from wide-ranging attacks for one turn."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 189,
+  "identifier": "mud-slap",
+  "name": {
+    "ja": "どろかけ",
+    "en": "Mud-Slap"
+  },
+  "type": "ground",
+  "category": "special",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "相手の　顔などに泥を　投げつけて　攻撃する。命中率を　さげる。",
+    "en": "The user hurls mud in the target's face to inflict damage and lower its accuracy."
+  }
+}

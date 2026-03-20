@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 889,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ザマゼンタ",
+        "en": "Zamazenta"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 92,
+        "attack": 120,
+        "defense": 115,
+        "sp_attack": 80,
+        "sp_defense": 115,
+        "speed": 138
+      },
+      "ability_ids": [
+        235
+      ]
+    },
+    {
+      "id": "crowned",
+      "order": 1,
+      "name": {
+        "ja": "たてのおう",
+        "en": "Crowned Shield"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "stats": {
+        "hp": 92,
+        "attack": 120,
+        "defense": 140,
+        "sp_attack": 80,
+        "sp_defense": 140,
+        "speed": 128
+      },
+      "ability_ids": [
+        235
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 515,
+  "identifier": "final-gambit",
+  "name": {
+    "ja": "いのちがけ",
+    "en": "Final Gambit"
+  },
+  "type": "fighting",
+  "category": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "命懸けで　相手を　攻撃する。自分は　ひんしに　なるが　相手にＨＰ分の　ダメージを　与える。",
+    "en": "The user risks everything to attack the target. The user faints but inflicts damage equal to its own HP."
+  }
+}

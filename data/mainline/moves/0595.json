@@ -1,0 +1,18 @@
+{
+  "id": 595,
+  "identifier": "mystical-fire",
+  "name": {
+    "ja": "マジカルフレイム",
+    "en": "Mystical Fire"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "口から　吐きだす　特別熱い　炎で　攻撃する。相手の　特攻を　さげる。",
+    "en": "The user attacks by breathing a special, hot fire. This also lowers the target's Sp. Atk stat."
+  }
+}

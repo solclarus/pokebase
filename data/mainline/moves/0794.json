@@ -1,0 +1,18 @@
+{
+  "id": 794,
+  "identifier": "meteor-assault",
+  "name": {
+    "ja": "スターアサルト",
+    "en": "Meteor Assault"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "太い　クキを　ふりまわして　攻撃。ただし　自分も　よろめいてしまうため次の　ターンは　動けなくなる。",
+    "en": "The user attacks wildly with its thick leek. The user can’t move on the next turn, because the force of this move makes it stagger."
+  }
+}

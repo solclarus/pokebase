@@ -1,0 +1,13 @@
+{
+  "id": 61,
+  "identifier": "shed-skin",
+  "name": {
+    "ja": "だっぴ",
+    "en": "Shed Skin"
+  },
+  "description": {
+    "ja": "体の　皮を　脱ぎ捨てることで状態異常を治すことが　ある。",
+    "en": "The Pokémon may cure its own status conditions by shedding its skin."
+  },
+  "generation": 3
+}

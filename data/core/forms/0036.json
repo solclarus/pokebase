@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 36,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ピクシー",
+        "en": "Clefable"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 70,
+        "defense": 73,
+        "sp_attack": 95,
+        "sp_defense": 90,
+        "speed": 60
+      },
+      "ability_ids": [
+        56,
+        98
+      ],
+      "hidden_ability_id": 109
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガピクシー",
+        "en": "Mega Clefable"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "fairy",
+        "flying"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 80,
+        "defense": 93,
+        "sp_attack": 135,
+        "sp_defense": 110,
+        "speed": 70
+      },
+      "ability_ids": []
+    }
+  ]
+}

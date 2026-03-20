@@ -1,0 +1,18 @@
+{
+  "id": 269,
+  "identifier": "taunt",
+  "name": {
+    "ja": "ちょうはつ",
+    "en": "Taunt"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "相手を　怒らせる。　３ターンの間　相手は　ダメージを与える　技しか　だせなくなる。",
+    "en": "The target is taunted into a rage that allows it to use only attack moves for three turns."
+  }
+}

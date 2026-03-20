@@ -1,0 +1,18 @@
+{
+  "id": 40,
+  "identifier": "poison-sting",
+  "name": {
+    "ja": "どくばり",
+    "en": "Poison Sting"
+  },
+  "type": "poison",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 100,
+  "pp": 35,
+  "generation": 1,
+  "description": {
+    "ja": "毒の　ある　ハリを相手に　突き刺して　攻撃する。毒状態に　することが　ある。",
+    "en": "The user stabs the target with a poisonous stinger to inflict damage. This may also poison the target."
+  }
+}

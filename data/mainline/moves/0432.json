@@ -1,0 +1,18 @@
+{
+  "id": 432,
+  "identifier": "defog",
+  "name": {
+    "ja": "きりばらい",
+    "en": "Defog"
+  },
+  "type": "flying",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "強い風で　相手の　リフレクターやひかりのかべ　などを　はらいのける。回避率も　さげる。",
+    "en": "A strong wind blows away the target's barriers such as Reflect or Light Screen. This also lowers the target's evasiveness."
+  }
+}

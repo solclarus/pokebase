@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 452,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドラピオン",
+        "en": "Drapion"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 110,
+        "sp_attack": 60,
+        "sp_defense": 75,
+        "speed": 95
+      },
+      "ability_ids": [
+        4,
+        97
+      ],
+      "hidden_ability_id": 51
+    }
+  ]
+}

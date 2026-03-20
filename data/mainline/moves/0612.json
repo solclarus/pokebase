@@ -1,0 +1,18 @@
+{
+  "id": 612,
+  "identifier": "power-up-punch",
+  "name": {
+    "ja": "グロウパンチ",
+    "en": "Power-Up Punch"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "繰り返し　打つことでだんだん　こぶしが　固くなる。相手に　当てると　攻撃が　あがる。",
+    "en": "Striking opponents over and over makes the user’s fists harder. Hitting a target raises the Attack stat."
+  }
+}

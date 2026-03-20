@@ -1,0 +1,18 @@
+{
+  "id": 743,
+  "identifier": "max-guard",
+  "name": {
+    "ja": "ダイウォール",
+    "en": "Max Guard"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "相手の　攻撃をまったく　受けない。連続で　だすと　失敗しやすい。",
+    "en": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession."
+  }
+}

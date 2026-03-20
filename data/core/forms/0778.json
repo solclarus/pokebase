@@ -1,0 +1,105 @@
+{
+  "pokemon_id": 778,
+  "forms": [
+    {
+      "id": "disguised",
+      "order": 0,
+      "name": {
+        "ja": "ミミッキュ",
+        "en": "Mimikyu"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 90,
+        "defense": 80,
+        "sp_attack": 50,
+        "sp_defense": 105,
+        "speed": 96
+      },
+      "ability_ids": [
+        209
+      ]
+    },
+    {
+      "id": "busted",
+      "order": 1,
+      "name": {
+        "ja": "ばれたすがた",
+        "en": "Busted Form"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 90,
+        "defense": 80,
+        "sp_attack": 50,
+        "sp_defense": 105,
+        "speed": 96
+      },
+      "ability_ids": [
+        209
+      ]
+    },
+    {
+      "id": "totem-disguised",
+      "order": 2,
+      "name": {
+        "ja": "mimikyu-totem-disguised",
+        "en": "Totem Disguised Mimikyu"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 90,
+        "defense": 80,
+        "sp_attack": 50,
+        "sp_defense": 105,
+        "speed": 96
+      },
+      "ability_ids": [
+        209
+      ]
+    },
+    {
+      "id": "totem-busted",
+      "order": 3,
+      "name": {
+        "ja": "mimikyu-totem-busted",
+        "en": "Totem Busted Mimikyu"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 90,
+        "defense": 80,
+        "sp_attack": 50,
+        "sp_defense": 105,
+        "speed": 96
+      },
+      "ability_ids": [
+        209
+      ]
+    }
+  ]
+}

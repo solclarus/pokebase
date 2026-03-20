@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 428,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ミミロップ",
+        "en": "Lopunny"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 76,
+        "defense": 84,
+        "sp_attack": 54,
+        "sp_defense": 96,
+        "speed": 105
+      },
+      "ability_ids": [
+        56,
+        103
+      ],
+      "hidden_ability_id": 7
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガミミロップ",
+        "en": "Mega Lopunny"
+      },
+      "form_type": "mega",
+      "region": "sinnoh",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 136,
+        "defense": 94,
+        "sp_attack": 54,
+        "sp_defense": 96,
+        "speed": 135
+      },
+      "ability_ids": [
+        113
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 885,
+  "identifier": "trailblaze",
+  "name": {
+    "ja": "くさわけ",
+    "en": "Trailblaze"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user attacks suddenly as if leaping out from tall grass. The user's nimble footwork boosts its Speed stat."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 642,
+  "forms": [
+    {
+      "id": "incarnate",
+      "order": 0,
+      "name": {
+        "ja": "ボルトロス",
+        "en": "Thundurus"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "stats": {
+        "hp": 79,
+        "attack": 115,
+        "defense": 70,
+        "sp_attack": 125,
+        "sp_defense": 80,
+        "speed": 111
+      },
+      "ability_ids": [
+        158
+      ],
+      "hidden_ability_id": 128
+    },
+    {
+      "id": "therian",
+      "order": 1,
+      "name": {
+        "ja": "れいじゅうフォルム",
+        "en": "Therian Forme"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "stats": {
+        "hp": 79,
+        "attack": 105,
+        "defense": 70,
+        "sp_attack": 145,
+        "sp_defense": 80,
+        "speed": 101
+      },
+      "ability_ids": [
+        10
+      ]
+    }
+  ]
+}

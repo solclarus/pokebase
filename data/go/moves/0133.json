@@ -1,0 +1,13 @@
+{
+  "id": 133,
+  "identifier": "struggle",
+  "name": {
+    "ja": "わるあがき",
+    "en": "Struggle"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 35,
+  "energy_delta": 0,
+  "duration_ms": 2000
+}

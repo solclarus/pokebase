@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 281,
+  "costumes": [
+    {
+      "costume_id": "0281-hat",
+      "identifier": "kirlia-hat",
+      "name": {
+        "ja": "キルリア（ぼうし）",
+        "en": "Kirlia (Hat)"
+      },
+      "event": "October 2, 2020",
+      "available_from": "2020-10-02",
+      "available_until": null
+    }
+  ]
+}

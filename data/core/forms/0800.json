@@ -1,0 +1,104 @@
+{
+  "pokemon_id": 800,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ネクロズマ",
+        "en": "Necrozma"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 97,
+        "attack": 107,
+        "defense": 101,
+        "sp_attack": 127,
+        "sp_defense": 89,
+        "speed": 79
+      },
+      "ability_ids": [
+        232
+      ]
+    },
+    {
+      "id": "dusk",
+      "order": 1,
+      "name": {
+        "ja": "たそがれのたてがみ",
+        "en": "Dusk Mane"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "stats": {
+        "hp": 97,
+        "attack": 157,
+        "defense": 127,
+        "sp_attack": 113,
+        "sp_defense": 109,
+        "speed": 77
+      },
+      "ability_ids": [
+        232
+      ]
+    },
+    {
+      "id": "dawn",
+      "order": 2,
+      "name": {
+        "ja": "あかつきのつばさ",
+        "en": "Dawn Wings"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "psychic",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 97,
+        "attack": 113,
+        "defense": 109,
+        "sp_attack": 157,
+        "sp_defense": 127,
+        "speed": 77
+      },
+      "ability_ids": [
+        232
+      ]
+    },
+    {
+      "id": "ultra",
+      "order": 3,
+      "name": {
+        "ja": "ウルトラネクロズマ",
+        "en": "Ultra Necrozma"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "psychic",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 97,
+        "attack": 167,
+        "defense": 97,
+        "sp_attack": 167,
+        "sp_defense": 97,
+        "speed": 129
+      },
+      "ability_ids": [
+        233
+      ]
+    }
+  ]
+}

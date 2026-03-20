@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 183,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マリル",
+        "en": "Marill"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 20,
+        "defense": 50,
+        "sp_attack": 20,
+        "sp_defense": 50,
+        "speed": 40
+      },
+      "ability_ids": [
+        47,
+        37
+      ],
+      "hidden_ability_id": 157
+    }
+  ]
+}

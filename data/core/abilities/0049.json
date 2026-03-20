@@ -1,0 +1,13 @@
+{
+  "id": 49,
+  "identifier": "flame-body",
+  "name": {
+    "ja": "ほのおのからだ",
+    "en": "Flame Body"
+  },
+  "description": {
+    "ja": "自分に　触った　相手をやけど状態に　する　ことがある。",
+    "en": "Contact with the Pokémon may burn the attacker."
+  },
+  "generation": 3
+}

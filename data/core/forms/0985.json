@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 985,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サケブシッポ",
+        "en": "Scream Tail"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fairy",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 115,
+        "attack": 65,
+        "defense": 99,
+        "sp_attack": 65,
+        "sp_defense": 115,
+        "speed": 111
+      },
+      "ability_ids": [
+        281
+      ]
+    }
+  ]
+}

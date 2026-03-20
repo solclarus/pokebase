@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 824,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サッチムシ",
+        "en": "Blipbug"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 20,
+        "sp_attack": 25,
+        "sp_defense": 45,
+        "speed": 45
+      },
+      "ability_ids": [
+        68,
+        14
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

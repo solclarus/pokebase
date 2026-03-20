@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 831,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウールー",
+        "en": "Wooloo"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 42,
+        "attack": 40,
+        "defense": 55,
+        "sp_attack": 40,
+        "sp_defense": 45,
+        "speed": 48
+      },
+      "ability_ids": [
+        218,
+        50
+      ],
+      "hidden_ability_id": 171
+    }
+  ]
+}

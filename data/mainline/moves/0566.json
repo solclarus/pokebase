@@ -1,0 +1,18 @@
+{
+  "id": 566,
+  "identifier": "phantom-force",
+  "name": {
+    "ja": "ゴーストダイブ",
+    "en": "Phantom Force"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "１ターンめで　どこかに　消えて２ターンめに　相手を　攻撃する。守りを　無視して　攻撃できる。",
+    "en": "The user vanishes somewhere, then strikes the target on the next turn. This move hits even if the target protects itself."
+  }
+}

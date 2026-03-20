@@ -1,0 +1,18 @@
+{
+  "id": 903,
+  "identifier": "syrup-bomb",
+  "name": {
+    "ja": "みずあめボム",
+    "en": "Syrup Bomb"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 60,
+  "accuracy": 85,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user sets off an explosion of sticky candy syrup, which coats the target and causes the target's Speed stat to drop each turn for three turns."
+  }
+}

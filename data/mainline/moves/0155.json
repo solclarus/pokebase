@@ -1,0 +1,18 @@
+{
+  "id": 155,
+  "identifier": "bonemerang",
+  "name": {
+    "ja": "ホネブーメラン",
+    "en": "Bonemerang"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "手に　持った　ホネを　相手に　投げつけ行きと　帰りの　２回連続でダメージを　与える。",
+    "en": "The user throws the bone it holds. The bone loops around to hit the target twice—coming and going."
+  }
+}

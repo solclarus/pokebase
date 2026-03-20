@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 226,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マンタイン",
+        "en": "Mantine"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 40,
+        "defense": 70,
+        "sp_attack": 80,
+        "sp_defense": 140,
+        "speed": 70
+      },
+      "ability_ids": [
+        33,
+        11
+      ],
+      "hidden_ability_id": 41
+    }
+  ]
+}

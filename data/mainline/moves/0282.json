@@ -1,0 +1,18 @@
+{
+  "id": 282,
+  "identifier": "knock-off",
+  "name": {
+    "ja": "はたきおとす",
+    "en": "Knock Off"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "相手の　持ち物を　はたき　落として戦闘が　終わるまで　使えなくする。物を持つ　相手には　ダメージが増す。",
+    "en": "The user slaps down the target's held item, making it unusable for that battle. This move does more damage if the target has a held item."
+  }
+}

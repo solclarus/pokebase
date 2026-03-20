@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 954,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ベラカス",
+        "en": "Rabsca"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "bug",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 50,
+        "defense": 85,
+        "sp_attack": 115,
+        "sp_defense": 100,
+        "speed": 45
+      },
+      "ability_ids": [
+        28
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

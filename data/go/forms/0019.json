@@ -1,0 +1,36 @@
+{
+  "pokemon_id": 19,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 103,
+      "base_defense": 70,
+      "base_stamina": 102,
+      "fast_move_ids": [
+        221,
+        219
+      ],
+      "charged_move_ids": [
+        26,
+        129,
+        131
+      ],
+      "released_at": "2016-07-06",
+      "shiny_released_at": "2019-02-26",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "alola",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2018-06-23",
+      "shiny_released_at": "2019-06-28"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 86,
+  "identifier": "simple",
+  "name": {
+    "ja": "たんじゅん",
+    "en": "Simple"
+  },
+  "description": {
+    "ja": "能力　変化がいつもの　２倍に　なる。",
+    "en": "Doubles the effects of the Pokémon's stat changes."
+  },
+  "generation": 4
+}

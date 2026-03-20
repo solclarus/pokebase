@@ -1,0 +1,18 @@
+{
+  "id": 427,
+  "identifier": "psycho-cut",
+  "name": {
+    "ja": "サイコカッター",
+    "en": "Psycho Cut"
+  },
+  "type": "psychic",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "実体化させた心の　刃で　相手を　切り裂く。急所に　当たりやすい。",
+    "en": "The user tears at the target with blades formed by psychic power. This move has a heightened chance of landing a critical hit."
+  }
+}

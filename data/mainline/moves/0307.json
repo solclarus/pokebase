@@ -1,0 +1,18 @@
+{
+  "id": 307,
+  "identifier": "blast-burn",
+  "name": {
+    "ja": "ブラストバーン",
+    "en": "Blast Burn"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "爆発の　炎で相手を　焼きつくして　攻撃する。次の　ターンは　動けなくなる。",
+    "en": "The target is razed by a fiery explosion. The user can't move on the next turn."
+  }
+}

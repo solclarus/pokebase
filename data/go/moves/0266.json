@@ -1,0 +1,13 @@
+{
+  "id": 266,
+  "identifier": "iron-tail",
+  "name": {
+    "ja": "アイアンテール",
+    "en": "Iron Tail"
+  },
+  "type": "steel",
+  "move_type": "fast",
+  "power": 14,
+  "energy_delta": 6,
+  "duration_ms": 1000
+}

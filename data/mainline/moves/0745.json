@@ -1,0 +1,18 @@
+{
+  "id": 745,
+  "identifier": "snipe-shot",
+  "name": {
+    "ja": "ねらいうち",
+    "en": "Snipe Shot"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 8,
+  "description": {
+    "ja": "相手の　技を　引き受ける特性や　技の　影響を　無視して選んだ　相手を　攻撃　できる。",
+    "en": "The user ignores the effects of opposing Pokémon's moves and Abilities that draw in moves, allowing this move to hit the chosen target."
+  }
+}

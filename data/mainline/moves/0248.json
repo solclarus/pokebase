@@ -1,0 +1,18 @@
+{
+  "id": 248,
+  "identifier": "future-sight",
+  "name": {
+    "ja": "みらいよち",
+    "en": "Future Sight"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "技を　使った　２ターン後に相手に　念力の塊を　送って　攻撃する。",
+    "en": "Two turns after this move is used, a hunk of psychic energy attacks the target."
+  }
+}

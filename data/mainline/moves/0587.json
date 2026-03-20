@@ -1,0 +1,18 @@
+{
+  "id": 587,
+  "identifier": "fairy-lock",
+  "name": {
+    "ja": "フェアリーロック",
+    "en": "Fairy Lock"
+  },
+  "type": "fairy",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "ロックを　かけることによって次のターン　すべてのポケモンを　逃げられなくする。",
+    "en": "By locking down the battlefield, the user keeps all Pokémon from fleeing during the next turn."
+  }
+}

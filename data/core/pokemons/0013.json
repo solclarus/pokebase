@@ -1,0 +1,10 @@
+{
+  "id": 13,
+  "identifier": "weedle",
+  "name": {
+    "ja": "ビードル",
+    "en": "Weedle"
+  },
+  "generation": 1,
+  "category": "normal"
+}

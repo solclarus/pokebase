@@ -1,0 +1,18 @@
+{
+  "id": 375,
+  "identifier": "psycho-shift",
+  "name": {
+    "ja": "サイコシフト",
+    "en": "Psycho Shift"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "超能力で　暗示を　かけて自分の　受けている　状態異常を相手に　うつす。",
+    "en": "Using its psychic power of suggestion, the user transfers its status conditions to the target."
+  }
+}

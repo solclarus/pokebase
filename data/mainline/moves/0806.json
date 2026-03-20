@@ -1,0 +1,18 @@
+{
+  "id": 806,
+  "identifier": "skitter-smack",
+  "name": {
+    "ja": "はいよるいちげき",
+    "en": "Skitter Smack"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "背後から　はいより　攻撃する。相手の　特攻を　さげる。",
+    "en": "The user skitters behind the target to attack. This also lowers the target's Sp. Atk stat."
+  }
+}

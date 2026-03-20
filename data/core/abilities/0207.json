@@ -1,0 +1,13 @@
+{
+  "id": 207,
+  "identifier": "surge-surfer",
+  "name": {
+    "ja": "サーフテール",
+    "en": "Surge Surfer"
+  },
+  "description": {
+    "ja": "エレキフィールド　のとき素早さが　２倍に　なる。",
+    "en": "Doubles the Pokémon's Speed stat on Electric Terrain."
+  },
+  "generation": 7
+}

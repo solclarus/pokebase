@@ -1,0 +1,13 @@
+{
+  "id": 190,
+  "identifier": "desolate-land",
+  "name": {
+    "ja": "おわりのだいち",
+    "en": "Desolate Land"
+  },
+  "description": {
+    "ja": "みずタイプの　攻撃を受けない　天気にする。",
+    "en": "The Pokémon changes the weather to nullify Water-type attacks."
+  },
+  "generation": 6
+}

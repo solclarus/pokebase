@@ -1,0 +1,18 @@
+{
+  "id": 142,
+  "identifier": "lovely-kiss",
+  "name": {
+    "ja": "あくまのキッス",
+    "en": "Lovely Kiss"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "恐ろしい　顔で　キスを　せまる。相手を　眠り状態に　する。",
+    "en": "With a scary face, the user tries to force a kiss on the target. If it succeeds, the target falls asleep."
+  }
+}

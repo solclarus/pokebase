@@ -1,0 +1,18 @@
+{
+  "id": 475,
+  "identifier": "autotomize",
+  "name": {
+    "ja": "ボディパージ",
+    "en": "Autotomize"
+  },
+  "type": "steel",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "体の　ムダな　部分を　削る。自分の　素早さを　ぐーんと　あげて体重も　軽くなる。",
+    "en": "The user sheds part of its body to make itself lighter and sharply raise its Speed stat."
+  }
+}

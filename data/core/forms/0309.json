@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 309,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ラクライ",
+        "en": "Electrike"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "sp_attack": 65,
+        "sp_defense": 40,
+        "speed": 65
+      },
+      "ability_ids": [
+        9,
+        31
+      ],
+      "hidden_ability_id": 58
+    }
+  ]
+}

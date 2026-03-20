@@ -1,0 +1,13 @@
+{
+  "id": 178,
+  "identifier": "mega-launcher",
+  "name": {
+    "ja": "メガランチャー",
+    "en": "Mega Launcher"
+  },
+  "description": {
+    "ja": "波動の　技の威力が　高くなる。",
+    "en": "Powers up pulse moves."
+  },
+  "generation": 6
+}

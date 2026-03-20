@@ -1,0 +1,13 @@
+{
+  "id": 290,
+  "identifier": "opportunist",
+  "name": {
+    "ja": "びんじょう",
+    "en": "Opportunist"
+  },
+  "description": {
+    "ja": "相手の能力が上がったとき自分も便乗して同じように能力を上げる。",
+    "en": "If an opponent's stat is boosted, the Pokémon seizes the opportunity to boost the same stat for itself."
+  },
+  "generation": 9
+}

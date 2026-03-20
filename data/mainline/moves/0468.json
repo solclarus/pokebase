@@ -1,0 +1,18 @@
+{
+  "id": 468,
+  "identifier": "hone-claws",
+  "name": {
+    "ja": "つめとぎ",
+    "en": "Hone Claws"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "ツメを　磨いて　鋭く　する。自分の　攻撃と命中率を　あげる。",
+    "en": "The user sharpens its claws to boost its Attack stat and accuracy."
+  }
+}

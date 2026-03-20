@@ -1,0 +1,18 @@
+{
+  "id": 761,
+  "identifier": "max-knuckle",
+  "name": {
+    "ja": "ダイナックル",
+    "en": "Max Knuckle"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　かくとうタイプの　攻撃。味方の　攻撃を　上げる。",
+    "en": "This is a Fighting-type attack Dynamax Pokémon use. This raises ally Pokémon’s Attack stats."
+  }
+}

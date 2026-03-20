@@ -1,0 +1,18 @@
+{
+  "id": 21,
+  "identifier": "slam",
+  "name": {
+    "ja": "たたきつける",
+    "en": "Slam"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 75,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "長い　しっぽや　つるなどを　使い相手を　たたきつけて　攻撃する。",
+    "en": "The target is slammed with a long tail, vines, or the like to inflict damage."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 395,
+  "identifier": "force-palm",
+  "name": {
+    "ja": "はっけい",
+    "en": "Force Palm"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "相手の　体に衝撃波を　当てて　攻撃する。まひ状態に　することが　ある。",
+    "en": "The target is attacked with a shock wave. This may also leave the target with paralysis."
+  }
+}

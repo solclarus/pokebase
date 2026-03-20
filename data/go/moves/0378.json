@@ -1,0 +1,13 @@
+{
+  "id": 378,
+  "identifier": "glaciate",
+  "name": {
+    "ja": "こごえるせかい",
+    "en": "Glaciate"
+  },
+  "type": "ice",
+  "move_type": "charged",
+  "power": 160,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 895,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レジドラゴ",
+        "en": "Regidrago"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 200,
+        "attack": 100,
+        "defense": 50,
+        "sp_attack": 100,
+        "sp_defense": 50,
+        "speed": 80
+      },
+      "ability_ids": [
+        263
+      ]
+    }
+  ]
+}

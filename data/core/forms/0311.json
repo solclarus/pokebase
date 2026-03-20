@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 311,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "プラスル",
+        "en": "Plusle"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 40,
+        "sp_attack": 85,
+        "sp_defense": 75,
+        "speed": 95
+      },
+      "ability_ids": [
+        57
+      ],
+      "hidden_ability_id": 31
+    }
+  ]
+}

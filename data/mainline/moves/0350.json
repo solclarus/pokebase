@@ -1,0 +1,18 @@
+{
+  "id": 350,
+  "identifier": "rock-blast",
+  "name": {
+    "ja": "ロックブラスト",
+    "en": "Rock Blast"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "硬い　岩石を相手に　発射して　攻撃する。２ー５回の　間　連続で　だす。",
+    "en": "The user attacks by hurling hard rocks at the target. This move hits two to five times in a row."
+  }
+}

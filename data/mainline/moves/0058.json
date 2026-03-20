@@ -1,0 +1,18 @@
+{
+  "id": 58,
+  "identifier": "ice-beam",
+  "name": {
+    "ja": "れいとうビーム",
+    "en": "Ice Beam"
+  },
+  "type": "ice",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "凍える　ビームを相手に　発射して　攻撃する。こおり状態に　することが　ある。",
+    "en": "The target is struck with an icy-cold beam of energy. This may also leave the target frozen."
+  }
+}

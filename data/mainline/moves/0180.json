@@ -1,0 +1,18 @@
+{
+  "id": 180,
+  "identifier": "spite",
+  "name": {
+    "ja": "うらみ",
+    "en": "Spite"
+  },
+  "type": "ghost",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "相手が　最後に　使った技に恨みを　抱いてその技の　ＰＰを　４だけ　減らす。",
+    "en": "The user unleashes its grudge on the move last used by the target by cutting 4 PP from it."
+  }
+}

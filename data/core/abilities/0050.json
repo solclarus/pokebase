@@ -1,0 +1,13 @@
+{
+  "id": 50,
+  "identifier": "run-away",
+  "name": {
+    "ja": "にげあし",
+    "en": "Run Away"
+  },
+  "description": {
+    "ja": "野生の　ポケモンから必ず　逃げられる。",
+    "en": "Enables a sure getaway from wild Pokémon."
+  },
+  "generation": 3
+}

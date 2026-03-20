@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 368,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サクラビス",
+        "en": "Gorebyss"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 84,
+        "defense": 105,
+        "sp_attack": 114,
+        "sp_defense": 75,
+        "speed": 52
+      },
+      "ability_ids": [
+        33
+      ],
+      "hidden_ability_id": 93
+    }
+  ]
+}

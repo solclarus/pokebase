@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 30,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ニドリーナ",
+        "en": "Nidorina"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 62,
+        "defense": 67,
+        "sp_attack": 55,
+        "sp_defense": 55,
+        "speed": 56
+      },
+      "ability_ids": [
+        38,
+        79
+      ],
+      "hidden_ability_id": 55
+    }
+  ]
+}

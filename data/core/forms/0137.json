@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 137,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ポリゴン",
+        "en": "Porygon"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 70,
+        "sp_attack": 85,
+        "sp_defense": 75,
+        "speed": 40
+      },
+      "ability_ids": [
+        36,
+        88
+      ],
+      "hidden_ability_id": 148
+    }
+  ]
+}

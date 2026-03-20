@@ -1,0 +1,13 @@
+{
+  "id": 363,
+  "identifier": "sacred-fire",
+  "name": {
+    "ja": "せいなるほのお",
+    "en": "Sacred Fire"
+  },
+  "type": "fire",
+  "move_type": "charged",
+  "power": 155,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

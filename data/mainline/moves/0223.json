@@ -1,0 +1,18 @@
+{
+  "id": 223,
+  "identifier": "dynamic-punch",
+  "name": {
+    "ja": "ばくれつパンチ",
+    "en": "Dynamic Punch"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "こん身の　力でパンチを　くりだして　攻撃する。相手を　必ず　混乱させる。",
+    "en": "The user attacks by punching the target with full concentrated power. This also confuses the target."
+  }
+}

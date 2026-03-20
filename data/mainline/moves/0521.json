@@ -1,0 +1,18 @@
+{
+  "id": 521,
+  "identifier": "volt-switch",
+  "name": {
+    "ja": "ボルトチェンジ",
+    "en": "Volt Switch"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "攻撃したあとものすごい　スピードで　もどってきて控えポケモンと　入れ替わる。",
+    "en": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+  }
+}

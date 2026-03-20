@@ -1,0 +1,18 @@
+{
+  "id": 102,
+  "identifier": "mimic",
+  "name": {
+    "ja": "ものまね",
+    "en": "Mimic"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "相手が　最後に　使った　技を戦闘の　あいだ自分の　技に　することが　できる。",
+    "en": "The user copies the move last used by the target. The copied move can be used until the user of Mimic leaves the battle."
+  }
+}

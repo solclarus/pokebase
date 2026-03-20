@@ -1,0 +1,18 @@
+{
+  "id": 868,
+  "identifier": "fillet-away",
+  "name": {
+    "ja": "みをけずる",
+    "en": "Fillet Away"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user sharply boosts its Attack, Sp. Atk, and Speed stats by using its own HP."
+  }
+}

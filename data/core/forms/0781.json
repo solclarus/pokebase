@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 781,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ダダリン",
+        "en": "Dhelmise"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 131,
+        "defense": 100,
+        "sp_attack": 86,
+        "sp_defense": 90,
+        "speed": 40
+      },
+      "ability_ids": [
+        200
+      ]
+    }
+  ]
+}

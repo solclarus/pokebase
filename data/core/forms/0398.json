@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 398,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ムクホーク",
+        "en": "Staraptor"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 120,
+        "defense": 70,
+        "sp_attack": 50,
+        "sp_defense": 60,
+        "speed": 100
+      },
+      "ability_ids": [
+        22
+      ],
+      "hidden_ability_id": 120
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガムクホーク",
+        "en": "Mega Staraptor"
+      },
+      "form_type": "mega",
+      "region": "sinnoh",
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 140,
+        "defense": 100,
+        "sp_attack": 60,
+        "sp_defense": 90,
+        "speed": 110
+      },
+      "ability_ids": []
+    }
+  ]
+}

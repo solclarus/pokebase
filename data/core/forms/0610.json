@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 610,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キバゴ",
+        "en": "Axew"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 46,
+        "attack": 87,
+        "defense": 60,
+        "sp_attack": 30,
+        "sp_defense": 40,
+        "speed": 57
+      },
+      "ability_ids": [
+        79,
+        104
+      ],
+      "hidden_ability_id": 127
+    }
+  ]
+}

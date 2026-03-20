@@ -1,0 +1,53 @@
+{
+  "pokemon_id": 716,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゼルネアス",
+        "en": "Xerneas"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 126,
+        "attack": 131,
+        "defense": 95,
+        "sp_attack": 131,
+        "sp_defense": 98,
+        "speed": 99
+      },
+      "ability_ids": [
+        187
+      ]
+    },
+    {
+      "id": "active",
+      "order": 1,
+      "name": {
+        "ja": "ゼルネアス",
+        "en": "Xerneas"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 126,
+        "attack": 131,
+        "defense": 95,
+        "sp_attack": 131,
+        "sp_defense": 98,
+        "speed": 99
+      },
+      "ability_ids": [
+        187
+      ]
+    }
+  ]
+}

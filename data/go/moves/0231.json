@@ -1,0 +1,13 @@
+{
+  "id": 231,
+  "identifier": "splash",
+  "name": {
+    "ja": "はねる",
+    "en": "Splash"
+  },
+  "type": "water",
+  "move_type": "fast",
+  "power": 0,
+  "energy_delta": 17,
+  "duration_ms": 1500
+}

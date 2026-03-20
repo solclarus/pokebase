@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 627,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ワシボン",
+        "en": "Rufflet"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 83,
+        "defense": 50,
+        "sp_attack": 37,
+        "sp_defense": 50,
+        "speed": 60
+      },
+      "ability_ids": [
+        51,
+        125
+      ],
+      "hidden_ability_id": 55
+    }
+  ]
+}

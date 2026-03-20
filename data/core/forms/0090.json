@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 90,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "シェルダー",
+        "en": "Shellder"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 65,
+        "defense": 100,
+        "sp_attack": 45,
+        "sp_defense": 25,
+        "speed": 40
+      },
+      "ability_ids": [
+        75,
+        92
+      ],
+      "hidden_ability_id": 142
+    }
+  ]
+}

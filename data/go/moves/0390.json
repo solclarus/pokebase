@@ -1,0 +1,13 @@
+{
+  "id": 390,
+  "identifier": "natures-madness",
+  "name": {
+    "ja": "しぜんのいかり",
+    "en": "Natures Madness"
+  },
+  "type": "fairy",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -50,
+  "duration_ms": 2000
+}

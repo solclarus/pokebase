@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 722,
+  "costumes": [
+    {
+      "costume_id": "0722-halloween",
+      "identifier": "rowlet-halloween",
+      "name": {
+        "ja": "モクロー（ハロウィン）",
+        "en": "Rowlet (Halloween)"
+      },
+      "event": "October 22, 2024",
+      "available_from": "2024-10-22",
+      "available_until": null
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 198,
+  "identifier": "stakeout",
+  "name": {
+    "ja": "はりこみ",
+    "en": "Stakeout"
+  },
+  "description": {
+    "ja": "交代で　出てきた　相手に２倍の　ダメージで　攻撃　できる。",
+    "en": "Doubles the damage dealt to a target that has just switched into battle."
+  },
+  "generation": 7
+}

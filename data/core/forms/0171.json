@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 171,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ランターン",
+        "en": "Lanturn"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "stats": {
+        "hp": 125,
+        "attack": 58,
+        "defense": 58,
+        "sp_attack": 76,
+        "sp_defense": 76,
+        "speed": 67
+      },
+      "ability_ids": [
+        10,
+        35
+      ],
+      "hidden_ability_id": 11
+    }
+  ]
+}

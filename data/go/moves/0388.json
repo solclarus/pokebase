@@ -1,0 +1,13 @@
+{
+  "id": 388,
+  "identifier": "spacial-rend",
+  "name": {
+    "ja": "あくうせつだん",
+    "en": "Spacial Rend"
+  },
+  "type": "dragon",
+  "move_type": "charged",
+  "power": 160,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

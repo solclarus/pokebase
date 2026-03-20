@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 42,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴルバット",
+        "en": "Golbat"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 80,
+        "defense": 70,
+        "sp_attack": 65,
+        "sp_defense": 75,
+        "speed": 90
+      },
+      "ability_ids": [
+        39
+      ],
+      "hidden_ability_id": 151
+    }
+  ]
+}

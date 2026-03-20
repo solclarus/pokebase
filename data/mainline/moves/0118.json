@@ -1,0 +1,18 @@
+{
+  "id": 118,
+  "identifier": "metronome",
+  "name": {
+    "ja": "ゆびをふる",
+    "en": "Metronome"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "指をふり　自分の　脳を　刺激してすべての　技の　なかからどれか　１つを　くりだす。",
+    "en": "The user waggles a finger and stimulates its brain into randomly using nearly any move."
+  }
+}

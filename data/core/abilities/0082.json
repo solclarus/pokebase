@@ -1,0 +1,13 @@
+{
+  "id": 82,
+  "identifier": "gluttony",
+  "name": {
+    "ja": "くいしんぼう",
+    "en": "Gluttony"
+  },
+  "description": {
+    "ja": "ＨＰが　少なくなったら　食べるきのみを　ＨＰ　半分の時に　食べてしまう。",
+    "en": "If the Pokémon is holding a Berry to be eaten when its HP is low, it will instead eat the Berry when its HP drops to half or less."
+  },
+  "generation": 4
+}

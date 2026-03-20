@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 54,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コダック",
+        "en": "Psyduck"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 52,
+        "defense": 48,
+        "sp_attack": 65,
+        "sp_defense": 50,
+        "speed": 55
+      },
+      "ability_ids": [
+        6,
+        13
+      ],
+      "hidden_ability_id": 33
+    }
+  ]
+}

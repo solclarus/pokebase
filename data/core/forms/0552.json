@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 552,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ワルビル",
+        "en": "Krokorok"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 82,
+        "defense": 45,
+        "sp_attack": 45,
+        "sp_defense": 45,
+        "speed": 74
+      },
+      "ability_ids": [
+        22,
+        153
+      ],
+      "hidden_ability_id": 83
+    }
+  ]
+}

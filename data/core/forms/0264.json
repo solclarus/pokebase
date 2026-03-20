@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 264,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マッスグマ",
+        "en": "Linoone"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 70,
+        "defense": 61,
+        "sp_attack": 50,
+        "sp_defense": 61,
+        "speed": 100
+      },
+      "ability_ids": [
+        53,
+        82
+      ],
+      "hidden_ability_id": 95
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "ガラルのすがた",
+        "en": "Galarian Form"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dark",
+        "normal"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 70,
+        "defense": 61,
+        "sp_attack": 50,
+        "sp_defense": 61,
+        "speed": 100
+      },
+      "ability_ids": [
+        53,
+        82
+      ],
+      "hidden_ability_id": 95
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 405,
+  "identifier": "bug-buzz",
+  "name": {
+    "ja": "むしのさざめき",
+    "en": "Bug Buzz"
+  },
+  "type": "bug",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "振動で　音波を　おこして攻撃する。相手の　特防をさげることが　ある。",
+    "en": "The user vibrates to generate a damaging sound wave. This may also lower the target's Sp. Def stat."
+  }
+}

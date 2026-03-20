@@ -1,0 +1,18 @@
+{
+  "id": 687,
+  "identifier": "core-enforcer",
+  "name": {
+    "ja": "コアパニッシャー",
+    "en": "Core Enforcer"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "ダメージを　与えた　相手がすでに　行動を　終えていたら相手の　特性を　消してしまう。",
+    "en": "If the Pokémon the user has inflicted damage on have already used their moves, this move eliminates the effect of the target’s Ability."
+  }
+}

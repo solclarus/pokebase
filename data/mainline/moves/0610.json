@@ -1,0 +1,18 @@
+{
+  "id": 610,
+  "identifier": "hold-back",
+  "name": {
+    "ja": "てかげん",
+    "en": "Hold Back"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "generation": 6,
+  "description": {
+    "ja": "手加減　した　攻撃で相手の　ＨＰを必ず　１だけ　残す。",
+    "en": "The user holds back when it attacks, and the target is left with at least 1 HP."
+  }
+}

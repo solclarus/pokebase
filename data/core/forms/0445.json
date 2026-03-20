@@ -1,0 +1,78 @@
+{
+  "pokemon_id": 445,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ガブリアス",
+        "en": "Garchomp"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats": {
+        "hp": 108,
+        "attack": 130,
+        "defense": 95,
+        "sp_attack": 80,
+        "sp_defense": 85,
+        "speed": 102
+      },
+      "ability_ids": [
+        8
+      ],
+      "hidden_ability_id": 24
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガガブリアス",
+        "en": "Mega Garchomp"
+      },
+      "form_type": "mega",
+      "region": "sinnoh",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats": {
+        "hp": 108,
+        "attack": 170,
+        "defense": 115,
+        "sp_attack": 120,
+        "sp_defense": 95,
+        "speed": 92
+      },
+      "ability_ids": [
+        159
+      ]
+    },
+    {
+      "id": "mega-z",
+      "order": 2,
+      "name": {
+        "ja": "メガガブリアスZ",
+        "en": "Mega Garchomp Z"
+      },
+      "form_type": "mega",
+      "region": "sinnoh",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 108,
+        "attack": 130,
+        "defense": 85,
+        "sp_attack": 141,
+        "sp_defense": 85,
+        "speed": 151
+      },
+      "ability_ids": []
+    }
+  ]
+}

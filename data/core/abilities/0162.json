@@ -1,0 +1,13 @@
+{
+  "id": 162,
+  "identifier": "victory-star",
+  "name": {
+    "ja": "しょうりのほし",
+    "en": "Victory Star"
+  },
+  "description": {
+    "ja": "自分や　味方の命中率が　上がる。",
+    "en": "Boosts the accuracy of its allies and itself."
+  },
+  "generation": 5
+}

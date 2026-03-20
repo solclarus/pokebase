@@ -1,0 +1,13 @@
+{
+  "id": 309,
+  "identifier": "mirror-shot",
+  "name": {
+    "ja": "ミラーショット",
+    "en": "Mirror Shot"
+  },
+  "type": "steel",
+  "move_type": "charged",
+  "power": 50,
+  "energy_delta": -33,
+  "duration_ms": 2500
+}

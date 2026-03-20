@@ -1,0 +1,15 @@
+{
+  "pokemon_id": 6,
+  "moves": [
+    {
+      "move_id": 53,
+      "learn_method": "level",
+      "level": 1
+    },
+    {
+      "move_id": 53,
+      "learn_method": "tm",
+      "tm_number": 35
+    }
+  ]
+}

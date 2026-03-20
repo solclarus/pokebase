@@ -1,0 +1,13 @@
+{
+  "id": 46,
+  "identifier": "drill-run",
+  "name": {
+    "ja": "ドリルライナー",
+    "en": "Drill Run"
+  },
+  "type": "ground",
+  "move_type": "charged",
+  "power": 85,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

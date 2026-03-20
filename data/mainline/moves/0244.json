@@ -1,0 +1,18 @@
+{
+  "id": 244,
+  "identifier": "psych-up",
+  "name": {
+    "ja": "じこあんじ",
+    "en": "Psych Up"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "自分に　暗示を　かけることで能力変化の　状態を相手と　同じにする。",
+    "en": "The user hypnotizes itself into copying any stat change made by the target."
+  }
+}

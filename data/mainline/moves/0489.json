@@ -1,0 +1,18 @@
+{
+  "id": 489,
+  "identifier": "coil",
+  "name": {
+    "ja": "とぐろをまく",
+    "en": "Coil"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "とぐろを　まいて　集中する。自分の　攻撃と　防御と命中率を　あげる。",
+    "en": "The user coils up and concentrates. This boosts its Attack and Defense stats as well as its accuracy."
+  }
+}

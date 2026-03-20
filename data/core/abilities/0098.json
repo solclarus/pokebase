@@ -1,0 +1,13 @@
+{
+  "id": 98,
+  "identifier": "magic-guard",
+  "name": {
+    "ja": "マジックガード",
+    "en": "Magic Guard"
+  },
+  "description": {
+    "ja": "攻撃　以外ではダメージを　受けない。",
+    "en": "The Pokémon only takes damage from attacks."
+  },
+  "generation": 4
+}

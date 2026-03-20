@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 788,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カプ・レヒレ",
+        "en": "Tapu Fini"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 75,
+        "defense": 115,
+        "sp_attack": 95,
+        "sp_defense": 130,
+        "speed": 85
+      },
+      "ability_ids": [
+        228
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

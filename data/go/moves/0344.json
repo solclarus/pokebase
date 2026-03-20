@@ -1,0 +1,13 @@
+{
+  "id": 344,
+  "identifier": "tri-attack",
+  "name": {
+    "ja": "トライアタック",
+    "en": "Tri Attack"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 75,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

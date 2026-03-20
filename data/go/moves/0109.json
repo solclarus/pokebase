@@ -1,0 +1,13 @@
+{
+  "id": 109,
+  "identifier": "psystrike",
+  "name": {
+    "ja": "サイコブレイク",
+    "en": "Psystrike"
+  },
+  "type": "psychic",
+  "move_type": "charged",
+  "power": 95,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

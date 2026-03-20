@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 615,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フリージオ",
+        "en": "Cryogonal"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 50,
+        "defense": 50,
+        "sp_attack": 95,
+        "sp_defense": 135,
+        "speed": 105
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

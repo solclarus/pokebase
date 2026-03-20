@@ -1,0 +1,13 @@
+{
+  "id": 278,
+  "identifier": "zero-to-hero",
+  "name": {
+    "ja": "マイティチェンジ",
+    "en": "Zero to Hero"
+  },
+  "description": {
+    "ja": "手持ちにひっこむとマイティフォルムに変化する。",
+    "en": "The Pokémon transforms into its Hero Form when it switches out."
+  },
+  "generation": 9
+}

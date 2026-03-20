@@ -1,0 +1,13 @@
+{
+  "id": 31,
+  "identifier": "earthquake",
+  "name": {
+    "ja": "じしん",
+    "en": "Earthquake"
+  },
+  "type": "ground",
+  "move_type": "charged",
+  "power": 140,
+  "energy_delta": -100,
+  "duration_ms": 3500
+}

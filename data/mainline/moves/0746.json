@@ -1,0 +1,18 @@
+{
+  "id": 746,
+  "identifier": "jaw-lock",
+  "name": {
+    "ja": "くらいつく",
+    "en": "Jaw Lock"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "お互い　ひんしに　なるまで交代が　できなくなる。　どちらかのポケモンが　いなくなると　効果は消える。",
+    "en": "This move prevents the user and the target from switching out until either of them faints. The effect goes away if either of the Pokémon leaves the field."
+  }
+}

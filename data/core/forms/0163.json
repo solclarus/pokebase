@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 163,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ホーホー",
+        "en": "Hoothoot"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 30,
+        "defense": 30,
+        "sp_attack": 36,
+        "sp_defense": 56,
+        "speed": 50
+      },
+      "ability_ids": [
+        15,
+        51
+      ],
+      "hidden_ability_id": 110
+    }
+  ]
+}

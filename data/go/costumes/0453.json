@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 453,
+  "costumes": [
+    {
+      "costume_id": "0453-cap",
+      "identifier": "croagunk-cap",
+      "name": {
+        "ja": "グレッグル（キャップ）",
+        "en": "Croagunk (Cap)"
+      },
+      "event": "October 2, 2020",
+      "available_from": "2020-10-02",
+      "available_until": null
+    }
+  ]
+}

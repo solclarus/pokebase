@@ -1,0 +1,18 @@
+{
+  "id": 684,
+  "identifier": "smart-strike",
+  "name": {
+    "ja": "スマートホーン",
+    "en": "Smart Strike"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 70,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "とがった　つので　相手を突き刺して　攻撃する。攻撃は　必ず　命中する。",
+    "en": "The user stabs the target with a sharp horn. This attack never misses."
+  }
+}

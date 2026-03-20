@@ -1,0 +1,18 @@
+{
+  "id": 568,
+  "identifier": "noble-roar",
+  "name": {
+    "ja": "おたけび",
+    "en": "Noble Roar"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 6,
+  "description": {
+    "ja": "おたけびを　あげて相手を　威嚇し　相手の攻撃と　特攻を　さげる。",
+    "en": "Letting out a noble roar, the user intimidates the target and lowers the target's Attack and Sp. Atk stats."
+  }
+}

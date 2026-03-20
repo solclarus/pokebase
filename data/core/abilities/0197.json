@@ -1,0 +1,13 @@
+{
+  "id": 197,
+  "identifier": "shields-down",
+  "name": {
+    "ja": "リミットシールド",
+    "en": "Shields Down"
+  },
+  "description": {
+    "ja": "ＨＰが　半分に　なると殻が　壊れて攻撃的に　なる。",
+    "en": "When its HP drops to half or less, the Pokémon's shell breaks and it becomes aggressive."
+  },
+  "generation": 7
+}

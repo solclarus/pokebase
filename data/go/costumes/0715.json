@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 715,
+  "costumes": [
+    {
+      "costume_id": "0715-headband",
+      "identifier": "noivern-headband",
+      "name": {
+        "ja": "オンバーン（ヘッドバンド）",
+        "en": "Noivern (Headband)"
+      },
+      "event": "October 21, 2025",
+      "available_from": "2025-10-21",
+      "available_until": null
+    }
+  ]
+}

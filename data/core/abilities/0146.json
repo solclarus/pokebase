@@ -1,0 +1,13 @@
+{
+  "id": 146,
+  "identifier": "sand-rush",
+  "name": {
+    "ja": "すなかき",
+    "en": "Sand Rush"
+  },
+  "description": {
+    "ja": "天気が　すなあらし　のとき素早さが　上がる。",
+    "en": "Boosts the Pokémon's Speed stat in a sandstorm."
+  },
+  "generation": 5
+}

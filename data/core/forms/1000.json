@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1000,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サーフゴー",
+        "en": "Gholdengo"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 87,
+        "attack": 60,
+        "defense": 95,
+        "sp_attack": 133,
+        "sp_defense": 91,
+        "speed": 84
+      },
+      "ability_ids": [
+        283
+      ]
+    }
+  ]
+}

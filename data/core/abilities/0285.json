@@ -1,0 +1,13 @@
+{
+  "id": 285,
+  "identifier": "sword-of-ruin",
+  "name": {
+    "ja": "わざわいのつるぎ",
+    "en": "Sword of Ruin"
+  },
+  "description": {
+    "ja": "災厄を呼ぶ剣の力で自分以外の防御が弱くなる。",
+    "en": "The power of the Pokémon's ruinous sword lowers the Defense stats of all Pokémon except itself."
+  },
+  "generation": 9
+}

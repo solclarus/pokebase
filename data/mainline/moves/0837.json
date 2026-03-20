@@ -1,0 +1,18 @@
+{
+  "id": 837,
+  "identifier": "victory-dance",
+  "name": {
+    "ja": "しょうりのまい",
+    "en": "Victory Dance"
+  },
+  "type": "fighting",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user performs an intense dance to usher in victory, boosting its Attack, Defense, and Speed stats."
+  }
+}

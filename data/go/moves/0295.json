@@ -1,0 +1,13 @@
+{
+  "id": 295,
+  "identifier": "weather-ball-water",
+  "name": {
+    "ja": "ウェザーボール",
+    "en": "Weather Ball Water"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 55,
+  "energy_delta": -33,
+  "duration_ms": 1500
+}

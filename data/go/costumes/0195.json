@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 195,
+  "costumes": [
+    {
+      "costume_id": "0195-hat",
+      "identifier": "quagsire-hat",
+      "name": {
+        "ja": "ヌオー（ぼうし）",
+        "en": "Quagsire (Hat)"
+      },
+      "event": "November 15, 2023",
+      "available_from": "2023-11-15",
+      "available_until": null
+    }
+  ]
+}

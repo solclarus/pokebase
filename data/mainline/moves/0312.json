@@ -1,0 +1,18 @@
+{
+  "id": 312,
+  "identifier": "aromatherapy",
+  "name": {
+    "ja": "アロマセラピー",
+    "en": "Aromatherapy"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "心地好い　やすらぐ　香りを　かがせて味方全員の　状態異常を　回復する。",
+    "en": "This move can't be used. It's recommended that this move is forgotten. Once forgotten, this move can't be remembered."
+  }
+}

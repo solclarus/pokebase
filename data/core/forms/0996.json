@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 996,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "セビエ",
+        "en": "Frigibax"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 75,
+        "defense": 45,
+        "sp_attack": 35,
+        "sp_defense": 45,
+        "speed": 55
+      },
+      "ability_ids": [
+        270
+      ],
+      "hidden_ability_id": 115
+    }
+  ]
+}

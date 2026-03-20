@@ -1,0 +1,13 @@
+{
+  "id": 51,
+  "identifier": "night-slash",
+  "name": {
+    "ja": "つじぎり",
+    "en": "Night Slash"
+  },
+  "type": "dark",
+  "move_type": "charged",
+  "power": 45,
+  "energy_delta": -33,
+  "duration_ms": 2000
+}

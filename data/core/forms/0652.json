@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 652,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ブリガロン",
+        "en": "Chesnaught"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 107,
+        "defense": 122,
+        "sp_attack": 74,
+        "sp_defense": 75,
+        "speed": 64
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 171
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガブリガロン",
+        "en": "Mega Chesnaught"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 137,
+        "defense": 172,
+        "sp_attack": 74,
+        "sp_defense": 115,
+        "speed": 44
+      },
+      "ability_ids": []
+    }
+  ]
+}

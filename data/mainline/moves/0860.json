@@ -1,0 +1,18 @@
+{
+  "id": 860,
+  "identifier": "population-bomb",
+  "name": {
+    "ja": "ネズミざん",
+    "en": "Population Bomb"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user’s fellows gather in droves to perform a combo attack that hits the target one to ten times in a row."
+  }
+}

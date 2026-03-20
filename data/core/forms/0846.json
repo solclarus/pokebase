@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 846,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サシカマス",
+        "en": "Arrokuda"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 41,
+        "attack": 63,
+        "defense": 40,
+        "sp_attack": 40,
+        "sp_defense": 30,
+        "speed": 66
+      },
+      "ability_ids": [
+        33
+      ],
+      "hidden_ability_id": 239
+    }
+  ]
+}

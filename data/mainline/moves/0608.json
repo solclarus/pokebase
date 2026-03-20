@@ -1,0 +1,18 @@
+{
+  "id": 608,
+  "identifier": "baby-doll-eyes",
+  "name": {
+    "ja": "つぶらなひとみ",
+    "en": "Baby-Doll Eyes"
+  },
+  "type": "fairy",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 6,
+  "description": {
+    "ja": "つぶらなひとみで　相手を　みつめて攻撃を　さげる。必ず　先制攻撃　できる。",
+    "en": "The user stares at the target with its baby-doll eyes, which lowers the target's Attack stat. This move always goes first."
+  }
+}

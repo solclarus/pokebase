@@ -1,0 +1,18 @@
+{
+  "id": 619,
+  "identifier": "precipice-blades",
+  "name": {
+    "ja": "だんがいのつるぎ",
+    "en": "Precipice Blades"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "大地の　力を　刃に　変えて相手を　攻撃する。",
+    "en": "The user attacks opposing Pokémon by manifesting the power of the land in fearsome blades of stone."
+  }
+}

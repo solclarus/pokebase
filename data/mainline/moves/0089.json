@@ -1,0 +1,18 @@
+{
+  "id": 89,
+  "identifier": "earthquake",
+  "name": {
+    "ja": "じしん",
+    "en": "Earthquake"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "地震の　衝撃で　自分の周りに　いるものを　攻撃する。",
+    "en": "The user sets off an earthquake that strikes every Pokémon around it."
+  }
+}

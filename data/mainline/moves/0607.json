@@ -1,0 +1,18 @@
+{
+  "id": 607,
+  "identifier": "hold-hands",
+  "name": {
+    "ja": "てをつなぐ",
+    "en": "Hold Hands"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "generation": 6,
+  "description": {
+    "ja": "味方の　ポケモン　同士が手をつなぐ。　とっても　幸せな気持ちに　なれる。",
+    "en": "The user and an ally hold hands. This makes them very happy."
+  }
+}

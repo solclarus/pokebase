@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 408,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ズガイドス",
+        "en": "Cranidos"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 67,
+        "attack": 125,
+        "defense": 40,
+        "sp_attack": 30,
+        "sp_defense": 30,
+        "speed": 58
+      },
+      "ability_ids": [
+        104
+      ],
+      "hidden_ability_id": 125
+    }
+  ]
+}

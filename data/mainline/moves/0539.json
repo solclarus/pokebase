@@ -1,0 +1,18 @@
+{
+  "id": 539,
+  "identifier": "night-daze",
+  "name": {
+    "ja": "ナイトバースト",
+    "en": "Night Daze"
+  },
+  "type": "dark",
+  "category": "special",
+  "power": 85,
+  "accuracy": 95,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "暗黒の　衝撃波をとばして　相手を　攻撃する。命中率を　さげることが　ある。",
+    "en": "The user looses a pitch-black shock wave at the target to inflict damage. This may also lower the target's accuracy."
+  }
+}

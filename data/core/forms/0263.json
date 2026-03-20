@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 263,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ジグザグマ",
+        "en": "Zigzagoon"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 38,
+        "attack": 30,
+        "defense": 41,
+        "sp_attack": 30,
+        "sp_defense": 41,
+        "speed": 60
+      },
+      "ability_ids": [
+        53,
+        82
+      ],
+      "hidden_ability_id": 95
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "ガラルのすがた",
+        "en": "Galarian Form"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dark",
+        "normal"
+      ],
+      "stats": {
+        "hp": 38,
+        "attack": 30,
+        "defense": 41,
+        "sp_attack": 30,
+        "sp_defense": 41,
+        "speed": 60
+      },
+      "ability_ids": [
+        53,
+        82
+      ],
+      "hidden_ability_id": 95
+    }
+  ]
+}

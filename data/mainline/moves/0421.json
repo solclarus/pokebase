@@ -1,0 +1,18 @@
+{
+  "id": 421,
+  "identifier": "shadow-claw",
+  "name": {
+    "ja": "シャドークロー",
+    "en": "Shadow Claw"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "影から　つくった　鋭い　ツメで相手を　切り裂く。急所に　当たりやすい。",
+    "en": "The user attacks by slashing the target with a sharp claw made from shadows. This move has a heightened chance of landing a critical hit."
+  }
+}

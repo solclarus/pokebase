@@ -1,0 +1,13 @@
+{
+  "id": 343,
+  "identifier": "leaf-storm",
+  "name": {
+    "ja": "リーフストーム",
+    "en": "Leaf Storm"
+  },
+  "type": "grass",
+  "move_type": "charged",
+  "power": 130,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

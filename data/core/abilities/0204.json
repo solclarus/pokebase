@@ -1,0 +1,13 @@
+{
+  "id": 204,
+  "identifier": "liquid-voice",
+  "name": {
+    "ja": "うるおいボイス",
+    "en": "Liquid Voice"
+  },
+  "description": {
+    "ja": "すべての　音技がみずタイプに　なる。",
+    "en": "Sound-based moves become Water-type moves."
+  },
+  "generation": 7
+}

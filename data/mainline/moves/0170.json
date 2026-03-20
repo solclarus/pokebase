@@ -1,0 +1,18 @@
+{
+  "id": 170,
+  "identifier": "mind-reader",
+  "name": {
+    "ja": "こころのめ",
+    "en": "Mind Reader"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "相手の　動きを　心で　感じて次の　攻撃が　必ず相手に　当たるように　する。",
+    "en": "The user senses the target’s movements with its mind to ensure its next attack does not miss the target."
+  }
+}

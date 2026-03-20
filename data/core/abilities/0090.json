@@ -1,0 +1,13 @@
+{
+  "id": 90,
+  "identifier": "poison-heal",
+  "name": {
+    "ja": "ポイズンヒール",
+    "en": "Poison Heal"
+  },
+  "description": {
+    "ja": "どく状態に　なるとＨＰが　減らずに　増えていく。",
+    "en": "If poisoned, the Pokémon has its HP restored instead of taking damage."
+  },
+  "generation": 4
+}

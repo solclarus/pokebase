@@ -1,0 +1,18 @@
+{
+  "id": 533,
+  "identifier": "sacred-sword",
+  "name": {
+    "ja": "せいなるつるぎ",
+    "en": "Sacred Sword"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "長い　つので　切りつけ　攻撃する。相手の　能力変化に関係なく　ダメージを　与える。",
+    "en": "The user attacks by slicing with a sword. The target's stat changes don't affect the damage inflicted by this move."
+  }
+}

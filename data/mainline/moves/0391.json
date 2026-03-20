@@ -1,0 +1,18 @@
+{
+  "id": 391,
+  "identifier": "heart-swap",
+  "name": {
+    "ja": "ハートスワップ",
+    "en": "Heart Swap"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "The user employs its psychic power to switch stat changes with the target."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 214,
+  "identifier": "sleep-talk",
+  "name": {
+    "ja": "ねごと",
+    "en": "Sleep Talk"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "自分が　おぼえている　技の　うちどれか　１つを　くりだす。自分が　寝ているときだけ　使える。",
+    "en": "The user randomly uses one of the moves it knows. This move can only be used while the user is asleep."
+  }
+}

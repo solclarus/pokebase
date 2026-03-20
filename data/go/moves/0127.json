@@ -1,0 +1,13 @@
+{
+  "id": 127,
+  "identifier": "stomp",
+  "name": {
+    "ja": "ふみつけ",
+    "en": "Stomp"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 50,
+  "energy_delta": -50,
+  "duration_ms": 1500
+}

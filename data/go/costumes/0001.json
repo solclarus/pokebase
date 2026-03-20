@@ -1,0 +1,38 @@
+{
+  "pokemon_id": 1,
+  "costumes": [
+    {
+      "costume_id": "0001-fall",
+      "identifier": "bulbasaur-fall",
+      "name": {
+        "ja": "フシギダネ（オータム）",
+        "en": "Bulbasaur (Fall)"
+      },
+      "event": "October 17, 2019",
+      "available_from": "2019-10-17",
+      "available_until": null
+    },
+    {
+      "costume_id": "0001-party_hat",
+      "identifier": "bulbasaur-party-hat",
+      "name": {
+        "ja": "フシギダネ（パーティーハット）",
+        "en": "Bulbasaur (Party Hat)"
+      },
+      "event": "February 25, 2020",
+      "available_from": "2020-02-25",
+      "available_until": null
+    },
+    {
+      "costume_id": "0001-visor",
+      "identifier": "bulbasaur-visor",
+      "name": {
+        "ja": "フシギダネ（バイザー）",
+        "en": "Bulbasaur (Visor)"
+      },
+      "event": "July 25, 2020",
+      "available_from": "2020-07-25",
+      "available_until": null
+    }
+  ]
+}

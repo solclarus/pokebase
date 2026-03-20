@@ -1,0 +1,18 @@
+{
+  "id": 514,
+  "identifier": "retaliate",
+  "name": {
+    "ja": "かたきうち",
+    "en": "Retaliate"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "倒れた　味方の　かたきを　討つ。前の　ターンに　味方が倒されていると　威力が　あがる。",
+    "en": "The user takes revenge for a fainted ally. This move's power is boosted if an ally fainted in the previous turn."
+  }
+}

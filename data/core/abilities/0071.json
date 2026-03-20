@@ -1,0 +1,13 @@
+{
+  "id": 71,
+  "identifier": "arena-trap",
+  "name": {
+    "ja": "ありじごく",
+    "en": "Arena Trap"
+  },
+  "description": {
+    "ja": "戦闘で　相手を逃げられなくする。",
+    "en": "Prevents opposing Pokémon from fleeing from battle."
+  },
+  "generation": 3
+}

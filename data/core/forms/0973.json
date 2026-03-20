@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 973,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カラミンゴ",
+        "en": "Flamigo"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "flying",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 82,
+        "attack": 115,
+        "defense": 74,
+        "sp_attack": 75,
+        "sp_defense": 64,
+        "speed": 90
+      },
+      "ability_ids": [
+        113,
+        77
+      ],
+      "hidden_ability_id": 294
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 61,
+  "identifier": "bubble-beam",
+  "name": {
+    "ja": "バブルこうせん",
+    "en": "Bubble Beam"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "泡を　勢いよく相手に　発射して　攻撃する。素早さを　さげる　ことが　ある。",
+    "en": "A spray of bubbles is forcefully ejected at the target. This may also lower the target's Speed stat."
+  }
+}

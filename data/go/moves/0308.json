@@ -1,0 +1,13 @@
+{
+  "id": 308,
+  "identifier": "octazooka",
+  "name": {
+    "ja": "オクタンほう",
+    "en": "Octazooka"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 55,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

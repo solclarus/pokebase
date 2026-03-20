@@ -1,0 +1,74 @@
+{
+  "pokemon_id": 649,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 252,
+      "base_defense": 199,
+      "base_stamina": 174,
+      "fast_move_ids": [
+        228,
+        200
+      ],
+      "charged_move_ids": [
+        100,
+        72,
+        14
+      ],
+      "released_at": "2020-03-20",
+      "shiny_released_at": "2020-08-14",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [
+        336
+      ]
+    },
+    {
+      "form_id": "douse",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-10-01",
+      "shiny_released_at": "2023-11-03"
+    },
+    {
+      "form_id": "shock",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2022-01-15",
+      "shiny_released_at": "2023-05-02"
+    },
+    {
+      "form_id": "burn",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2021-01-05",
+      "shiny_released_at": "2023-09-16"
+    },
+    {
+      "form_id": "chill",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2022-08-10",
+      "shiny_released_at": "2024-12-03"
+    }
+  ]
+}

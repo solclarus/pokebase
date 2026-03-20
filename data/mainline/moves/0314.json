@@ -1,0 +1,18 @@
+{
+  "id": 314,
+  "identifier": "air-cutter",
+  "name": {
+    "ja": "エアカッター",
+    "en": "Air Cutter"
+  },
+  "type": "flying",
+  "category": "special",
+  "power": 60,
+  "accuracy": 95,
+  "pp": 25,
+  "generation": 3,
+  "description": {
+    "ja": "鋭い　風で相手を　切りつけて　攻撃する。急所に　当たりやすい。",
+    "en": "The user launches razor-like wind to slash opposing Pokémon. This move has a heightened chance of landing a critical hit."
+  }
+}

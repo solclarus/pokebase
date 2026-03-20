@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 680,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ニダンギル",
+        "en": "Doublade"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 59,
+        "attack": 110,
+        "defense": 150,
+        "sp_attack": 45,
+        "sp_defense": 49,
+        "speed": 35
+      },
+      "ability_ids": [
+        99
+      ]
+    }
+  ]
+}

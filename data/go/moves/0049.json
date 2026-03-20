@@ -1,0 +1,13 @@
+{
+  "id": 49,
+  "identifier": "bug-buzz",
+  "name": {
+    "ja": "むしのさざめき",
+    "en": "Bug Buzz"
+  },
+  "type": "bug",
+  "move_type": "charged",
+  "power": 95,
+  "energy_delta": -50,
+  "duration_ms": 3500
+}

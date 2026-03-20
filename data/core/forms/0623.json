@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 623,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴルーグ",
+        "en": "Golurk"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 89,
+        "attack": 124,
+        "defense": 80,
+        "sp_attack": 55,
+        "sp_defense": 80,
+        "speed": 55
+      },
+      "ability_ids": [
+        89,
+        103
+      ],
+      "hidden_ability_id": 99
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガゴルーグ",
+        "en": "Mega Golurk"
+      },
+      "form_type": "mega",
+      "region": "unova",
+      "types": [
+        "ground",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 89,
+        "attack": 159,
+        "defense": 105,
+        "sp_attack": 70,
+        "sp_defense": 105,
+        "speed": 55
+      },
+      "ability_ids": []
+    }
+  ]
+}

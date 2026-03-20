@@ -1,0 +1,18 @@
+{
+  "id": 904,
+  "identifier": "ivy-cudgel",
+  "name": {
+    "ja": "ツタこんぼう",
+    "en": "Ivy Cudgel"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user strikes with an ivy-wrapped cudgel. This move's type changes depending on the mask worn by the user, and it has a heightened chance of landing a critical hit."
+  }
+}

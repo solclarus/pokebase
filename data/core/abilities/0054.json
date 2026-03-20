@@ -1,0 +1,13 @@
+{
+  "id": 54,
+  "identifier": "truant",
+  "name": {
+    "ja": "なまけ",
+    "en": "Truant"
+  },
+  "description": {
+    "ja": "技を　出すと次の　ターンは　休んでしまう。",
+    "en": "Each time the Pokémon uses a move, it spends the next turn loafing around."
+  },
+  "generation": 3
+}

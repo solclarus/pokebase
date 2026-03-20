@@ -1,0 +1,13 @@
+{
+  "id": 69,
+  "identifier": "rock-head",
+  "name": {
+    "ja": "いしあたま",
+    "en": "Rock Head"
+  },
+  "description": {
+    "ja": "反動を　受ける　技を　出してもＨＰが　減らない。",
+    "en": "Protects the Pokémon from recoil damage."
+  },
+  "generation": 3
+}

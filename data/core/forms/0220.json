@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 220,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウリムー",
+        "en": "Swinub"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "ice",
+        "ground"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 40,
+        "sp_attack": 30,
+        "sp_defense": 30,
+        "speed": 50
+      },
+      "ability_ids": [
+        12,
+        81
+      ],
+      "hidden_ability_id": 47
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 176,
+  "identifier": "conversion-2",
+  "name": {
+    "ja": "テクスチャー２",
+    "en": "Conversion 2"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 2,
+  "description": {
+    "ja": "相手が　最後に　使った技に抵抗できる　ように自分の　タイプを　変化させる。",
+    "en": "The user changes its type to make itself resistant to the type of the move the target used last."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 189,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ワタッコ",
+        "en": "Jumpluff"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 55,
+        "defense": 70,
+        "sp_attack": 55,
+        "sp_defense": 95,
+        "speed": 110
+      },
+      "ability_ids": [
+        34,
+        102
+      ],
+      "hidden_ability_id": 151
+    }
+  ]
+}

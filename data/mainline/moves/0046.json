@@ -1,0 +1,18 @@
+{
+  "id": 46,
+  "identifier": "roar",
+  "name": {
+    "ja": "ほえる",
+    "en": "Roar"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "相手を　逃がして控えの　ポケモンを　ひきずりだす。野生の　場合は　戦闘が　終わる。",
+    "en": "The target is scared off, and a different Pokémon is dragged out. In the wild, this ends a battle against a single Pokémon."
+  }
+}

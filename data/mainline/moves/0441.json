@@ -1,0 +1,18 @@
+{
+  "id": 441,
+  "identifier": "gunk-shot",
+  "name": {
+    "ja": "ダストシュート",
+    "en": "Gunk Shot"
+  },
+  "type": "poison",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 80,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "汚い　ゴミを相手に　ぶつけて　攻撃する。毒状態に　することが　ある。",
+    "en": "The user shoots filthy garbage at the target to attack. This may also poison the target."
+  }
+}

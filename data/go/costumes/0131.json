@@ -1,0 +1,27 @@
+{
+  "pokemon_id": 131,
+  "costumes": [
+    {
+      "costume_id": "0131-scarf",
+      "identifier": "lapras-scarf",
+      "name": {
+        "ja": "ラプラス（マフラー）",
+        "en": "Lapras (Scarf)"
+      },
+      "event": "May 12, 2022",
+      "available_from": "2022-05-12",
+      "available_until": null
+    },
+    {
+      "costume_id": "0131-blanche",
+      "identifier": "lapras-blanche",
+      "name": {
+        "ja": "ラプラス（ブランシェ）",
+        "en": "Lapras (Blanche)"
+      },
+      "event": "April 13, 2023",
+      "available_from": "2023-04-13",
+      "available_until": null
+    }
+  ]
+}

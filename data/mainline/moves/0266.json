@@ -1,0 +1,18 @@
+{
+  "id": 266,
+  "identifier": "follow-me",
+  "name": {
+    "ja": "このゆびとまれ",
+    "en": "Follow Me"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "自分に　注目させて相手からの　攻撃をすべて　自分に　むけさせる。",
+    "en": "The user draws attention to itself, making all opposing Pokémon take aim only at the user."
+  }
+}

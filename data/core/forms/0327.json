@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 327,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "パッチール",
+        "en": "Spinda"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "sp_attack": 60,
+        "sp_defense": 60,
+        "speed": 60
+      },
+      "ability_ids": [
+        20,
+        77
+      ],
+      "hidden_ability_id": 126
+    }
+  ]
+}

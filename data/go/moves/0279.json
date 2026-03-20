@@ -1,0 +1,13 @@
+{
+  "id": 279,
+  "identifier": "crunch",
+  "name": {
+    "ja": "かみくだく",
+    "en": "Crunch"
+  },
+  "type": "dark",
+  "move_type": "charged",
+  "power": 65,
+  "energy_delta": -33,
+  "duration_ms": 3000
+}

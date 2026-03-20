@@ -1,0 +1,13 @@
+{
+  "id": 205,
+  "identifier": "thunder-shock",
+  "name": {
+    "ja": "でんきショック",
+    "en": "Thunder Shock"
+  },
+  "type": "electric",
+  "move_type": "fast",
+  "power": 4,
+  "energy_delta": 7,
+  "duration_ms": 500
+}

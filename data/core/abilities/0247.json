@@ -1,0 +1,13 @@
+{
+  "id": 247,
+  "identifier": "ripen",
+  "name": {
+    "ja": "じゅくせい",
+    "en": "Ripen"
+  },
+  "description": {
+    "ja": "熟成　させることできのみの　効果が倍に　なる。",
+    "en": "Ripens Berries and doubles their effect."
+  },
+  "generation": 8
+}

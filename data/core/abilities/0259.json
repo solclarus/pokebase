@@ -1,0 +1,13 @@
+{
+  "id": 259,
+  "identifier": "quick-draw",
+  "name": {
+    "ja": "クイックドロウ",
+    "en": "Quick Draw"
+  },
+  "description": {
+    "ja": "相手より　先に行動できることが　ある。",
+    "en": "Enables the Pokémon to move first occasionally."
+  },
+  "generation": 8
+}

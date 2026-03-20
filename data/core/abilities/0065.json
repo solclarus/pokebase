@@ -1,0 +1,13 @@
+{
+  "id": 65,
+  "identifier": "overgrow",
+  "name": {
+    "ja": "しんりょく",
+    "en": "Overgrow"
+  },
+  "description": {
+    "ja": "ＨＰが　減ったときくさタイプの　技の威力が　上がる。",
+    "en": "Powers up Grass-type moves when the Pokémon's HP is low."
+  },
+  "generation": 3
+}

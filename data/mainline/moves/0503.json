@@ -1,0 +1,18 @@
+{
+  "id": 503,
+  "identifier": "scald",
+  "name": {
+    "ja": "ねっとう",
+    "en": "Scald"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "熱く　煮えたぎる　水を相手に　発射して　攻撃する。やけど状態に　することが　ある。",
+    "en": "The user attacks by shooting boiling hot water at the target. This may also leave the target with a burn."
+  }
+}

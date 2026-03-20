@@ -1,0 +1,51 @@
+{
+  "pokemon_id": 491,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ダークライ",
+        "en": "Darkrai"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 90,
+        "sp_attack": 135,
+        "sp_defense": 90,
+        "speed": 125
+      },
+      "ability_ids": [
+        123
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガダークライ",
+        "en": "Mega Darkrai"
+      },
+      "form_type": "mega",
+      "region": "sinnoh",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 120,
+        "defense": 130,
+        "sp_attack": 165,
+        "sp_defense": 130,
+        "speed": 85
+      },
+      "ability_ids": []
+    }
+  ]
+}

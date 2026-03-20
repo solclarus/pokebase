@@ -1,0 +1,13 @@
+{
+  "id": 115,
+  "identifier": "ice-body",
+  "name": {
+    "ja": "アイスボディ",
+    "en": "Ice Body"
+  },
+  "description": {
+    "ja": "天気が　あられのとき　ＨＰを少しずつ　回復　する。",
+    "en": "The Pokémon gradually regains HP in snow."
+  },
+  "generation": 4
+}

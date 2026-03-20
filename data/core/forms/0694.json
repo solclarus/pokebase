@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 694,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エリキテル",
+        "en": "Helioptile"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 33,
+        "sp_attack": 61,
+        "sp_defense": 43,
+        "speed": 70
+      },
+      "ability_ids": [
+        87,
+        8
+      ],
+      "hidden_ability_id": 94
+    }
+  ]
+}

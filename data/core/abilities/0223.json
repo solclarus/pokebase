@@ -1,0 +1,13 @@
+{
+  "id": 223,
+  "identifier": "power-of-alchemy",
+  "name": {
+    "ja": "かがくのちから",
+    "en": "Power of Alchemy"
+  },
+  "description": {
+    "ja": "倒された　味方の　特性を　受け継ぎ同じ　特性に　変わる。",
+    "en": "The Pokémon copies the Ability of a defeated ally."
+  },
+  "generation": 7
+}

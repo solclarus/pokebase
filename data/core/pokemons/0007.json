@@ -1,0 +1,10 @@
+{
+  "id": 7,
+  "identifier": "squirtle",
+  "name": {
+    "ja": "ゼニガメ",
+    "en": "Squirtle"
+  },
+  "generation": 1,
+  "category": "normal"
+}

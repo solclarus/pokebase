@@ -1,0 +1,13 @@
+{
+  "id": 290,
+  "identifier": "precipice-blades",
+  "name": {
+    "ja": "だんがいのつるぎ",
+    "en": "Precipice Blades"
+  },
+  "type": "ground",
+  "move_type": "charged",
+  "power": 120,
+  "energy_delta": -100,
+  "duration_ms": 1500
+}

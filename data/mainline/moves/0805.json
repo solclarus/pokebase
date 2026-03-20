@@ -1,0 +1,18 @@
+{
+  "id": 805,
+  "identifier": "terrain-pulse",
+  "name": {
+    "ja": "だいちのはどう",
+    "en": "Terrain Pulse"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "フィールドの力を　借りて　攻撃。使った時の　フィールドの状態に　よって技の　タイプと　威力が　変わる。",
+    "en": "The user utilizes the energy of the terrain to attack. This move’s type and power change depending on the terrain at the time the move is used."
+  }
+}

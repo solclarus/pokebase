@@ -1,0 +1,13 @@
+{
+  "id": 34,
+  "identifier": "chlorophyll",
+  "name": {
+    "ja": "ようりょくそ",
+    "en": "Chlorophyll"
+  },
+  "description": {
+    "ja": "天気が　晴れのとき素早さが　上がる。",
+    "en": "Boosts the Pokémon's Speed stat in harsh sunlight."
+  },
+  "generation": 3
+}

@@ -1,0 +1,13 @@
+{
+  "id": 206,
+  "identifier": "spark",
+  "name": {
+    "ja": "スパーク",
+    "en": "Spark"
+  },
+  "type": "electric",
+  "move_type": "fast",
+  "power": 4,
+  "energy_delta": 6,
+  "duration_ms": 500
+}

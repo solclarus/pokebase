@@ -1,0 +1,13 @@
+{
+  "id": 260,
+  "identifier": "unseen-fist",
+  "name": {
+    "ja": "ふかしのこぶし",
+    "en": "Unseen Fist"
+  },
+  "description": {
+    "ja": "相手に　接触する　技なら守りの　効果を無視して　攻撃することが　できる。",
+    "en": "If the Pokémon uses moves that make direct contact, it can attack the target even if the target protects itself."
+  },
+  "generation": 8
+}

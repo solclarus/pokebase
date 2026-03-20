@@ -1,0 +1,13 @@
+{
+  "id": 91,
+  "identifier": "adaptability",
+  "name": {
+    "ja": "てきおうりょく",
+    "en": "Adaptability"
+  },
+  "description": {
+    "ja": "自分と　おなじ　タイプの技の　威力が　上がる。",
+    "en": "Powers up moves of the same type as the Pokémon."
+  },
+  "generation": 4
+}

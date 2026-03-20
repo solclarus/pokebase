@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 974,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アルクジラ",
+        "en": "Cetoddle"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 108,
+        "attack": 68,
+        "defense": 45,
+        "sp_attack": 30,
+        "sp_defense": 40,
+        "speed": 43
+      },
+      "ability_ids": [
+        47,
+        81
+      ],
+      "hidden_ability_id": 125
+    }
+  ]
+}

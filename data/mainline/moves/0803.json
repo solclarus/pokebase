@@ -1,0 +1,18 @@
+{
+  "id": 803,
+  "identifier": "grassy-glide",
+  "name": {
+    "ja": "グラススライダー",
+    "en": "Grassy Glide"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 8,
+  "description": {
+    "ja": "地面を　滑るように　相手を　攻撃。グラスフィールドの時必ず　先制攻撃　できる。",
+    "en": "Gliding on the ground, the user attacks the target. This move always goes first on Grassy Terrain."
+  }
+}

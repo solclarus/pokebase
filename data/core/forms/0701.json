@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 701,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ルチャブル",
+        "en": "Hawlucha"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 92,
+        "defense": 75,
+        "sp_attack": 74,
+        "sp_defense": 63,
+        "speed": 118
+      },
+      "ability_ids": [
+        7,
+        84
+      ],
+      "hidden_ability_id": 104
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガルチャブル",
+        "en": "Mega Hawlucha"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "fighting",
+        "flying"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 137,
+        "defense": 100,
+        "sp_attack": 74,
+        "sp_defense": 93,
+        "speed": 118
+      },
+      "ability_ids": []
+    }
+  ]
+}

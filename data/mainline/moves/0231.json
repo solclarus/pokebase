@@ -1,0 +1,18 @@
+{
+  "id": 231,
+  "identifier": "iron-tail",
+  "name": {
+    "ja": "アイアンテール",
+    "en": "Iron Tail"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 75,
+  "pp": 15,
+  "generation": 2,
+  "description": {
+    "ja": "硬い　しっぽで相手を　たたきつけて　攻撃する。相手の　防御を　さげることが　ある。",
+    "en": "The target is slammed with a steel-hard tail. This may also lower the target's Defense stat."
+  }
+}

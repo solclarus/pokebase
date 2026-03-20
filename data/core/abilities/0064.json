@@ -1,0 +1,13 @@
+{
+  "id": 64,
+  "identifier": "liquid-ooze",
+  "name": {
+    "ja": "ヘドロえき",
+    "en": "Liquid Ooze"
+  },
+  "description": {
+    "ja": "ヘドロ液を　吸い取った　相手は強烈な　悪臭でダメージを　受けて　ＨＰを　減らす。",
+    "en": "The strong stench of the Pokémon's oozed liquid damages attackers that use HP-draining moves."
+  },
+  "generation": 3
+}

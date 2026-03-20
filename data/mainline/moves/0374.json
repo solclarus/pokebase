@@ -1,0 +1,18 @@
+{
+  "id": 374,
+  "identifier": "fling",
+  "name": {
+    "ja": "なげつける",
+    "en": "Fling"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "持たせた　道具を素早く　投げつけて　攻撃する。道具で　威力と　効果が　変わる。",
+    "en": "The user flings its held item at the target to attack. This move's power and effects depend on the item."
+  }
+}

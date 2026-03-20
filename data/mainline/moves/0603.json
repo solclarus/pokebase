@@ -1,0 +1,18 @@
+{
+  "id": 603,
+  "identifier": "happy-hour",
+  "name": {
+    "ja": "ハッピータイム",
+    "en": "Happy Hour"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 6,
+  "description": {
+    "ja": "ハッピータイムの　技を　使うと戦闘の　あとで　もらえるお金が　倍になる。",
+    "en": "Using Happy Hour doubles the amount of prize money received after battle."
+  }
+}

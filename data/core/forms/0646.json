@@ -1,0 +1,80 @@
+{
+  "pokemon_id": 646,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キュレム",
+        "en": "Kyurem"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "stats": {
+        "hp": 125,
+        "attack": 130,
+        "defense": 90,
+        "sp_attack": 130,
+        "sp_defense": 90,
+        "speed": 95
+      },
+      "ability_ids": [
+        46
+      ]
+    },
+    {
+      "id": "black",
+      "order": 1,
+      "name": {
+        "ja": "ブラックキュレム",
+        "en": "Black Kyurem"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "stats": {
+        "hp": 125,
+        "attack": 170,
+        "defense": 100,
+        "sp_attack": 120,
+        "sp_defense": 90,
+        "speed": 95
+      },
+      "ability_ids": [
+        164
+      ]
+    },
+    {
+      "id": "white",
+      "order": 2,
+      "name": {
+        "ja": "ホワイトキュレム",
+        "en": "White Kyurem"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "stats": {
+        "hp": 125,
+        "attack": 120,
+        "defense": 90,
+        "sp_attack": 170,
+        "sp_defense": 100,
+        "speed": 95
+      },
+      "ability_ids": [
+        163
+      ]
+    }
+  ]
+}

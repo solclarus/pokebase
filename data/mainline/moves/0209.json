@@ -1,0 +1,18 @@
+{
+  "id": 209,
+  "identifier": "spark",
+  "name": {
+    "ja": "スパーク",
+    "en": "Spark"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 2,
+  "description": {
+    "ja": "電気を　まとい相手に　突進して　攻撃する。まひ状態に　することが　ある。",
+    "en": "The user attacks the target with an electrically charged tackle. This may also leave the target with paralysis."
+  }
+}

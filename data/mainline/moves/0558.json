@@ -1,0 +1,18 @@
+{
+  "id": 558,
+  "identifier": "fusion-flare",
+  "name": {
+    "ja": "クロスフレイム",
+    "en": "Fusion Flare"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "巨大な　炎を　たたきつける。巨大な　雷の　影響を受け技の　威力が　あがる。",
+    "en": "The user brings down a giant flame. This move's power is boosted when influenced by an enormous lightning bolt."
+  }
+}

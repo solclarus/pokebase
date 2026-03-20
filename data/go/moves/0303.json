@@ -1,0 +1,13 @@
+{
+  "id": 303,
+  "identifier": "acid-spray",
+  "name": {
+    "ja": "アシッドボム",
+    "en": "Acid Spray"
+  },
+  "type": "poison",
+  "move_type": "charged",
+  "power": 20,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

@@ -1,0 +1,18 @@
+{
+  "id": 813,
+  "identifier": "triple-axel",
+  "name": {
+    "ja": "トリプルアクセル",
+    "en": "Triple Axel"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "３回連続で　キックを　くりだして攻撃する。　技が　当たるたびに威力は　あがる。",
+    "en": "A consecutive three-kick attack that becomes more powerful with each successful hit."
+  }
+}

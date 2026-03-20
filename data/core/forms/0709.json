@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 709,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オーロット",
+        "en": "Trevenant"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 110,
+        "defense": 76,
+        "sp_attack": 65,
+        "sp_defense": 82,
+        "speed": 56
+      },
+      "ability_ids": [
+        30,
+        119
+      ],
+      "hidden_ability_id": 139
+    }
+  ]
+}

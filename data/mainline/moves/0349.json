@@ -1,0 +1,18 @@
+{
+  "id": 349,
+  "identifier": "dragon-dance",
+  "name": {
+    "ja": "りゅうのまい",
+    "en": "Dragon Dance"
+  },
+  "type": "dragon",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "神秘的で　力強い　舞を激しく　おどる。　自分の攻撃と　素早さを　あげる。",
+    "en": "The user vigorously performs a mystic, powerful dance that boosts its Attack and Speed stats."
+  }
+}

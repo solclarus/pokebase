@@ -1,0 +1,18 @@
+{
+  "id": 714,
+  "identifier": "moongeist-beam",
+  "name": {
+    "ja": "シャドーレイ",
+    "en": "Moongeist Beam"
+  },
+  "type": "ghost",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 7,
+  "description": {
+    "ja": "怪しい　光線を　放って攻撃する。相手の　特性を無視して　攻撃　することが　できる。",
+    "en": "The user emits a sinister ray to attack the target. This move can be used on the target regardless of its Ability."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 194,
+  "costumes": [
+    {
+      "costume_id": "0194-hat",
+      "identifier": "wooper-hat",
+      "name": {
+        "ja": "ウパー（ぼうし）",
+        "en": "Wooper (Hat)"
+      },
+      "event": "November 15, 2023",
+      "available_from": "2023-11-15",
+      "available_until": null
+    }
+  ]
+}

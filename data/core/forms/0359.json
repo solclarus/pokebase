@@ -1,0 +1,78 @@
+{
+  "pokemon_id": 359,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アブソル",
+        "en": "Absol"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "sp_attack": 75,
+        "sp_defense": 60,
+        "speed": 75
+      },
+      "ability_ids": [
+        46,
+        105
+      ],
+      "hidden_ability_id": 154
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガアブソル",
+        "en": "Mega Absol"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 150,
+        "defense": 60,
+        "sp_attack": 115,
+        "sp_defense": 60,
+        "speed": 115
+      },
+      "ability_ids": [
+        156
+      ]
+    },
+    {
+      "id": "mega-z",
+      "order": 2,
+      "name": {
+        "ja": "メガアブソルZ",
+        "en": "Mega Absol Z"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 154,
+        "defense": 60,
+        "sp_attack": 75,
+        "sp_defense": 60,
+        "speed": 151
+      },
+      "ability_ids": []
+    }
+  ]
+}

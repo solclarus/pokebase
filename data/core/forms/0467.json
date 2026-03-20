@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 467,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ブーバーン",
+        "en": "Magmortar"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 95,
+        "defense": 67,
+        "sp_attack": 125,
+        "sp_defense": 95,
+        "speed": 83
+      },
+      "ability_ids": [
+        49
+      ],
+      "hidden_ability_id": 72
+    }
+  ]
+}

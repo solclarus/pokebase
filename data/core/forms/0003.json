@@ -1,0 +1,82 @@
+{
+  "pokemon_id": 3,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フシギバナ",
+        "en": "Venusaur"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "sp_attack": 100,
+        "sp_defense": 100,
+        "speed": 80
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 34
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガフシギバナ",
+        "en": "Mega Venusaur"
+      },
+      "form_type": "mega",
+      "region": "kanto",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 123,
+        "sp_attack": 122,
+        "sp_defense": 120,
+        "speed": 80
+      },
+      "ability_ids": [
+        47
+      ]
+    },
+    {
+      "id": "gigantamax",
+      "order": 2,
+      "name": {
+        "ja": "キョダイマックスフシギバナ",
+        "en": "Gigantamax Venusaur"
+      },
+      "form_type": "gigantamax",
+      "region": "kanto",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 83,
+        "sp_attack": 100,
+        "sp_defense": 100,
+        "speed": 80
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 34
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 118,
+  "identifier": "honey-gather",
+  "name": {
+    "ja": "みつあつめ",
+    "en": "Honey Gather"
+  },
+  "description": {
+    "ja": "戦闘が　終わったときあまいミツを　拾うことが　ある。",
+    "en": "The Pokémon may gather Honey after a battle."
+  },
+  "generation": 4
+}

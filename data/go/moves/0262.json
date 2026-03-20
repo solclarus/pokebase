@@ -1,0 +1,13 @@
+{
+  "id": 262,
+  "identifier": "silver-wind",
+  "name": {
+    "ja": "ぎんいろのかぜ",
+    "en": "Silver Wind"
+  },
+  "type": "bug",
+  "move_type": "charged",
+  "power": 65,
+  "energy_delta": -33,
+  "duration_ms": 3500
+}

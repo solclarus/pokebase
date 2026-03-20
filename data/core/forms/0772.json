@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 772,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "タイプ：ヌル",
+        "en": "Type: Null"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 95,
+        "defense": 95,
+        "sp_attack": 95,
+        "sp_defense": 95,
+        "speed": 59
+      },
+      "ability_ids": [
+        4
+      ]
+    }
+  ]
+}

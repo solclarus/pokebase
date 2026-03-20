@@ -1,0 +1,13 @@
+{
+  "id": 175,
+  "identifier": "sweet-veil",
+  "name": {
+    "ja": "スイートベール",
+    "en": "Sweet Veil"
+  },
+  "description": {
+    "ja": "味方の　ポケモンは眠らなくなる。",
+    "en": "Prevents the Pokémon and its allies from falling asleep."
+  },
+  "generation": 6
+}

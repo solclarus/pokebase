@@ -1,0 +1,18 @@
+{
+  "id": 23,
+  "identifier": "stomp",
+  "name": {
+    "ja": "ふみつけ",
+    "en": "Stomp"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "大きな　足で相手を　踏みつけて　攻撃する。相手を　ひるませることが　ある。",
+    "en": "The user attacks by stomping on the target with a big foot. This may also make the target flinch."
+  }
+}

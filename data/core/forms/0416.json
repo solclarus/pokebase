@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 416,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ビークイン",
+        "en": "Vespiquen"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 80,
+        "defense": 102,
+        "sp_attack": 80,
+        "sp_defense": 102,
+        "speed": 40
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 127
+    }
+  ]
+}

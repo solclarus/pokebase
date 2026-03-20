@@ -1,0 +1,18 @@
+{
+  "id": 129,
+  "identifier": "swift",
+  "name": {
+    "ja": "スピードスター",
+    "en": "Swift"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "星型の　光を　発射して相手を　攻撃する。攻撃は　必ず　命中する。",
+    "en": "Star-shaped rays are shot at opposing Pokémon. This attack never misses."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 877,
+  "forms": [
+    {
+      "id": "full-belly",
+      "order": 0,
+      "name": {
+        "ja": "モルペコ",
+        "en": "Morpeko"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "electric",
+        "dark"
+      ],
+      "stats": {
+        "hp": 58,
+        "attack": 95,
+        "defense": 58,
+        "sp_attack": 70,
+        "sp_defense": 58,
+        "speed": 97
+      },
+      "ability_ids": [
+        258
+      ]
+    },
+    {
+      "id": "hangry",
+      "order": 1,
+      "name": {
+        "ja": "はらぺこもよう",
+        "en": "Hangry Mode"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "electric",
+        "dark"
+      ],
+      "stats": {
+        "hp": 58,
+        "attack": 95,
+        "defense": 58,
+        "sp_attack": 70,
+        "sp_defense": 58,
+        "speed": 97
+      },
+      "ability_ids": [
+        258
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 108,
+  "identifier": "psychic",
+  "name": {
+    "ja": "サイコキネシス",
+    "en": "Psychic"
+  },
+  "type": "psychic",
+  "move_type": "charged",
+  "power": 95,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

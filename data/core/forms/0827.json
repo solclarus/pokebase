@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 827,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "クスネ",
+        "en": "Nickit"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 28,
+        "defense": 28,
+        "sp_attack": 47,
+        "sp_defense": 52,
+        "speed": 50
+      },
+      "ability_ids": [
+        50,
+        84
+      ],
+      "hidden_ability_id": 198
+    }
+  ]
+}

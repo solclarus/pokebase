@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 706,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヌメルゴン",
+        "en": "Goodra"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 70,
+        "sp_attack": 110,
+        "sp_defense": 150,
+        "speed": 80
+      },
+      "ability_ids": [
+        157,
+        93
+      ],
+      "hidden_ability_id": 183
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ヒスイのすがた",
+        "en": "Hisuian Form"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 100,
+        "sp_attack": 110,
+        "sp_defense": 150,
+        "speed": 60
+      },
+      "ability_ids": [
+        157,
+        75
+      ],
+      "hidden_ability_id": 183
+    }
+  ]
+}

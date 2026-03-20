@@ -1,0 +1,13 @@
+{
+  "id": 334,
+  "identifier": "rock-wrecker",
+  "name": {
+    "ja": "がんせきほう",
+    "en": "Rock Wrecker"
+  },
+  "type": "rock",
+  "move_type": "charged",
+  "power": 110,
+  "energy_delta": -50,
+  "duration_ms": 3500
+}

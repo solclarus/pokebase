@@ -1,0 +1,18 @@
+{
+  "id": 333,
+  "identifier": "icicle-spear",
+  "name": {
+    "ja": "つららばり",
+    "en": "Icicle Spear"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 3,
+  "description": {
+    "ja": "鋭い　氷柱を相手に　発射して　攻撃する。２ー５回の　間　連続で　だす。",
+    "en": "The user attacks by launching sharp icicles at the target. This move hits two to five times in a row."
+  }
+}

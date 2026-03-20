@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 63,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ケーシィ",
+        "en": "Abra"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 25,
+        "attack": 20,
+        "defense": 15,
+        "sp_attack": 105,
+        "sp_defense": 55,
+        "speed": 90
+      },
+      "ability_ids": [
+        28,
+        39
+      ],
+      "hidden_ability_id": 98
+    }
+  ]
+}

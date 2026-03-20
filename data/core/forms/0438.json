@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 438,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウソハチ",
+        "en": "Bonsly"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 80,
+        "defense": 95,
+        "sp_attack": 10,
+        "sp_defense": 45,
+        "speed": 10
+      },
+      "ability_ids": [
+        5,
+        69
+      ],
+      "hidden_ability_id": 155
+    }
+  ]
+}

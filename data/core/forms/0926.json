@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 926,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "パピモッチ",
+        "en": "Fidough"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 37,
+        "attack": 55,
+        "defense": 70,
+        "sp_attack": 30,
+        "sp_defense": 55,
+        "speed": 65
+      },
+      "ability_ids": [
+        20
+      ],
+      "hidden_ability_id": 103
+    }
+  ]
+}

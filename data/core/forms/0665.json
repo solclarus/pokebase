@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 665,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コフーライ",
+        "en": "Spewpa"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 22,
+        "defense": 60,
+        "sp_attack": 27,
+        "sp_defense": 30,
+        "speed": 29
+      },
+      "ability_ids": [
+        61
+      ],
+      "hidden_ability_id": 132
+    }
+  ]
+}

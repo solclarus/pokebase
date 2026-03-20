@@ -1,0 +1,18 @@
+{
+  "id": 834,
+  "identifier": "wave-crash",
+  "name": {
+    "ja": "ウェーブタックル",
+    "en": "Wave Crash"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user shrouds itself in water and slams into the target with its whole body to inflict damage. This also damages the user quite a lot."
+  }
+}

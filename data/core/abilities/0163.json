@@ -1,0 +1,13 @@
+{
+  "id": 163,
+  "identifier": "turboblaze",
+  "name": {
+    "ja": "ターボブレイズ",
+    "en": "Turboblaze"
+  },
+  "description": {
+    "ja": "相手の　特性に　ジャマされず相手に　技を　出すことが　できる。",
+    "en": "The Pokémon's moves are unimpeded by the Ability of the target."
+  },
+  "generation": 5
+}

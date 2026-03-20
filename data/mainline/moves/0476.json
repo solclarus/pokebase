@@ -1,0 +1,18 @@
+{
+  "id": 476,
+  "identifier": "rage-powder",
+  "name": {
+    "ja": "いかりのこな",
+    "en": "Rage Powder"
+  },
+  "type": "bug",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "イライラさせる　粉を　自分にふりかけて　注意を　ひく。　相手の攻撃を　すべて　自分に　むける。",
+    "en": "The user scatters a cloud of irritating powder to draw attention to itself. Opposing Pokémon aim only at the user."
+  }
+}

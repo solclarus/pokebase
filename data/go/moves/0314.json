@@ -1,0 +1,13 @@
+{
+  "id": 314,
+  "identifier": "drain-punch",
+  "name": {
+    "ja": "ドレインパンチ",
+    "en": "Drain Punch"
+  },
+  "type": "fighting",
+  "move_type": "charged",
+  "power": 50,
+  "energy_delta": -33,
+  "duration_ms": 2500
+}

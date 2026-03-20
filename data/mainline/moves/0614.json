@@ -1,0 +1,18 @@
+{
+  "id": 614,
+  "identifier": "thousand-arrows",
+  "name": {
+    "ja": "サウザンアロー",
+    "en": "Thousand Arrows"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "浮いている　ポケモンにも　当たる。浮いていた　相手は撃ち落とされて　地面に　落ちる。",
+    "en": "This move also hits opposing Pokémon that are in the air. Those Pokémon are knocked down to the ground."
+  }
+}

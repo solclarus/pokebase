@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 13,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ビードル",
+        "en": "Weedle"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "sp_attack": 20,
+        "sp_defense": 20,
+        "speed": 50
+      },
+      "ability_ids": [
+        19
+      ],
+      "hidden_ability_id": 50
+    }
+  ]
+}

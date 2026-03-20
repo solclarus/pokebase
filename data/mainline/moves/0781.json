@@ -1,0 +1,18 @@
+{
+  "id": 781,
+  "identifier": "behemoth-blade",
+  "name": {
+    "ja": "きょじゅうざん",
+    "en": "Behemoth Blade"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "巨大な　剣となり　切りかかる。相手が　ダイマックス　しているとダメージは　２倍に　なる。",
+    "en": "The user becomes a gigantic sword and cuts the target. This move deals twice the damage if the target is Dynamaxed."
+  }
+}

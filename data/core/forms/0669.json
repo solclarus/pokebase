@@ -1,0 +1,155 @@
+{
+  "pokemon_id": 669,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フラベベ",
+        "en": "Flabébé"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "sp_attack": 61,
+        "sp_defense": 79,
+        "speed": 42
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "red",
+      "order": 1,
+      "name": {
+        "ja": "フラベベ",
+        "en": "Flabébé"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "sp_attack": 61,
+        "sp_defense": 79,
+        "speed": 42
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "yellow",
+      "order": 2,
+      "name": {
+        "ja": "フラベベ",
+        "en": "Flabébé"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "sp_attack": 61,
+        "sp_defense": 79,
+        "speed": 42
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "orange",
+      "order": 3,
+      "name": {
+        "ja": "フラベベ",
+        "en": "Flabébé"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "sp_attack": 61,
+        "sp_defense": 79,
+        "speed": 42
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "blue",
+      "order": 4,
+      "name": {
+        "ja": "フラベベ",
+        "en": "Flabébé"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "sp_attack": 61,
+        "sp_defense": 79,
+        "speed": 42
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    },
+    {
+      "id": "white",
+      "order": 5,
+      "name": {
+        "ja": "フラベベ",
+        "en": "Flabébé"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 38,
+        "defense": 39,
+        "sp_attack": 61,
+        "sp_defense": 79,
+        "speed": 42
+      },
+      "ability_ids": [
+        166
+      ],
+      "hidden_ability_id": 180
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 114,
+  "identifier": "giga-drain",
+  "name": {
+    "ja": "ギガドレイン",
+    "en": "Giga Drain"
+  },
+  "type": "grass",
+  "move_type": "charged",
+  "power": 50,
+  "energy_delta": -100,
+  "duration_ms": 4000
+}

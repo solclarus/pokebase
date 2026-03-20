@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 736,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アゴジムシ",
+        "en": "Grubbin"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 47,
+        "attack": 62,
+        "defense": 45,
+        "sp_attack": 55,
+        "sp_defense": 45,
+        "speed": 46
+      },
+      "ability_ids": [
+        68
+      ]
+    }
+  ]
+}

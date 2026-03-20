@@ -1,0 +1,13 @@
+{
+  "id": 374,
+  "identifier": "fusion-bolt",
+  "name": {
+    "ja": "クロスサンダー",
+    "en": "Fusion Bolt"
+  },
+  "type": "electric",
+  "move_type": "charged",
+  "power": 140,
+  "energy_delta": -100,
+  "duration_ms": 2000
+}

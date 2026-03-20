@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 245,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "スイクン",
+        "en": "Suicune"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 75,
+        "defense": 115,
+        "sp_attack": 90,
+        "sp_defense": 115,
+        "speed": 85
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 39
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 387,
+  "identifier": "last-resort",
+  "name": {
+    "ja": "とっておき",
+    "en": "Last Resort"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "戦闘中に　おぼえている　技をすべて　使うと　はじめて　だせるとっておきの　技。",
+    "en": "This move can be used only after the user has used all the other moves it knows in the battle."
+  }
+}

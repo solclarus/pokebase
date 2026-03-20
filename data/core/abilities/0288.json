@@ -1,0 +1,13 @@
+{
+  "id": 288,
+  "identifier": "orichalcum-pulse",
+  "name": {
+    "ja": "ひひいろのこどう",
+    "en": "Orichalcum Pulse"
+  },
+  "description": {
+    "ja": "登場したとき天気を晴れにする。日差しが強いと古代の鼓動により攻撃が高まる。",
+    "en": "Turns the sunlight harsh when the Pokémon enters a battle. The ancient pulse thrumming through the Pokémon also boosts its Attack stat in harsh sunlight."
+  },
+  "generation": 9
+}

@@ -1,0 +1,13 @@
+{
+  "id": 6,
+  "identifier": "damp",
+  "name": {
+    "ja": "しめりけ",
+    "en": "Damp"
+  },
+  "description": {
+    "ja": "あたりを　湿らせることに　よってじばく　などの　爆発する　技をだれも　使えなくなる。",
+    "en": "The Pokémon dampens its surroundings, preventing all Pokémon from using explosive moves such as Self-Destruct."
+  },
+  "generation": 3
+}

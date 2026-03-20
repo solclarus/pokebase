@@ -1,0 +1,18 @@
+{
+  "id": 308,
+  "identifier": "hydro-cannon",
+  "name": {
+    "ja": "ハイドロカノン",
+    "en": "Hydro Cannon"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "水の　大砲を相手に　発射して　攻撃する。次の　ターンは　動けなくなる。",
+    "en": "The target is hit with a watery blast. The user can't move on the next turn."
+  }
+}

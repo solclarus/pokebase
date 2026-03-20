@@ -1,0 +1,59 @@
+{
+  "pokemon_id": 902,
+  "forms": [
+    {
+      "id": "male",
+      "order": 0,
+      "name": {
+        "ja": "イダイトウ",
+        "en": "Basculegion"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 120,
+        "attack": 112,
+        "defense": 65,
+        "sp_attack": 80,
+        "sp_defense": 75,
+        "speed": 78
+      },
+      "ability_ids": [
+        33,
+        91
+      ],
+      "hidden_ability_id": 104
+    },
+    {
+      "id": "female",
+      "order": 1,
+      "name": {
+        "ja": "メスのすがた",
+        "en": "Female"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 120,
+        "attack": 92,
+        "defense": 65,
+        "sp_attack": 100,
+        "sp_defense": 75,
+        "speed": 78
+      },
+      "ability_ids": [
+        33,
+        91
+      ],
+      "hidden_ability_id": 104
+    }
+  ]
+}

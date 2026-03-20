@@ -1,0 +1,18 @@
+{
+  "id": 767,
+  "identifier": "max-starfall",
+  "name": {
+    "ja": "ダイフェアリー",
+    "en": "Max Starfall"
+  },
+  "type": "fairy",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　フェアリータイプの　攻撃。５ターンの　間　ミストフィールドにする。",
+    "en": "This is a Fairy-type attack Dynamax Pokémon use. The user turns the ground into Misty Terrain for five turns."
+  }
+}

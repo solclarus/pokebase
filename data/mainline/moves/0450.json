@@ -1,0 +1,18 @@
+{
+  "id": 450,
+  "identifier": "bug-bite",
+  "name": {
+    "ja": "むしくい",
+    "en": "Bug Bite"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "かみついて　攻撃する。相手が　きのみを　持っているとき食べて　きのみの　効果を　受けられる。",
+    "en": "The user attacks by biting the target. If the target is holding a Berry, the user eats it and gains its effect."
+  }
+}

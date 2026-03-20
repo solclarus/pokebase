@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 325,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バネブー",
+        "en": "Spoink"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 25,
+        "defense": 35,
+        "sp_attack": 70,
+        "sp_defense": 80,
+        "speed": 60
+      },
+      "ability_ids": [
+        47,
+        20
+      ],
+      "hidden_ability_id": 82
+    }
+  ]
+}

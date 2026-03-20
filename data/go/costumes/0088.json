@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 88,
+  "costumes": [
+    {
+      "costume_id": "0088-party_hat",
+      "identifier": "grimer-party-hat",
+      "name": {
+        "ja": "ベトベター（パーティーハット）",
+        "en": "Grimer (Party Hat)"
+      },
+      "event": "June 28, 2024",
+      "available_from": "2024-06-28",
+      "available_until": null
+    }
+  ]
+}

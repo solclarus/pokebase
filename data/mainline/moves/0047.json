@@ -1,0 +1,18 @@
+{
+  "id": 47,
+  "identifier": "sing",
+  "name": {
+    "ja": "うたう",
+    "en": "Sing"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 55,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "心地好い　きれいな歌声を　聞かせて相手を　眠り状態に　する。",
+    "en": "A soothing lullaby is sung in a beautiful voice that puts the target to sleep."
+  }
+}

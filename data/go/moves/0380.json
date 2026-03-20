@@ -1,0 +1,13 @@
+{
+  "id": 380,
+  "identifier": "boomburst",
+  "name": {
+    "ja": "ばくおんぱ",
+    "en": "Boomburst"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 150,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

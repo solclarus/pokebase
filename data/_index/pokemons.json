@@ -1,0 +1,9230 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "identifier": "bulbasaur",
+      "name": {
+        "ja": "フシギダネ",
+        "en": "Bulbasaur"
+      },
+      "generation": 1
+    },
+    {
+      "id": 2,
+      "identifier": "ivysaur",
+      "name": {
+        "ja": "フシギソウ",
+        "en": "Ivysaur"
+      },
+      "generation": 1
+    },
+    {
+      "id": 3,
+      "identifier": "venusaur",
+      "name": {
+        "ja": "フシギバナ",
+        "en": "Venusaur"
+      },
+      "generation": 1
+    },
+    {
+      "id": 4,
+      "identifier": "charmander",
+      "name": {
+        "ja": "ヒトカゲ",
+        "en": "Charmander"
+      },
+      "generation": 1
+    },
+    {
+      "id": 5,
+      "identifier": "charmeleon",
+      "name": {
+        "ja": "リザード",
+        "en": "Charmeleon"
+      },
+      "generation": 1
+    },
+    {
+      "id": 6,
+      "identifier": "charizard",
+      "name": {
+        "ja": "リザードン",
+        "en": "Charizard"
+      },
+      "generation": 1
+    },
+    {
+      "id": 7,
+      "identifier": "squirtle",
+      "name": {
+        "ja": "ゼニガメ",
+        "en": "Squirtle"
+      },
+      "generation": 1
+    },
+    {
+      "id": 8,
+      "identifier": "wartortle",
+      "name": {
+        "ja": "カメール",
+        "en": "Wartortle"
+      },
+      "generation": 1
+    },
+    {
+      "id": 9,
+      "identifier": "blastoise",
+      "name": {
+        "ja": "カメックス",
+        "en": "Blastoise"
+      },
+      "generation": 1
+    },
+    {
+      "id": 10,
+      "identifier": "caterpie",
+      "name": {
+        "ja": "キャタピー",
+        "en": "Caterpie"
+      },
+      "generation": 1
+    },
+    {
+      "id": 11,
+      "identifier": "metapod",
+      "name": {
+        "ja": "トランセル",
+        "en": "Metapod"
+      },
+      "generation": 1
+    },
+    {
+      "id": 12,
+      "identifier": "butterfree",
+      "name": {
+        "ja": "バタフリー",
+        "en": "Butterfree"
+      },
+      "generation": 1
+    },
+    {
+      "id": 13,
+      "identifier": "weedle",
+      "name": {
+        "ja": "ビードル",
+        "en": "Weedle"
+      },
+      "generation": 1
+    },
+    {
+      "id": 14,
+      "identifier": "kakuna",
+      "name": {
+        "ja": "コクーン",
+        "en": "Kakuna"
+      },
+      "generation": 1
+    },
+    {
+      "id": 15,
+      "identifier": "beedrill",
+      "name": {
+        "ja": "スピアー",
+        "en": "Beedrill"
+      },
+      "generation": 1
+    },
+    {
+      "id": 16,
+      "identifier": "pidgey",
+      "name": {
+        "ja": "ポッポ",
+        "en": "Pidgey"
+      },
+      "generation": 1
+    },
+    {
+      "id": 17,
+      "identifier": "pidgeotto",
+      "name": {
+        "ja": "ピジョン",
+        "en": "Pidgeotto"
+      },
+      "generation": 1
+    },
+    {
+      "id": 18,
+      "identifier": "pidgeot",
+      "name": {
+        "ja": "ピジョット",
+        "en": "Pidgeot"
+      },
+      "generation": 1
+    },
+    {
+      "id": 19,
+      "identifier": "rattata",
+      "name": {
+        "ja": "コラッタ",
+        "en": "Rattata"
+      },
+      "generation": 1
+    },
+    {
+      "id": 20,
+      "identifier": "raticate",
+      "name": {
+        "ja": "ラッタ",
+        "en": "Raticate"
+      },
+      "generation": 1
+    },
+    {
+      "id": 21,
+      "identifier": "spearow",
+      "name": {
+        "ja": "オニスズメ",
+        "en": "Spearow"
+      },
+      "generation": 1
+    },
+    {
+      "id": 22,
+      "identifier": "fearow",
+      "name": {
+        "ja": "オニドリル",
+        "en": "Fearow"
+      },
+      "generation": 1
+    },
+    {
+      "id": 23,
+      "identifier": "ekans",
+      "name": {
+        "ja": "アーボ",
+        "en": "Ekans"
+      },
+      "generation": 1
+    },
+    {
+      "id": 24,
+      "identifier": "arbok",
+      "name": {
+        "ja": "アーボック",
+        "en": "Arbok"
+      },
+      "generation": 1
+    },
+    {
+      "id": 25,
+      "identifier": "pikachu",
+      "name": {
+        "ja": "ピカチュウ",
+        "en": "Pikachu"
+      },
+      "generation": 1
+    },
+    {
+      "id": 26,
+      "identifier": "raichu",
+      "name": {
+        "ja": "ライチュウ",
+        "en": "Raichu"
+      },
+      "generation": 1
+    },
+    {
+      "id": 27,
+      "identifier": "sandshrew",
+      "name": {
+        "ja": "サンド",
+        "en": "Sandshrew"
+      },
+      "generation": 1
+    },
+    {
+      "id": 28,
+      "identifier": "sandslash",
+      "name": {
+        "ja": "サンドパン",
+        "en": "Sandslash"
+      },
+      "generation": 1
+    },
+    {
+      "id": 29,
+      "identifier": "nidoran-f",
+      "name": {
+        "ja": "ニドラン♀",
+        "en": "Nidoran♀"
+      },
+      "generation": 1
+    },
+    {
+      "id": 30,
+      "identifier": "nidorina",
+      "name": {
+        "ja": "ニドリーナ",
+        "en": "Nidorina"
+      },
+      "generation": 1
+    },
+    {
+      "id": 31,
+      "identifier": "nidoqueen",
+      "name": {
+        "ja": "ニドクイン",
+        "en": "Nidoqueen"
+      },
+      "generation": 1
+    },
+    {
+      "id": 32,
+      "identifier": "nidoran-m",
+      "name": {
+        "ja": "ニドラン♂",
+        "en": "Nidoran♂"
+      },
+      "generation": 1
+    },
+    {
+      "id": 33,
+      "identifier": "nidorino",
+      "name": {
+        "ja": "ニドリーノ",
+        "en": "Nidorino"
+      },
+      "generation": 1
+    },
+    {
+      "id": 34,
+      "identifier": "nidoking",
+      "name": {
+        "ja": "ニドキング",
+        "en": "Nidoking"
+      },
+      "generation": 1
+    },
+    {
+      "id": 35,
+      "identifier": "clefairy",
+      "name": {
+        "ja": "ピッピ",
+        "en": "Clefairy"
+      },
+      "generation": 1
+    },
+    {
+      "id": 36,
+      "identifier": "clefable",
+      "name": {
+        "ja": "ピクシー",
+        "en": "Clefable"
+      },
+      "generation": 1
+    },
+    {
+      "id": 37,
+      "identifier": "vulpix",
+      "name": {
+        "ja": "ロコン",
+        "en": "Vulpix"
+      },
+      "generation": 1
+    },
+    {
+      "id": 38,
+      "identifier": "ninetales",
+      "name": {
+        "ja": "キュウコン",
+        "en": "Ninetales"
+      },
+      "generation": 1
+    },
+    {
+      "id": 39,
+      "identifier": "jigglypuff",
+      "name": {
+        "ja": "プリン",
+        "en": "Jigglypuff"
+      },
+      "generation": 1
+    },
+    {
+      "id": 40,
+      "identifier": "wigglytuff",
+      "name": {
+        "ja": "プクリン",
+        "en": "Wigglytuff"
+      },
+      "generation": 1
+    },
+    {
+      "id": 41,
+      "identifier": "zubat",
+      "name": {
+        "ja": "ズバット",
+        "en": "Zubat"
+      },
+      "generation": 1
+    },
+    {
+      "id": 42,
+      "identifier": "golbat",
+      "name": {
+        "ja": "ゴルバット",
+        "en": "Golbat"
+      },
+      "generation": 1
+    },
+    {
+      "id": 43,
+      "identifier": "oddish",
+      "name": {
+        "ja": "ナゾノクサ",
+        "en": "Oddish"
+      },
+      "generation": 1
+    },
+    {
+      "id": 44,
+      "identifier": "gloom",
+      "name": {
+        "ja": "クサイハナ",
+        "en": "Gloom"
+      },
+      "generation": 1
+    },
+    {
+      "id": 45,
+      "identifier": "vileplume",
+      "name": {
+        "ja": "ラフレシア",
+        "en": "Vileplume"
+      },
+      "generation": 1
+    },
+    {
+      "id": 46,
+      "identifier": "paras",
+      "name": {
+        "ja": "パラス",
+        "en": "Paras"
+      },
+      "generation": 1
+    },
+    {
+      "id": 47,
+      "identifier": "parasect",
+      "name": {
+        "ja": "パラセクト",
+        "en": "Parasect"
+      },
+      "generation": 1
+    },
+    {
+      "id": 48,
+      "identifier": "venonat",
+      "name": {
+        "ja": "コンパン",
+        "en": "Venonat"
+      },
+      "generation": 1
+    },
+    {
+      "id": 49,
+      "identifier": "venomoth",
+      "name": {
+        "ja": "モルフォン",
+        "en": "Venomoth"
+      },
+      "generation": 1
+    },
+    {
+      "id": 50,
+      "identifier": "diglett",
+      "name": {
+        "ja": "ディグダ",
+        "en": "Diglett"
+      },
+      "generation": 1
+    },
+    {
+      "id": 51,
+      "identifier": "dugtrio",
+      "name": {
+        "ja": "ダグトリオ",
+        "en": "Dugtrio"
+      },
+      "generation": 1
+    },
+    {
+      "id": 52,
+      "identifier": "meowth",
+      "name": {
+        "ja": "ニャース",
+        "en": "Meowth"
+      },
+      "generation": 1
+    },
+    {
+      "id": 53,
+      "identifier": "persian",
+      "name": {
+        "ja": "ペルシアン",
+        "en": "Persian"
+      },
+      "generation": 1
+    },
+    {
+      "id": 54,
+      "identifier": "psyduck",
+      "name": {
+        "ja": "コダック",
+        "en": "Psyduck"
+      },
+      "generation": 1
+    },
+    {
+      "id": 55,
+      "identifier": "golduck",
+      "name": {
+        "ja": "ゴルダック",
+        "en": "Golduck"
+      },
+      "generation": 1
+    },
+    {
+      "id": 56,
+      "identifier": "mankey",
+      "name": {
+        "ja": "マンキー",
+        "en": "Mankey"
+      },
+      "generation": 1
+    },
+    {
+      "id": 57,
+      "identifier": "primeape",
+      "name": {
+        "ja": "オコリザル",
+        "en": "Primeape"
+      },
+      "generation": 1
+    },
+    {
+      "id": 58,
+      "identifier": "growlithe",
+      "name": {
+        "ja": "ガーディ",
+        "en": "Growlithe"
+      },
+      "generation": 1
+    },
+    {
+      "id": 59,
+      "identifier": "arcanine",
+      "name": {
+        "ja": "ウインディ",
+        "en": "Arcanine"
+      },
+      "generation": 1
+    },
+    {
+      "id": 60,
+      "identifier": "poliwag",
+      "name": {
+        "ja": "ニョロモ",
+        "en": "Poliwag"
+      },
+      "generation": 1
+    },
+    {
+      "id": 61,
+      "identifier": "poliwhirl",
+      "name": {
+        "ja": "ニョロゾ",
+        "en": "Poliwhirl"
+      },
+      "generation": 1
+    },
+    {
+      "id": 62,
+      "identifier": "poliwrath",
+      "name": {
+        "ja": "ニョロボン",
+        "en": "Poliwrath"
+      },
+      "generation": 1
+    },
+    {
+      "id": 63,
+      "identifier": "abra",
+      "name": {
+        "ja": "ケーシィ",
+        "en": "Abra"
+      },
+      "generation": 1
+    },
+    {
+      "id": 64,
+      "identifier": "kadabra",
+      "name": {
+        "ja": "ユンゲラー",
+        "en": "Kadabra"
+      },
+      "generation": 1
+    },
+    {
+      "id": 65,
+      "identifier": "alakazam",
+      "name": {
+        "ja": "フーディン",
+        "en": "Alakazam"
+      },
+      "generation": 1
+    },
+    {
+      "id": 66,
+      "identifier": "machop",
+      "name": {
+        "ja": "ワンリキー",
+        "en": "Machop"
+      },
+      "generation": 1
+    },
+    {
+      "id": 67,
+      "identifier": "machoke",
+      "name": {
+        "ja": "ゴーリキー",
+        "en": "Machoke"
+      },
+      "generation": 1
+    },
+    {
+      "id": 68,
+      "identifier": "machamp",
+      "name": {
+        "ja": "カイリキー",
+        "en": "Machamp"
+      },
+      "generation": 1
+    },
+    {
+      "id": 69,
+      "identifier": "bellsprout",
+      "name": {
+        "ja": "マダツボミ",
+        "en": "Bellsprout"
+      },
+      "generation": 1
+    },
+    {
+      "id": 70,
+      "identifier": "weepinbell",
+      "name": {
+        "ja": "ウツドン",
+        "en": "Weepinbell"
+      },
+      "generation": 1
+    },
+    {
+      "id": 71,
+      "identifier": "victreebel",
+      "name": {
+        "ja": "ウツボット",
+        "en": "Victreebel"
+      },
+      "generation": 1
+    },
+    {
+      "id": 72,
+      "identifier": "tentacool",
+      "name": {
+        "ja": "メノクラゲ",
+        "en": "Tentacool"
+      },
+      "generation": 1
+    },
+    {
+      "id": 73,
+      "identifier": "tentacruel",
+      "name": {
+        "ja": "ドククラゲ",
+        "en": "Tentacruel"
+      },
+      "generation": 1
+    },
+    {
+      "id": 74,
+      "identifier": "geodude",
+      "name": {
+        "ja": "イシツブテ",
+        "en": "Geodude"
+      },
+      "generation": 1
+    },
+    {
+      "id": 75,
+      "identifier": "graveler",
+      "name": {
+        "ja": "ゴローン",
+        "en": "Graveler"
+      },
+      "generation": 1
+    },
+    {
+      "id": 76,
+      "identifier": "golem",
+      "name": {
+        "ja": "ゴローニャ",
+        "en": "Golem"
+      },
+      "generation": 1
+    },
+    {
+      "id": 77,
+      "identifier": "ponyta",
+      "name": {
+        "ja": "ポニータ",
+        "en": "Ponyta"
+      },
+      "generation": 1
+    },
+    {
+      "id": 78,
+      "identifier": "rapidash",
+      "name": {
+        "ja": "ギャロップ",
+        "en": "Rapidash"
+      },
+      "generation": 1
+    },
+    {
+      "id": 79,
+      "identifier": "slowpoke",
+      "name": {
+        "ja": "ヤドン",
+        "en": "Slowpoke"
+      },
+      "generation": 1
+    },
+    {
+      "id": 80,
+      "identifier": "slowbro",
+      "name": {
+        "ja": "ヤドラン",
+        "en": "Slowbro"
+      },
+      "generation": 1
+    },
+    {
+      "id": 81,
+      "identifier": "magnemite",
+      "name": {
+        "ja": "コイル",
+        "en": "Magnemite"
+      },
+      "generation": 1
+    },
+    {
+      "id": 82,
+      "identifier": "magneton",
+      "name": {
+        "ja": "レアコイル",
+        "en": "Magneton"
+      },
+      "generation": 1
+    },
+    {
+      "id": 83,
+      "identifier": "farfetchd",
+      "name": {
+        "ja": "カモネギ",
+        "en": "Farfetch'd"
+      },
+      "generation": 1
+    },
+    {
+      "id": 84,
+      "identifier": "doduo",
+      "name": {
+        "ja": "ドードー",
+        "en": "Doduo"
+      },
+      "generation": 1
+    },
+    {
+      "id": 85,
+      "identifier": "dodrio",
+      "name": {
+        "ja": "ドードリオ",
+        "en": "Dodrio"
+      },
+      "generation": 1
+    },
+    {
+      "id": 86,
+      "identifier": "seel",
+      "name": {
+        "ja": "パウワウ",
+        "en": "Seel"
+      },
+      "generation": 1
+    },
+    {
+      "id": 87,
+      "identifier": "dewgong",
+      "name": {
+        "ja": "ジュゴン",
+        "en": "Dewgong"
+      },
+      "generation": 1
+    },
+    {
+      "id": 88,
+      "identifier": "grimer",
+      "name": {
+        "ja": "ベトベター",
+        "en": "Grimer"
+      },
+      "generation": 1
+    },
+    {
+      "id": 89,
+      "identifier": "muk",
+      "name": {
+        "ja": "ベトベトン",
+        "en": "Muk"
+      },
+      "generation": 1
+    },
+    {
+      "id": 90,
+      "identifier": "shellder",
+      "name": {
+        "ja": "シェルダー",
+        "en": "Shellder"
+      },
+      "generation": 1
+    },
+    {
+      "id": 91,
+      "identifier": "cloyster",
+      "name": {
+        "ja": "パルシェン",
+        "en": "Cloyster"
+      },
+      "generation": 1
+    },
+    {
+      "id": 92,
+      "identifier": "gastly",
+      "name": {
+        "ja": "ゴース",
+        "en": "Gastly"
+      },
+      "generation": 1
+    },
+    {
+      "id": 93,
+      "identifier": "haunter",
+      "name": {
+        "ja": "ゴースト",
+        "en": "Haunter"
+      },
+      "generation": 1
+    },
+    {
+      "id": 94,
+      "identifier": "gengar",
+      "name": {
+        "ja": "ゲンガー",
+        "en": "Gengar"
+      },
+      "generation": 1
+    },
+    {
+      "id": 95,
+      "identifier": "onix",
+      "name": {
+        "ja": "イワーク",
+        "en": "Onix"
+      },
+      "generation": 1
+    },
+    {
+      "id": 96,
+      "identifier": "drowzee",
+      "name": {
+        "ja": "スリープ",
+        "en": "Drowzee"
+      },
+      "generation": 1
+    },
+    {
+      "id": 97,
+      "identifier": "hypno",
+      "name": {
+        "ja": "スリーパー",
+        "en": "Hypno"
+      },
+      "generation": 1
+    },
+    {
+      "id": 98,
+      "identifier": "krabby",
+      "name": {
+        "ja": "クラブ",
+        "en": "Krabby"
+      },
+      "generation": 1
+    },
+    {
+      "id": 99,
+      "identifier": "kingler",
+      "name": {
+        "ja": "キングラー",
+        "en": "Kingler"
+      },
+      "generation": 1
+    },
+    {
+      "id": 100,
+      "identifier": "voltorb",
+      "name": {
+        "ja": "ビリリダマ",
+        "en": "Voltorb"
+      },
+      "generation": 1
+    },
+    {
+      "id": 101,
+      "identifier": "electrode",
+      "name": {
+        "ja": "マルマイン",
+        "en": "Electrode"
+      },
+      "generation": 1
+    },
+    {
+      "id": 102,
+      "identifier": "exeggcute",
+      "name": {
+        "ja": "タマタマ",
+        "en": "Exeggcute"
+      },
+      "generation": 1
+    },
+    {
+      "id": 103,
+      "identifier": "exeggutor",
+      "name": {
+        "ja": "ナッシー",
+        "en": "Exeggutor"
+      },
+      "generation": 1
+    },
+    {
+      "id": 104,
+      "identifier": "cubone",
+      "name": {
+        "ja": "カラカラ",
+        "en": "Cubone"
+      },
+      "generation": 1
+    },
+    {
+      "id": 105,
+      "identifier": "marowak",
+      "name": {
+        "ja": "ガラガラ",
+        "en": "Marowak"
+      },
+      "generation": 1
+    },
+    {
+      "id": 106,
+      "identifier": "hitmonlee",
+      "name": {
+        "ja": "サワムラー",
+        "en": "Hitmonlee"
+      },
+      "generation": 1
+    },
+    {
+      "id": 107,
+      "identifier": "hitmonchan",
+      "name": {
+        "ja": "エビワラー",
+        "en": "Hitmonchan"
+      },
+      "generation": 1
+    },
+    {
+      "id": 108,
+      "identifier": "lickitung",
+      "name": {
+        "ja": "ベロリンガ",
+        "en": "Lickitung"
+      },
+      "generation": 1
+    },
+    {
+      "id": 109,
+      "identifier": "koffing",
+      "name": {
+        "ja": "ドガース",
+        "en": "Koffing"
+      },
+      "generation": 1
+    },
+    {
+      "id": 110,
+      "identifier": "weezing",
+      "name": {
+        "ja": "マタドガス",
+        "en": "Weezing"
+      },
+      "generation": 1
+    },
+    {
+      "id": 111,
+      "identifier": "rhyhorn",
+      "name": {
+        "ja": "サイホーン",
+        "en": "Rhyhorn"
+      },
+      "generation": 1
+    },
+    {
+      "id": 112,
+      "identifier": "rhydon",
+      "name": {
+        "ja": "サイドン",
+        "en": "Rhydon"
+      },
+      "generation": 1
+    },
+    {
+      "id": 113,
+      "identifier": "chansey",
+      "name": {
+        "ja": "ラッキー",
+        "en": "Chansey"
+      },
+      "generation": 1
+    },
+    {
+      "id": 114,
+      "identifier": "tangela",
+      "name": {
+        "ja": "モンジャラ",
+        "en": "Tangela"
+      },
+      "generation": 1
+    },
+    {
+      "id": 115,
+      "identifier": "kangaskhan",
+      "name": {
+        "ja": "ガルーラ",
+        "en": "Kangaskhan"
+      },
+      "generation": 1
+    },
+    {
+      "id": 116,
+      "identifier": "horsea",
+      "name": {
+        "ja": "タッツー",
+        "en": "Horsea"
+      },
+      "generation": 1
+    },
+    {
+      "id": 117,
+      "identifier": "seadra",
+      "name": {
+        "ja": "シードラ",
+        "en": "Seadra"
+      },
+      "generation": 1
+    },
+    {
+      "id": 118,
+      "identifier": "goldeen",
+      "name": {
+        "ja": "トサキント",
+        "en": "Goldeen"
+      },
+      "generation": 1
+    },
+    {
+      "id": 119,
+      "identifier": "seaking",
+      "name": {
+        "ja": "アズマオウ",
+        "en": "Seaking"
+      },
+      "generation": 1
+    },
+    {
+      "id": 120,
+      "identifier": "staryu",
+      "name": {
+        "ja": "ヒトデマン",
+        "en": "Staryu"
+      },
+      "generation": 1
+    },
+    {
+      "id": 121,
+      "identifier": "starmie",
+      "name": {
+        "ja": "スターミー",
+        "en": "Starmie"
+      },
+      "generation": 1
+    },
+    {
+      "id": 122,
+      "identifier": "mr-mime",
+      "name": {
+        "ja": "バリヤード",
+        "en": "Mr. Mime"
+      },
+      "generation": 1
+    },
+    {
+      "id": 123,
+      "identifier": "scyther",
+      "name": {
+        "ja": "ストライク",
+        "en": "Scyther"
+      },
+      "generation": 1
+    },
+    {
+      "id": 124,
+      "identifier": "jynx",
+      "name": {
+        "ja": "ルージュラ",
+        "en": "Jynx"
+      },
+      "generation": 1
+    },
+    {
+      "id": 125,
+      "identifier": "electabuzz",
+      "name": {
+        "ja": "エレブー",
+        "en": "Electabuzz"
+      },
+      "generation": 1
+    },
+    {
+      "id": 126,
+      "identifier": "magmar",
+      "name": {
+        "ja": "ブーバー",
+        "en": "Magmar"
+      },
+      "generation": 1
+    },
+    {
+      "id": 127,
+      "identifier": "pinsir",
+      "name": {
+        "ja": "カイロス",
+        "en": "Pinsir"
+      },
+      "generation": 1
+    },
+    {
+      "id": 128,
+      "identifier": "tauros",
+      "name": {
+        "ja": "ケンタロス",
+        "en": "Tauros"
+      },
+      "generation": 1
+    },
+    {
+      "id": 129,
+      "identifier": "magikarp",
+      "name": {
+        "ja": "コイキング",
+        "en": "Magikarp"
+      },
+      "generation": 1
+    },
+    {
+      "id": 130,
+      "identifier": "gyarados",
+      "name": {
+        "ja": "ギャラドス",
+        "en": "Gyarados"
+      },
+      "generation": 1
+    },
+    {
+      "id": 131,
+      "identifier": "lapras",
+      "name": {
+        "ja": "ラプラス",
+        "en": "Lapras"
+      },
+      "generation": 1
+    },
+    {
+      "id": 132,
+      "identifier": "ditto",
+      "name": {
+        "ja": "メタモン",
+        "en": "Ditto"
+      },
+      "generation": 1
+    },
+    {
+      "id": 133,
+      "identifier": "eevee",
+      "name": {
+        "ja": "イーブイ",
+        "en": "Eevee"
+      },
+      "generation": 1
+    },
+    {
+      "id": 134,
+      "identifier": "vaporeon",
+      "name": {
+        "ja": "シャワーズ",
+        "en": "Vaporeon"
+      },
+      "generation": 1
+    },
+    {
+      "id": 135,
+      "identifier": "jolteon",
+      "name": {
+        "ja": "サンダース",
+        "en": "Jolteon"
+      },
+      "generation": 1
+    },
+    {
+      "id": 136,
+      "identifier": "flareon",
+      "name": {
+        "ja": "ブースター",
+        "en": "Flareon"
+      },
+      "generation": 1
+    },
+    {
+      "id": 137,
+      "identifier": "porygon",
+      "name": {
+        "ja": "ポリゴン",
+        "en": "Porygon"
+      },
+      "generation": 1
+    },
+    {
+      "id": 138,
+      "identifier": "omanyte",
+      "name": {
+        "ja": "オムナイト",
+        "en": "Omanyte"
+      },
+      "generation": 1
+    },
+    {
+      "id": 139,
+      "identifier": "omastar",
+      "name": {
+        "ja": "オムスター",
+        "en": "Omastar"
+      },
+      "generation": 1
+    },
+    {
+      "id": 140,
+      "identifier": "kabuto",
+      "name": {
+        "ja": "カブト",
+        "en": "Kabuto"
+      },
+      "generation": 1
+    },
+    {
+      "id": 141,
+      "identifier": "kabutops",
+      "name": {
+        "ja": "カブトプス",
+        "en": "Kabutops"
+      },
+      "generation": 1
+    },
+    {
+      "id": 142,
+      "identifier": "aerodactyl",
+      "name": {
+        "ja": "プテラ",
+        "en": "Aerodactyl"
+      },
+      "generation": 1
+    },
+    {
+      "id": 143,
+      "identifier": "snorlax",
+      "name": {
+        "ja": "カビゴン",
+        "en": "Snorlax"
+      },
+      "generation": 1
+    },
+    {
+      "id": 144,
+      "identifier": "articuno",
+      "name": {
+        "ja": "フリーザー",
+        "en": "Articuno"
+      },
+      "generation": 1
+    },
+    {
+      "id": 145,
+      "identifier": "zapdos",
+      "name": {
+        "ja": "サンダー",
+        "en": "Zapdos"
+      },
+      "generation": 1
+    },
+    {
+      "id": 146,
+      "identifier": "moltres",
+      "name": {
+        "ja": "ファイヤー",
+        "en": "Moltres"
+      },
+      "generation": 1
+    },
+    {
+      "id": 147,
+      "identifier": "dratini",
+      "name": {
+        "ja": "ミニリュウ",
+        "en": "Dratini"
+      },
+      "generation": 1
+    },
+    {
+      "id": 148,
+      "identifier": "dragonair",
+      "name": {
+        "ja": "ハクリュー",
+        "en": "Dragonair"
+      },
+      "generation": 1
+    },
+    {
+      "id": 149,
+      "identifier": "dragonite",
+      "name": {
+        "ja": "カイリュー",
+        "en": "Dragonite"
+      },
+      "generation": 1
+    },
+    {
+      "id": 150,
+      "identifier": "mewtwo",
+      "name": {
+        "ja": "ミュウツー",
+        "en": "Mewtwo"
+      },
+      "generation": 1
+    },
+    {
+      "id": 151,
+      "identifier": "mew",
+      "name": {
+        "ja": "ミュウ",
+        "en": "Mew"
+      },
+      "generation": 1
+    },
+    {
+      "id": 152,
+      "identifier": "chikorita",
+      "name": {
+        "ja": "チコリータ",
+        "en": "Chikorita"
+      },
+      "generation": 2
+    },
+    {
+      "id": 153,
+      "identifier": "bayleef",
+      "name": {
+        "ja": "ベイリーフ",
+        "en": "Bayleef"
+      },
+      "generation": 2
+    },
+    {
+      "id": 154,
+      "identifier": "meganium",
+      "name": {
+        "ja": "メガニウム",
+        "en": "Meganium"
+      },
+      "generation": 2
+    },
+    {
+      "id": 155,
+      "identifier": "cyndaquil",
+      "name": {
+        "ja": "ヒノアラシ",
+        "en": "Cyndaquil"
+      },
+      "generation": 2
+    },
+    {
+      "id": 156,
+      "identifier": "quilava",
+      "name": {
+        "ja": "マグマラシ",
+        "en": "Quilava"
+      },
+      "generation": 2
+    },
+    {
+      "id": 157,
+      "identifier": "typhlosion",
+      "name": {
+        "ja": "バクフーン",
+        "en": "Typhlosion"
+      },
+      "generation": 2
+    },
+    {
+      "id": 158,
+      "identifier": "totodile",
+      "name": {
+        "ja": "ワニノコ",
+        "en": "Totodile"
+      },
+      "generation": 2
+    },
+    {
+      "id": 159,
+      "identifier": "croconaw",
+      "name": {
+        "ja": "アリゲイツ",
+        "en": "Croconaw"
+      },
+      "generation": 2
+    },
+    {
+      "id": 160,
+      "identifier": "feraligatr",
+      "name": {
+        "ja": "オーダイル",
+        "en": "Feraligatr"
+      },
+      "generation": 2
+    },
+    {
+      "id": 161,
+      "identifier": "sentret",
+      "name": {
+        "ja": "オタチ",
+        "en": "Sentret"
+      },
+      "generation": 2
+    },
+    {
+      "id": 162,
+      "identifier": "furret",
+      "name": {
+        "ja": "オオタチ",
+        "en": "Furret"
+      },
+      "generation": 2
+    },
+    {
+      "id": 163,
+      "identifier": "hoothoot",
+      "name": {
+        "ja": "ホーホー",
+        "en": "Hoothoot"
+      },
+      "generation": 2
+    },
+    {
+      "id": 164,
+      "identifier": "noctowl",
+      "name": {
+        "ja": "ヨルノズク",
+        "en": "Noctowl"
+      },
+      "generation": 2
+    },
+    {
+      "id": 165,
+      "identifier": "ledyba",
+      "name": {
+        "ja": "レディバ",
+        "en": "Ledyba"
+      },
+      "generation": 2
+    },
+    {
+      "id": 166,
+      "identifier": "ledian",
+      "name": {
+        "ja": "レディアン",
+        "en": "Ledian"
+      },
+      "generation": 2
+    },
+    {
+      "id": 167,
+      "identifier": "spinarak",
+      "name": {
+        "ja": "イトマル",
+        "en": "Spinarak"
+      },
+      "generation": 2
+    },
+    {
+      "id": 168,
+      "identifier": "ariados",
+      "name": {
+        "ja": "アリアドス",
+        "en": "Ariados"
+      },
+      "generation": 2
+    },
+    {
+      "id": 169,
+      "identifier": "crobat",
+      "name": {
+        "ja": "クロバット",
+        "en": "Crobat"
+      },
+      "generation": 2
+    },
+    {
+      "id": 170,
+      "identifier": "chinchou",
+      "name": {
+        "ja": "チョンチー",
+        "en": "Chinchou"
+      },
+      "generation": 2
+    },
+    {
+      "id": 171,
+      "identifier": "lanturn",
+      "name": {
+        "ja": "ランターン",
+        "en": "Lanturn"
+      },
+      "generation": 2
+    },
+    {
+      "id": 172,
+      "identifier": "pichu",
+      "name": {
+        "ja": "ピチュー",
+        "en": "Pichu"
+      },
+      "generation": 2
+    },
+    {
+      "id": 173,
+      "identifier": "cleffa",
+      "name": {
+        "ja": "ピィ",
+        "en": "Cleffa"
+      },
+      "generation": 2
+    },
+    {
+      "id": 174,
+      "identifier": "igglybuff",
+      "name": {
+        "ja": "ププリン",
+        "en": "Igglybuff"
+      },
+      "generation": 2
+    },
+    {
+      "id": 175,
+      "identifier": "togepi",
+      "name": {
+        "ja": "トゲピー",
+        "en": "Togepi"
+      },
+      "generation": 2
+    },
+    {
+      "id": 176,
+      "identifier": "togetic",
+      "name": {
+        "ja": "トゲチック",
+        "en": "Togetic"
+      },
+      "generation": 2
+    },
+    {
+      "id": 177,
+      "identifier": "natu",
+      "name": {
+        "ja": "ネイティ",
+        "en": "Natu"
+      },
+      "generation": 2
+    },
+    {
+      "id": 178,
+      "identifier": "xatu",
+      "name": {
+        "ja": "ネイティオ",
+        "en": "Xatu"
+      },
+      "generation": 2
+    },
+    {
+      "id": 179,
+      "identifier": "mareep",
+      "name": {
+        "ja": "メリープ",
+        "en": "Mareep"
+      },
+      "generation": 2
+    },
+    {
+      "id": 180,
+      "identifier": "flaaffy",
+      "name": {
+        "ja": "モココ",
+        "en": "Flaaffy"
+      },
+      "generation": 2
+    },
+    {
+      "id": 181,
+      "identifier": "ampharos",
+      "name": {
+        "ja": "デンリュウ",
+        "en": "Ampharos"
+      },
+      "generation": 2
+    },
+    {
+      "id": 182,
+      "identifier": "bellossom",
+      "name": {
+        "ja": "キレイハナ",
+        "en": "Bellossom"
+      },
+      "generation": 2
+    },
+    {
+      "id": 183,
+      "identifier": "marill",
+      "name": {
+        "ja": "マリル",
+        "en": "Marill"
+      },
+      "generation": 2
+    },
+    {
+      "id": 184,
+      "identifier": "azumarill",
+      "name": {
+        "ja": "マリルリ",
+        "en": "Azumarill"
+      },
+      "generation": 2
+    },
+    {
+      "id": 185,
+      "identifier": "sudowoodo",
+      "name": {
+        "ja": "ウソッキー",
+        "en": "Sudowoodo"
+      },
+      "generation": 2
+    },
+    {
+      "id": 186,
+      "identifier": "politoed",
+      "name": {
+        "ja": "ニョロトノ",
+        "en": "Politoed"
+      },
+      "generation": 2
+    },
+    {
+      "id": 187,
+      "identifier": "hoppip",
+      "name": {
+        "ja": "ハネッコ",
+        "en": "Hoppip"
+      },
+      "generation": 2
+    },
+    {
+      "id": 188,
+      "identifier": "skiploom",
+      "name": {
+        "ja": "ポポッコ",
+        "en": "Skiploom"
+      },
+      "generation": 2
+    },
+    {
+      "id": 189,
+      "identifier": "jumpluff",
+      "name": {
+        "ja": "ワタッコ",
+        "en": "Jumpluff"
+      },
+      "generation": 2
+    },
+    {
+      "id": 190,
+      "identifier": "aipom",
+      "name": {
+        "ja": "エイパム",
+        "en": "Aipom"
+      },
+      "generation": 2
+    },
+    {
+      "id": 191,
+      "identifier": "sunkern",
+      "name": {
+        "ja": "ヒマナッツ",
+        "en": "Sunkern"
+      },
+      "generation": 2
+    },
+    {
+      "id": 192,
+      "identifier": "sunflora",
+      "name": {
+        "ja": "キマワリ",
+        "en": "Sunflora"
+      },
+      "generation": 2
+    },
+    {
+      "id": 193,
+      "identifier": "yanma",
+      "name": {
+        "ja": "ヤンヤンマ",
+        "en": "Yanma"
+      },
+      "generation": 2
+    },
+    {
+      "id": 194,
+      "identifier": "wooper",
+      "name": {
+        "ja": "ウパー",
+        "en": "Wooper"
+      },
+      "generation": 2
+    },
+    {
+      "id": 195,
+      "identifier": "quagsire",
+      "name": {
+        "ja": "ヌオー",
+        "en": "Quagsire"
+      },
+      "generation": 2
+    },
+    {
+      "id": 196,
+      "identifier": "espeon",
+      "name": {
+        "ja": "エーフィ",
+        "en": "Espeon"
+      },
+      "generation": 2
+    },
+    {
+      "id": 197,
+      "identifier": "umbreon",
+      "name": {
+        "ja": "ブラッキー",
+        "en": "Umbreon"
+      },
+      "generation": 2
+    },
+    {
+      "id": 198,
+      "identifier": "murkrow",
+      "name": {
+        "ja": "ヤミカラス",
+        "en": "Murkrow"
+      },
+      "generation": 2
+    },
+    {
+      "id": 199,
+      "identifier": "slowking",
+      "name": {
+        "ja": "ヤドキング",
+        "en": "Slowking"
+      },
+      "generation": 2
+    },
+    {
+      "id": 200,
+      "identifier": "misdreavus",
+      "name": {
+        "ja": "ムウマ",
+        "en": "Misdreavus"
+      },
+      "generation": 2
+    },
+    {
+      "id": 201,
+      "identifier": "unown",
+      "name": {
+        "ja": "アンノーン",
+        "en": "Unown"
+      },
+      "generation": 2
+    },
+    {
+      "id": 202,
+      "identifier": "wobbuffet",
+      "name": {
+        "ja": "ソーナンス",
+        "en": "Wobbuffet"
+      },
+      "generation": 2
+    },
+    {
+      "id": 203,
+      "identifier": "girafarig",
+      "name": {
+        "ja": "キリンリキ",
+        "en": "Girafarig"
+      },
+      "generation": 2
+    },
+    {
+      "id": 204,
+      "identifier": "pineco",
+      "name": {
+        "ja": "クヌギダマ",
+        "en": "Pineco"
+      },
+      "generation": 2
+    },
+    {
+      "id": 205,
+      "identifier": "forretress",
+      "name": {
+        "ja": "フォレトス",
+        "en": "Forretress"
+      },
+      "generation": 2
+    },
+    {
+      "id": 206,
+      "identifier": "dunsparce",
+      "name": {
+        "ja": "ノコッチ",
+        "en": "Dunsparce"
+      },
+      "generation": 2
+    },
+    {
+      "id": 207,
+      "identifier": "gligar",
+      "name": {
+        "ja": "グライガー",
+        "en": "Gligar"
+      },
+      "generation": 2
+    },
+    {
+      "id": 208,
+      "identifier": "steelix",
+      "name": {
+        "ja": "ハガネール",
+        "en": "Steelix"
+      },
+      "generation": 2
+    },
+    {
+      "id": 209,
+      "identifier": "snubbull",
+      "name": {
+        "ja": "ブルー",
+        "en": "Snubbull"
+      },
+      "generation": 2
+    },
+    {
+      "id": 210,
+      "identifier": "granbull",
+      "name": {
+        "ja": "グランブル",
+        "en": "Granbull"
+      },
+      "generation": 2
+    },
+    {
+      "id": 211,
+      "identifier": "qwilfish",
+      "name": {
+        "ja": "ハリーセン",
+        "en": "Qwilfish"
+      },
+      "generation": 2
+    },
+    {
+      "id": 212,
+      "identifier": "scizor",
+      "name": {
+        "ja": "ハッサム",
+        "en": "Scizor"
+      },
+      "generation": 2
+    },
+    {
+      "id": 213,
+      "identifier": "shuckle",
+      "name": {
+        "ja": "ツボツボ",
+        "en": "Shuckle"
+      },
+      "generation": 2
+    },
+    {
+      "id": 214,
+      "identifier": "heracross",
+      "name": {
+        "ja": "ヘラクロス",
+        "en": "Heracross"
+      },
+      "generation": 2
+    },
+    {
+      "id": 215,
+      "identifier": "sneasel",
+      "name": {
+        "ja": "ニューラ",
+        "en": "Sneasel"
+      },
+      "generation": 2
+    },
+    {
+      "id": 216,
+      "identifier": "teddiursa",
+      "name": {
+        "ja": "ヒメグマ",
+        "en": "Teddiursa"
+      },
+      "generation": 2
+    },
+    {
+      "id": 217,
+      "identifier": "ursaring",
+      "name": {
+        "ja": "リングマ",
+        "en": "Ursaring"
+      },
+      "generation": 2
+    },
+    {
+      "id": 218,
+      "identifier": "slugma",
+      "name": {
+        "ja": "マグマッグ",
+        "en": "Slugma"
+      },
+      "generation": 2
+    },
+    {
+      "id": 219,
+      "identifier": "magcargo",
+      "name": {
+        "ja": "マグカルゴ",
+        "en": "Magcargo"
+      },
+      "generation": 2
+    },
+    {
+      "id": 220,
+      "identifier": "swinub",
+      "name": {
+        "ja": "ウリムー",
+        "en": "Swinub"
+      },
+      "generation": 2
+    },
+    {
+      "id": 221,
+      "identifier": "piloswine",
+      "name": {
+        "ja": "イノムー",
+        "en": "Piloswine"
+      },
+      "generation": 2
+    },
+    {
+      "id": 222,
+      "identifier": "corsola",
+      "name": {
+        "ja": "サニーゴ",
+        "en": "Corsola"
+      },
+      "generation": 2
+    },
+    {
+      "id": 223,
+      "identifier": "remoraid",
+      "name": {
+        "ja": "テッポウオ",
+        "en": "Remoraid"
+      },
+      "generation": 2
+    },
+    {
+      "id": 224,
+      "identifier": "octillery",
+      "name": {
+        "ja": "オクタン",
+        "en": "Octillery"
+      },
+      "generation": 2
+    },
+    {
+      "id": 225,
+      "identifier": "delibird",
+      "name": {
+        "ja": "デリバード",
+        "en": "Delibird"
+      },
+      "generation": 2
+    },
+    {
+      "id": 226,
+      "identifier": "mantine",
+      "name": {
+        "ja": "マンタイン",
+        "en": "Mantine"
+      },
+      "generation": 2
+    },
+    {
+      "id": 227,
+      "identifier": "skarmory",
+      "name": {
+        "ja": "エアームド",
+        "en": "Skarmory"
+      },
+      "generation": 2
+    },
+    {
+      "id": 228,
+      "identifier": "houndour",
+      "name": {
+        "ja": "デルビル",
+        "en": "Houndour"
+      },
+      "generation": 2
+    },
+    {
+      "id": 229,
+      "identifier": "houndoom",
+      "name": {
+        "ja": "ヘルガー",
+        "en": "Houndoom"
+      },
+      "generation": 2
+    },
+    {
+      "id": 230,
+      "identifier": "kingdra",
+      "name": {
+        "ja": "キングドラ",
+        "en": "Kingdra"
+      },
+      "generation": 2
+    },
+    {
+      "id": 231,
+      "identifier": "phanpy",
+      "name": {
+        "ja": "ゴマゾウ",
+        "en": "Phanpy"
+      },
+      "generation": 2
+    },
+    {
+      "id": 232,
+      "identifier": "donphan",
+      "name": {
+        "ja": "ドンファン",
+        "en": "Donphan"
+      },
+      "generation": 2
+    },
+    {
+      "id": 233,
+      "identifier": "porygon2",
+      "name": {
+        "ja": "ポリゴン2",
+        "en": "Porygon2"
+      },
+      "generation": 2
+    },
+    {
+      "id": 234,
+      "identifier": "stantler",
+      "name": {
+        "ja": "オドシシ",
+        "en": "Stantler"
+      },
+      "generation": 2
+    },
+    {
+      "id": 235,
+      "identifier": "smeargle",
+      "name": {
+        "ja": "ドーブル",
+        "en": "Smeargle"
+      },
+      "generation": 2
+    },
+    {
+      "id": 236,
+      "identifier": "tyrogue",
+      "name": {
+        "ja": "バルキー",
+        "en": "Tyrogue"
+      },
+      "generation": 2
+    },
+    {
+      "id": 237,
+      "identifier": "hitmontop",
+      "name": {
+        "ja": "カポエラー",
+        "en": "Hitmontop"
+      },
+      "generation": 2
+    },
+    {
+      "id": 238,
+      "identifier": "smoochum",
+      "name": {
+        "ja": "ムチュール",
+        "en": "Smoochum"
+      },
+      "generation": 2
+    },
+    {
+      "id": 239,
+      "identifier": "elekid",
+      "name": {
+        "ja": "エレキッド",
+        "en": "Elekid"
+      },
+      "generation": 2
+    },
+    {
+      "id": 240,
+      "identifier": "magby",
+      "name": {
+        "ja": "ブビィ",
+        "en": "Magby"
+      },
+      "generation": 2
+    },
+    {
+      "id": 241,
+      "identifier": "miltank",
+      "name": {
+        "ja": "ミルタンク",
+        "en": "Miltank"
+      },
+      "generation": 2
+    },
+    {
+      "id": 242,
+      "identifier": "blissey",
+      "name": {
+        "ja": "ハピナス",
+        "en": "Blissey"
+      },
+      "generation": 2
+    },
+    {
+      "id": 243,
+      "identifier": "raikou",
+      "name": {
+        "ja": "ライコウ",
+        "en": "Raikou"
+      },
+      "generation": 2
+    },
+    {
+      "id": 244,
+      "identifier": "entei",
+      "name": {
+        "ja": "エンテイ",
+        "en": "Entei"
+      },
+      "generation": 2
+    },
+    {
+      "id": 245,
+      "identifier": "suicune",
+      "name": {
+        "ja": "スイクン",
+        "en": "Suicune"
+      },
+      "generation": 2
+    },
+    {
+      "id": 246,
+      "identifier": "larvitar",
+      "name": {
+        "ja": "ヨーギラス",
+        "en": "Larvitar"
+      },
+      "generation": 2
+    },
+    {
+      "id": 247,
+      "identifier": "pupitar",
+      "name": {
+        "ja": "サナギラス",
+        "en": "Pupitar"
+      },
+      "generation": 2
+    },
+    {
+      "id": 248,
+      "identifier": "tyranitar",
+      "name": {
+        "ja": "バンギラス",
+        "en": "Tyranitar"
+      },
+      "generation": 2
+    },
+    {
+      "id": 249,
+      "identifier": "lugia",
+      "name": {
+        "ja": "ルギア",
+        "en": "Lugia"
+      },
+      "generation": 2
+    },
+    {
+      "id": 250,
+      "identifier": "ho-oh",
+      "name": {
+        "ja": "ホウオウ",
+        "en": "Ho-Oh"
+      },
+      "generation": 2
+    },
+    {
+      "id": 251,
+      "identifier": "celebi",
+      "name": {
+        "ja": "セレビィ",
+        "en": "Celebi"
+      },
+      "generation": 2
+    },
+    {
+      "id": 252,
+      "identifier": "treecko",
+      "name": {
+        "ja": "キモリ",
+        "en": "Treecko"
+      },
+      "generation": 3
+    },
+    {
+      "id": 253,
+      "identifier": "grovyle",
+      "name": {
+        "ja": "ジュプトル",
+        "en": "Grovyle"
+      },
+      "generation": 3
+    },
+    {
+      "id": 254,
+      "identifier": "sceptile",
+      "name": {
+        "ja": "ジュカイン",
+        "en": "Sceptile"
+      },
+      "generation": 3
+    },
+    {
+      "id": 255,
+      "identifier": "torchic",
+      "name": {
+        "ja": "アチャモ",
+        "en": "Torchic"
+      },
+      "generation": 3
+    },
+    {
+      "id": 256,
+      "identifier": "combusken",
+      "name": {
+        "ja": "ワカシャモ",
+        "en": "Combusken"
+      },
+      "generation": 3
+    },
+    {
+      "id": 257,
+      "identifier": "blaziken",
+      "name": {
+        "ja": "バシャーモ",
+        "en": "Blaziken"
+      },
+      "generation": 3
+    },
+    {
+      "id": 258,
+      "identifier": "mudkip",
+      "name": {
+        "ja": "ミズゴロウ",
+        "en": "Mudkip"
+      },
+      "generation": 3
+    },
+    {
+      "id": 259,
+      "identifier": "marshtomp",
+      "name": {
+        "ja": "ヌマクロー",
+        "en": "Marshtomp"
+      },
+      "generation": 3
+    },
+    {
+      "id": 260,
+      "identifier": "swampert",
+      "name": {
+        "ja": "ラグラージ",
+        "en": "Swampert"
+      },
+      "generation": 3
+    },
+    {
+      "id": 261,
+      "identifier": "poochyena",
+      "name": {
+        "ja": "ポチエナ",
+        "en": "Poochyena"
+      },
+      "generation": 3
+    },
+    {
+      "id": 262,
+      "identifier": "mightyena",
+      "name": {
+        "ja": "グラエナ",
+        "en": "Mightyena"
+      },
+      "generation": 3
+    },
+    {
+      "id": 263,
+      "identifier": "zigzagoon",
+      "name": {
+        "ja": "ジグザグマ",
+        "en": "Zigzagoon"
+      },
+      "generation": 3
+    },
+    {
+      "id": 264,
+      "identifier": "linoone",
+      "name": {
+        "ja": "マッスグマ",
+        "en": "Linoone"
+      },
+      "generation": 3
+    },
+    {
+      "id": 265,
+      "identifier": "wurmple",
+      "name": {
+        "ja": "ケムッソ",
+        "en": "Wurmple"
+      },
+      "generation": 3
+    },
+    {
+      "id": 266,
+      "identifier": "silcoon",
+      "name": {
+        "ja": "カラサリス",
+        "en": "Silcoon"
+      },
+      "generation": 3
+    },
+    {
+      "id": 267,
+      "identifier": "beautifly",
+      "name": {
+        "ja": "アゲハント",
+        "en": "Beautifly"
+      },
+      "generation": 3
+    },
+    {
+      "id": 268,
+      "identifier": "cascoon",
+      "name": {
+        "ja": "マユルド",
+        "en": "Cascoon"
+      },
+      "generation": 3
+    },
+    {
+      "id": 269,
+      "identifier": "dustox",
+      "name": {
+        "ja": "ドクケイル",
+        "en": "Dustox"
+      },
+      "generation": 3
+    },
+    {
+      "id": 270,
+      "identifier": "lotad",
+      "name": {
+        "ja": "ハスボー",
+        "en": "Lotad"
+      },
+      "generation": 3
+    },
+    {
+      "id": 271,
+      "identifier": "lombre",
+      "name": {
+        "ja": "ハスブレロ",
+        "en": "Lombre"
+      },
+      "generation": 3
+    },
+    {
+      "id": 272,
+      "identifier": "ludicolo",
+      "name": {
+        "ja": "ルンパッパ",
+        "en": "Ludicolo"
+      },
+      "generation": 3
+    },
+    {
+      "id": 273,
+      "identifier": "seedot",
+      "name": {
+        "ja": "タネボー",
+        "en": "Seedot"
+      },
+      "generation": 3
+    },
+    {
+      "id": 274,
+      "identifier": "nuzleaf",
+      "name": {
+        "ja": "コノハナ",
+        "en": "Nuzleaf"
+      },
+      "generation": 3
+    },
+    {
+      "id": 275,
+      "identifier": "shiftry",
+      "name": {
+        "ja": "ダーテング",
+        "en": "Shiftry"
+      },
+      "generation": 3
+    },
+    {
+      "id": 276,
+      "identifier": "taillow",
+      "name": {
+        "ja": "スバメ",
+        "en": "Taillow"
+      },
+      "generation": 3
+    },
+    {
+      "id": 277,
+      "identifier": "swellow",
+      "name": {
+        "ja": "オオスバメ",
+        "en": "Swellow"
+      },
+      "generation": 3
+    },
+    {
+      "id": 278,
+      "identifier": "wingull",
+      "name": {
+        "ja": "キャモメ",
+        "en": "Wingull"
+      },
+      "generation": 3
+    },
+    {
+      "id": 279,
+      "identifier": "pelipper",
+      "name": {
+        "ja": "ペリッパー",
+        "en": "Pelipper"
+      },
+      "generation": 3
+    },
+    {
+      "id": 280,
+      "identifier": "ralts",
+      "name": {
+        "ja": "ラルトス",
+        "en": "Ralts"
+      },
+      "generation": 3
+    },
+    {
+      "id": 281,
+      "identifier": "kirlia",
+      "name": {
+        "ja": "キルリア",
+        "en": "Kirlia"
+      },
+      "generation": 3
+    },
+    {
+      "id": 282,
+      "identifier": "gardevoir",
+      "name": {
+        "ja": "サーナイト",
+        "en": "Gardevoir"
+      },
+      "generation": 3
+    },
+    {
+      "id": 283,
+      "identifier": "surskit",
+      "name": {
+        "ja": "アメタマ",
+        "en": "Surskit"
+      },
+      "generation": 3
+    },
+    {
+      "id": 284,
+      "identifier": "masquerain",
+      "name": {
+        "ja": "アメモース",
+        "en": "Masquerain"
+      },
+      "generation": 3
+    },
+    {
+      "id": 285,
+      "identifier": "shroomish",
+      "name": {
+        "ja": "キノココ",
+        "en": "Shroomish"
+      },
+      "generation": 3
+    },
+    {
+      "id": 286,
+      "identifier": "breloom",
+      "name": {
+        "ja": "キノガッサ",
+        "en": "Breloom"
+      },
+      "generation": 3
+    },
+    {
+      "id": 287,
+      "identifier": "slakoth",
+      "name": {
+        "ja": "ナマケロ",
+        "en": "Slakoth"
+      },
+      "generation": 3
+    },
+    {
+      "id": 288,
+      "identifier": "vigoroth",
+      "name": {
+        "ja": "ヤルキモノ",
+        "en": "Vigoroth"
+      },
+      "generation": 3
+    },
+    {
+      "id": 289,
+      "identifier": "slaking",
+      "name": {
+        "ja": "ケッキング",
+        "en": "Slaking"
+      },
+      "generation": 3
+    },
+    {
+      "id": 290,
+      "identifier": "nincada",
+      "name": {
+        "ja": "ツチニン",
+        "en": "Nincada"
+      },
+      "generation": 3
+    },
+    {
+      "id": 291,
+      "identifier": "ninjask",
+      "name": {
+        "ja": "テッカニン",
+        "en": "Ninjask"
+      },
+      "generation": 3
+    },
+    {
+      "id": 292,
+      "identifier": "shedinja",
+      "name": {
+        "ja": "ヌケニン",
+        "en": "Shedinja"
+      },
+      "generation": 3
+    },
+    {
+      "id": 293,
+      "identifier": "whismur",
+      "name": {
+        "ja": "ゴニョニョ",
+        "en": "Whismur"
+      },
+      "generation": 3
+    },
+    {
+      "id": 294,
+      "identifier": "loudred",
+      "name": {
+        "ja": "ドゴーム",
+        "en": "Loudred"
+      },
+      "generation": 3
+    },
+    {
+      "id": 295,
+      "identifier": "exploud",
+      "name": {
+        "ja": "バクオング",
+        "en": "Exploud"
+      },
+      "generation": 3
+    },
+    {
+      "id": 296,
+      "identifier": "makuhita",
+      "name": {
+        "ja": "マクノシタ",
+        "en": "Makuhita"
+      },
+      "generation": 3
+    },
+    {
+      "id": 297,
+      "identifier": "hariyama",
+      "name": {
+        "ja": "ハリテヤマ",
+        "en": "Hariyama"
+      },
+      "generation": 3
+    },
+    {
+      "id": 298,
+      "identifier": "azurill",
+      "name": {
+        "ja": "ルリリ",
+        "en": "Azurill"
+      },
+      "generation": 3
+    },
+    {
+      "id": 299,
+      "identifier": "nosepass",
+      "name": {
+        "ja": "ノズパス",
+        "en": "Nosepass"
+      },
+      "generation": 3
+    },
+    {
+      "id": 300,
+      "identifier": "skitty",
+      "name": {
+        "ja": "エネコ",
+        "en": "Skitty"
+      },
+      "generation": 3
+    },
+    {
+      "id": 301,
+      "identifier": "delcatty",
+      "name": {
+        "ja": "エネコロロ",
+        "en": "Delcatty"
+      },
+      "generation": 3
+    },
+    {
+      "id": 302,
+      "identifier": "sableye",
+      "name": {
+        "ja": "ヤミラミ",
+        "en": "Sableye"
+      },
+      "generation": 3
+    },
+    {
+      "id": 303,
+      "identifier": "mawile",
+      "name": {
+        "ja": "クチート",
+        "en": "Mawile"
+      },
+      "generation": 3
+    },
+    {
+      "id": 304,
+      "identifier": "aron",
+      "name": {
+        "ja": "ココドラ",
+        "en": "Aron"
+      },
+      "generation": 3
+    },
+    {
+      "id": 305,
+      "identifier": "lairon",
+      "name": {
+        "ja": "コドラ",
+        "en": "Lairon"
+      },
+      "generation": 3
+    },
+    {
+      "id": 306,
+      "identifier": "aggron",
+      "name": {
+        "ja": "ボスゴドラ",
+        "en": "Aggron"
+      },
+      "generation": 3
+    },
+    {
+      "id": 307,
+      "identifier": "meditite",
+      "name": {
+        "ja": "アサナン",
+        "en": "Meditite"
+      },
+      "generation": 3
+    },
+    {
+      "id": 308,
+      "identifier": "medicham",
+      "name": {
+        "ja": "チャーレム",
+        "en": "Medicham"
+      },
+      "generation": 3
+    },
+    {
+      "id": 309,
+      "identifier": "electrike",
+      "name": {
+        "ja": "ラクライ",
+        "en": "Electrike"
+      },
+      "generation": 3
+    },
+    {
+      "id": 310,
+      "identifier": "manectric",
+      "name": {
+        "ja": "ライボルト",
+        "en": "Manectric"
+      },
+      "generation": 3
+    },
+    {
+      "id": 311,
+      "identifier": "plusle",
+      "name": {
+        "ja": "プラスル",
+        "en": "Plusle"
+      },
+      "generation": 3
+    },
+    {
+      "id": 312,
+      "identifier": "minun",
+      "name": {
+        "ja": "マイナン",
+        "en": "Minun"
+      },
+      "generation": 3
+    },
+    {
+      "id": 313,
+      "identifier": "volbeat",
+      "name": {
+        "ja": "バルビート",
+        "en": "Volbeat"
+      },
+      "generation": 3
+    },
+    {
+      "id": 314,
+      "identifier": "illumise",
+      "name": {
+        "ja": "イルミーゼ",
+        "en": "Illumise"
+      },
+      "generation": 3
+    },
+    {
+      "id": 315,
+      "identifier": "roselia",
+      "name": {
+        "ja": "ロゼリア",
+        "en": "Roselia"
+      },
+      "generation": 3
+    },
+    {
+      "id": 316,
+      "identifier": "gulpin",
+      "name": {
+        "ja": "ゴクリン",
+        "en": "Gulpin"
+      },
+      "generation": 3
+    },
+    {
+      "id": 317,
+      "identifier": "swalot",
+      "name": {
+        "ja": "マルノーム",
+        "en": "Swalot"
+      },
+      "generation": 3
+    },
+    {
+      "id": 318,
+      "identifier": "carvanha",
+      "name": {
+        "ja": "キバニア",
+        "en": "Carvanha"
+      },
+      "generation": 3
+    },
+    {
+      "id": 319,
+      "identifier": "sharpedo",
+      "name": {
+        "ja": "サメハダー",
+        "en": "Sharpedo"
+      },
+      "generation": 3
+    },
+    {
+      "id": 320,
+      "identifier": "wailmer",
+      "name": {
+        "ja": "ホエルコ",
+        "en": "Wailmer"
+      },
+      "generation": 3
+    },
+    {
+      "id": 321,
+      "identifier": "wailord",
+      "name": {
+        "ja": "ホエルオー",
+        "en": "Wailord"
+      },
+      "generation": 3
+    },
+    {
+      "id": 322,
+      "identifier": "numel",
+      "name": {
+        "ja": "ドンメル",
+        "en": "Numel"
+      },
+      "generation": 3
+    },
+    {
+      "id": 323,
+      "identifier": "camerupt",
+      "name": {
+        "ja": "バクーダ",
+        "en": "Camerupt"
+      },
+      "generation": 3
+    },
+    {
+      "id": 324,
+      "identifier": "torkoal",
+      "name": {
+        "ja": "コータス",
+        "en": "Torkoal"
+      },
+      "generation": 3
+    },
+    {
+      "id": 325,
+      "identifier": "spoink",
+      "name": {
+        "ja": "バネブー",
+        "en": "Spoink"
+      },
+      "generation": 3
+    },
+    {
+      "id": 326,
+      "identifier": "grumpig",
+      "name": {
+        "ja": "ブーピッグ",
+        "en": "Grumpig"
+      },
+      "generation": 3
+    },
+    {
+      "id": 327,
+      "identifier": "spinda",
+      "name": {
+        "ja": "パッチール",
+        "en": "Spinda"
+      },
+      "generation": 3
+    },
+    {
+      "id": 328,
+      "identifier": "trapinch",
+      "name": {
+        "ja": "ナックラー",
+        "en": "Trapinch"
+      },
+      "generation": 3
+    },
+    {
+      "id": 329,
+      "identifier": "vibrava",
+      "name": {
+        "ja": "ビブラーバ",
+        "en": "Vibrava"
+      },
+      "generation": 3
+    },
+    {
+      "id": 330,
+      "identifier": "flygon",
+      "name": {
+        "ja": "フライゴン",
+        "en": "Flygon"
+      },
+      "generation": 3
+    },
+    {
+      "id": 331,
+      "identifier": "cacnea",
+      "name": {
+        "ja": "サボネア",
+        "en": "Cacnea"
+      },
+      "generation": 3
+    },
+    {
+      "id": 332,
+      "identifier": "cacturne",
+      "name": {
+        "ja": "ノクタス",
+        "en": "Cacturne"
+      },
+      "generation": 3
+    },
+    {
+      "id": 333,
+      "identifier": "swablu",
+      "name": {
+        "ja": "チルット",
+        "en": "Swablu"
+      },
+      "generation": 3
+    },
+    {
+      "id": 334,
+      "identifier": "altaria",
+      "name": {
+        "ja": "チルタリス",
+        "en": "Altaria"
+      },
+      "generation": 3
+    },
+    {
+      "id": 335,
+      "identifier": "zangoose",
+      "name": {
+        "ja": "ザングース",
+        "en": "Zangoose"
+      },
+      "generation": 3
+    },
+    {
+      "id": 336,
+      "identifier": "seviper",
+      "name": {
+        "ja": "ハブネーク",
+        "en": "Seviper"
+      },
+      "generation": 3
+    },
+    {
+      "id": 337,
+      "identifier": "lunatone",
+      "name": {
+        "ja": "ルナトーン",
+        "en": "Lunatone"
+      },
+      "generation": 3
+    },
+    {
+      "id": 338,
+      "identifier": "solrock",
+      "name": {
+        "ja": "ソルロック",
+        "en": "Solrock"
+      },
+      "generation": 3
+    },
+    {
+      "id": 339,
+      "identifier": "barboach",
+      "name": {
+        "ja": "ドジョッチ",
+        "en": "Barboach"
+      },
+      "generation": 3
+    },
+    {
+      "id": 340,
+      "identifier": "whiscash",
+      "name": {
+        "ja": "ナマズン",
+        "en": "Whiscash"
+      },
+      "generation": 3
+    },
+    {
+      "id": 341,
+      "identifier": "corphish",
+      "name": {
+        "ja": "ヘイガニ",
+        "en": "Corphish"
+      },
+      "generation": 3
+    },
+    {
+      "id": 342,
+      "identifier": "crawdaunt",
+      "name": {
+        "ja": "シザリガー",
+        "en": "Crawdaunt"
+      },
+      "generation": 3
+    },
+    {
+      "id": 343,
+      "identifier": "baltoy",
+      "name": {
+        "ja": "ヤジロン",
+        "en": "Baltoy"
+      },
+      "generation": 3
+    },
+    {
+      "id": 344,
+      "identifier": "claydol",
+      "name": {
+        "ja": "ネンドール",
+        "en": "Claydol"
+      },
+      "generation": 3
+    },
+    {
+      "id": 345,
+      "identifier": "lileep",
+      "name": {
+        "ja": "リリーラ",
+        "en": "Lileep"
+      },
+      "generation": 3
+    },
+    {
+      "id": 346,
+      "identifier": "cradily",
+      "name": {
+        "ja": "ユレイドル",
+        "en": "Cradily"
+      },
+      "generation": 3
+    },
+    {
+      "id": 347,
+      "identifier": "anorith",
+      "name": {
+        "ja": "アノプス",
+        "en": "Anorith"
+      },
+      "generation": 3
+    },
+    {
+      "id": 348,
+      "identifier": "armaldo",
+      "name": {
+        "ja": "アーマルド",
+        "en": "Armaldo"
+      },
+      "generation": 3
+    },
+    {
+      "id": 349,
+      "identifier": "feebas",
+      "name": {
+        "ja": "ヒンバス",
+        "en": "Feebas"
+      },
+      "generation": 3
+    },
+    {
+      "id": 350,
+      "identifier": "milotic",
+      "name": {
+        "ja": "ミロカロス",
+        "en": "Milotic"
+      },
+      "generation": 3
+    },
+    {
+      "id": 351,
+      "identifier": "castform",
+      "name": {
+        "ja": "ポワルン",
+        "en": "Castform"
+      },
+      "generation": 3
+    },
+    {
+      "id": 352,
+      "identifier": "kecleon",
+      "name": {
+        "ja": "カクレオン",
+        "en": "Kecleon"
+      },
+      "generation": 3
+    },
+    {
+      "id": 353,
+      "identifier": "shuppet",
+      "name": {
+        "ja": "カゲボウズ",
+        "en": "Shuppet"
+      },
+      "generation": 3
+    },
+    {
+      "id": 354,
+      "identifier": "banette",
+      "name": {
+        "ja": "ジュペッタ",
+        "en": "Banette"
+      },
+      "generation": 3
+    },
+    {
+      "id": 355,
+      "identifier": "duskull",
+      "name": {
+        "ja": "ヨマワル",
+        "en": "Duskull"
+      },
+      "generation": 3
+    },
+    {
+      "id": 356,
+      "identifier": "dusclops",
+      "name": {
+        "ja": "サマヨール",
+        "en": "Dusclops"
+      },
+      "generation": 3
+    },
+    {
+      "id": 357,
+      "identifier": "tropius",
+      "name": {
+        "ja": "トロピウス",
+        "en": "Tropius"
+      },
+      "generation": 3
+    },
+    {
+      "id": 358,
+      "identifier": "chimecho",
+      "name": {
+        "ja": "チリーン",
+        "en": "Chimecho"
+      },
+      "generation": 3
+    },
+    {
+      "id": 359,
+      "identifier": "absol",
+      "name": {
+        "ja": "アブソル",
+        "en": "Absol"
+      },
+      "generation": 3
+    },
+    {
+      "id": 360,
+      "identifier": "wynaut",
+      "name": {
+        "ja": "ソーナノ",
+        "en": "Wynaut"
+      },
+      "generation": 3
+    },
+    {
+      "id": 361,
+      "identifier": "snorunt",
+      "name": {
+        "ja": "ユキワラシ",
+        "en": "Snorunt"
+      },
+      "generation": 3
+    },
+    {
+      "id": 362,
+      "identifier": "glalie",
+      "name": {
+        "ja": "オニゴーリ",
+        "en": "Glalie"
+      },
+      "generation": 3
+    },
+    {
+      "id": 363,
+      "identifier": "spheal",
+      "name": {
+        "ja": "タマザラシ",
+        "en": "Spheal"
+      },
+      "generation": 3
+    },
+    {
+      "id": 364,
+      "identifier": "sealeo",
+      "name": {
+        "ja": "トドグラー",
+        "en": "Sealeo"
+      },
+      "generation": 3
+    },
+    {
+      "id": 365,
+      "identifier": "walrein",
+      "name": {
+        "ja": "トドゼルガ",
+        "en": "Walrein"
+      },
+      "generation": 3
+    },
+    {
+      "id": 366,
+      "identifier": "clamperl",
+      "name": {
+        "ja": "パールル",
+        "en": "Clamperl"
+      },
+      "generation": 3
+    },
+    {
+      "id": 367,
+      "identifier": "huntail",
+      "name": {
+        "ja": "ハンテール",
+        "en": "Huntail"
+      },
+      "generation": 3
+    },
+    {
+      "id": 368,
+      "identifier": "gorebyss",
+      "name": {
+        "ja": "サクラビス",
+        "en": "Gorebyss"
+      },
+      "generation": 3
+    },
+    {
+      "id": 369,
+      "identifier": "relicanth",
+      "name": {
+        "ja": "ジーランス",
+        "en": "Relicanth"
+      },
+      "generation": 3
+    },
+    {
+      "id": 370,
+      "identifier": "luvdisc",
+      "name": {
+        "ja": "ラブカス",
+        "en": "Luvdisc"
+      },
+      "generation": 3
+    },
+    {
+      "id": 371,
+      "identifier": "bagon",
+      "name": {
+        "ja": "タツベイ",
+        "en": "Bagon"
+      },
+      "generation": 3
+    },
+    {
+      "id": 372,
+      "identifier": "shelgon",
+      "name": {
+        "ja": "コモルー",
+        "en": "Shelgon"
+      },
+      "generation": 3
+    },
+    {
+      "id": 373,
+      "identifier": "salamence",
+      "name": {
+        "ja": "ボーマンダ",
+        "en": "Salamence"
+      },
+      "generation": 3
+    },
+    {
+      "id": 374,
+      "identifier": "beldum",
+      "name": {
+        "ja": "ダンバル",
+        "en": "Beldum"
+      },
+      "generation": 3
+    },
+    {
+      "id": 375,
+      "identifier": "metang",
+      "name": {
+        "ja": "メタング",
+        "en": "Metang"
+      },
+      "generation": 3
+    },
+    {
+      "id": 376,
+      "identifier": "metagross",
+      "name": {
+        "ja": "メタグロス",
+        "en": "Metagross"
+      },
+      "generation": 3
+    },
+    {
+      "id": 377,
+      "identifier": "regirock",
+      "name": {
+        "ja": "レジロック",
+        "en": "Regirock"
+      },
+      "generation": 3
+    },
+    {
+      "id": 378,
+      "identifier": "regice",
+      "name": {
+        "ja": "レジアイス",
+        "en": "Regice"
+      },
+      "generation": 3
+    },
+    {
+      "id": 379,
+      "identifier": "registeel",
+      "name": {
+        "ja": "レジスチル",
+        "en": "Registeel"
+      },
+      "generation": 3
+    },
+    {
+      "id": 380,
+      "identifier": "latias",
+      "name": {
+        "ja": "ラティアス",
+        "en": "Latias"
+      },
+      "generation": 3
+    },
+    {
+      "id": 381,
+      "identifier": "latios",
+      "name": {
+        "ja": "ラティオス",
+        "en": "Latios"
+      },
+      "generation": 3
+    },
+    {
+      "id": 382,
+      "identifier": "kyogre",
+      "name": {
+        "ja": "カイオーガ",
+        "en": "Kyogre"
+      },
+      "generation": 3
+    },
+    {
+      "id": 383,
+      "identifier": "groudon",
+      "name": {
+        "ja": "グラードン",
+        "en": "Groudon"
+      },
+      "generation": 3
+    },
+    {
+      "id": 384,
+      "identifier": "rayquaza",
+      "name": {
+        "ja": "レックウザ",
+        "en": "Rayquaza"
+      },
+      "generation": 3
+    },
+    {
+      "id": 385,
+      "identifier": "jirachi",
+      "name": {
+        "ja": "ジラーチ",
+        "en": "Jirachi"
+      },
+      "generation": 3
+    },
+    {
+      "id": 386,
+      "identifier": "deoxys",
+      "name": {
+        "ja": "デオキシス",
+        "en": "Deoxys"
+      },
+      "generation": 3
+    },
+    {
+      "id": 387,
+      "identifier": "turtwig",
+      "name": {
+        "ja": "ナエトル",
+        "en": "Turtwig"
+      },
+      "generation": 4
+    },
+    {
+      "id": 388,
+      "identifier": "grotle",
+      "name": {
+        "ja": "ハヤシガメ",
+        "en": "Grotle"
+      },
+      "generation": 4
+    },
+    {
+      "id": 389,
+      "identifier": "torterra",
+      "name": {
+        "ja": "ドダイトス",
+        "en": "Torterra"
+      },
+      "generation": 4
+    },
+    {
+      "id": 390,
+      "identifier": "chimchar",
+      "name": {
+        "ja": "ヒコザル",
+        "en": "Chimchar"
+      },
+      "generation": 4
+    },
+    {
+      "id": 391,
+      "identifier": "monferno",
+      "name": {
+        "ja": "モウカザル",
+        "en": "Monferno"
+      },
+      "generation": 4
+    },
+    {
+      "id": 392,
+      "identifier": "infernape",
+      "name": {
+        "ja": "ゴウカザル",
+        "en": "Infernape"
+      },
+      "generation": 4
+    },
+    {
+      "id": 393,
+      "identifier": "piplup",
+      "name": {
+        "ja": "ポッチャマ",
+        "en": "Piplup"
+      },
+      "generation": 4
+    },
+    {
+      "id": 394,
+      "identifier": "prinplup",
+      "name": {
+        "ja": "ポッタイシ",
+        "en": "Prinplup"
+      },
+      "generation": 4
+    },
+    {
+      "id": 395,
+      "identifier": "empoleon",
+      "name": {
+        "ja": "エンペルト",
+        "en": "Empoleon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 396,
+      "identifier": "starly",
+      "name": {
+        "ja": "ムックル",
+        "en": "Starly"
+      },
+      "generation": 4
+    },
+    {
+      "id": 397,
+      "identifier": "staravia",
+      "name": {
+        "ja": "ムクバード",
+        "en": "Staravia"
+      },
+      "generation": 4
+    },
+    {
+      "id": 398,
+      "identifier": "staraptor",
+      "name": {
+        "ja": "ムクホーク",
+        "en": "Staraptor"
+      },
+      "generation": 4
+    },
+    {
+      "id": 399,
+      "identifier": "bidoof",
+      "name": {
+        "ja": "ビッパ",
+        "en": "Bidoof"
+      },
+      "generation": 4
+    },
+    {
+      "id": 400,
+      "identifier": "bibarel",
+      "name": {
+        "ja": "ビーダル",
+        "en": "Bibarel"
+      },
+      "generation": 4
+    },
+    {
+      "id": 401,
+      "identifier": "kricketot",
+      "name": {
+        "ja": "コロボーシ",
+        "en": "Kricketot"
+      },
+      "generation": 4
+    },
+    {
+      "id": 402,
+      "identifier": "kricketune",
+      "name": {
+        "ja": "コロトック",
+        "en": "Kricketune"
+      },
+      "generation": 4
+    },
+    {
+      "id": 403,
+      "identifier": "shinx",
+      "name": {
+        "ja": "コリンク",
+        "en": "Shinx"
+      },
+      "generation": 4
+    },
+    {
+      "id": 404,
+      "identifier": "luxio",
+      "name": {
+        "ja": "ルクシオ",
+        "en": "Luxio"
+      },
+      "generation": 4
+    },
+    {
+      "id": 405,
+      "identifier": "luxray",
+      "name": {
+        "ja": "レントラー",
+        "en": "Luxray"
+      },
+      "generation": 4
+    },
+    {
+      "id": 406,
+      "identifier": "budew",
+      "name": {
+        "ja": "スボミー",
+        "en": "Budew"
+      },
+      "generation": 4
+    },
+    {
+      "id": 407,
+      "identifier": "roserade",
+      "name": {
+        "ja": "ロズレイド",
+        "en": "Roserade"
+      },
+      "generation": 4
+    },
+    {
+      "id": 408,
+      "identifier": "cranidos",
+      "name": {
+        "ja": "ズガイドス",
+        "en": "Cranidos"
+      },
+      "generation": 4
+    },
+    {
+      "id": 409,
+      "identifier": "rampardos",
+      "name": {
+        "ja": "ラムパルド",
+        "en": "Rampardos"
+      },
+      "generation": 4
+    },
+    {
+      "id": 410,
+      "identifier": "shieldon",
+      "name": {
+        "ja": "タテトプス",
+        "en": "Shieldon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 411,
+      "identifier": "bastiodon",
+      "name": {
+        "ja": "トリデプス",
+        "en": "Bastiodon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 412,
+      "identifier": "burmy",
+      "name": {
+        "ja": "ミノムッチ",
+        "en": "Burmy"
+      },
+      "generation": 4
+    },
+    {
+      "id": 413,
+      "identifier": "wormadam",
+      "name": {
+        "ja": "ミノマダム",
+        "en": "Wormadam"
+      },
+      "generation": 4
+    },
+    {
+      "id": 414,
+      "identifier": "mothim",
+      "name": {
+        "ja": "ガーメイル",
+        "en": "Mothim"
+      },
+      "generation": 4
+    },
+    {
+      "id": 415,
+      "identifier": "combee",
+      "name": {
+        "ja": "ミツハニー",
+        "en": "Combee"
+      },
+      "generation": 4
+    },
+    {
+      "id": 416,
+      "identifier": "vespiquen",
+      "name": {
+        "ja": "ビークイン",
+        "en": "Vespiquen"
+      },
+      "generation": 4
+    },
+    {
+      "id": 417,
+      "identifier": "pachirisu",
+      "name": {
+        "ja": "パチリス",
+        "en": "Pachirisu"
+      },
+      "generation": 4
+    },
+    {
+      "id": 418,
+      "identifier": "buizel",
+      "name": {
+        "ja": "ブイゼル",
+        "en": "Buizel"
+      },
+      "generation": 4
+    },
+    {
+      "id": 419,
+      "identifier": "floatzel",
+      "name": {
+        "ja": "フローゼル",
+        "en": "Floatzel"
+      },
+      "generation": 4
+    },
+    {
+      "id": 420,
+      "identifier": "cherubi",
+      "name": {
+        "ja": "チェリンボ",
+        "en": "Cherubi"
+      },
+      "generation": 4
+    },
+    {
+      "id": 421,
+      "identifier": "cherrim",
+      "name": {
+        "ja": "チェリム",
+        "en": "Cherrim"
+      },
+      "generation": 4
+    },
+    {
+      "id": 422,
+      "identifier": "shellos",
+      "name": {
+        "ja": "カラナクシ",
+        "en": "Shellos"
+      },
+      "generation": 4
+    },
+    {
+      "id": 423,
+      "identifier": "gastrodon",
+      "name": {
+        "ja": "トリトドン",
+        "en": "Gastrodon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 424,
+      "identifier": "ambipom",
+      "name": {
+        "ja": "エテボース",
+        "en": "Ambipom"
+      },
+      "generation": 4
+    },
+    {
+      "id": 425,
+      "identifier": "drifloon",
+      "name": {
+        "ja": "フワンテ",
+        "en": "Drifloon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 426,
+      "identifier": "drifblim",
+      "name": {
+        "ja": "フワライド",
+        "en": "Drifblim"
+      },
+      "generation": 4
+    },
+    {
+      "id": 427,
+      "identifier": "buneary",
+      "name": {
+        "ja": "ミミロル",
+        "en": "Buneary"
+      },
+      "generation": 4
+    },
+    {
+      "id": 428,
+      "identifier": "lopunny",
+      "name": {
+        "ja": "ミミロップ",
+        "en": "Lopunny"
+      },
+      "generation": 4
+    },
+    {
+      "id": 429,
+      "identifier": "mismagius",
+      "name": {
+        "ja": "ムウマージ",
+        "en": "Mismagius"
+      },
+      "generation": 4
+    },
+    {
+      "id": 430,
+      "identifier": "honchkrow",
+      "name": {
+        "ja": "ドンカラス",
+        "en": "Honchkrow"
+      },
+      "generation": 4
+    },
+    {
+      "id": 431,
+      "identifier": "glameow",
+      "name": {
+        "ja": "ニャルマー",
+        "en": "Glameow"
+      },
+      "generation": 4
+    },
+    {
+      "id": 432,
+      "identifier": "purugly",
+      "name": {
+        "ja": "ブニャット",
+        "en": "Purugly"
+      },
+      "generation": 4
+    },
+    {
+      "id": 433,
+      "identifier": "chingling",
+      "name": {
+        "ja": "リーシャン",
+        "en": "Chingling"
+      },
+      "generation": 4
+    },
+    {
+      "id": 434,
+      "identifier": "stunky",
+      "name": {
+        "ja": "スカンプー",
+        "en": "Stunky"
+      },
+      "generation": 4
+    },
+    {
+      "id": 435,
+      "identifier": "skuntank",
+      "name": {
+        "ja": "スカタンク",
+        "en": "Skuntank"
+      },
+      "generation": 4
+    },
+    {
+      "id": 436,
+      "identifier": "bronzor",
+      "name": {
+        "ja": "ドーミラー",
+        "en": "Bronzor"
+      },
+      "generation": 4
+    },
+    {
+      "id": 437,
+      "identifier": "bronzong",
+      "name": {
+        "ja": "ドータクン",
+        "en": "Bronzong"
+      },
+      "generation": 4
+    },
+    {
+      "id": 438,
+      "identifier": "bonsly",
+      "name": {
+        "ja": "ウソハチ",
+        "en": "Bonsly"
+      },
+      "generation": 4
+    },
+    {
+      "id": 439,
+      "identifier": "mime-jr",
+      "name": {
+        "ja": "マネネ",
+        "en": "Mime Jr."
+      },
+      "generation": 4
+    },
+    {
+      "id": 440,
+      "identifier": "happiny",
+      "name": {
+        "ja": "ピンプク",
+        "en": "Happiny"
+      },
+      "generation": 4
+    },
+    {
+      "id": 441,
+      "identifier": "chatot",
+      "name": {
+        "ja": "ペラップ",
+        "en": "Chatot"
+      },
+      "generation": 4
+    },
+    {
+      "id": 442,
+      "identifier": "spiritomb",
+      "name": {
+        "ja": "ミカルゲ",
+        "en": "Spiritomb"
+      },
+      "generation": 4
+    },
+    {
+      "id": 443,
+      "identifier": "gible",
+      "name": {
+        "ja": "フカマル",
+        "en": "Gible"
+      },
+      "generation": 4
+    },
+    {
+      "id": 444,
+      "identifier": "gabite",
+      "name": {
+        "ja": "ガバイト",
+        "en": "Gabite"
+      },
+      "generation": 4
+    },
+    {
+      "id": 445,
+      "identifier": "garchomp",
+      "name": {
+        "ja": "ガブリアス",
+        "en": "Garchomp"
+      },
+      "generation": 4
+    },
+    {
+      "id": 446,
+      "identifier": "munchlax",
+      "name": {
+        "ja": "ゴンベ",
+        "en": "Munchlax"
+      },
+      "generation": 4
+    },
+    {
+      "id": 447,
+      "identifier": "riolu",
+      "name": {
+        "ja": "リオル",
+        "en": "Riolu"
+      },
+      "generation": 4
+    },
+    {
+      "id": 448,
+      "identifier": "lucario",
+      "name": {
+        "ja": "ルカリオ",
+        "en": "Lucario"
+      },
+      "generation": 4
+    },
+    {
+      "id": 449,
+      "identifier": "hippopotas",
+      "name": {
+        "ja": "ヒポポタス",
+        "en": "Hippopotas"
+      },
+      "generation": 4
+    },
+    {
+      "id": 450,
+      "identifier": "hippowdon",
+      "name": {
+        "ja": "カバルドン",
+        "en": "Hippowdon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 451,
+      "identifier": "skorupi",
+      "name": {
+        "ja": "スコルピ",
+        "en": "Skorupi"
+      },
+      "generation": 4
+    },
+    {
+      "id": 452,
+      "identifier": "drapion",
+      "name": {
+        "ja": "ドラピオン",
+        "en": "Drapion"
+      },
+      "generation": 4
+    },
+    {
+      "id": 453,
+      "identifier": "croagunk",
+      "name": {
+        "ja": "グレッグル",
+        "en": "Croagunk"
+      },
+      "generation": 4
+    },
+    {
+      "id": 454,
+      "identifier": "toxicroak",
+      "name": {
+        "ja": "ドクロッグ",
+        "en": "Toxicroak"
+      },
+      "generation": 4
+    },
+    {
+      "id": 455,
+      "identifier": "carnivine",
+      "name": {
+        "ja": "マスキッパ",
+        "en": "Carnivine"
+      },
+      "generation": 4
+    },
+    {
+      "id": 456,
+      "identifier": "finneon",
+      "name": {
+        "ja": "ケイコウオ",
+        "en": "Finneon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 457,
+      "identifier": "lumineon",
+      "name": {
+        "ja": "ネオラント",
+        "en": "Lumineon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 458,
+      "identifier": "mantyke",
+      "name": {
+        "ja": "タマンタ",
+        "en": "Mantyke"
+      },
+      "generation": 4
+    },
+    {
+      "id": 459,
+      "identifier": "snover",
+      "name": {
+        "ja": "ユキカブリ",
+        "en": "Snover"
+      },
+      "generation": 4
+    },
+    {
+      "id": 460,
+      "identifier": "abomasnow",
+      "name": {
+        "ja": "ユキノオー",
+        "en": "Abomasnow"
+      },
+      "generation": 4
+    },
+    {
+      "id": 461,
+      "identifier": "weavile",
+      "name": {
+        "ja": "マニューラ",
+        "en": "Weavile"
+      },
+      "generation": 4
+    },
+    {
+      "id": 462,
+      "identifier": "magnezone",
+      "name": {
+        "ja": "ジバコイル",
+        "en": "Magnezone"
+      },
+      "generation": 4
+    },
+    {
+      "id": 463,
+      "identifier": "lickilicky",
+      "name": {
+        "ja": "ベロベルト",
+        "en": "Lickilicky"
+      },
+      "generation": 4
+    },
+    {
+      "id": 464,
+      "identifier": "rhyperior",
+      "name": {
+        "ja": "ドサイドン",
+        "en": "Rhyperior"
+      },
+      "generation": 4
+    },
+    {
+      "id": 465,
+      "identifier": "tangrowth",
+      "name": {
+        "ja": "モジャンボ",
+        "en": "Tangrowth"
+      },
+      "generation": 4
+    },
+    {
+      "id": 466,
+      "identifier": "electivire",
+      "name": {
+        "ja": "エレキブル",
+        "en": "Electivire"
+      },
+      "generation": 4
+    },
+    {
+      "id": 467,
+      "identifier": "magmortar",
+      "name": {
+        "ja": "ブーバーン",
+        "en": "Magmortar"
+      },
+      "generation": 4
+    },
+    {
+      "id": 468,
+      "identifier": "togekiss",
+      "name": {
+        "ja": "トゲキッス",
+        "en": "Togekiss"
+      },
+      "generation": 4
+    },
+    {
+      "id": 469,
+      "identifier": "yanmega",
+      "name": {
+        "ja": "メガヤンマ",
+        "en": "Yanmega"
+      },
+      "generation": 4
+    },
+    {
+      "id": 470,
+      "identifier": "leafeon",
+      "name": {
+        "ja": "リーフィア",
+        "en": "Leafeon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 471,
+      "identifier": "glaceon",
+      "name": {
+        "ja": "グレイシア",
+        "en": "Glaceon"
+      },
+      "generation": 4
+    },
+    {
+      "id": 472,
+      "identifier": "gliscor",
+      "name": {
+        "ja": "グライオン",
+        "en": "Gliscor"
+      },
+      "generation": 4
+    },
+    {
+      "id": 473,
+      "identifier": "mamoswine",
+      "name": {
+        "ja": "マンムー",
+        "en": "Mamoswine"
+      },
+      "generation": 4
+    },
+    {
+      "id": 474,
+      "identifier": "porygon-z",
+      "name": {
+        "ja": "ポリゴンＺ",
+        "en": "Porygon-Z"
+      },
+      "generation": 4
+    },
+    {
+      "id": 475,
+      "identifier": "gallade",
+      "name": {
+        "ja": "エルレイド",
+        "en": "Gallade"
+      },
+      "generation": 4
+    },
+    {
+      "id": 476,
+      "identifier": "probopass",
+      "name": {
+        "ja": "ダイノーズ",
+        "en": "Probopass"
+      },
+      "generation": 4
+    },
+    {
+      "id": 477,
+      "identifier": "dusknoir",
+      "name": {
+        "ja": "ヨノワール",
+        "en": "Dusknoir"
+      },
+      "generation": 4
+    },
+    {
+      "id": 478,
+      "identifier": "froslass",
+      "name": {
+        "ja": "ユキメノコ",
+        "en": "Froslass"
+      },
+      "generation": 4
+    },
+    {
+      "id": 479,
+      "identifier": "rotom",
+      "name": {
+        "ja": "ロトム",
+        "en": "Rotom"
+      },
+      "generation": 4
+    },
+    {
+      "id": 480,
+      "identifier": "uxie",
+      "name": {
+        "ja": "ユクシー",
+        "en": "Uxie"
+      },
+      "generation": 4
+    },
+    {
+      "id": 481,
+      "identifier": "mesprit",
+      "name": {
+        "ja": "エムリット",
+        "en": "Mesprit"
+      },
+      "generation": 4
+    },
+    {
+      "id": 482,
+      "identifier": "azelf",
+      "name": {
+        "ja": "アグノム",
+        "en": "Azelf"
+      },
+      "generation": 4
+    },
+    {
+      "id": 483,
+      "identifier": "dialga",
+      "name": {
+        "ja": "ディアルガ",
+        "en": "Dialga"
+      },
+      "generation": 4
+    },
+    {
+      "id": 484,
+      "identifier": "palkia",
+      "name": {
+        "ja": "パルキア",
+        "en": "Palkia"
+      },
+      "generation": 4
+    },
+    {
+      "id": 485,
+      "identifier": "heatran",
+      "name": {
+        "ja": "ヒードラン",
+        "en": "Heatran"
+      },
+      "generation": 4
+    },
+    {
+      "id": 486,
+      "identifier": "regigigas",
+      "name": {
+        "ja": "レジギガス",
+        "en": "Regigigas"
+      },
+      "generation": 4
+    },
+    {
+      "id": 487,
+      "identifier": "giratina",
+      "name": {
+        "ja": "ギラティナ",
+        "en": "Giratina"
+      },
+      "generation": 4
+    },
+    {
+      "id": 488,
+      "identifier": "cresselia",
+      "name": {
+        "ja": "クレセリア",
+        "en": "Cresselia"
+      },
+      "generation": 4
+    },
+    {
+      "id": 489,
+      "identifier": "phione",
+      "name": {
+        "ja": "フィオネ",
+        "en": "Phione"
+      },
+      "generation": 4
+    },
+    {
+      "id": 490,
+      "identifier": "manaphy",
+      "name": {
+        "ja": "マナフィ",
+        "en": "Manaphy"
+      },
+      "generation": 4
+    },
+    {
+      "id": 491,
+      "identifier": "darkrai",
+      "name": {
+        "ja": "ダークライ",
+        "en": "Darkrai"
+      },
+      "generation": 4
+    },
+    {
+      "id": 492,
+      "identifier": "shaymin",
+      "name": {
+        "ja": "シェイミ",
+        "en": "Shaymin"
+      },
+      "generation": 4
+    },
+    {
+      "id": 493,
+      "identifier": "arceus",
+      "name": {
+        "ja": "アルセウス",
+        "en": "Arceus"
+      },
+      "generation": 4
+    },
+    {
+      "id": 494,
+      "identifier": "victini",
+      "name": {
+        "ja": "ビクティニ",
+        "en": "Victini"
+      },
+      "generation": 5
+    },
+    {
+      "id": 495,
+      "identifier": "snivy",
+      "name": {
+        "ja": "ツタージャ",
+        "en": "Snivy"
+      },
+      "generation": 5
+    },
+    {
+      "id": 496,
+      "identifier": "servine",
+      "name": {
+        "ja": "ジャノビー",
+        "en": "Servine"
+      },
+      "generation": 5
+    },
+    {
+      "id": 497,
+      "identifier": "serperior",
+      "name": {
+        "ja": "ジャローダ",
+        "en": "Serperior"
+      },
+      "generation": 5
+    },
+    {
+      "id": 498,
+      "identifier": "tepig",
+      "name": {
+        "ja": "ポカブ",
+        "en": "Tepig"
+      },
+      "generation": 5
+    },
+    {
+      "id": 499,
+      "identifier": "pignite",
+      "name": {
+        "ja": "チャオブー",
+        "en": "Pignite"
+      },
+      "generation": 5
+    },
+    {
+      "id": 500,
+      "identifier": "emboar",
+      "name": {
+        "ja": "エンブオー",
+        "en": "Emboar"
+      },
+      "generation": 5
+    },
+    {
+      "id": 501,
+      "identifier": "oshawott",
+      "name": {
+        "ja": "ミジュマル",
+        "en": "Oshawott"
+      },
+      "generation": 5
+    },
+    {
+      "id": 502,
+      "identifier": "dewott",
+      "name": {
+        "ja": "フタチマル",
+        "en": "Dewott"
+      },
+      "generation": 5
+    },
+    {
+      "id": 503,
+      "identifier": "samurott",
+      "name": {
+        "ja": "ダイケンキ",
+        "en": "Samurott"
+      },
+      "generation": 5
+    },
+    {
+      "id": 504,
+      "identifier": "patrat",
+      "name": {
+        "ja": "ミネズミ",
+        "en": "Patrat"
+      },
+      "generation": 5
+    },
+    {
+      "id": 505,
+      "identifier": "watchog",
+      "name": {
+        "ja": "ミルホッグ",
+        "en": "Watchog"
+      },
+      "generation": 5
+    },
+    {
+      "id": 506,
+      "identifier": "lillipup",
+      "name": {
+        "ja": "ヨーテリー",
+        "en": "Lillipup"
+      },
+      "generation": 5
+    },
+    {
+      "id": 507,
+      "identifier": "herdier",
+      "name": {
+        "ja": "ハーデリア",
+        "en": "Herdier"
+      },
+      "generation": 5
+    },
+    {
+      "id": 508,
+      "identifier": "stoutland",
+      "name": {
+        "ja": "ムーランド",
+        "en": "Stoutland"
+      },
+      "generation": 5
+    },
+    {
+      "id": 509,
+      "identifier": "purrloin",
+      "name": {
+        "ja": "チョロネコ",
+        "en": "Purrloin"
+      },
+      "generation": 5
+    },
+    {
+      "id": 510,
+      "identifier": "liepard",
+      "name": {
+        "ja": "レパルダス",
+        "en": "Liepard"
+      },
+      "generation": 5
+    },
+    {
+      "id": 511,
+      "identifier": "pansage",
+      "name": {
+        "ja": "ヤナップ",
+        "en": "Pansage"
+      },
+      "generation": 5
+    },
+    {
+      "id": 512,
+      "identifier": "simisage",
+      "name": {
+        "ja": "ヤナッキー",
+        "en": "Simisage"
+      },
+      "generation": 5
+    },
+    {
+      "id": 513,
+      "identifier": "pansear",
+      "name": {
+        "ja": "バオップ",
+        "en": "Pansear"
+      },
+      "generation": 5
+    },
+    {
+      "id": 514,
+      "identifier": "simisear",
+      "name": {
+        "ja": "バオッキー",
+        "en": "Simisear"
+      },
+      "generation": 5
+    },
+    {
+      "id": 515,
+      "identifier": "panpour",
+      "name": {
+        "ja": "ヒヤップ",
+        "en": "Panpour"
+      },
+      "generation": 5
+    },
+    {
+      "id": 516,
+      "identifier": "simipour",
+      "name": {
+        "ja": "ヒヤッキー",
+        "en": "Simipour"
+      },
+      "generation": 5
+    },
+    {
+      "id": 517,
+      "identifier": "munna",
+      "name": {
+        "ja": "ムンナ",
+        "en": "Munna"
+      },
+      "generation": 5
+    },
+    {
+      "id": 518,
+      "identifier": "musharna",
+      "name": {
+        "ja": "ムシャーナ",
+        "en": "Musharna"
+      },
+      "generation": 5
+    },
+    {
+      "id": 519,
+      "identifier": "pidove",
+      "name": {
+        "ja": "マメパト",
+        "en": "Pidove"
+      },
+      "generation": 5
+    },
+    {
+      "id": 520,
+      "identifier": "tranquill",
+      "name": {
+        "ja": "ハトーボー",
+        "en": "Tranquill"
+      },
+      "generation": 5
+    },
+    {
+      "id": 521,
+      "identifier": "unfezant",
+      "name": {
+        "ja": "ケンホロウ",
+        "en": "Unfezant"
+      },
+      "generation": 5
+    },
+    {
+      "id": 522,
+      "identifier": "blitzle",
+      "name": {
+        "ja": "シママ",
+        "en": "Blitzle"
+      },
+      "generation": 5
+    },
+    {
+      "id": 523,
+      "identifier": "zebstrika",
+      "name": {
+        "ja": "ゼブライカ",
+        "en": "Zebstrika"
+      },
+      "generation": 5
+    },
+    {
+      "id": 524,
+      "identifier": "roggenrola",
+      "name": {
+        "ja": "ダンゴロ",
+        "en": "Roggenrola"
+      },
+      "generation": 5
+    },
+    {
+      "id": 525,
+      "identifier": "boldore",
+      "name": {
+        "ja": "ガントル",
+        "en": "Boldore"
+      },
+      "generation": 5
+    },
+    {
+      "id": 526,
+      "identifier": "gigalith",
+      "name": {
+        "ja": "ギガイアス",
+        "en": "Gigalith"
+      },
+      "generation": 5
+    },
+    {
+      "id": 527,
+      "identifier": "woobat",
+      "name": {
+        "ja": "コロモリ",
+        "en": "Woobat"
+      },
+      "generation": 5
+    },
+    {
+      "id": 528,
+      "identifier": "swoobat",
+      "name": {
+        "ja": "ココロモリ",
+        "en": "Swoobat"
+      },
+      "generation": 5
+    },
+    {
+      "id": 529,
+      "identifier": "drilbur",
+      "name": {
+        "ja": "モグリュー",
+        "en": "Drilbur"
+      },
+      "generation": 5
+    },
+    {
+      "id": 530,
+      "identifier": "excadrill",
+      "name": {
+        "ja": "ドリュウズ",
+        "en": "Excadrill"
+      },
+      "generation": 5
+    },
+    {
+      "id": 531,
+      "identifier": "audino",
+      "name": {
+        "ja": "タブンネ",
+        "en": "Audino"
+      },
+      "generation": 5
+    },
+    {
+      "id": 532,
+      "identifier": "timburr",
+      "name": {
+        "ja": "ドッコラー",
+        "en": "Timburr"
+      },
+      "generation": 5
+    },
+    {
+      "id": 533,
+      "identifier": "gurdurr",
+      "name": {
+        "ja": "ドテッコツ",
+        "en": "Gurdurr"
+      },
+      "generation": 5
+    },
+    {
+      "id": 534,
+      "identifier": "conkeldurr",
+      "name": {
+        "ja": "ローブシン",
+        "en": "Conkeldurr"
+      },
+      "generation": 5
+    },
+    {
+      "id": 535,
+      "identifier": "tympole",
+      "name": {
+        "ja": "オタマロ",
+        "en": "Tympole"
+      },
+      "generation": 5
+    },
+    {
+      "id": 536,
+      "identifier": "palpitoad",
+      "name": {
+        "ja": "ガマガル",
+        "en": "Palpitoad"
+      },
+      "generation": 5
+    },
+    {
+      "id": 537,
+      "identifier": "seismitoad",
+      "name": {
+        "ja": "ガマゲロゲ",
+        "en": "Seismitoad"
+      },
+      "generation": 5
+    },
+    {
+      "id": 538,
+      "identifier": "throh",
+      "name": {
+        "ja": "ナゲキ",
+        "en": "Throh"
+      },
+      "generation": 5
+    },
+    {
+      "id": 539,
+      "identifier": "sawk",
+      "name": {
+        "ja": "ダゲキ",
+        "en": "Sawk"
+      },
+      "generation": 5
+    },
+    {
+      "id": 540,
+      "identifier": "sewaddle",
+      "name": {
+        "ja": "クルミル",
+        "en": "Sewaddle"
+      },
+      "generation": 5
+    },
+    {
+      "id": 541,
+      "identifier": "swadloon",
+      "name": {
+        "ja": "クルマユ",
+        "en": "Swadloon"
+      },
+      "generation": 5
+    },
+    {
+      "id": 542,
+      "identifier": "leavanny",
+      "name": {
+        "ja": "ハハコモリ",
+        "en": "Leavanny"
+      },
+      "generation": 5
+    },
+    {
+      "id": 543,
+      "identifier": "venipede",
+      "name": {
+        "ja": "フシデ",
+        "en": "Venipede"
+      },
+      "generation": 5
+    },
+    {
+      "id": 544,
+      "identifier": "whirlipede",
+      "name": {
+        "ja": "ホイーガ",
+        "en": "Whirlipede"
+      },
+      "generation": 5
+    },
+    {
+      "id": 545,
+      "identifier": "scolipede",
+      "name": {
+        "ja": "ペンドラー",
+        "en": "Scolipede"
+      },
+      "generation": 5
+    },
+    {
+      "id": 546,
+      "identifier": "cottonee",
+      "name": {
+        "ja": "モンメン",
+        "en": "Cottonee"
+      },
+      "generation": 5
+    },
+    {
+      "id": 547,
+      "identifier": "whimsicott",
+      "name": {
+        "ja": "エルフーン",
+        "en": "Whimsicott"
+      },
+      "generation": 5
+    },
+    {
+      "id": 548,
+      "identifier": "petilil",
+      "name": {
+        "ja": "チュリネ",
+        "en": "Petilil"
+      },
+      "generation": 5
+    },
+    {
+      "id": 549,
+      "identifier": "lilligant",
+      "name": {
+        "ja": "ドレディア",
+        "en": "Lilligant"
+      },
+      "generation": 5
+    },
+    {
+      "id": 550,
+      "identifier": "basculin",
+      "name": {
+        "ja": "バスラオ",
+        "en": "Basculin"
+      },
+      "generation": 5
+    },
+    {
+      "id": 551,
+      "identifier": "sandile",
+      "name": {
+        "ja": "メグロコ",
+        "en": "Sandile"
+      },
+      "generation": 5
+    },
+    {
+      "id": 552,
+      "identifier": "krokorok",
+      "name": {
+        "ja": "ワルビル",
+        "en": "Krokorok"
+      },
+      "generation": 5
+    },
+    {
+      "id": 553,
+      "identifier": "krookodile",
+      "name": {
+        "ja": "ワルビアル",
+        "en": "Krookodile"
+      },
+      "generation": 5
+    },
+    {
+      "id": 554,
+      "identifier": "darumaka",
+      "name": {
+        "ja": "ダルマッカ",
+        "en": "Darumaka"
+      },
+      "generation": 5
+    },
+    {
+      "id": 555,
+      "identifier": "darmanitan",
+      "name": {
+        "ja": "ヒヒダルマ",
+        "en": "Darmanitan"
+      },
+      "generation": 5
+    },
+    {
+      "id": 556,
+      "identifier": "maractus",
+      "name": {
+        "ja": "マラカッチ",
+        "en": "Maractus"
+      },
+      "generation": 5
+    },
+    {
+      "id": 557,
+      "identifier": "dwebble",
+      "name": {
+        "ja": "イシズマイ",
+        "en": "Dwebble"
+      },
+      "generation": 5
+    },
+    {
+      "id": 558,
+      "identifier": "crustle",
+      "name": {
+        "ja": "イワパレス",
+        "en": "Crustle"
+      },
+      "generation": 5
+    },
+    {
+      "id": 559,
+      "identifier": "scraggy",
+      "name": {
+        "ja": "ズルッグ",
+        "en": "Scraggy"
+      },
+      "generation": 5
+    },
+    {
+      "id": 560,
+      "identifier": "scrafty",
+      "name": {
+        "ja": "ズルズキン",
+        "en": "Scrafty"
+      },
+      "generation": 5
+    },
+    {
+      "id": 561,
+      "identifier": "sigilyph",
+      "name": {
+        "ja": "シンボラー",
+        "en": "Sigilyph"
+      },
+      "generation": 5
+    },
+    {
+      "id": 562,
+      "identifier": "yamask",
+      "name": {
+        "ja": "デスマス",
+        "en": "Yamask"
+      },
+      "generation": 5
+    },
+    {
+      "id": 563,
+      "identifier": "cofagrigus",
+      "name": {
+        "ja": "デスカーン",
+        "en": "Cofagrigus"
+      },
+      "generation": 5
+    },
+    {
+      "id": 564,
+      "identifier": "tirtouga",
+      "name": {
+        "ja": "プロトーガ",
+        "en": "Tirtouga"
+      },
+      "generation": 5
+    },
+    {
+      "id": 565,
+      "identifier": "carracosta",
+      "name": {
+        "ja": "アバゴーラ",
+        "en": "Carracosta"
+      },
+      "generation": 5
+    },
+    {
+      "id": 566,
+      "identifier": "archen",
+      "name": {
+        "ja": "アーケン",
+        "en": "Archen"
+      },
+      "generation": 5
+    },
+    {
+      "id": 567,
+      "identifier": "archeops",
+      "name": {
+        "ja": "アーケオス",
+        "en": "Archeops"
+      },
+      "generation": 5
+    },
+    {
+      "id": 568,
+      "identifier": "trubbish",
+      "name": {
+        "ja": "ヤブクロン",
+        "en": "Trubbish"
+      },
+      "generation": 5
+    },
+    {
+      "id": 569,
+      "identifier": "garbodor",
+      "name": {
+        "ja": "ダストダス",
+        "en": "Garbodor"
+      },
+      "generation": 5
+    },
+    {
+      "id": 570,
+      "identifier": "zorua",
+      "name": {
+        "ja": "ゾロア",
+        "en": "Zorua"
+      },
+      "generation": 5
+    },
+    {
+      "id": 571,
+      "identifier": "zoroark",
+      "name": {
+        "ja": "ゾロアーク",
+        "en": "Zoroark"
+      },
+      "generation": 5
+    },
+    {
+      "id": 572,
+      "identifier": "minccino",
+      "name": {
+        "ja": "チラーミィ",
+        "en": "Minccino"
+      },
+      "generation": 5
+    },
+    {
+      "id": 573,
+      "identifier": "cinccino",
+      "name": {
+        "ja": "チラチーノ",
+        "en": "Cinccino"
+      },
+      "generation": 5
+    },
+    {
+      "id": 574,
+      "identifier": "gothita",
+      "name": {
+        "ja": "ゴチム",
+        "en": "Gothita"
+      },
+      "generation": 5
+    },
+    {
+      "id": 575,
+      "identifier": "gothorita",
+      "name": {
+        "ja": "ゴチミル",
+        "en": "Gothorita"
+      },
+      "generation": 5
+    },
+    {
+      "id": 576,
+      "identifier": "gothitelle",
+      "name": {
+        "ja": "ゴチルゼル",
+        "en": "Gothitelle"
+      },
+      "generation": 5
+    },
+    {
+      "id": 577,
+      "identifier": "solosis",
+      "name": {
+        "ja": "ユニラン",
+        "en": "Solosis"
+      },
+      "generation": 5
+    },
+    {
+      "id": 578,
+      "identifier": "duosion",
+      "name": {
+        "ja": "ダブラン",
+        "en": "Duosion"
+      },
+      "generation": 5
+    },
+    {
+      "id": 579,
+      "identifier": "reuniclus",
+      "name": {
+        "ja": "ランクルス",
+        "en": "Reuniclus"
+      },
+      "generation": 5
+    },
+    {
+      "id": 580,
+      "identifier": "ducklett",
+      "name": {
+        "ja": "コアルヒー",
+        "en": "Ducklett"
+      },
+      "generation": 5
+    },
+    {
+      "id": 581,
+      "identifier": "swanna",
+      "name": {
+        "ja": "スワンナ",
+        "en": "Swanna"
+      },
+      "generation": 5
+    },
+    {
+      "id": 582,
+      "identifier": "vanillite",
+      "name": {
+        "ja": "バニプッチ",
+        "en": "Vanillite"
+      },
+      "generation": 5
+    },
+    {
+      "id": 583,
+      "identifier": "vanillish",
+      "name": {
+        "ja": "バニリッチ",
+        "en": "Vanillish"
+      },
+      "generation": 5
+    },
+    {
+      "id": 584,
+      "identifier": "vanilluxe",
+      "name": {
+        "ja": "バイバニラ",
+        "en": "Vanilluxe"
+      },
+      "generation": 5
+    },
+    {
+      "id": 585,
+      "identifier": "deerling",
+      "name": {
+        "ja": "シキジカ",
+        "en": "Deerling"
+      },
+      "generation": 5
+    },
+    {
+      "id": 586,
+      "identifier": "sawsbuck",
+      "name": {
+        "ja": "メブキジカ",
+        "en": "Sawsbuck"
+      },
+      "generation": 5
+    },
+    {
+      "id": 587,
+      "identifier": "emolga",
+      "name": {
+        "ja": "エモンガ",
+        "en": "Emolga"
+      },
+      "generation": 5
+    },
+    {
+      "id": 588,
+      "identifier": "karrablast",
+      "name": {
+        "ja": "カブルモ",
+        "en": "Karrablast"
+      },
+      "generation": 5
+    },
+    {
+      "id": 589,
+      "identifier": "escavalier",
+      "name": {
+        "ja": "シュバルゴ",
+        "en": "Escavalier"
+      },
+      "generation": 5
+    },
+    {
+      "id": 590,
+      "identifier": "foongus",
+      "name": {
+        "ja": "タマゲタケ",
+        "en": "Foongus"
+      },
+      "generation": 5
+    },
+    {
+      "id": 591,
+      "identifier": "amoonguss",
+      "name": {
+        "ja": "モロバレル",
+        "en": "Amoonguss"
+      },
+      "generation": 5
+    },
+    {
+      "id": 592,
+      "identifier": "frillish",
+      "name": {
+        "ja": "プルリル",
+        "en": "Frillish"
+      },
+      "generation": 5
+    },
+    {
+      "id": 593,
+      "identifier": "jellicent",
+      "name": {
+        "ja": "ブルンゲル",
+        "en": "Jellicent"
+      },
+      "generation": 5
+    },
+    {
+      "id": 594,
+      "identifier": "alomomola",
+      "name": {
+        "ja": "ママンボウ",
+        "en": "Alomomola"
+      },
+      "generation": 5
+    },
+    {
+      "id": 595,
+      "identifier": "joltik",
+      "name": {
+        "ja": "バチュル",
+        "en": "Joltik"
+      },
+      "generation": 5
+    },
+    {
+      "id": 596,
+      "identifier": "galvantula",
+      "name": {
+        "ja": "デンチュラ",
+        "en": "Galvantula"
+      },
+      "generation": 5
+    },
+    {
+      "id": 597,
+      "identifier": "ferroseed",
+      "name": {
+        "ja": "テッシード",
+        "en": "Ferroseed"
+      },
+      "generation": 5
+    },
+    {
+      "id": 598,
+      "identifier": "ferrothorn",
+      "name": {
+        "ja": "ナットレイ",
+        "en": "Ferrothorn"
+      },
+      "generation": 5
+    },
+    {
+      "id": 599,
+      "identifier": "klink",
+      "name": {
+        "ja": "ギアル",
+        "en": "Klink"
+      },
+      "generation": 5
+    },
+    {
+      "id": 600,
+      "identifier": "klang",
+      "name": {
+        "ja": "ギギアル",
+        "en": "Klang"
+      },
+      "generation": 5
+    },
+    {
+      "id": 601,
+      "identifier": "klinklang",
+      "name": {
+        "ja": "ギギギアル",
+        "en": "Klinklang"
+      },
+      "generation": 5
+    },
+    {
+      "id": 602,
+      "identifier": "tynamo",
+      "name": {
+        "ja": "シビシラス",
+        "en": "Tynamo"
+      },
+      "generation": 5
+    },
+    {
+      "id": 603,
+      "identifier": "eelektrik",
+      "name": {
+        "ja": "シビビール",
+        "en": "Eelektrik"
+      },
+      "generation": 5
+    },
+    {
+      "id": 604,
+      "identifier": "eelektross",
+      "name": {
+        "ja": "シビルドン",
+        "en": "Eelektross"
+      },
+      "generation": 5
+    },
+    {
+      "id": 605,
+      "identifier": "elgyem",
+      "name": {
+        "ja": "リグレー",
+        "en": "Elgyem"
+      },
+      "generation": 5
+    },
+    {
+      "id": 606,
+      "identifier": "beheeyem",
+      "name": {
+        "ja": "オーベム",
+        "en": "Beheeyem"
+      },
+      "generation": 5
+    },
+    {
+      "id": 607,
+      "identifier": "litwick",
+      "name": {
+        "ja": "ヒトモシ",
+        "en": "Litwick"
+      },
+      "generation": 5
+    },
+    {
+      "id": 608,
+      "identifier": "lampent",
+      "name": {
+        "ja": "ランプラー",
+        "en": "Lampent"
+      },
+      "generation": 5
+    },
+    {
+      "id": 609,
+      "identifier": "chandelure",
+      "name": {
+        "ja": "シャンデラ",
+        "en": "Chandelure"
+      },
+      "generation": 5
+    },
+    {
+      "id": 610,
+      "identifier": "axew",
+      "name": {
+        "ja": "キバゴ",
+        "en": "Axew"
+      },
+      "generation": 5
+    },
+    {
+      "id": 611,
+      "identifier": "fraxure",
+      "name": {
+        "ja": "オノンド",
+        "en": "Fraxure"
+      },
+      "generation": 5
+    },
+    {
+      "id": 612,
+      "identifier": "haxorus",
+      "name": {
+        "ja": "オノノクス",
+        "en": "Haxorus"
+      },
+      "generation": 5
+    },
+    {
+      "id": 613,
+      "identifier": "cubchoo",
+      "name": {
+        "ja": "クマシュン",
+        "en": "Cubchoo"
+      },
+      "generation": 5
+    },
+    {
+      "id": 614,
+      "identifier": "beartic",
+      "name": {
+        "ja": "ツンベアー",
+        "en": "Beartic"
+      },
+      "generation": 5
+    },
+    {
+      "id": 615,
+      "identifier": "cryogonal",
+      "name": {
+        "ja": "フリージオ",
+        "en": "Cryogonal"
+      },
+      "generation": 5
+    },
+    {
+      "id": 616,
+      "identifier": "shelmet",
+      "name": {
+        "ja": "チョボマキ",
+        "en": "Shelmet"
+      },
+      "generation": 5
+    },
+    {
+      "id": 617,
+      "identifier": "accelgor",
+      "name": {
+        "ja": "アギルダー",
+        "en": "Accelgor"
+      },
+      "generation": 5
+    },
+    {
+      "id": 618,
+      "identifier": "stunfisk",
+      "name": {
+        "ja": "マッギョ",
+        "en": "Stunfisk"
+      },
+      "generation": 5
+    },
+    {
+      "id": 619,
+      "identifier": "mienfoo",
+      "name": {
+        "ja": "コジョフー",
+        "en": "Mienfoo"
+      },
+      "generation": 5
+    },
+    {
+      "id": 620,
+      "identifier": "mienshao",
+      "name": {
+        "ja": "コジョンド",
+        "en": "Mienshao"
+      },
+      "generation": 5
+    },
+    {
+      "id": 621,
+      "identifier": "druddigon",
+      "name": {
+        "ja": "クリムガン",
+        "en": "Druddigon"
+      },
+      "generation": 5
+    },
+    {
+      "id": 622,
+      "identifier": "golett",
+      "name": {
+        "ja": "ゴビット",
+        "en": "Golett"
+      },
+      "generation": 5
+    },
+    {
+      "id": 623,
+      "identifier": "golurk",
+      "name": {
+        "ja": "ゴルーグ",
+        "en": "Golurk"
+      },
+      "generation": 5
+    },
+    {
+      "id": 624,
+      "identifier": "pawniard",
+      "name": {
+        "ja": "コマタナ",
+        "en": "Pawniard"
+      },
+      "generation": 5
+    },
+    {
+      "id": 625,
+      "identifier": "bisharp",
+      "name": {
+        "ja": "キリキザン",
+        "en": "Bisharp"
+      },
+      "generation": 5
+    },
+    {
+      "id": 626,
+      "identifier": "bouffalant",
+      "name": {
+        "ja": "バッフロン",
+        "en": "Bouffalant"
+      },
+      "generation": 5
+    },
+    {
+      "id": 627,
+      "identifier": "rufflet",
+      "name": {
+        "ja": "ワシボン",
+        "en": "Rufflet"
+      },
+      "generation": 5
+    },
+    {
+      "id": 628,
+      "identifier": "braviary",
+      "name": {
+        "ja": "ウォーグル",
+        "en": "Braviary"
+      },
+      "generation": 5
+    },
+    {
+      "id": 629,
+      "identifier": "vullaby",
+      "name": {
+        "ja": "バルチャイ",
+        "en": "Vullaby"
+      },
+      "generation": 5
+    },
+    {
+      "id": 630,
+      "identifier": "mandibuzz",
+      "name": {
+        "ja": "バルジーナ",
+        "en": "Mandibuzz"
+      },
+      "generation": 5
+    },
+    {
+      "id": 631,
+      "identifier": "heatmor",
+      "name": {
+        "ja": "クイタラン",
+        "en": "Heatmor"
+      },
+      "generation": 5
+    },
+    {
+      "id": 632,
+      "identifier": "durant",
+      "name": {
+        "ja": "アイアント",
+        "en": "Durant"
+      },
+      "generation": 5
+    },
+    {
+      "id": 633,
+      "identifier": "deino",
+      "name": {
+        "ja": "モノズ",
+        "en": "Deino"
+      },
+      "generation": 5
+    },
+    {
+      "id": 634,
+      "identifier": "zweilous",
+      "name": {
+        "ja": "ジヘッド",
+        "en": "Zweilous"
+      },
+      "generation": 5
+    },
+    {
+      "id": 635,
+      "identifier": "hydreigon",
+      "name": {
+        "ja": "サザンドラ",
+        "en": "Hydreigon"
+      },
+      "generation": 5
+    },
+    {
+      "id": 636,
+      "identifier": "larvesta",
+      "name": {
+        "ja": "メラルバ",
+        "en": "Larvesta"
+      },
+      "generation": 5
+    },
+    {
+      "id": 637,
+      "identifier": "volcarona",
+      "name": {
+        "ja": "ウルガモス",
+        "en": "Volcarona"
+      },
+      "generation": 5
+    },
+    {
+      "id": 638,
+      "identifier": "cobalion",
+      "name": {
+        "ja": "コバルオン",
+        "en": "Cobalion"
+      },
+      "generation": 5
+    },
+    {
+      "id": 639,
+      "identifier": "terrakion",
+      "name": {
+        "ja": "テラキオン",
+        "en": "Terrakion"
+      },
+      "generation": 5
+    },
+    {
+      "id": 640,
+      "identifier": "virizion",
+      "name": {
+        "ja": "ビリジオン",
+        "en": "Virizion"
+      },
+      "generation": 5
+    },
+    {
+      "id": 641,
+      "identifier": "tornadus",
+      "name": {
+        "ja": "トルネロス",
+        "en": "Tornadus"
+      },
+      "generation": 5
+    },
+    {
+      "id": 642,
+      "identifier": "thundurus",
+      "name": {
+        "ja": "ボルトロス",
+        "en": "Thundurus"
+      },
+      "generation": 5
+    },
+    {
+      "id": 643,
+      "identifier": "reshiram",
+      "name": {
+        "ja": "レシラム",
+        "en": "Reshiram"
+      },
+      "generation": 5
+    },
+    {
+      "id": 644,
+      "identifier": "zekrom",
+      "name": {
+        "ja": "ゼクロム",
+        "en": "Zekrom"
+      },
+      "generation": 5
+    },
+    {
+      "id": 645,
+      "identifier": "landorus",
+      "name": {
+        "ja": "ランドロス",
+        "en": "Landorus"
+      },
+      "generation": 5
+    },
+    {
+      "id": 646,
+      "identifier": "kyurem",
+      "name": {
+        "ja": "キュレム",
+        "en": "Kyurem"
+      },
+      "generation": 5
+    },
+    {
+      "id": 647,
+      "identifier": "keldeo",
+      "name": {
+        "ja": "ケルディオ",
+        "en": "Keldeo"
+      },
+      "generation": 5
+    },
+    {
+      "id": 648,
+      "identifier": "meloetta",
+      "name": {
+        "ja": "メロエッタ",
+        "en": "Meloetta"
+      },
+      "generation": 5
+    },
+    {
+      "id": 649,
+      "identifier": "genesect",
+      "name": {
+        "ja": "ゲノセクト",
+        "en": "Genesect"
+      },
+      "generation": 5
+    },
+    {
+      "id": 650,
+      "identifier": "chespin",
+      "name": {
+        "ja": "ハリマロン",
+        "en": "Chespin"
+      },
+      "generation": 6
+    },
+    {
+      "id": 651,
+      "identifier": "quilladin",
+      "name": {
+        "ja": "ハリボーグ",
+        "en": "Quilladin"
+      },
+      "generation": 6
+    },
+    {
+      "id": 652,
+      "identifier": "chesnaught",
+      "name": {
+        "ja": "ブリガロン",
+        "en": "Chesnaught"
+      },
+      "generation": 6
+    },
+    {
+      "id": 653,
+      "identifier": "fennekin",
+      "name": {
+        "ja": "フォッコ",
+        "en": "Fennekin"
+      },
+      "generation": 6
+    },
+    {
+      "id": 654,
+      "identifier": "braixen",
+      "name": {
+        "ja": "テールナー",
+        "en": "Braixen"
+      },
+      "generation": 6
+    },
+    {
+      "id": 655,
+      "identifier": "delphox",
+      "name": {
+        "ja": "マフォクシー",
+        "en": "Delphox"
+      },
+      "generation": 6
+    },
+    {
+      "id": 656,
+      "identifier": "froakie",
+      "name": {
+        "ja": "ケロマツ",
+        "en": "Froakie"
+      },
+      "generation": 6
+    },
+    {
+      "id": 657,
+      "identifier": "frogadier",
+      "name": {
+        "ja": "ゲコガシラ",
+        "en": "Frogadier"
+      },
+      "generation": 6
+    },
+    {
+      "id": 658,
+      "identifier": "greninja",
+      "name": {
+        "ja": "ゲッコウガ",
+        "en": "Greninja"
+      },
+      "generation": 6
+    },
+    {
+      "id": 659,
+      "identifier": "bunnelby",
+      "name": {
+        "ja": "ホルビー",
+        "en": "Bunnelby"
+      },
+      "generation": 6
+    },
+    {
+      "id": 660,
+      "identifier": "diggersby",
+      "name": {
+        "ja": "ホルード",
+        "en": "Diggersby"
+      },
+      "generation": 6
+    },
+    {
+      "id": 661,
+      "identifier": "fletchling",
+      "name": {
+        "ja": "ヤヤコマ",
+        "en": "Fletchling"
+      },
+      "generation": 6
+    },
+    {
+      "id": 662,
+      "identifier": "fletchinder",
+      "name": {
+        "ja": "ヒノヤコマ",
+        "en": "Fletchinder"
+      },
+      "generation": 6
+    },
+    {
+      "id": 663,
+      "identifier": "talonflame",
+      "name": {
+        "ja": "ファイアロー",
+        "en": "Talonflame"
+      },
+      "generation": 6
+    },
+    {
+      "id": 664,
+      "identifier": "scatterbug",
+      "name": {
+        "ja": "コフキムシ",
+        "en": "Scatterbug"
+      },
+      "generation": 6
+    },
+    {
+      "id": 665,
+      "identifier": "spewpa",
+      "name": {
+        "ja": "コフーライ",
+        "en": "Spewpa"
+      },
+      "generation": 6
+    },
+    {
+      "id": 666,
+      "identifier": "vivillon",
+      "name": {
+        "ja": "ビビヨン",
+        "en": "Vivillon"
+      },
+      "generation": 6
+    },
+    {
+      "id": 667,
+      "identifier": "litleo",
+      "name": {
+        "ja": "シシコ",
+        "en": "Litleo"
+      },
+      "generation": 6
+    },
+    {
+      "id": 668,
+      "identifier": "pyroar",
+      "name": {
+        "ja": "カエンジシ",
+        "en": "Pyroar"
+      },
+      "generation": 6
+    },
+    {
+      "id": 669,
+      "identifier": "flabebe",
+      "name": {
+        "ja": "フラベベ",
+        "en": "Flabébé"
+      },
+      "generation": 6
+    },
+    {
+      "id": 670,
+      "identifier": "floette",
+      "name": {
+        "ja": "フラエッテ",
+        "en": "Floette"
+      },
+      "generation": 6
+    },
+    {
+      "id": 671,
+      "identifier": "florges",
+      "name": {
+        "ja": "フラージェス",
+        "en": "Florges"
+      },
+      "generation": 6
+    },
+    {
+      "id": 672,
+      "identifier": "skiddo",
+      "name": {
+        "ja": "メェークル",
+        "en": "Skiddo"
+      },
+      "generation": 6
+    },
+    {
+      "id": 673,
+      "identifier": "gogoat",
+      "name": {
+        "ja": "ゴーゴート",
+        "en": "Gogoat"
+      },
+      "generation": 6
+    },
+    {
+      "id": 674,
+      "identifier": "pancham",
+      "name": {
+        "ja": "ヤンチャム",
+        "en": "Pancham"
+      },
+      "generation": 6
+    },
+    {
+      "id": 675,
+      "identifier": "pangoro",
+      "name": {
+        "ja": "ゴロンダ",
+        "en": "Pangoro"
+      },
+      "generation": 6
+    },
+    {
+      "id": 676,
+      "identifier": "furfrou",
+      "name": {
+        "ja": "トリミアン",
+        "en": "Furfrou"
+      },
+      "generation": 6
+    },
+    {
+      "id": 677,
+      "identifier": "espurr",
+      "name": {
+        "ja": "ニャスパー",
+        "en": "Espurr"
+      },
+      "generation": 6
+    },
+    {
+      "id": 678,
+      "identifier": "meowstic",
+      "name": {
+        "ja": "ニャオニクス",
+        "en": "Meowstic"
+      },
+      "generation": 6
+    },
+    {
+      "id": 679,
+      "identifier": "honedge",
+      "name": {
+        "ja": "ヒトツキ",
+        "en": "Honedge"
+      },
+      "generation": 6
+    },
+    {
+      "id": 680,
+      "identifier": "doublade",
+      "name": {
+        "ja": "ニダンギル",
+        "en": "Doublade"
+      },
+      "generation": 6
+    },
+    {
+      "id": 681,
+      "identifier": "aegislash",
+      "name": {
+        "ja": "ギルガルド",
+        "en": "Aegislash"
+      },
+      "generation": 6
+    },
+    {
+      "id": 682,
+      "identifier": "spritzee",
+      "name": {
+        "ja": "シュシュプ",
+        "en": "Spritzee"
+      },
+      "generation": 6
+    },
+    {
+      "id": 683,
+      "identifier": "aromatisse",
+      "name": {
+        "ja": "フレフワン",
+        "en": "Aromatisse"
+      },
+      "generation": 6
+    },
+    {
+      "id": 684,
+      "identifier": "swirlix",
+      "name": {
+        "ja": "ペロッパフ",
+        "en": "Swirlix"
+      },
+      "generation": 6
+    },
+    {
+      "id": 685,
+      "identifier": "slurpuff",
+      "name": {
+        "ja": "ペロリーム",
+        "en": "Slurpuff"
+      },
+      "generation": 6
+    },
+    {
+      "id": 686,
+      "identifier": "inkay",
+      "name": {
+        "ja": "マーイーカ",
+        "en": "Inkay"
+      },
+      "generation": 6
+    },
+    {
+      "id": 687,
+      "identifier": "malamar",
+      "name": {
+        "ja": "カラマネロ",
+        "en": "Malamar"
+      },
+      "generation": 6
+    },
+    {
+      "id": 688,
+      "identifier": "binacle",
+      "name": {
+        "ja": "カメテテ",
+        "en": "Binacle"
+      },
+      "generation": 6
+    },
+    {
+      "id": 689,
+      "identifier": "barbaracle",
+      "name": {
+        "ja": "ガメノデス",
+        "en": "Barbaracle"
+      },
+      "generation": 6
+    },
+    {
+      "id": 690,
+      "identifier": "skrelp",
+      "name": {
+        "ja": "クズモー",
+        "en": "Skrelp"
+      },
+      "generation": 6
+    },
+    {
+      "id": 691,
+      "identifier": "dragalge",
+      "name": {
+        "ja": "ドラミドロ",
+        "en": "Dragalge"
+      },
+      "generation": 6
+    },
+    {
+      "id": 692,
+      "identifier": "clauncher",
+      "name": {
+        "ja": "ウデッポウ",
+        "en": "Clauncher"
+      },
+      "generation": 6
+    },
+    {
+      "id": 693,
+      "identifier": "clawitzer",
+      "name": {
+        "ja": "ブロスター",
+        "en": "Clawitzer"
+      },
+      "generation": 6
+    },
+    {
+      "id": 694,
+      "identifier": "helioptile",
+      "name": {
+        "ja": "エリキテル",
+        "en": "Helioptile"
+      },
+      "generation": 6
+    },
+    {
+      "id": 695,
+      "identifier": "heliolisk",
+      "name": {
+        "ja": "エレザード",
+        "en": "Heliolisk"
+      },
+      "generation": 6
+    },
+    {
+      "id": 696,
+      "identifier": "tyrunt",
+      "name": {
+        "ja": "チゴラス",
+        "en": "Tyrunt"
+      },
+      "generation": 6
+    },
+    {
+      "id": 697,
+      "identifier": "tyrantrum",
+      "name": {
+        "ja": "ガチゴラス",
+        "en": "Tyrantrum"
+      },
+      "generation": 6
+    },
+    {
+      "id": 698,
+      "identifier": "amaura",
+      "name": {
+        "ja": "アマルス",
+        "en": "Amaura"
+      },
+      "generation": 6
+    },
+    {
+      "id": 699,
+      "identifier": "aurorus",
+      "name": {
+        "ja": "アマルルガ",
+        "en": "Aurorus"
+      },
+      "generation": 6
+    },
+    {
+      "id": 700,
+      "identifier": "sylveon",
+      "name": {
+        "ja": "ニンフィア",
+        "en": "Sylveon"
+      },
+      "generation": 6
+    },
+    {
+      "id": 701,
+      "identifier": "hawlucha",
+      "name": {
+        "ja": "ルチャブル",
+        "en": "Hawlucha"
+      },
+      "generation": 6
+    },
+    {
+      "id": 702,
+      "identifier": "dedenne",
+      "name": {
+        "ja": "デデンネ",
+        "en": "Dedenne"
+      },
+      "generation": 6
+    },
+    {
+      "id": 703,
+      "identifier": "carbink",
+      "name": {
+        "ja": "メレシー",
+        "en": "Carbink"
+      },
+      "generation": 6
+    },
+    {
+      "id": 704,
+      "identifier": "goomy",
+      "name": {
+        "ja": "ヌメラ",
+        "en": "Goomy"
+      },
+      "generation": 6
+    },
+    {
+      "id": 705,
+      "identifier": "sliggoo",
+      "name": {
+        "ja": "ヌメイル",
+        "en": "Sliggoo"
+      },
+      "generation": 6
+    },
+    {
+      "id": 706,
+      "identifier": "goodra",
+      "name": {
+        "ja": "ヌメルゴン",
+        "en": "Goodra"
+      },
+      "generation": 6
+    },
+    {
+      "id": 707,
+      "identifier": "klefki",
+      "name": {
+        "ja": "クレッフィ",
+        "en": "Klefki"
+      },
+      "generation": 6
+    },
+    {
+      "id": 708,
+      "identifier": "phantump",
+      "name": {
+        "ja": "ボクレー",
+        "en": "Phantump"
+      },
+      "generation": 6
+    },
+    {
+      "id": 709,
+      "identifier": "trevenant",
+      "name": {
+        "ja": "オーロット",
+        "en": "Trevenant"
+      },
+      "generation": 6
+    },
+    {
+      "id": 710,
+      "identifier": "pumpkaboo",
+      "name": {
+        "ja": "バケッチャ",
+        "en": "Pumpkaboo"
+      },
+      "generation": 6
+    },
+    {
+      "id": 711,
+      "identifier": "gourgeist",
+      "name": {
+        "ja": "パンプジン",
+        "en": "Gourgeist"
+      },
+      "generation": 6
+    },
+    {
+      "id": 712,
+      "identifier": "bergmite",
+      "name": {
+        "ja": "カチコール",
+        "en": "Bergmite"
+      },
+      "generation": 6
+    },
+    {
+      "id": 713,
+      "identifier": "avalugg",
+      "name": {
+        "ja": "クレベース",
+        "en": "Avalugg"
+      },
+      "generation": 6
+    },
+    {
+      "id": 714,
+      "identifier": "noibat",
+      "name": {
+        "ja": "オンバット",
+        "en": "Noibat"
+      },
+      "generation": 6
+    },
+    {
+      "id": 715,
+      "identifier": "noivern",
+      "name": {
+        "ja": "オンバーン",
+        "en": "Noivern"
+      },
+      "generation": 6
+    },
+    {
+      "id": 716,
+      "identifier": "xerneas",
+      "name": {
+        "ja": "ゼルネアス",
+        "en": "Xerneas"
+      },
+      "generation": 6
+    },
+    {
+      "id": 717,
+      "identifier": "yveltal",
+      "name": {
+        "ja": "イベルタル",
+        "en": "Yveltal"
+      },
+      "generation": 6
+    },
+    {
+      "id": 718,
+      "identifier": "zygarde",
+      "name": {
+        "ja": "ジガルデ",
+        "en": "Zygarde"
+      },
+      "generation": 6
+    },
+    {
+      "id": 719,
+      "identifier": "diancie",
+      "name": {
+        "ja": "ディアンシー",
+        "en": "Diancie"
+      },
+      "generation": 6
+    },
+    {
+      "id": 720,
+      "identifier": "hoopa",
+      "name": {
+        "ja": "フーパ",
+        "en": "Hoopa"
+      },
+      "generation": 6
+    },
+    {
+      "id": 721,
+      "identifier": "volcanion",
+      "name": {
+        "ja": "ボルケニオン",
+        "en": "Volcanion"
+      },
+      "generation": 6
+    },
+    {
+      "id": 722,
+      "identifier": "rowlet",
+      "name": {
+        "ja": "モクロー",
+        "en": "Rowlet"
+      },
+      "generation": 7
+    },
+    {
+      "id": 723,
+      "identifier": "dartrix",
+      "name": {
+        "ja": "フクスロー",
+        "en": "Dartrix"
+      },
+      "generation": 7
+    },
+    {
+      "id": 724,
+      "identifier": "decidueye",
+      "name": {
+        "ja": "ジュナイパー",
+        "en": "Decidueye"
+      },
+      "generation": 7
+    },
+    {
+      "id": 725,
+      "identifier": "litten",
+      "name": {
+        "ja": "ニャビー",
+        "en": "Litten"
+      },
+      "generation": 7
+    },
+    {
+      "id": 726,
+      "identifier": "torracat",
+      "name": {
+        "ja": "ニャヒート",
+        "en": "Torracat"
+      },
+      "generation": 7
+    },
+    {
+      "id": 727,
+      "identifier": "incineroar",
+      "name": {
+        "ja": "ガオガエン",
+        "en": "Incineroar"
+      },
+      "generation": 7
+    },
+    {
+      "id": 728,
+      "identifier": "popplio",
+      "name": {
+        "ja": "アシマリ",
+        "en": "Popplio"
+      },
+      "generation": 7
+    },
+    {
+      "id": 729,
+      "identifier": "brionne",
+      "name": {
+        "ja": "オシャマリ",
+        "en": "Brionne"
+      },
+      "generation": 7
+    },
+    {
+      "id": 730,
+      "identifier": "primarina",
+      "name": {
+        "ja": "アシレーヌ",
+        "en": "Primarina"
+      },
+      "generation": 7
+    },
+    {
+      "id": 731,
+      "identifier": "pikipek",
+      "name": {
+        "ja": "ツツケラ",
+        "en": "Pikipek"
+      },
+      "generation": 7
+    },
+    {
+      "id": 732,
+      "identifier": "trumbeak",
+      "name": {
+        "ja": "ケララッパ",
+        "en": "Trumbeak"
+      },
+      "generation": 7
+    },
+    {
+      "id": 733,
+      "identifier": "toucannon",
+      "name": {
+        "ja": "ドデカバシ",
+        "en": "Toucannon"
+      },
+      "generation": 7
+    },
+    {
+      "id": 734,
+      "identifier": "yungoos",
+      "name": {
+        "ja": "ヤングース",
+        "en": "Yungoos"
+      },
+      "generation": 7
+    },
+    {
+      "id": 735,
+      "identifier": "gumshoos",
+      "name": {
+        "ja": "デカグース",
+        "en": "Gumshoos"
+      },
+      "generation": 7
+    },
+    {
+      "id": 736,
+      "identifier": "grubbin",
+      "name": {
+        "ja": "アゴジムシ",
+        "en": "Grubbin"
+      },
+      "generation": 7
+    },
+    {
+      "id": 737,
+      "identifier": "charjabug",
+      "name": {
+        "ja": "デンヂムシ",
+        "en": "Charjabug"
+      },
+      "generation": 7
+    },
+    {
+      "id": 738,
+      "identifier": "vikavolt",
+      "name": {
+        "ja": "クワガノン",
+        "en": "Vikavolt"
+      },
+      "generation": 7
+    },
+    {
+      "id": 739,
+      "identifier": "crabrawler",
+      "name": {
+        "ja": "マケンカニ",
+        "en": "Crabrawler"
+      },
+      "generation": 7
+    },
+    {
+      "id": 740,
+      "identifier": "crabominable",
+      "name": {
+        "ja": "ケケンカニ",
+        "en": "Crabominable"
+      },
+      "generation": 7
+    },
+    {
+      "id": 741,
+      "identifier": "oricorio",
+      "name": {
+        "ja": "オドリドリ",
+        "en": "Oricorio"
+      },
+      "generation": 7
+    },
+    {
+      "id": 742,
+      "identifier": "cutiefly",
+      "name": {
+        "ja": "アブリー",
+        "en": "Cutiefly"
+      },
+      "generation": 7
+    },
+    {
+      "id": 743,
+      "identifier": "ribombee",
+      "name": {
+        "ja": "アブリボン",
+        "en": "Ribombee"
+      },
+      "generation": 7
+    },
+    {
+      "id": 744,
+      "identifier": "rockruff",
+      "name": {
+        "ja": "イワンコ",
+        "en": "Rockruff"
+      },
+      "generation": 7
+    },
+    {
+      "id": 745,
+      "identifier": "lycanroc",
+      "name": {
+        "ja": "ルガルガン",
+        "en": "Lycanroc"
+      },
+      "generation": 7
+    },
+    {
+      "id": 746,
+      "identifier": "wishiwashi",
+      "name": {
+        "ja": "ヨワシ",
+        "en": "Wishiwashi"
+      },
+      "generation": 7
+    },
+    {
+      "id": 747,
+      "identifier": "mareanie",
+      "name": {
+        "ja": "ヒドイデ",
+        "en": "Mareanie"
+      },
+      "generation": 7
+    },
+    {
+      "id": 748,
+      "identifier": "toxapex",
+      "name": {
+        "ja": "ドヒドイデ",
+        "en": "Toxapex"
+      },
+      "generation": 7
+    },
+    {
+      "id": 749,
+      "identifier": "mudbray",
+      "name": {
+        "ja": "ドロバンコ",
+        "en": "Mudbray"
+      },
+      "generation": 7
+    },
+    {
+      "id": 750,
+      "identifier": "mudsdale",
+      "name": {
+        "ja": "バンバドロ",
+        "en": "Mudsdale"
+      },
+      "generation": 7
+    },
+    {
+      "id": 751,
+      "identifier": "dewpider",
+      "name": {
+        "ja": "シズクモ",
+        "en": "Dewpider"
+      },
+      "generation": 7
+    },
+    {
+      "id": 752,
+      "identifier": "araquanid",
+      "name": {
+        "ja": "オニシズクモ",
+        "en": "Araquanid"
+      },
+      "generation": 7
+    },
+    {
+      "id": 753,
+      "identifier": "fomantis",
+      "name": {
+        "ja": "カリキリ",
+        "en": "Fomantis"
+      },
+      "generation": 7
+    },
+    {
+      "id": 754,
+      "identifier": "lurantis",
+      "name": {
+        "ja": "ラランテス",
+        "en": "Lurantis"
+      },
+      "generation": 7
+    },
+    {
+      "id": 755,
+      "identifier": "morelull",
+      "name": {
+        "ja": "ネマシュ",
+        "en": "Morelull"
+      },
+      "generation": 7
+    },
+    {
+      "id": 756,
+      "identifier": "shiinotic",
+      "name": {
+        "ja": "マシェード",
+        "en": "Shiinotic"
+      },
+      "generation": 7
+    },
+    {
+      "id": 757,
+      "identifier": "salandit",
+      "name": {
+        "ja": "ヤトウモリ",
+        "en": "Salandit"
+      },
+      "generation": 7
+    },
+    {
+      "id": 758,
+      "identifier": "salazzle",
+      "name": {
+        "ja": "エンニュート",
+        "en": "Salazzle"
+      },
+      "generation": 7
+    },
+    {
+      "id": 759,
+      "identifier": "stufful",
+      "name": {
+        "ja": "ヌイコグマ",
+        "en": "Stufful"
+      },
+      "generation": 7
+    },
+    {
+      "id": 760,
+      "identifier": "bewear",
+      "name": {
+        "ja": "キテルグマ",
+        "en": "Bewear"
+      },
+      "generation": 7
+    },
+    {
+      "id": 761,
+      "identifier": "bounsweet",
+      "name": {
+        "ja": "アマカジ",
+        "en": "Bounsweet"
+      },
+      "generation": 7
+    },
+    {
+      "id": 762,
+      "identifier": "steenee",
+      "name": {
+        "ja": "アママイコ",
+        "en": "Steenee"
+      },
+      "generation": 7
+    },
+    {
+      "id": 763,
+      "identifier": "tsareena",
+      "name": {
+        "ja": "アマージョ",
+        "en": "Tsareena"
+      },
+      "generation": 7
+    },
+    {
+      "id": 764,
+      "identifier": "comfey",
+      "name": {
+        "ja": "キュワワー",
+        "en": "Comfey"
+      },
+      "generation": 7
+    },
+    {
+      "id": 765,
+      "identifier": "oranguru",
+      "name": {
+        "ja": "ヤレユータン",
+        "en": "Oranguru"
+      },
+      "generation": 7
+    },
+    {
+      "id": 766,
+      "identifier": "passimian",
+      "name": {
+        "ja": "ナゲツケサル",
+        "en": "Passimian"
+      },
+      "generation": 7
+    },
+    {
+      "id": 767,
+      "identifier": "wimpod",
+      "name": {
+        "ja": "コソクムシ",
+        "en": "Wimpod"
+      },
+      "generation": 7
+    },
+    {
+      "id": 768,
+      "identifier": "golisopod",
+      "name": {
+        "ja": "グソクムシャ",
+        "en": "Golisopod"
+      },
+      "generation": 7
+    },
+    {
+      "id": 769,
+      "identifier": "sandygast",
+      "name": {
+        "ja": "スナバァ",
+        "en": "Sandygast"
+      },
+      "generation": 7
+    },
+    {
+      "id": 770,
+      "identifier": "palossand",
+      "name": {
+        "ja": "シロデスナ",
+        "en": "Palossand"
+      },
+      "generation": 7
+    },
+    {
+      "id": 771,
+      "identifier": "pyukumuku",
+      "name": {
+        "ja": "ナマコブシ",
+        "en": "Pyukumuku"
+      },
+      "generation": 7
+    },
+    {
+      "id": 772,
+      "identifier": "type-null",
+      "name": {
+        "ja": "タイプ：ヌル",
+        "en": "Type: Null"
+      },
+      "generation": 7
+    },
+    {
+      "id": 773,
+      "identifier": "silvally",
+      "name": {
+        "ja": "シルヴァディ",
+        "en": "Silvally"
+      },
+      "generation": 7
+    },
+    {
+      "id": 774,
+      "identifier": "minior",
+      "name": {
+        "ja": "メテノ",
+        "en": "Minior"
+      },
+      "generation": 7
+    },
+    {
+      "id": 775,
+      "identifier": "komala",
+      "name": {
+        "ja": "ネッコアラ",
+        "en": "Komala"
+      },
+      "generation": 7
+    },
+    {
+      "id": 776,
+      "identifier": "turtonator",
+      "name": {
+        "ja": "バクガメス",
+        "en": "Turtonator"
+      },
+      "generation": 7
+    },
+    {
+      "id": 777,
+      "identifier": "togedemaru",
+      "name": {
+        "ja": "トゲデマル",
+        "en": "Togedemaru"
+      },
+      "generation": 7
+    },
+    {
+      "id": 778,
+      "identifier": "mimikyu",
+      "name": {
+        "ja": "ミミッキュ",
+        "en": "Mimikyu"
+      },
+      "generation": 7
+    },
+    {
+      "id": 779,
+      "identifier": "bruxish",
+      "name": {
+        "ja": "ハギギシリ",
+        "en": "Bruxish"
+      },
+      "generation": 7
+    },
+    {
+      "id": 780,
+      "identifier": "drampa",
+      "name": {
+        "ja": "ジジーロン",
+        "en": "Drampa"
+      },
+      "generation": 7
+    },
+    {
+      "id": 781,
+      "identifier": "dhelmise",
+      "name": {
+        "ja": "ダダリン",
+        "en": "Dhelmise"
+      },
+      "generation": 7
+    },
+    {
+      "id": 782,
+      "identifier": "jangmo-o",
+      "name": {
+        "ja": "ジャラコ",
+        "en": "Jangmo-o"
+      },
+      "generation": 7
+    },
+    {
+      "id": 783,
+      "identifier": "hakamo-o",
+      "name": {
+        "ja": "ジャランゴ",
+        "en": "Hakamo-o"
+      },
+      "generation": 7
+    },
+    {
+      "id": 784,
+      "identifier": "kommo-o",
+      "name": {
+        "ja": "ジャラランガ",
+        "en": "Kommo-o"
+      },
+      "generation": 7
+    },
+    {
+      "id": 785,
+      "identifier": "tapu-koko",
+      "name": {
+        "ja": "カプ・コケコ",
+        "en": "Tapu Koko"
+      },
+      "generation": 7
+    },
+    {
+      "id": 786,
+      "identifier": "tapu-lele",
+      "name": {
+        "ja": "カプ・テテフ",
+        "en": "Tapu Lele"
+      },
+      "generation": 7
+    },
+    {
+      "id": 787,
+      "identifier": "tapu-bulu",
+      "name": {
+        "ja": "カプ・ブルル",
+        "en": "Tapu Bulu"
+      },
+      "generation": 7
+    },
+    {
+      "id": 788,
+      "identifier": "tapu-fini",
+      "name": {
+        "ja": "カプ・レヒレ",
+        "en": "Tapu Fini"
+      },
+      "generation": 7
+    },
+    {
+      "id": 789,
+      "identifier": "cosmog",
+      "name": {
+        "ja": "コスモッグ",
+        "en": "Cosmog"
+      },
+      "generation": 7
+    },
+    {
+      "id": 790,
+      "identifier": "cosmoem",
+      "name": {
+        "ja": "コスモウム",
+        "en": "Cosmoem"
+      },
+      "generation": 7
+    },
+    {
+      "id": 791,
+      "identifier": "solgaleo",
+      "name": {
+        "ja": "ソルガレオ",
+        "en": "Solgaleo"
+      },
+      "generation": 7
+    },
+    {
+      "id": 792,
+      "identifier": "lunala",
+      "name": {
+        "ja": "ルナアーラ",
+        "en": "Lunala"
+      },
+      "generation": 7
+    },
+    {
+      "id": 793,
+      "identifier": "nihilego",
+      "name": {
+        "ja": "ウツロイド",
+        "en": "Nihilego"
+      },
+      "generation": 7
+    },
+    {
+      "id": 794,
+      "identifier": "buzzwole",
+      "name": {
+        "ja": "マッシブーン",
+        "en": "Buzzwole"
+      },
+      "generation": 7
+    },
+    {
+      "id": 795,
+      "identifier": "pheromosa",
+      "name": {
+        "ja": "フェローチェ",
+        "en": "Pheromosa"
+      },
+      "generation": 7
+    },
+    {
+      "id": 796,
+      "identifier": "xurkitree",
+      "name": {
+        "ja": "デンジュモク",
+        "en": "Xurkitree"
+      },
+      "generation": 7
+    },
+    {
+      "id": 797,
+      "identifier": "celesteela",
+      "name": {
+        "ja": "テッカグヤ",
+        "en": "Celesteela"
+      },
+      "generation": 7
+    },
+    {
+      "id": 798,
+      "identifier": "kartana",
+      "name": {
+        "ja": "カミツルギ",
+        "en": "Kartana"
+      },
+      "generation": 7
+    },
+    {
+      "id": 799,
+      "identifier": "guzzlord",
+      "name": {
+        "ja": "アクジキング",
+        "en": "Guzzlord"
+      },
+      "generation": 7
+    },
+    {
+      "id": 800,
+      "identifier": "necrozma",
+      "name": {
+        "ja": "ネクロズマ",
+        "en": "Necrozma"
+      },
+      "generation": 7
+    },
+    {
+      "id": 801,
+      "identifier": "magearna",
+      "name": {
+        "ja": "マギアナ",
+        "en": "Magearna"
+      },
+      "generation": 7
+    },
+    {
+      "id": 802,
+      "identifier": "marshadow",
+      "name": {
+        "ja": "マーシャドー",
+        "en": "Marshadow"
+      },
+      "generation": 7
+    },
+    {
+      "id": 803,
+      "identifier": "poipole",
+      "name": {
+        "ja": "ベベノム",
+        "en": "Poipole"
+      },
+      "generation": 7
+    },
+    {
+      "id": 804,
+      "identifier": "naganadel",
+      "name": {
+        "ja": "アーゴヨン",
+        "en": "Naganadel"
+      },
+      "generation": 7
+    },
+    {
+      "id": 805,
+      "identifier": "stakataka",
+      "name": {
+        "ja": "ツンデツンデ",
+        "en": "Stakataka"
+      },
+      "generation": 7
+    },
+    {
+      "id": 806,
+      "identifier": "blacephalon",
+      "name": {
+        "ja": "ズガドーン",
+        "en": "Blacephalon"
+      },
+      "generation": 7
+    },
+    {
+      "id": 807,
+      "identifier": "zeraora",
+      "name": {
+        "ja": "ゼラオラ",
+        "en": "Zeraora"
+      },
+      "generation": 7
+    },
+    {
+      "id": 808,
+      "identifier": "meltan",
+      "name": {
+        "ja": "メルタン",
+        "en": "Meltan"
+      },
+      "generation": 7
+    },
+    {
+      "id": 809,
+      "identifier": "melmetal",
+      "name": {
+        "ja": "メルメタル",
+        "en": "Melmetal"
+      },
+      "generation": 7
+    },
+    {
+      "id": 810,
+      "identifier": "grookey",
+      "name": {
+        "ja": "サルノリ",
+        "en": "Grookey"
+      },
+      "generation": 8
+    },
+    {
+      "id": 811,
+      "identifier": "thwackey",
+      "name": {
+        "ja": "バチンキー",
+        "en": "Thwackey"
+      },
+      "generation": 8
+    },
+    {
+      "id": 812,
+      "identifier": "rillaboom",
+      "name": {
+        "ja": "ゴリランダー",
+        "en": "Rillaboom"
+      },
+      "generation": 8
+    },
+    {
+      "id": 813,
+      "identifier": "scorbunny",
+      "name": {
+        "ja": "ヒバニー",
+        "en": "Scorbunny"
+      },
+      "generation": 8
+    },
+    {
+      "id": 814,
+      "identifier": "raboot",
+      "name": {
+        "ja": "ラビフット",
+        "en": "Raboot"
+      },
+      "generation": 8
+    },
+    {
+      "id": 815,
+      "identifier": "cinderace",
+      "name": {
+        "ja": "エースバーン",
+        "en": "Cinderace"
+      },
+      "generation": 8
+    },
+    {
+      "id": 816,
+      "identifier": "sobble",
+      "name": {
+        "ja": "メッソン",
+        "en": "Sobble"
+      },
+      "generation": 8
+    },
+    {
+      "id": 817,
+      "identifier": "drizzile",
+      "name": {
+        "ja": "ジメレオン",
+        "en": "Drizzile"
+      },
+      "generation": 8
+    },
+    {
+      "id": 818,
+      "identifier": "inteleon",
+      "name": {
+        "ja": "インテレオン",
+        "en": "Inteleon"
+      },
+      "generation": 8
+    },
+    {
+      "id": 819,
+      "identifier": "skwovet",
+      "name": {
+        "ja": "ホシガリス",
+        "en": "Skwovet"
+      },
+      "generation": 8
+    },
+    {
+      "id": 820,
+      "identifier": "greedent",
+      "name": {
+        "ja": "ヨクバリス",
+        "en": "Greedent"
+      },
+      "generation": 8
+    },
+    {
+      "id": 821,
+      "identifier": "rookidee",
+      "name": {
+        "ja": "ココガラ",
+        "en": "Rookidee"
+      },
+      "generation": 8
+    },
+    {
+      "id": 822,
+      "identifier": "corvisquire",
+      "name": {
+        "ja": "アオガラス",
+        "en": "Corvisquire"
+      },
+      "generation": 8
+    },
+    {
+      "id": 823,
+      "identifier": "corviknight",
+      "name": {
+        "ja": "アーマーガア",
+        "en": "Corviknight"
+      },
+      "generation": 8
+    },
+    {
+      "id": 824,
+      "identifier": "blipbug",
+      "name": {
+        "ja": "サッチムシ",
+        "en": "Blipbug"
+      },
+      "generation": 8
+    },
+    {
+      "id": 825,
+      "identifier": "dottler",
+      "name": {
+        "ja": "レドームシ",
+        "en": "Dottler"
+      },
+      "generation": 8
+    },
+    {
+      "id": 826,
+      "identifier": "orbeetle",
+      "name": {
+        "ja": "イオルブ",
+        "en": "Orbeetle"
+      },
+      "generation": 8
+    },
+    {
+      "id": 827,
+      "identifier": "nickit",
+      "name": {
+        "ja": "クスネ",
+        "en": "Nickit"
+      },
+      "generation": 8
+    },
+    {
+      "id": 828,
+      "identifier": "thievul",
+      "name": {
+        "ja": "フォクスライ",
+        "en": "Thievul"
+      },
+      "generation": 8
+    },
+    {
+      "id": 829,
+      "identifier": "gossifleur",
+      "name": {
+        "ja": "ヒメンカ",
+        "en": "Gossifleur"
+      },
+      "generation": 8
+    },
+    {
+      "id": 830,
+      "identifier": "eldegoss",
+      "name": {
+        "ja": "ワタシラガ",
+        "en": "Eldegoss"
+      },
+      "generation": 8
+    },
+    {
+      "id": 831,
+      "identifier": "wooloo",
+      "name": {
+        "ja": "ウールー",
+        "en": "Wooloo"
+      },
+      "generation": 8
+    },
+    {
+      "id": 832,
+      "identifier": "dubwool",
+      "name": {
+        "ja": "バイウールー",
+        "en": "Dubwool"
+      },
+      "generation": 8
+    },
+    {
+      "id": 833,
+      "identifier": "chewtle",
+      "name": {
+        "ja": "カムカメ",
+        "en": "Chewtle"
+      },
+      "generation": 8
+    },
+    {
+      "id": 834,
+      "identifier": "drednaw",
+      "name": {
+        "ja": "カジリガメ",
+        "en": "Drednaw"
+      },
+      "generation": 8
+    },
+    {
+      "id": 835,
+      "identifier": "yamper",
+      "name": {
+        "ja": "ワンパチ",
+        "en": "Yamper"
+      },
+      "generation": 8
+    },
+    {
+      "id": 836,
+      "identifier": "boltund",
+      "name": {
+        "ja": "パルスワン",
+        "en": "Boltund"
+      },
+      "generation": 8
+    },
+    {
+      "id": 837,
+      "identifier": "rolycoly",
+      "name": {
+        "ja": "タンドン",
+        "en": "Rolycoly"
+      },
+      "generation": 8
+    },
+    {
+      "id": 838,
+      "identifier": "carkol",
+      "name": {
+        "ja": "トロッゴン",
+        "en": "Carkol"
+      },
+      "generation": 8
+    },
+    {
+      "id": 839,
+      "identifier": "coalossal",
+      "name": {
+        "ja": "セキタンザン",
+        "en": "Coalossal"
+      },
+      "generation": 8
+    },
+    {
+      "id": 840,
+      "identifier": "applin",
+      "name": {
+        "ja": "カジッチュ",
+        "en": "Applin"
+      },
+      "generation": 8
+    },
+    {
+      "id": 841,
+      "identifier": "flapple",
+      "name": {
+        "ja": "アップリュー",
+        "en": "Flapple"
+      },
+      "generation": 8
+    },
+    {
+      "id": 842,
+      "identifier": "appletun",
+      "name": {
+        "ja": "タルップル",
+        "en": "Appletun"
+      },
+      "generation": 8
+    },
+    {
+      "id": 843,
+      "identifier": "silicobra",
+      "name": {
+        "ja": "スナヘビ",
+        "en": "Silicobra"
+      },
+      "generation": 8
+    },
+    {
+      "id": 844,
+      "identifier": "sandaconda",
+      "name": {
+        "ja": "サダイジャ",
+        "en": "Sandaconda"
+      },
+      "generation": 8
+    },
+    {
+      "id": 845,
+      "identifier": "cramorant",
+      "name": {
+        "ja": "ウッウ",
+        "en": "Cramorant"
+      },
+      "generation": 8
+    },
+    {
+      "id": 846,
+      "identifier": "arrokuda",
+      "name": {
+        "ja": "サシカマス",
+        "en": "Arrokuda"
+      },
+      "generation": 8
+    },
+    {
+      "id": 847,
+      "identifier": "barraskewda",
+      "name": {
+        "ja": "カマスジョー",
+        "en": "Barraskewda"
+      },
+      "generation": 8
+    },
+    {
+      "id": 848,
+      "identifier": "toxel",
+      "name": {
+        "ja": "エレズン",
+        "en": "Toxel"
+      },
+      "generation": 8
+    },
+    {
+      "id": 849,
+      "identifier": "toxtricity",
+      "name": {
+        "ja": "ストリンダー",
+        "en": "Toxtricity"
+      },
+      "generation": 8
+    },
+    {
+      "id": 850,
+      "identifier": "sizzlipede",
+      "name": {
+        "ja": "ヤクデ",
+        "en": "Sizzlipede"
+      },
+      "generation": 8
+    },
+    {
+      "id": 851,
+      "identifier": "centiskorch",
+      "name": {
+        "ja": "マルヤクデ",
+        "en": "Centiskorch"
+      },
+      "generation": 8
+    },
+    {
+      "id": 852,
+      "identifier": "clobbopus",
+      "name": {
+        "ja": "タタッコ",
+        "en": "Clobbopus"
+      },
+      "generation": 8
+    },
+    {
+      "id": 853,
+      "identifier": "grapploct",
+      "name": {
+        "ja": "オトスパス",
+        "en": "Grapploct"
+      },
+      "generation": 8
+    },
+    {
+      "id": 854,
+      "identifier": "sinistea",
+      "name": {
+        "ja": "ヤバチャ",
+        "en": "Sinistea"
+      },
+      "generation": 8
+    },
+    {
+      "id": 855,
+      "identifier": "polteageist",
+      "name": {
+        "ja": "ポットデス",
+        "en": "Polteageist"
+      },
+      "generation": 8
+    },
+    {
+      "id": 856,
+      "identifier": "hatenna",
+      "name": {
+        "ja": "ミブリム",
+        "en": "Hatenna"
+      },
+      "generation": 8
+    },
+    {
+      "id": 857,
+      "identifier": "hattrem",
+      "name": {
+        "ja": "テブリム",
+        "en": "Hattrem"
+      },
+      "generation": 8
+    },
+    {
+      "id": 858,
+      "identifier": "hatterene",
+      "name": {
+        "ja": "ブリムオン",
+        "en": "Hatterene"
+      },
+      "generation": 8
+    },
+    {
+      "id": 859,
+      "identifier": "impidimp",
+      "name": {
+        "ja": "ベロバー",
+        "en": "Impidimp"
+      },
+      "generation": 8
+    },
+    {
+      "id": 860,
+      "identifier": "morgrem",
+      "name": {
+        "ja": "ギモー",
+        "en": "Morgrem"
+      },
+      "generation": 8
+    },
+    {
+      "id": 861,
+      "identifier": "grimmsnarl",
+      "name": {
+        "ja": "オーロンゲ",
+        "en": "Grimmsnarl"
+      },
+      "generation": 8
+    },
+    {
+      "id": 862,
+      "identifier": "obstagoon",
+      "name": {
+        "ja": "タチフサグマ",
+        "en": "Obstagoon"
+      },
+      "generation": 8
+    },
+    {
+      "id": 863,
+      "identifier": "perrserker",
+      "name": {
+        "ja": "ニャイキング",
+        "en": "Perrserker"
+      },
+      "generation": 8
+    },
+    {
+      "id": 864,
+      "identifier": "cursola",
+      "name": {
+        "ja": "サニゴーン",
+        "en": "Cursola"
+      },
+      "generation": 8
+    },
+    {
+      "id": 865,
+      "identifier": "sirfetchd",
+      "name": {
+        "ja": "ネギガナイト",
+        "en": "Sirfetch’d"
+      },
+      "generation": 8
+    },
+    {
+      "id": 866,
+      "identifier": "mr-rime",
+      "name": {
+        "ja": "バリコオル",
+        "en": "Mr. Rime"
+      },
+      "generation": 8
+    },
+    {
+      "id": 867,
+      "identifier": "runerigus",
+      "name": {
+        "ja": "デスバーン",
+        "en": "Runerigus"
+      },
+      "generation": 8
+    },
+    {
+      "id": 868,
+      "identifier": "milcery",
+      "name": {
+        "ja": "マホミル",
+        "en": "Milcery"
+      },
+      "generation": 8
+    },
+    {
+      "id": 869,
+      "identifier": "alcremie",
+      "name": {
+        "ja": "マホイップ",
+        "en": "Alcremie"
+      },
+      "generation": 8
+    },
+    {
+      "id": 870,
+      "identifier": "falinks",
+      "name": {
+        "ja": "タイレーツ",
+        "en": "Falinks"
+      },
+      "generation": 8
+    },
+    {
+      "id": 871,
+      "identifier": "pincurchin",
+      "name": {
+        "ja": "バチンウニ",
+        "en": "Pincurchin"
+      },
+      "generation": 8
+    },
+    {
+      "id": 872,
+      "identifier": "snom",
+      "name": {
+        "ja": "ユキハミ",
+        "en": "Snom"
+      },
+      "generation": 8
+    },
+    {
+      "id": 873,
+      "identifier": "frosmoth",
+      "name": {
+        "ja": "モスノウ",
+        "en": "Frosmoth"
+      },
+      "generation": 8
+    },
+    {
+      "id": 874,
+      "identifier": "stonjourner",
+      "name": {
+        "ja": "イシヘンジン",
+        "en": "Stonjourner"
+      },
+      "generation": 8
+    },
+    {
+      "id": 875,
+      "identifier": "eiscue",
+      "name": {
+        "ja": "コオリッポ",
+        "en": "Eiscue"
+      },
+      "generation": 8
+    },
+    {
+      "id": 876,
+      "identifier": "indeedee",
+      "name": {
+        "ja": "イエッサン",
+        "en": "Indeedee"
+      },
+      "generation": 8
+    },
+    {
+      "id": 877,
+      "identifier": "morpeko",
+      "name": {
+        "ja": "モルペコ",
+        "en": "Morpeko"
+      },
+      "generation": 8
+    },
+    {
+      "id": 878,
+      "identifier": "cufant",
+      "name": {
+        "ja": "ゾウドウ",
+        "en": "Cufant"
+      },
+      "generation": 8
+    },
+    {
+      "id": 879,
+      "identifier": "copperajah",
+      "name": {
+        "ja": "ダイオウドウ",
+        "en": "Copperajah"
+      },
+      "generation": 8
+    },
+    {
+      "id": 880,
+      "identifier": "dracozolt",
+      "name": {
+        "ja": "パッチラゴン",
+        "en": "Dracozolt"
+      },
+      "generation": 8
+    },
+    {
+      "id": 881,
+      "identifier": "arctozolt",
+      "name": {
+        "ja": "パッチルドン",
+        "en": "Arctozolt"
+      },
+      "generation": 8
+    },
+    {
+      "id": 882,
+      "identifier": "dracovish",
+      "name": {
+        "ja": "ウオノラゴン",
+        "en": "Dracovish"
+      },
+      "generation": 8
+    },
+    {
+      "id": 883,
+      "identifier": "arctovish",
+      "name": {
+        "ja": "ウオチルドン",
+        "en": "Arctovish"
+      },
+      "generation": 8
+    },
+    {
+      "id": 884,
+      "identifier": "duraludon",
+      "name": {
+        "ja": "ジュラルドン",
+        "en": "Duraludon"
+      },
+      "generation": 8
+    },
+    {
+      "id": 885,
+      "identifier": "dreepy",
+      "name": {
+        "ja": "ドラメシヤ",
+        "en": "Dreepy"
+      },
+      "generation": 8
+    },
+    {
+      "id": 886,
+      "identifier": "drakloak",
+      "name": {
+        "ja": "ドロンチ",
+        "en": "Drakloak"
+      },
+      "generation": 8
+    },
+    {
+      "id": 887,
+      "identifier": "dragapult",
+      "name": {
+        "ja": "ドラパルト",
+        "en": "Dragapult"
+      },
+      "generation": 8
+    },
+    {
+      "id": 888,
+      "identifier": "zacian",
+      "name": {
+        "ja": "ザシアン",
+        "en": "Zacian"
+      },
+      "generation": 8
+    },
+    {
+      "id": 889,
+      "identifier": "zamazenta",
+      "name": {
+        "ja": "ザマゼンタ",
+        "en": "Zamazenta"
+      },
+      "generation": 8
+    },
+    {
+      "id": 890,
+      "identifier": "eternatus",
+      "name": {
+        "ja": "ムゲンダイナ",
+        "en": "Eternatus"
+      },
+      "generation": 8
+    },
+    {
+      "id": 891,
+      "identifier": "kubfu",
+      "name": {
+        "ja": "ダクマ",
+        "en": "Kubfu"
+      },
+      "generation": 8
+    },
+    {
+      "id": 892,
+      "identifier": "urshifu",
+      "name": {
+        "ja": "ウーラオス",
+        "en": "Urshifu"
+      },
+      "generation": 8
+    },
+    {
+      "id": 893,
+      "identifier": "zarude",
+      "name": {
+        "ja": "ザルード",
+        "en": "Zarude"
+      },
+      "generation": 8
+    },
+    {
+      "id": 894,
+      "identifier": "regieleki",
+      "name": {
+        "ja": "レジエレキ",
+        "en": "Regieleki"
+      },
+      "generation": 8
+    },
+    {
+      "id": 895,
+      "identifier": "regidrago",
+      "name": {
+        "ja": "レジドラゴ",
+        "en": "Regidrago"
+      },
+      "generation": 8
+    },
+    {
+      "id": 896,
+      "identifier": "glastrier",
+      "name": {
+        "ja": "ブリザポス",
+        "en": "Glastrier"
+      },
+      "generation": 8
+    },
+    {
+      "id": 897,
+      "identifier": "spectrier",
+      "name": {
+        "ja": "レイスポス",
+        "en": "Spectrier"
+      },
+      "generation": 8
+    },
+    {
+      "id": 898,
+      "identifier": "calyrex",
+      "name": {
+        "ja": "バドレックス",
+        "en": "Calyrex"
+      },
+      "generation": 8
+    },
+    {
+      "id": 899,
+      "identifier": "wyrdeer",
+      "name": {
+        "ja": "アヤシシ",
+        "en": "Wyrdeer"
+      },
+      "generation": 8
+    },
+    {
+      "id": 900,
+      "identifier": "kleavor",
+      "name": {
+        "ja": "バサギリ",
+        "en": "Kleavor"
+      },
+      "generation": 8
+    },
+    {
+      "id": 901,
+      "identifier": "ursaluna",
+      "name": {
+        "ja": "ガチグマ",
+        "en": "Ursaluna"
+      },
+      "generation": 8
+    },
+    {
+      "id": 902,
+      "identifier": "basculegion",
+      "name": {
+        "ja": "イダイトウ",
+        "en": "Basculegion"
+      },
+      "generation": 8
+    },
+    {
+      "id": 903,
+      "identifier": "sneasler",
+      "name": {
+        "ja": "オオニューラ",
+        "en": "Sneasler"
+      },
+      "generation": 8
+    },
+    {
+      "id": 904,
+      "identifier": "overqwil",
+      "name": {
+        "ja": "ハリーマン",
+        "en": "Overqwil"
+      },
+      "generation": 8
+    },
+    {
+      "id": 905,
+      "identifier": "enamorus",
+      "name": {
+        "ja": "ラブトロス",
+        "en": "Enamorus"
+      },
+      "generation": 8
+    },
+    {
+      "id": 906,
+      "identifier": "sprigatito",
+      "name": {
+        "ja": "ニャオハ",
+        "en": "Sprigatito"
+      },
+      "generation": 9
+    },
+    {
+      "id": 907,
+      "identifier": "floragato",
+      "name": {
+        "ja": "ニャローテ",
+        "en": "Floragato"
+      },
+      "generation": 9
+    },
+    {
+      "id": 908,
+      "identifier": "meowscarada",
+      "name": {
+        "ja": "マスカーニャ",
+        "en": "Meowscarada"
+      },
+      "generation": 9
+    },
+    {
+      "id": 909,
+      "identifier": "fuecoco",
+      "name": {
+        "ja": "ホゲータ",
+        "en": "Fuecoco"
+      },
+      "generation": 9
+    },
+    {
+      "id": 910,
+      "identifier": "crocalor",
+      "name": {
+        "ja": "アチゲータ",
+        "en": "Crocalor"
+      },
+      "generation": 9
+    },
+    {
+      "id": 911,
+      "identifier": "skeledirge",
+      "name": {
+        "ja": "ラウドボーン",
+        "en": "Skeledirge"
+      },
+      "generation": 9
+    },
+    {
+      "id": 912,
+      "identifier": "quaxly",
+      "name": {
+        "ja": "クワッス",
+        "en": "Quaxly"
+      },
+      "generation": 9
+    },
+    {
+      "id": 913,
+      "identifier": "quaxwell",
+      "name": {
+        "ja": "ウェルカモ",
+        "en": "Quaxwell"
+      },
+      "generation": 9
+    },
+    {
+      "id": 914,
+      "identifier": "quaquaval",
+      "name": {
+        "ja": "ウェーニバル",
+        "en": "Quaquaval"
+      },
+      "generation": 9
+    },
+    {
+      "id": 915,
+      "identifier": "lechonk",
+      "name": {
+        "ja": "グルトン",
+        "en": "Lechonk"
+      },
+      "generation": 9
+    },
+    {
+      "id": 916,
+      "identifier": "oinkologne",
+      "name": {
+        "ja": "パフュートン",
+        "en": "Oinkologne"
+      },
+      "generation": 9
+    },
+    {
+      "id": 917,
+      "identifier": "tarountula",
+      "name": {
+        "ja": "タマンチュラ",
+        "en": "Tarountula"
+      },
+      "generation": 9
+    },
+    {
+      "id": 918,
+      "identifier": "spidops",
+      "name": {
+        "ja": "ワナイダー",
+        "en": "Spidops"
+      },
+      "generation": 9
+    },
+    {
+      "id": 919,
+      "identifier": "nymble",
+      "name": {
+        "ja": "マメバッタ",
+        "en": "Nymble"
+      },
+      "generation": 9
+    },
+    {
+      "id": 920,
+      "identifier": "lokix",
+      "name": {
+        "ja": "エクスレッグ",
+        "en": "Lokix"
+      },
+      "generation": 9
+    },
+    {
+      "id": 921,
+      "identifier": "pawmi",
+      "name": {
+        "ja": "パモ",
+        "en": "Pawmi"
+      },
+      "generation": 9
+    },
+    {
+      "id": 922,
+      "identifier": "pawmo",
+      "name": {
+        "ja": "パモット",
+        "en": "Pawmo"
+      },
+      "generation": 9
+    },
+    {
+      "id": 923,
+      "identifier": "pawmot",
+      "name": {
+        "ja": "パーモット",
+        "en": "Pawmot"
+      },
+      "generation": 9
+    },
+    {
+      "id": 924,
+      "identifier": "tandemaus",
+      "name": {
+        "ja": "ワッカネズミ",
+        "en": "Tandemaus"
+      },
+      "generation": 9
+    },
+    {
+      "id": 925,
+      "identifier": "maushold",
+      "name": {
+        "ja": "イッカネズミ",
+        "en": "Maushold"
+      },
+      "generation": 9
+    },
+    {
+      "id": 926,
+      "identifier": "fidough",
+      "name": {
+        "ja": "パピモッチ",
+        "en": "Fidough"
+      },
+      "generation": 9
+    },
+    {
+      "id": 927,
+      "identifier": "dachsbun",
+      "name": {
+        "ja": "バウッツェル",
+        "en": "Dachsbun"
+      },
+      "generation": 9
+    },
+    {
+      "id": 928,
+      "identifier": "smoliv",
+      "name": {
+        "ja": "ミニーブ",
+        "en": "Smoliv"
+      },
+      "generation": 9
+    },
+    {
+      "id": 929,
+      "identifier": "dolliv",
+      "name": {
+        "ja": "オリーニョ",
+        "en": "Dolliv"
+      },
+      "generation": 9
+    },
+    {
+      "id": 930,
+      "identifier": "arboliva",
+      "name": {
+        "ja": "オリーヴァ",
+        "en": "Arboliva"
+      },
+      "generation": 9
+    },
+    {
+      "id": 931,
+      "identifier": "squawkabilly",
+      "name": {
+        "ja": "イキリンコ",
+        "en": "Squawkabilly"
+      },
+      "generation": 9
+    },
+    {
+      "id": 932,
+      "identifier": "nacli",
+      "name": {
+        "ja": "コジオ",
+        "en": "Nacli"
+      },
+      "generation": 9
+    },
+    {
+      "id": 933,
+      "identifier": "naclstack",
+      "name": {
+        "ja": "ジオヅム",
+        "en": "Naclstack"
+      },
+      "generation": 9
+    },
+    {
+      "id": 934,
+      "identifier": "garganacl",
+      "name": {
+        "ja": "キョジオーン",
+        "en": "Garganacl"
+      },
+      "generation": 9
+    },
+    {
+      "id": 935,
+      "identifier": "charcadet",
+      "name": {
+        "ja": "カルボウ",
+        "en": "Charcadet"
+      },
+      "generation": 9
+    },
+    {
+      "id": 936,
+      "identifier": "armarouge",
+      "name": {
+        "ja": "グレンアルマ",
+        "en": "Armarouge"
+      },
+      "generation": 9
+    },
+    {
+      "id": 937,
+      "identifier": "ceruledge",
+      "name": {
+        "ja": "ソウブレイズ",
+        "en": "Ceruledge"
+      },
+      "generation": 9
+    },
+    {
+      "id": 938,
+      "identifier": "tadbulb",
+      "name": {
+        "ja": "ズピカ",
+        "en": "Tadbulb"
+      },
+      "generation": 9
+    },
+    {
+      "id": 939,
+      "identifier": "bellibolt",
+      "name": {
+        "ja": "ハラバリー",
+        "en": "Bellibolt"
+      },
+      "generation": 9
+    },
+    {
+      "id": 940,
+      "identifier": "wattrel",
+      "name": {
+        "ja": "カイデン",
+        "en": "Wattrel"
+      },
+      "generation": 9
+    },
+    {
+      "id": 941,
+      "identifier": "kilowattrel",
+      "name": {
+        "ja": "タイカイデン",
+        "en": "Kilowattrel"
+      },
+      "generation": 9
+    },
+    {
+      "id": 942,
+      "identifier": "maschiff",
+      "name": {
+        "ja": "オラチフ",
+        "en": "Maschiff"
+      },
+      "generation": 9
+    },
+    {
+      "id": 943,
+      "identifier": "mabosstiff",
+      "name": {
+        "ja": "マフィティフ",
+        "en": "Mabosstiff"
+      },
+      "generation": 9
+    },
+    {
+      "id": 944,
+      "identifier": "shroodle",
+      "name": {
+        "ja": "シルシュルー",
+        "en": "Shroodle"
+      },
+      "generation": 9
+    },
+    {
+      "id": 945,
+      "identifier": "grafaiai",
+      "name": {
+        "ja": "タギングル",
+        "en": "Grafaiai"
+      },
+      "generation": 9
+    },
+    {
+      "id": 946,
+      "identifier": "bramblin",
+      "name": {
+        "ja": "アノクサ",
+        "en": "Bramblin"
+      },
+      "generation": 9
+    },
+    {
+      "id": 947,
+      "identifier": "brambleghast",
+      "name": {
+        "ja": "アノホラグサ",
+        "en": "Brambleghast"
+      },
+      "generation": 9
+    },
+    {
+      "id": 948,
+      "identifier": "toedscool",
+      "name": {
+        "ja": "ノノクラゲ",
+        "en": "Toedscool"
+      },
+      "generation": 9
+    },
+    {
+      "id": 949,
+      "identifier": "toedscruel",
+      "name": {
+        "ja": "リククラゲ",
+        "en": "Toedscruel"
+      },
+      "generation": 9
+    },
+    {
+      "id": 950,
+      "identifier": "klawf",
+      "name": {
+        "ja": "ガケガニ",
+        "en": "Klawf"
+      },
+      "generation": 9
+    },
+    {
+      "id": 951,
+      "identifier": "capsakid",
+      "name": {
+        "ja": "カプサイジ",
+        "en": "Capsakid"
+      },
+      "generation": 9
+    },
+    {
+      "id": 952,
+      "identifier": "scovillain",
+      "name": {
+        "ja": "スコヴィラン",
+        "en": "Scovillain"
+      },
+      "generation": 9
+    },
+    {
+      "id": 953,
+      "identifier": "rellor",
+      "name": {
+        "ja": "シガロコ",
+        "en": "Rellor"
+      },
+      "generation": 9
+    },
+    {
+      "id": 954,
+      "identifier": "rabsca",
+      "name": {
+        "ja": "ベラカス",
+        "en": "Rabsca"
+      },
+      "generation": 9
+    },
+    {
+      "id": 955,
+      "identifier": "flittle",
+      "name": {
+        "ja": "ヒラヒナ",
+        "en": "Flittle"
+      },
+      "generation": 9
+    },
+    {
+      "id": 956,
+      "identifier": "espathra",
+      "name": {
+        "ja": "クエスパトラ",
+        "en": "Espathra"
+      },
+      "generation": 9
+    },
+    {
+      "id": 957,
+      "identifier": "tinkatink",
+      "name": {
+        "ja": "カヌチャン",
+        "en": "Tinkatink"
+      },
+      "generation": 9
+    },
+    {
+      "id": 958,
+      "identifier": "tinkatuff",
+      "name": {
+        "ja": "ナカヌチャン",
+        "en": "Tinkatuff"
+      },
+      "generation": 9
+    },
+    {
+      "id": 959,
+      "identifier": "tinkaton",
+      "name": {
+        "ja": "デカヌチャン",
+        "en": "Tinkaton"
+      },
+      "generation": 9
+    },
+    {
+      "id": 960,
+      "identifier": "wiglett",
+      "name": {
+        "ja": "ウミディグダ",
+        "en": "Wiglett"
+      },
+      "generation": 9
+    },
+    {
+      "id": 961,
+      "identifier": "wugtrio",
+      "name": {
+        "ja": "ウミトリオ",
+        "en": "Wugtrio"
+      },
+      "generation": 9
+    },
+    {
+      "id": 962,
+      "identifier": "bombirdier",
+      "name": {
+        "ja": "オトシドリ",
+        "en": "Bombirdier"
+      },
+      "generation": 9
+    },
+    {
+      "id": 963,
+      "identifier": "finizen",
+      "name": {
+        "ja": "ナミイルカ",
+        "en": "Finizen"
+      },
+      "generation": 9
+    },
+    {
+      "id": 964,
+      "identifier": "palafin",
+      "name": {
+        "ja": "イルカマン",
+        "en": "Palafin"
+      },
+      "generation": 9
+    },
+    {
+      "id": 965,
+      "identifier": "varoom",
+      "name": {
+        "ja": "ブロロン",
+        "en": "Varoom"
+      },
+      "generation": 9
+    },
+    {
+      "id": 966,
+      "identifier": "revavroom",
+      "name": {
+        "ja": "ブロロローム",
+        "en": "Revavroom"
+      },
+      "generation": 9
+    },
+    {
+      "id": 967,
+      "identifier": "cyclizar",
+      "name": {
+        "ja": "モトトカゲ",
+        "en": "Cyclizar"
+      },
+      "generation": 9
+    },
+    {
+      "id": 968,
+      "identifier": "orthworm",
+      "name": {
+        "ja": "ミミズズ",
+        "en": "Orthworm"
+      },
+      "generation": 9
+    },
+    {
+      "id": 969,
+      "identifier": "glimmet",
+      "name": {
+        "ja": "キラーメ",
+        "en": "Glimmet"
+      },
+      "generation": 9
+    },
+    {
+      "id": 970,
+      "identifier": "glimmora",
+      "name": {
+        "ja": "キラフロル",
+        "en": "Glimmora"
+      },
+      "generation": 9
+    },
+    {
+      "id": 971,
+      "identifier": "greavard",
+      "name": {
+        "ja": "ボチ",
+        "en": "Greavard"
+      },
+      "generation": 9
+    },
+    {
+      "id": 972,
+      "identifier": "houndstone",
+      "name": {
+        "ja": "ハカドッグ",
+        "en": "Houndstone"
+      },
+      "generation": 9
+    },
+    {
+      "id": 973,
+      "identifier": "flamigo",
+      "name": {
+        "ja": "カラミンゴ",
+        "en": "Flamigo"
+      },
+      "generation": 9
+    },
+    {
+      "id": 974,
+      "identifier": "cetoddle",
+      "name": {
+        "ja": "アルクジラ",
+        "en": "Cetoddle"
+      },
+      "generation": 9
+    },
+    {
+      "id": 975,
+      "identifier": "cetitan",
+      "name": {
+        "ja": "ハルクジラ",
+        "en": "Cetitan"
+      },
+      "generation": 9
+    },
+    {
+      "id": 976,
+      "identifier": "veluza",
+      "name": {
+        "ja": "ミガルーサ",
+        "en": "Veluza"
+      },
+      "generation": 9
+    },
+    {
+      "id": 977,
+      "identifier": "dondozo",
+      "name": {
+        "ja": "ヘイラッシャ",
+        "en": "Dondozo"
+      },
+      "generation": 9
+    },
+    {
+      "id": 978,
+      "identifier": "tatsugiri",
+      "name": {
+        "ja": "シャリタツ",
+        "en": "Tatsugiri"
+      },
+      "generation": 9
+    },
+    {
+      "id": 979,
+      "identifier": "annihilape",
+      "name": {
+        "ja": "コノヨザル",
+        "en": "Annihilape"
+      },
+      "generation": 9
+    },
+    {
+      "id": 980,
+      "identifier": "clodsire",
+      "name": {
+        "ja": "ドオー",
+        "en": "Clodsire"
+      },
+      "generation": 9
+    },
+    {
+      "id": 981,
+      "identifier": "farigiraf",
+      "name": {
+        "ja": "リキキリン",
+        "en": "Farigiraf"
+      },
+      "generation": 9
+    },
+    {
+      "id": 982,
+      "identifier": "dudunsparce",
+      "name": {
+        "ja": "ノココッチ",
+        "en": "Dudunsparce"
+      },
+      "generation": 9
+    },
+    {
+      "id": 983,
+      "identifier": "kingambit",
+      "name": {
+        "ja": "ドドゲザン",
+        "en": "Kingambit"
+      },
+      "generation": 9
+    },
+    {
+      "id": 984,
+      "identifier": "great-tusk",
+      "name": {
+        "ja": "イダイナキバ",
+        "en": "Great Tusk"
+      },
+      "generation": 9
+    },
+    {
+      "id": 985,
+      "identifier": "scream-tail",
+      "name": {
+        "ja": "サケブシッポ",
+        "en": "Scream Tail"
+      },
+      "generation": 9
+    },
+    {
+      "id": 986,
+      "identifier": "brute-bonnet",
+      "name": {
+        "ja": "アラブルタケ",
+        "en": "Brute Bonnet"
+      },
+      "generation": 9
+    },
+    {
+      "id": 987,
+      "identifier": "flutter-mane",
+      "name": {
+        "ja": "ハバタクカミ",
+        "en": "Flutter Mane"
+      },
+      "generation": 9
+    },
+    {
+      "id": 988,
+      "identifier": "slither-wing",
+      "name": {
+        "ja": "チヲハウハネ",
+        "en": "Slither Wing"
+      },
+      "generation": 9
+    },
+    {
+      "id": 989,
+      "identifier": "sandy-shocks",
+      "name": {
+        "ja": "スナノケガワ",
+        "en": "Sandy Shocks"
+      },
+      "generation": 9
+    },
+    {
+      "id": 990,
+      "identifier": "iron-treads",
+      "name": {
+        "ja": "テツノワダチ",
+        "en": "Iron Treads"
+      },
+      "generation": 9
+    },
+    {
+      "id": 991,
+      "identifier": "iron-bundle",
+      "name": {
+        "ja": "テツノツツミ",
+        "en": "Iron Bundle"
+      },
+      "generation": 9
+    },
+    {
+      "id": 992,
+      "identifier": "iron-hands",
+      "name": {
+        "ja": "テツノカイナ",
+        "en": "Iron Hands"
+      },
+      "generation": 9
+    },
+    {
+      "id": 993,
+      "identifier": "iron-jugulis",
+      "name": {
+        "ja": "テツノコウベ",
+        "en": "Iron Jugulis"
+      },
+      "generation": 9
+    },
+    {
+      "id": 994,
+      "identifier": "iron-moth",
+      "name": {
+        "ja": "テツノドクガ",
+        "en": "Iron Moth"
+      },
+      "generation": 9
+    },
+    {
+      "id": 995,
+      "identifier": "iron-thorns",
+      "name": {
+        "ja": "テツノイバラ",
+        "en": "Iron Thorns"
+      },
+      "generation": 9
+    },
+    {
+      "id": 996,
+      "identifier": "frigibax",
+      "name": {
+        "ja": "セビエ",
+        "en": "Frigibax"
+      },
+      "generation": 9
+    },
+    {
+      "id": 997,
+      "identifier": "arctibax",
+      "name": {
+        "ja": "セゴール",
+        "en": "Arctibax"
+      },
+      "generation": 9
+    },
+    {
+      "id": 998,
+      "identifier": "baxcalibur",
+      "name": {
+        "ja": "セグレイブ",
+        "en": "Baxcalibur"
+      },
+      "generation": 9
+    },
+    {
+      "id": 999,
+      "identifier": "gimmighoul",
+      "name": {
+        "ja": "コレクレー",
+        "en": "Gimmighoul"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1000,
+      "identifier": "gholdengo",
+      "name": {
+        "ja": "サーフゴー",
+        "en": "Gholdengo"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1001,
+      "identifier": "wo-chien",
+      "name": {
+        "ja": "チオンジェン",
+        "en": "Wo-Chien"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1002,
+      "identifier": "chien-pao",
+      "name": {
+        "ja": "パオジアン",
+        "en": "Chien-Pao"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1003,
+      "identifier": "ting-lu",
+      "name": {
+        "ja": "ディンルー",
+        "en": "Ting-Lu"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1004,
+      "identifier": "chi-yu",
+      "name": {
+        "ja": "イーユイ",
+        "en": "Chi-Yu"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1005,
+      "identifier": "roaring-moon",
+      "name": {
+        "ja": "トドロクツキ",
+        "en": "Roaring Moon"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1006,
+      "identifier": "iron-valiant",
+      "name": {
+        "ja": "テツノブジン",
+        "en": "Iron Valiant"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1007,
+      "identifier": "koraidon",
+      "name": {
+        "ja": "コライドン",
+        "en": "Koraidon"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1008,
+      "identifier": "miraidon",
+      "name": {
+        "ja": "ミライドン",
+        "en": "Miraidon"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1009,
+      "identifier": "walking-wake",
+      "name": {
+        "ja": "ウネルミナモ",
+        "en": "Walking Wake"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1010,
+      "identifier": "iron-leaves",
+      "name": {
+        "ja": "テツノイサハ",
+        "en": "Iron Leaves"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1011,
+      "identifier": "dipplin",
+      "name": {
+        "ja": "カミッチュ",
+        "en": "Dipplin"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1012,
+      "identifier": "poltchageist",
+      "name": {
+        "ja": "チャデス",
+        "en": "Poltchageist"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1013,
+      "identifier": "sinistcha",
+      "name": {
+        "ja": "ヤバソチャ",
+        "en": "Sinistcha"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1014,
+      "identifier": "okidogi",
+      "name": {
+        "ja": "イイネイヌ",
+        "en": "Okidogi"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1015,
+      "identifier": "munkidori",
+      "name": {
+        "ja": "マシマシラ",
+        "en": "Munkidori"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1016,
+      "identifier": "fezandipiti",
+      "name": {
+        "ja": "キチキギス",
+        "en": "Fezandipiti"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1017,
+      "identifier": "ogerpon",
+      "name": {
+        "ja": "オーガポン",
+        "en": "Ogerpon"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1018,
+      "identifier": "archaludon",
+      "name": {
+        "ja": "ブリジュラス",
+        "en": "Archaludon"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1019,
+      "identifier": "hydrapple",
+      "name": {
+        "ja": "カミツオロチ",
+        "en": "Hydrapple"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1020,
+      "identifier": "gouging-fire",
+      "name": {
+        "ja": "ウガツホムラ",
+        "en": "Gouging Fire"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1021,
+      "identifier": "raging-bolt",
+      "name": {
+        "ja": "タケルライコ",
+        "en": "Raging Bolt"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1022,
+      "identifier": "iron-boulder",
+      "name": {
+        "ja": "テツノイワオ",
+        "en": "Iron Boulder"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1023,
+      "identifier": "iron-crown",
+      "name": {
+        "ja": "テツノカシラ",
+        "en": "Iron Crown"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1024,
+      "identifier": "terapagos",
+      "name": {
+        "ja": "テラパゴス",
+        "en": "Terapagos"
+      },
+      "generation": 9
+    },
+    {
+      "id": 1025,
+      "identifier": "pecharunt",
+      "name": {
+        "ja": "モモワロウ",
+        "en": "Pecharunt"
+      },
+      "generation": 9
+    }
+  ],
+  "total": 1025
+}

@@ -1,0 +1,18 @@
+{
+  "id": 388,
+  "identifier": "worry-seed",
+  "name": {
+    "ja": "なやみのタネ",
+    "en": "Worry Seed"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "心を　なやませる　タネを植えつける。　相手を　眠れなくして特性を　ふみんに　する。",
+    "en": "A seed that causes worry is planted on the target. It prevents sleep by making the target's Ability Insomnia."
+  }
+}

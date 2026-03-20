@@ -1,0 +1,18 @@
+{
+  "id": 797,
+  "identifier": "expanding-force",
+  "name": {
+    "ja": "ワイドフォース",
+    "en": "Expanding Force"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "サイコパワーで　相手を　攻撃する。サイコフィールドの時　威力が　あがりすべての　相手に　ダメージを　与える。",
+    "en": "The user attacks the target with its psychic power. When the ground is Psychic Terrain, this move's power is boosted and it damages all opposing Pokémon."
+  }
+}

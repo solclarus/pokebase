@@ -1,0 +1,104 @@
+{
+  "pokemon_id": 172,
+  "costumes": [
+    {
+      "costume_id": "0172-ash",
+      "identifier": "pichu-ash",
+      "name": {
+        "ja": "ピチュー（サトシ）",
+        "en": "Pichu (Ash)"
+      },
+      "event": "June 6, 2017",
+      "available_from": "2017-06-06",
+      "available_until": null
+    },
+    {
+      "costume_id": "0172-witch",
+      "identifier": "pichu-witch",
+      "name": {
+        "ja": "ピチュー（魔女）",
+        "en": "Pichu (Witch)"
+      },
+      "event": "October 20, 2017",
+      "available_from": "2017-10-20",
+      "available_until": null
+    },
+    {
+      "costume_id": "0172-festive",
+      "identifier": "pichu-festive",
+      "name": {
+        "ja": "ピチュー（フェスティブ）",
+        "en": "Pichu (Festive)"
+      },
+      "event": "December 21, 2017",
+      "available_from": "2017-12-21",
+      "available_until": null
+    },
+    {
+      "costume_id": "0172-party",
+      "identifier": "pichu-party",
+      "name": {
+        "ja": "ピチュー（パーティー）",
+        "en": "Pichu (Party)"
+      },
+      "event": "February 26, 2018",
+      "available_from": "2018-02-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0172-summer",
+      "identifier": "pichu-summer",
+      "name": {
+        "ja": "ピチュー（サマー）",
+        "en": "Pichu (Summer)"
+      },
+      "event": "July 5, 2018",
+      "available_from": "2018-07-05",
+      "available_until": null
+    },
+    {
+      "costume_id": "0172-winter",
+      "identifier": "pichu-winter",
+      "name": {
+        "ja": "ピチュー（ウィンター）",
+        "en": "Pichu (Winter)"
+      },
+      "event": "December 24, 2019",
+      "available_from": "2019-12-24",
+      "available_until": null
+    },
+    {
+      "costume_id": "0172-flower",
+      "identifier": "pichu-flower",
+      "name": {
+        "ja": "ピチュー（はなかんむり）",
+        "en": "Pichu (Flower)"
+      },
+      "event": "April 9, 2020",
+      "available_from": "2020-04-09",
+      "available_until": null
+    },
+    {
+      "costume_id": "0172-new_year",
+      "identifier": "pichu-new-year",
+      "name": {
+        "ja": "ピチュー（お正月）",
+        "en": "Pichu (New Year)"
+      },
+      "event": "December 31, 2020",
+      "available_from": "2020-12-31",
+      "available_until": null
+    },
+    {
+      "costume_id": "0172-spring2023",
+      "identifier": "pichu-spring2023",
+      "name": {
+        "ja": "ピチュー（スプリング（2023））",
+        "en": "Pichu (Spring2023)"
+      },
+      "event": "April 4, 2023",
+      "available_from": "2023-04-04",
+      "available_until": null
+    }
+  ]
+}

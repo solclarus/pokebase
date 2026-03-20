@@ -1,0 +1,18 @@
+{
+  "id": 895,
+  "identifier": "aqua-cutter",
+  "name": {
+    "ja": "アクアカッター",
+    "en": "Aqua Cutter"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user expels pressurized water to cut at the target like a blade. This move has a heightened chance of landing a critical hit."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 139,
+  "identifier": "poison-gas",
+  "name": {
+    "ja": "どくガス",
+    "en": "Poison Gas"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": 90,
+  "pp": 40,
+  "generation": 1,
+  "description": {
+    "ja": "毒ガスを　相手の　顔に　吹きかけて毒の　状態に　する。",
+    "en": "A cloud of poison gas is sprayed in the faces of opposing Pokémon, poisoning those it hits."
+  }
+}

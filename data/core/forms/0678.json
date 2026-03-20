@@ -1,0 +1,79 @@
+{
+  "pokemon_id": 678,
+  "forms": [
+    {
+      "id": "male",
+      "order": 0,
+      "name": {
+        "ja": "ニャオニクス",
+        "en": "Meowstic"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 74,
+        "attack": 48,
+        "defense": 76,
+        "sp_attack": 83,
+        "sp_defense": 81,
+        "speed": 104
+      },
+      "ability_ids": [
+        51,
+        151
+      ],
+      "hidden_ability_id": 158
+    },
+    {
+      "id": "female",
+      "order": 1,
+      "name": {
+        "ja": "メスのすがた",
+        "en": "Female"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 74,
+        "attack": 48,
+        "defense": 76,
+        "sp_attack": 83,
+        "sp_defense": 81,
+        "speed": 104
+      },
+      "ability_ids": [
+        51,
+        151
+      ],
+      "hidden_ability_id": 172
+    },
+    {
+      "id": "mega",
+      "order": 2,
+      "name": {
+        "ja": "メガニャオニクス",
+        "en": "Mega Meowstic"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 74,
+        "attack": 48,
+        "defense": 76,
+        "sp_attack": 143,
+        "sp_defense": 101,
+        "speed": 124
+      },
+      "ability_ids": []
+    }
+  ]
+}

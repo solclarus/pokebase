@@ -1,0 +1,18 @@
+{
+  "id": 782,
+  "identifier": "behemoth-bash",
+  "name": {
+    "ja": "きょじゅうだん",
+    "en": "Behemoth Bash"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "巨大な　盾となり　ぶつかる。相手が　ダイマックス　しているとダメージは　２倍に　なる。",
+    "en": "The user becomes a gigantic shield and slams into the target. This move deals twice the damage if the target is Dynamaxed."
+  }
+}

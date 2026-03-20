@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { LocalizedNameSchema } from "./pokemon";
+import { LocalizedNameSchema } from "@/types/pokemon";
 
 export const CostumeSchema = z.object({
   costume_id: z.string(),

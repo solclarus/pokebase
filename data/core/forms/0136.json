@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 136,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ブースター",
+        "en": "Flareon"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 60,
+        "sp_attack": 95,
+        "sp_defense": 110,
+        "speed": 65
+      },
+      "ability_ids": [
+        18
+      ],
+      "hidden_ability_id": 62
+    }
+  ]
+}

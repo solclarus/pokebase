@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 483,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ディアルガ",
+        "en": "Dialga"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 120,
+        "defense": 120,
+        "sp_attack": 150,
+        "sp_defense": 100,
+        "speed": 90
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 140
+    },
+    {
+      "id": "origin",
+      "order": 1,
+      "name": {
+        "ja": "オリジンフォルム",
+        "en": "Origin Forme"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 100,
+        "defense": 120,
+        "sp_attack": 150,
+        "sp_defense": 120,
+        "speed": 90
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

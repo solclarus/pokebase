@@ -1,0 +1,13 @@
+{
+  "id": 221,
+  "identifier": "tackle",
+  "name": {
+    "ja": "たいあたり",
+    "en": "Tackle"
+  },
+  "type": "normal",
+  "move_type": "fast",
+  "power": 5,
+  "energy_delta": 5,
+  "duration_ms": 500
+}

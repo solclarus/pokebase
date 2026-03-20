@@ -1,0 +1,13 @@
+{
+  "id": 276,
+  "identifier": "rocky-payload",
+  "name": {
+    "ja": "いわはこび",
+    "en": "Rocky Payload"
+  },
+  "description": {
+    "ja": "いわタイプの技の威力が上がる。",
+    "en": "Powers up Rock-type moves."
+  },
+  "generation": 9
+}

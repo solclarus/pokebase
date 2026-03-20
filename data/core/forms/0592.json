@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 592,
+  "forms": [
+    {
+      "id": "male",
+      "order": 0,
+      "name": {
+        "ja": "プルリル",
+        "en": "Frillish"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "water",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 40,
+        "defense": 50,
+        "sp_attack": 65,
+        "sp_defense": 85,
+        "speed": 40
+      },
+      "ability_ids": [
+        11,
+        130
+      ],
+      "hidden_ability_id": 6
+    }
+  ]
+}

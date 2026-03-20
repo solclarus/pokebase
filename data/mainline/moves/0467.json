@@ -1,0 +1,18 @@
+{
+  "id": 467,
+  "identifier": "shadow-force",
+  "name": {
+    "ja": "シャドーダイブ",
+    "en": "Shadow Force"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "１ターン目で　姿を　消して２ターン目に　相手を　攻撃する。守っていても　攻撃は　当たる。",
+    "en": "The user disappears on the first turn, then attacks on the next turn. This move hits even if the target protects itself."
+  }
+}

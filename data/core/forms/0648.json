@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 648,
+  "forms": [
+    {
+      "id": "aria",
+      "order": 0,
+      "name": {
+        "ja": "メロエッタ",
+        "en": "Meloetta"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 77,
+        "defense": 77,
+        "sp_attack": 128,
+        "sp_defense": 128,
+        "speed": 90
+      },
+      "ability_ids": [
+        32
+      ]
+    },
+    {
+      "id": "pirouette",
+      "order": 1,
+      "name": {
+        "ja": "ステップフォルム",
+        "en": "Pirouette Forme"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 128,
+        "defense": 90,
+        "sp_attack": 77,
+        "sp_defense": 77,
+        "speed": 128
+      },
+      "ability_ids": [
+        32
+      ]
+    }
+  ]
+}

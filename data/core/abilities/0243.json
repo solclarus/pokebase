@@ -1,0 +1,13 @@
+{
+  "id": 243,
+  "identifier": "steam-engine",
+  "name": {
+    "ja": "じょうききかん",
+    "en": "Steam Engine"
+  },
+  "description": {
+    "ja": "みずタイプ　ほのおタイプの技を　受けると素早さが　ぐぐーんと　上がる。",
+    "en": "Boosts the Speed stat drastically when the Pokémon is hit by a Fire- or Water-type move."
+  },
+  "generation": 8
+}

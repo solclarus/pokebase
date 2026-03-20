@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 664,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コフキムシ",
+        "en": "Scatterbug"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 38,
+        "attack": 35,
+        "defense": 40,
+        "sp_attack": 27,
+        "sp_defense": 25,
+        "speed": 35
+      },
+      "ability_ids": [
+        19,
+        14
+      ],
+      "hidden_ability_id": 132
+    }
+  ]
+}

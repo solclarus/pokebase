@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 835,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ワンパチ",
+        "en": "Yamper"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 59,
+        "attack": 45,
+        "defense": 50,
+        "sp_attack": 40,
+        "sp_defense": 50,
+        "speed": 26
+      },
+      "ability_ids": [
+        237
+      ],
+      "hidden_ability_id": 155
+    }
+  ]
+}

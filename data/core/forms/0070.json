@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 70,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウツドン",
+        "en": "Weepinbell"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 50,
+        "sp_attack": 85,
+        "sp_defense": 45,
+        "speed": 55
+      },
+      "ability_ids": [
+        34
+      ],
+      "hidden_ability_id": 82
+    }
+  ]
+}

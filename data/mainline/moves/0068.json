@@ -1,0 +1,18 @@
+{
+  "id": 68,
+  "identifier": "counter",
+  "name": {
+    "ja": "カウンター",
+    "en": "Counter"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "相手から　受けた　物理攻撃のダメージを　２倍に　して同じ　相手に　返す。",
+    "en": "A retaliatory attack that counters any physical move, inflicting double the damage taken."
+  }
+}

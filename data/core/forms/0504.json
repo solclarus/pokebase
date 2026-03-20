@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 504,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ミネズミ",
+        "en": "Patrat"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 55,
+        "defense": 39,
+        "sp_attack": 35,
+        "sp_defense": 39,
+        "speed": 42
+      },
+      "ability_ids": [
+        50,
+        51
+      ],
+      "hidden_ability_id": 148
+    }
+  ]
+}

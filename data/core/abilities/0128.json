@@ -1,0 +1,13 @@
+{
+  "id": 128,
+  "identifier": "defiant",
+  "name": {
+    "ja": "まけんき",
+    "en": "Defiant"
+  },
+  "description": {
+    "ja": "能力を　下げられると攻撃が　ぐーんと　上がる。",
+    "en": "If the Pokémon has any stat lowered by an opposing Pokémon, its Attack stat will be boosted sharply."
+  },
+  "generation": 5
+}

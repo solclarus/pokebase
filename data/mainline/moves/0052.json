@@ -1,0 +1,18 @@
+{
+  "id": 52,
+  "identifier": "ember",
+  "name": {
+    "ja": "ひのこ",
+    "en": "Ember"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 25,
+  "generation": 1,
+  "description": {
+    "ja": "小さな　炎を相手に　発射して　攻撃する。やけど状態に　することが　ある。",
+    "en": "The target is attacked with small flames. This may also leave the target with a burn."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 291,
+  "identifier": "cud-chew",
+  "name": {
+    "ja": "はんすう",
+    "en": "Cud Chew"
+  },
+  "description": {
+    "ja": "きのみを食べると次のターンの終わりに胃から出してもう1回だけ食べる。",
+    "en": "When the Pokémon eats a Berry, it will regurgitate that Berry at the end of the next turn and eat it one more time."
+  },
+  "generation": 9
+}

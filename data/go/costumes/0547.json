@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 547,
+  "costumes": [
+    {
+      "costume_id": "0547-flower",
+      "identifier": "whimsicott-flower",
+      "name": {
+        "ja": "エルフーン（はなかんむり）",
+        "en": "Whimsicott (Flower)"
+      },
+      "event": "March 21, 2024",
+      "available_from": "2024-03-21",
+      "available_until": null
+    }
+  ]
+}

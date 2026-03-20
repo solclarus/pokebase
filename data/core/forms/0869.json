@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 869,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マホイップ",
+        "en": "Alcremie"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 75,
+        "sp_attack": 110,
+        "sp_defense": 121,
+        "speed": 64
+      },
+      "ability_ids": [
+        175
+      ],
+      "hidden_ability_id": 165
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスマホイップ",
+        "en": "Gigantamax Alcremie"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 60,
+        "defense": 75,
+        "sp_attack": 110,
+        "sp_defense": 121,
+        "speed": 64
+      },
+      "ability_ids": [
+        175
+      ],
+      "hidden_ability_id": 165
+    }
+  ]
+}

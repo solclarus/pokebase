@@ -1,0 +1,18 @@
+{
+  "id": 309,
+  "identifier": "meteor-mash",
+  "name": {
+    "ja": "コメットパンチ",
+    "en": "Meteor Mash"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "すい星の　ごとく　パンチを　くりだして相手を　攻撃する。　自分の攻撃が　あがることが　ある。",
+    "en": "The target is hit with a hard punch fired like a meteor. This may also boost the user’s Attack stat."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 74,
+  "identifier": "pure-power",
+  "name": {
+    "ja": "ヨガパワー",
+    "en": "Pure Power"
+  },
+  "description": {
+    "ja": "ヨガの　力で物理攻撃の　威力が２倍に　なる。",
+    "en": "Using its pure power, the Pokémon doubles its Attack stat."
+  },
+  "generation": 3
+}

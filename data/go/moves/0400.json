@@ -1,0 +1,13 @@
+{
+  "id": 400,
+  "identifier": "darkest-lariat",
+  "name": {
+    "ja": "ＤＤラリアット",
+    "en": "Darkest Lariat"
+  },
+  "type": "dark",
+  "move_type": "charged",
+  "power": 80,
+  "energy_delta": -50,
+  "duration_ms": 2000
+}

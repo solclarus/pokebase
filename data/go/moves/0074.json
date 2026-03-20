@@ -1,0 +1,13 @@
+{
+  "id": 74,
+  "identifier": "iron-head",
+  "name": {
+    "ja": "アイアンヘッド",
+    "en": "Iron Head"
+  },
+  "type": "steel",
+  "move_type": "charged",
+  "power": 60,
+  "energy_delta": -50,
+  "duration_ms": 2000
+}

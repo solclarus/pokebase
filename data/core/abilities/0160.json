@@ -1,0 +1,13 @@
+{
+  "id": 160,
+  "identifier": "iron-barbs",
+  "name": {
+    "ja": "てつのトゲ",
+    "en": "Iron Barbs"
+  },
+  "description": {
+    "ja": "自分に　触った　相手に鉄のトゲで　ダメージを　あたえる。",
+    "en": "Inflicts damage on the attacker upon contact with iron barbs."
+  },
+  "generation": 5
+}

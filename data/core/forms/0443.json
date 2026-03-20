@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 443,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "フカマル",
+        "en": "Gible"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "stats": {
+        "hp": 58,
+        "attack": 70,
+        "defense": 45,
+        "sp_attack": 40,
+        "sp_defense": 45,
+        "speed": 42
+      },
+      "ability_ids": [
+        8
+      ],
+      "hidden_ability_id": 24
+    }
+  ]
+}

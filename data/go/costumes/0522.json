@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 522,
+  "costumes": [
+    {
+      "costume_id": "0522-collar",
+      "identifier": "blitzle-collar",
+      "name": {
+        "ja": "シママ（カラー）",
+        "en": "Blitzle (Collar)"
+      },
+      "event": "September 21, 2021",
+      "available_from": "2021-09-21",
+      "available_until": null
+    }
+  ]
+}

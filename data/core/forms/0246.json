@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 246,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヨーギラス",
+        "en": "Larvitar"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 64,
+        "defense": 50,
+        "sp_attack": 45,
+        "sp_defense": 50,
+        "speed": 41
+      },
+      "ability_ids": [
+        62
+      ],
+      "hidden_ability_id": 8
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 141,
+  "identifier": "moody",
+  "name": {
+    "ja": "ムラっけ",
+    "en": "Moody"
+  },
+  "description": {
+    "ja": "毎ターン　能力の　どれかがぐーんと　上がって　どれかが　下がる。",
+    "en": "Every turn, one of the Pokémon's stats will be boosted sharply but another stat will be lowered."
+  },
+  "generation": 5
+}

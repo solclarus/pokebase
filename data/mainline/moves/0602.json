@@ -1,0 +1,18 @@
+{
+  "id": 602,
+  "identifier": "magnetic-flux",
+  "name": {
+    "ja": "じばそうさ",
+    "en": "Magnetic Flux"
+  },
+  "type": "electric",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "磁場を　操作　することによって特性　プラスと　マイナスの防御　特防が　あがる。",
+    "en": "The user manipulates magnetic fields, which boosts the Defense and Sp. Def stats of ally Pokémon with the Plus Ability or the Minus Ability."
+  }
+}

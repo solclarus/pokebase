@@ -1,0 +1,18 @@
+{
+  "id": 753,
+  "identifier": "octolock",
+  "name": {
+    "ja": "たこがため",
+    "en": "Octolock"
+  },
+  "type": "fighting",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 8,
+  "description": {
+    "ja": "相手を　逃げられなくする。かためられた　相手は　毎ターン防御と　特防が　下がる。",
+    "en": "The user locks the target in and prevents it from fleeing. This move also lowers the target’s Defense and Sp. Def every turn."
+  }
+}

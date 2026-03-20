@@ -1,0 +1,13 @@
+{
+  "id": 42,
+  "identifier": "magnet-pull",
+  "name": {
+    "ja": "じりょく",
+    "en": "Magnet Pull"
+  },
+  "description": {
+    "ja": "はがねタイプの　ポケモンを磁力で　引きつけて逃げられなくする。",
+    "en": "Prevents Steel-type Pokémon from fleeing by pulling them in with magnetism."
+  },
+  "generation": 3
+}

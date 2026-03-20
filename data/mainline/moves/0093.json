@@ -1,0 +1,18 @@
+{
+  "id": 93,
+  "identifier": "confusion",
+  "name": {
+    "ja": "ねんりき",
+    "en": "Confusion"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 25,
+  "generation": 1,
+  "description": {
+    "ja": "弱い　念力を相手に　送って　攻撃する。相手を　混乱させることが　ある。",
+    "en": "The target is hit with a weak telekinetic force to inflict damage. This may also confuse the target."
+  }
+}

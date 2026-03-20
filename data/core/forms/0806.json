@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 806,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ズガドーン",
+        "en": "Blacephalon"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "fire",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 53,
+        "attack": 127,
+        "defense": 53,
+        "sp_attack": 151,
+        "sp_defense": 79,
+        "speed": 107
+      },
+      "ability_ids": [
+        224
+      ]
+    }
+  ]
+}

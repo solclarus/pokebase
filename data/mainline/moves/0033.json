@@ -1,0 +1,18 @@
+{
+  "id": 33,
+  "identifier": "tackle",
+  "name": {
+    "ja": "たいあたり",
+    "en": "Tackle"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 35,
+  "generation": 1,
+  "description": {
+    "ja": "相手に　むかって　全身でぶつかっていき　攻撃する。",
+    "en": "A physical attack in which the user charges and slams into the target with its whole body."
+  }
+}

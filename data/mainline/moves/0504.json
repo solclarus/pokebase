@@ -1,0 +1,18 @@
+{
+  "id": 504,
+  "identifier": "shell-smash",
+  "name": {
+    "ja": "からをやぶる",
+    "en": "Shell Smash"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "殻を　やぶって　自分の　防御特防を　さげるが　攻撃　特攻素早さを　ぐーんと　あげる。",
+    "en": "The user breaks its shell, which lowers its Defense and Sp. Def stats but sharply boosts its Attack, Sp. Atk, and Speed stats."
+  }
+}

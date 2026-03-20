@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 290,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ツチニン",
+        "en": "Nincada"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "stats": {
+        "hp": 31,
+        "attack": 45,
+        "defense": 90,
+        "sp_attack": 30,
+        "sp_defense": 30,
+        "speed": 40
+      },
+      "ability_ids": [
+        14
+      ],
+      "hidden_ability_id": 50
+    }
+  ]
+}

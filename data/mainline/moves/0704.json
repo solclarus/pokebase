@@ -1,0 +1,18 @@
+{
+  "id": 704,
+  "identifier": "shell-trap",
+  "name": {
+    "ja": "トラップシェル",
+    "en": "Shell Trap"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 7,
+  "description": {
+    "ja": "こうらの　トラップを　しかける。相手が　物理技を　出すと爆発して　ダメージを　与える。",
+    "en": "The user sets a shell trap. If the user is hit by a physical move, the trap will explode and inflict damage on opposing Pokémon."
+  }
+}

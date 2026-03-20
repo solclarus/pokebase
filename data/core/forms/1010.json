@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1010,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テツノイサハ",
+        "en": "Iron Leaves"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "grass",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 130,
+        "defense": 88,
+        "sp_attack": 70,
+        "sp_defense": 108,
+        "speed": 104
+      },
+      "ability_ids": [
+        282
+      ]
+    }
+  ]
+}

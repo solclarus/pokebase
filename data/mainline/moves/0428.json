@@ -1,0 +1,18 @@
+{
+  "id": 428,
+  "identifier": "zen-headbutt",
+  "name": {
+    "ja": "しねんのずつき",
+    "en": "Zen Headbutt"
+  },
+  "type": "psychic",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 90,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "思念の　力を額に　集めて　攻撃する。相手を　ひるませることが　ある。",
+    "en": "The user focuses its willpower to its head and attacks the target. This may also make the target flinch."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 165,
+  "identifier": "aroma-veil",
+  "name": {
+    "ja": "アロマベール",
+    "en": "Aroma Veil"
+  },
+  "description": {
+    "ja": "自分と　味方への　メンタル攻撃を　防ぐことが　できる。",
+    "en": "Protects the Pokémon and its allies from effects that prevent the use of moves."
+  },
+  "generation": 6
+}

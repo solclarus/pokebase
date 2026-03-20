@@ -1,0 +1,18 @@
+{
+  "id": 212,
+  "identifier": "mean-look",
+  "name": {
+    "ja": "くろいまなざし",
+    "en": "Mean Look"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "吸いこまれるような　黒い　まなざしでじっと　みつめて　相手を戦闘から　逃げられなくする。",
+    "en": "The user pins the target with a dark, arresting look. The target becomes unable to flee."
+  }
+}

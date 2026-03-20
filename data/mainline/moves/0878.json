@@ -1,0 +1,18 @@
+{
+  "id": 878,
+  "identifier": "collision-course",
+  "name": {
+    "ja": "アクセルブレイク",
+    "en": "Collision Course"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user transforms and crashes to the ground, causing a massive prehistoric explosion. This move's power is boosted more than usual if it’s a supereffective hit."
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "pokemon_id": 25,
+  "entries": [
+    {
+      "game_id": "scarlet",
+      "availability_type": "wild",
+      "notes": "南3番エリア"
+    },
+    {
+      "game_id": "violet",
+      "availability_type": "wild",
+      "notes": "南3番エリア"
+    },
+    {
+      "game_id": "sword",
+      "availability_type": "wild",
+      "notes": "ワイルドエリア"
+    },
+    {
+      "game_id": "shield",
+      "availability_type": "wild",
+      "notes": "ワイルドエリア"
+    }
+  ]
+}

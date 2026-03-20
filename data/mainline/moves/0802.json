@@ -1,0 +1,18 @@
+{
+  "id": 802,
+  "identifier": "misty-explosion",
+  "name": {
+    "ja": "ミストバースト",
+    "en": "Misty Explosion"
+  },
+  "type": "fairy",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "自分の　周りに　いる　すべてを攻撃するが　使うと　瀕死になる。ミストフィールドで　威力が　あがる。",
+    "en": "The user attacks everything around it and faints upon using this move. This move's power is boosted on Misty Terrain."
+  }
+}

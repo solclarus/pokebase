@@ -1,0 +1,13 @@
+{
+  "id": 289,
+  "identifier": "origin-pulse",
+  "name": {
+    "ja": "こんげんのはどう",
+    "en": "Origin Pulse"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 120,
+  "energy_delta": -100,
+  "duration_ms": 1500
+}

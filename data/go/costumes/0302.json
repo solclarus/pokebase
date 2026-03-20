@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 302,
+  "costumes": [
+    {
+      "costume_id": "0302-halloween",
+      "identifier": "sableye-halloween",
+      "name": {
+        "ja": "ヤミラミ（ハロウィン）",
+        "en": "Sableye (Halloween)"
+      },
+      "event": "October 23, 2020",
+      "available_from": "2020-10-23",
+      "available_until": null
+    }
+  ]
+}

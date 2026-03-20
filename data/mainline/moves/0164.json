@@ -1,0 +1,18 @@
+{
+  "id": 164,
+  "identifier": "substitute",
+  "name": {
+    "ja": "みがわり",
+    "en": "Substitute"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "自分の　ＨＰを　少し　削って分身を　だす。分身は　自分の　身代わりに　なる。",
+    "en": "The user creates a substitute for itself using some of its own HP. The substitute serves as the user's decoy."
+  }
+}

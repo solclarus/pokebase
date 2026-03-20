@@ -1,0 +1,18 @@
+{
+  "id": 111,
+  "identifier": "defense-curl",
+  "name": {
+    "ja": "まるくなる",
+    "en": "Defense Curl"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "generation": 1,
+  "description": {
+    "ja": "体を　まるめて　ちぢこまり自分の　防御を　あげる。",
+    "en": "The user curls up and boosts its Defense stat."
+  }
+}

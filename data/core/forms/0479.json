@@ -1,0 +1,155 @@
+{
+  "pokemon_id": 479,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ロトム",
+        "en": "Rotom"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "electric",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 77,
+        "sp_attack": 95,
+        "sp_defense": 77,
+        "speed": 91
+      },
+      "ability_ids": [
+        26
+      ]
+    },
+    {
+      "id": "heat",
+      "order": 1,
+      "name": {
+        "ja": "ヒートロトム",
+        "en": "Heat Rotom"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "electric",
+        "fire"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "sp_attack": 105,
+        "sp_defense": 107,
+        "speed": 86
+      },
+      "ability_ids": [
+        26
+      ]
+    },
+    {
+      "id": "wash",
+      "order": 2,
+      "name": {
+        "ja": "ウォッシュロトム",
+        "en": "Wash Rotom"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "electric",
+        "water"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "sp_attack": 105,
+        "sp_defense": 107,
+        "speed": 86
+      },
+      "ability_ids": [
+        26
+      ]
+    },
+    {
+      "id": "frost",
+      "order": 3,
+      "name": {
+        "ja": "フロストロトム",
+        "en": "Frost Rotom"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "electric",
+        "ice"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "sp_attack": 105,
+        "sp_defense": 107,
+        "speed": 86
+      },
+      "ability_ids": [
+        26
+      ]
+    },
+    {
+      "id": "fan",
+      "order": 4,
+      "name": {
+        "ja": "スピンロトム",
+        "en": "Fan Rotom"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "electric",
+        "flying"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "sp_attack": 105,
+        "sp_defense": 107,
+        "speed": 86
+      },
+      "ability_ids": [
+        26
+      ]
+    },
+    {
+      "id": "mow",
+      "order": 5,
+      "name": {
+        "ja": "カットロトム",
+        "en": "Mow Rotom"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "electric",
+        "grass"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 107,
+        "sp_attack": 105,
+        "sp_defense": 107,
+        "speed": 86
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

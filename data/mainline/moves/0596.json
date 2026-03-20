@@ -1,0 +1,18 @@
+{
+  "id": 596,
+  "identifier": "spiky-shield",
+  "name": {
+    "ja": "ニードルガード",
+    "en": "Spiky Shield"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "相手の　攻撃を　防ぐと同時に　触れた　相手の体力を　削って　しまう。",
+    "en": "In addition to protecting the user from attacks, this move also damages any attacker that makes direct contact."
+  }
+}

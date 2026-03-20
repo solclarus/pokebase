@@ -1,0 +1,18 @@
+{
+  "id": 251,
+  "identifier": "beat-up",
+  "name": {
+    "ja": "ふくろだたき",
+    "en": "Beat Up"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "味方　全員で　攻撃する。仲間の　ポケモンが　多いほど技の　攻撃回数が　増える。",
+    "en": "The user gets all party Pokémon to attack the target. The more party Pokémon, the greater the number of attacks."
+  }
+}

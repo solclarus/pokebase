@@ -1,0 +1,18 @@
+{
+  "id": 123,
+  "identifier": "smog",
+  "name": {
+    "ja": "スモッグ",
+    "en": "Smog"
+  },
+  "type": "poison",
+  "category": "special",
+  "power": 30,
+  "accuracy": 70,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "汚れた　ガスを相手に　吹きつけて　攻撃する。毒状態に　することが　ある。",
+    "en": "The target is attacked with a discharge of filthy gases. This may also poison the target."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 22,
+  "identifier": "intimidate",
+  "name": {
+    "ja": "いかく",
+    "en": "Intimidate"
+  },
+  "description": {
+    "ja": "登場　したとき　威嚇して相手を　萎縮させ相手の　攻撃を　下げて　しまう。",
+    "en": "When the Pokémon enters a battle, it intimidates opposing Pokémon and makes them cower, lowering their Attack stats."
+  },
+  "generation": 3
+}

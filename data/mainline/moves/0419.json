@@ -1,0 +1,18 @@
+{
+  "id": 419,
+  "identifier": "avalanche",
+  "name": {
+    "ja": "ゆきなだれ",
+    "en": "Avalanche"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "相手から　技を　受けているとその　相手に　対して技の　威力が　２倍に　なる。",
+    "en": "This move's power is doubled if the target has inflicted damage on the user in the same turn."
+  }
+}

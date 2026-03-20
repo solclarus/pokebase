@@ -1,0 +1,13 @@
+{
+  "id": 134,
+  "identifier": "heavy-metal",
+  "name": {
+    "ja": "ヘヴィメタル",
+    "en": "Heavy Metal"
+  },
+  "description": {
+    "ja": "自分の　重さが２倍に　なる。",
+    "en": "Doubles the Pokémon's weight."
+  },
+  "generation": 5
+}

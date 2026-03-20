@@ -1,0 +1,18 @@
+{
+  "id": 560,
+  "identifier": "flying-press",
+  "name": {
+    "ja": "フライングプレス",
+    "en": "Flying Press"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "空中から　相手に　ダイブする。この技は　かくとうタイプと　同時にひこうタイプでも　ある。",
+    "en": "The user dives down onto the target from the sky. This move is Fighting and Flying type simultaneously."
+  }
+}

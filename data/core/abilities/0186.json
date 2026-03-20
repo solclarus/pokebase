@@ -1,0 +1,13 @@
+{
+  "id": 186,
+  "identifier": "dark-aura",
+  "name": {
+    "ja": "ダークオーラ",
+    "en": "Dark Aura"
+  },
+  "description": {
+    "ja": "全員の　あくタイプの技が　強くなる。",
+    "en": "Powers up each Pokémon’s Dark-type moves."
+  },
+  "generation": 6
+}

@@ -1,0 +1,13 @@
+{
+  "id": 45,
+  "identifier": "sand-stream",
+  "name": {
+    "ja": "すなおこし",
+    "en": "Sand Stream"
+  },
+  "description": {
+    "ja": "登場　したとき天気を　砂あらしにする。",
+    "en": "The Pokémon summons a sandstorm when it enters a battle."
+  },
+  "generation": 3
+}

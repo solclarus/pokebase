@@ -1,0 +1,13 @@
+{
+  "id": 63,
+  "identifier": "rock-tomb",
+  "name": {
+    "ja": "がんせきふうじ",
+    "en": "Rock Tomb"
+  },
+  "type": "rock",
+  "move_type": "charged",
+  "power": 65,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

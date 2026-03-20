@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 206,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ノコッチ",
+        "en": "Dunsparce"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 70,
+        "defense": 70,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 45
+      },
+      "ability_ids": [
+        32,
+        50
+      ],
+      "hidden_ability_id": 155
+    }
+  ]
+}

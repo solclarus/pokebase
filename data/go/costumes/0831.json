@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 831,
+  "costumes": [
+    {
+      "costume_id": "0831-holiday",
+      "identifier": "wooloo-holiday",
+      "name": {
+        "ja": "ウールー（ホリデー）",
+        "en": "Wooloo (Holiday)"
+      },
+      "event": "December 22, 2024",
+      "available_from": "2024-12-22",
+      "available_until": null
+    }
+  ]
+}

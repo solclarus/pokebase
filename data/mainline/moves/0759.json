@@ -1,0 +1,18 @@
+{
+  "id": 759,
+  "identifier": "max-lightning",
+  "name": {
+    "ja": "ダイサンダー",
+    "en": "Max Lightning"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　でんきタイプの　攻撃。５ターンの　間　エレキフィールドにする。",
+    "en": "This is an Electric-type attack Dynamax Pokémon use. The user turns the ground into Electric Terrain for five turns."
+  }
+}

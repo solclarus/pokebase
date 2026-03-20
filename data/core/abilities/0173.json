@@ -1,0 +1,13 @@
+{
+  "id": 173,
+  "identifier": "strong-jaw",
+  "name": {
+    "ja": "がんじょうあご",
+    "en": "Strong Jaw"
+  },
+  "description": {
+    "ja": "あごが　頑丈で噛む　技の　威力が高くなる。",
+    "en": "The Pokémon's strong jaw boosts the power of its biting moves."
+  },
+  "generation": 6
+}

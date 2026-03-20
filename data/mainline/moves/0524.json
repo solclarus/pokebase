@@ -1,0 +1,18 @@
+{
+  "id": 524,
+  "identifier": "frost-breath",
+  "name": {
+    "ja": "こおりのいぶき",
+    "en": "Frost Breath"
+  },
+  "type": "ice",
+  "category": "special",
+  "power": 60,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "冷たい　息を相手に　吹きつけて　攻撃する。必ず　急所に　当たる。",
+    "en": "The user attacks by blowing its cold breath on the target. This move always lands a critical hit."
+  }
+}

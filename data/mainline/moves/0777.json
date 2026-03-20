@@ -1,0 +1,18 @@
+{
+  "id": 777,
+  "identifier": "decorate",
+  "name": {
+    "ja": "デコレーション",
+    "en": "Decorate"
+  },
+  "type": "fairy",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 8,
+  "description": {
+    "ja": "かざりつけを　することで相手の　攻撃と　特攻をぐーんと　上げる。",
+    "en": "The user sharply boosts the target's Attack and Sp. Atk stats by decorating the target."
+  }
+}

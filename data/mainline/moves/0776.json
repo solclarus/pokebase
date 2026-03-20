@@ -1,0 +1,18 @@
+{
+  "id": 776,
+  "identifier": "body-press",
+  "name": {
+    "ja": "ボディプレス",
+    "en": "Body Press"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "体を　ぶつけて　攻撃。防御が　高いほど与える　ダメージが　増える。",
+    "en": "The user attacks by slamming its body into the target. The higher the user's Defense stat, the greater the damage this move deals."
+  }
+}

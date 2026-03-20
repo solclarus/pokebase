@@ -1,0 +1,37 @@
+{
+  "pokemon_id": 642,
+  "forms": [
+    {
+      "form_id": "incarnate",
+      "base_attack": 295,
+      "base_defense": 161,
+      "base_stamina": 188,
+      "fast_move_ids": [
+        263,
+        205
+      ],
+      "charged_move_ids": [
+        279,
+        78,
+        123,
+        77
+      ],
+      "released_at": "2020-03-02",
+      "shiny_released_at": "2021-03-11",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "therian",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2021-03-16",
+      "shiny_released_at": "2022-04-05",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

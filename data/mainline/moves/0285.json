@@ -1,0 +1,18 @@
+{
+  "id": 285,
+  "identifier": "skill-swap",
+  "name": {
+    "ja": "スキルスワップ",
+    "en": "Skill Swap"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "超能力で　自分の　特性と相手の　特性を　入れ替える。",
+    "en": "The user employs its psychic power to exchange Abilities with the target."
+  }
+}

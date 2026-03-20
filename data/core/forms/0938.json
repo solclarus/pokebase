@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 938,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ズピカ",
+        "en": "Tadbulb"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 61,
+        "attack": 31,
+        "defense": 41,
+        "sp_attack": 59,
+        "sp_defense": 35,
+        "speed": 45
+      },
+      "ability_ids": [
+        20,
+        9
+      ],
+      "hidden_ability_id": 6
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 96,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "スリープ",
+        "en": "Drowzee"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 48,
+        "defense": 45,
+        "sp_attack": 43,
+        "sp_defense": 90,
+        "speed": 42
+      },
+      "ability_ids": [
+        15,
+        108
+      ],
+      "hidden_ability_id": 39
+    }
+  ]
+}

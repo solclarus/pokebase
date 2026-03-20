@@ -1,0 +1,18 @@
+{
+  "id": 460,
+  "identifier": "spacial-rend",
+  "name": {
+    "ja": "あくうせつだん",
+    "en": "Spacial Rend"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "周りの　空間ごと　相手を引き裂き　ダメージを　与える。急所に　当たりやすい。",
+    "en": "The user tears the target along with the space around it. This move has a heightened chance of landing a critical hit."
+  }
+}

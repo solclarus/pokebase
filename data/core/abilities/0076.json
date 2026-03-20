@@ -1,0 +1,13 @@
+{
+  "id": 76,
+  "identifier": "air-lock",
+  "name": {
+    "ja": "エアロック",
+    "en": "Air Lock"
+  },
+  "description": {
+    "ja": "あらゆる　天気の　影響が消えて　しまう。",
+    "en": "Eliminates the effects of weather."
+  },
+  "generation": 3
+}

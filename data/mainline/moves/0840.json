@@ -1,0 +1,18 @@
+{
+  "id": 840,
+  "identifier": "esper-wing",
+  "name": {
+    "ja": "オーラウイング",
+    "en": "Esper Wing"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user slashes the target with aura-enriched wings. This also boosts the user's Speed stat. This move has a heightened chance of landing a critical hit."
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 880,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "パッチラゴン",
+        "en": "Dracozolt"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 100,
+        "defense": 90,
+        "sp_attack": 80,
+        "sp_defense": 70,
+        "speed": 75
+      },
+      "ability_ids": [
+        10,
+        55
+      ],
+      "hidden_ability_id": 146
+    }
+  ]
+}

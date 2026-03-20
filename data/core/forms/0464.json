@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 464,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドサイドン",
+        "en": "Rhyperior"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "stats": {
+        "hp": 115,
+        "attack": 140,
+        "defense": 130,
+        "sp_attack": 55,
+        "sp_defense": 55,
+        "speed": 40
+      },
+      "ability_ids": [
+        31,
+        116
+      ],
+      "hidden_ability_id": 120
+    }
+  ]
+}

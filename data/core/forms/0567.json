@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 567,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アーケオス",
+        "en": "Archeops"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 140,
+        "defense": 65,
+        "sp_attack": 112,
+        "sp_defense": 65,
+        "speed": 110
+      },
+      "ability_ids": [
+        129
+      ]
+    }
+  ]
+}

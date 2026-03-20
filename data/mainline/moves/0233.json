@@ -1,0 +1,18 @@
+{
+  "id": 233,
+  "identifier": "vital-throw",
+  "name": {
+    "ja": "あてみなげ",
+    "en": "Vital Throw"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 70,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "相手より　あとに　攻撃する。そのかわり　自分の　攻撃は必ず　命中する。",
+    "en": "The user attacks last. In return, this throw move never misses."
+  }
+}

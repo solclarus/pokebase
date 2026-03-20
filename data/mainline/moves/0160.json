@@ -1,0 +1,18 @@
+{
+  "id": 160,
+  "identifier": "conversion",
+  "name": {
+    "ja": "テクスチャー",
+    "en": "Conversion"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "自分の　タイプをおぼえている　技で　一番　上の技と　同じ　タイプに　する。",
+    "en": "The user changes its type to become the same type as the move at the top of the list of moves it knows."
+  }
+}

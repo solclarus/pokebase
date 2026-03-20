@@ -1,0 +1,13 @@
+{
+  "id": 371,
+  "identifier": "shadow-force",
+  "name": {
+    "ja": "シャドーダイブ",
+    "en": "Shadow Force"
+  },
+  "type": "ghost",
+  "move_type": "charged",
+  "power": 140,
+  "energy_delta": -100,
+  "duration_ms": 2000
+}

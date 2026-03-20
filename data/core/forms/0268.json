@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 268,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マユルド",
+        "en": "Cascoon"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 35,
+        "defense": 55,
+        "sp_attack": 25,
+        "sp_defense": 25,
+        "speed": 15
+      },
+      "ability_ids": [
+        61
+      ]
+    }
+  ]
+}

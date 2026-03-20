@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 656,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ケロマツ",
+        "en": "Froakie"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 41,
+        "attack": 56,
+        "defense": 40,
+        "sp_attack": 62,
+        "sp_defense": 44,
+        "speed": 71
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 168
+    }
+  ]
+}

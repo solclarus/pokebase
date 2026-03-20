@@ -1,0 +1,18 @@
+{
+  "id": 471,
+  "identifier": "power-split",
+  "name": {
+    "ja": "パワーシェア",
+    "en": "Power Split"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "超能力で　自分と　相手の攻撃と　特攻を　たして半分に　わける。",
+    "en": "The user employs its psychic power to average its Attack and Sp. Atk stats with those of the target."
+  }
+}

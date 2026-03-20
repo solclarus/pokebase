@@ -1,0 +1,18 @@
+{
+  "id": 459,
+  "identifier": "roar-of-time",
+  "name": {
+    "ja": "ときのほうこう",
+    "en": "Roar of Time"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 150,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "時間が　ゆがむほどの　力をうちだして　相手を　攻撃する。次の　ターンは　動けなくなる。",
+    "en": "The user blasts the target with power that distorts even time. The user can't move on the next turn."
+  }
+}

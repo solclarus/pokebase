@@ -1,0 +1,18 @@
+{
+  "id": 206,
+  "identifier": "false-swipe",
+  "name": {
+    "ja": "みねうち",
+    "en": "False Swipe"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 40,
+  "generation": 2,
+  "description": {
+    "ja": "相手の　ＨＰが必ず　１だけ　残るように手加減して　攻撃する。",
+    "en": "A restrained attack that prevents the target from fainting. The target is left with at least 1 HP."
+  }
+}

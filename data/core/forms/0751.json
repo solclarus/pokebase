@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 751,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "シズクモ",
+        "en": "Dewpider"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "water",
+        "bug"
+      ],
+      "stats": {
+        "hp": 38,
+        "attack": 40,
+        "defense": 52,
+        "sp_attack": 40,
+        "sp_defense": 72,
+        "speed": 27
+      },
+      "ability_ids": [
+        199
+      ],
+      "hidden_ability_id": 11
+    }
+  ]
+}

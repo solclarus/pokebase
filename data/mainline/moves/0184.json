@@ -1,0 +1,18 @@
+{
+  "id": 184,
+  "identifier": "scary-face",
+  "name": {
+    "ja": "こわいかお",
+    "en": "Scary Face"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "恐ろしい　顔で　にらみ　おびえさせて相手の　素早さを　がくっと　さげる。",
+    "en": "The user frightens the target with a scary face to harshly lower its Speed stat."
+  }
+}

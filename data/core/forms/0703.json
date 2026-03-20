@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 703,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メレシー",
+        "en": "Carbink"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "rock",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 150,
+        "sp_attack": 50,
+        "sp_defense": 150,
+        "speed": 50
+      },
+      "ability_ids": [
+        29
+      ],
+      "hidden_ability_id": 5
+    }
+  ]
+}

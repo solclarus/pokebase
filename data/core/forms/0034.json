@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 34,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ニドキング",
+        "en": "Nidoking"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison",
+        "ground"
+      ],
+      "stats": {
+        "hp": 81,
+        "attack": 102,
+        "defense": 77,
+        "sp_attack": 85,
+        "sp_defense": 75,
+        "speed": 85
+      },
+      "ability_ids": [
+        38,
+        79
+      ],
+      "hidden_ability_id": 125
+    }
+  ]
+}

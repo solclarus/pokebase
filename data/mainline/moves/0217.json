@@ -1,0 +1,18 @@
+{
+  "id": 217,
+  "identifier": "present",
+  "name": {
+    "ja": "プレゼント",
+    "en": "Present"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": null,
+  "accuracy": 90,
+  "pp": 15,
+  "generation": 2,
+  "description": {
+    "ja": "わなを　しかけた　箱を相手に　わたして　攻撃する。ＨＰが回復して　しまうことも　ある。",
+    "en": "The user attacks by giving the target a gift with a hidden trap. The gift restores HP sometimes, however."
+  }
+}

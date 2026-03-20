@@ -1,0 +1,10 @@
+{
+  "id": 101,
+  "identifier": "electrode",
+  "name": {
+    "ja": "マルマイン",
+    "en": "Electrode"
+  },
+  "generation": 1,
+  "category": "normal"
+}

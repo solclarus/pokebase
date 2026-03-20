@@ -1,0 +1,13 @@
+{
+  "id": 85,
+  "identifier": "heatproof",
+  "name": {
+    "ja": "たいねつ",
+    "en": "Heatproof"
+  },
+  "description": {
+    "ja": "耐熱の　体に　よってほのおタイプの　技の威力を　半減させる。",
+    "en": "The Pokémon's heatproof body halves the damage taken from Fire-type moves."
+  },
+  "generation": 4
+}

@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 481,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エムリット",
+        "en": "Mesprit"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 105,
+        "defense": 105,
+        "sp_attack": 105,
+        "sp_defense": 105,
+        "speed": 80
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "pokemon_id": 6,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "リザードン",
+        "en": "Charizard"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "sp_attack": 109,
+        "sp_defense": 85,
+        "speed": 100
+      },
+      "ability_ids": [
+        66
+      ],
+      "hidden_ability_id": 94
+    },
+    {
+      "id": "mega-x",
+      "order": 1,
+      "name": {
+        "ja": "メガリザードンX",
+        "en": "Mega Charizard X"
+      },
+      "form_type": "mega",
+      "region": "kanto",
+      "types": [
+        "fire",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 130,
+        "defense": 111,
+        "sp_attack": 130,
+        "sp_defense": 85,
+        "speed": 100
+      },
+      "ability_ids": [
+        153
+      ]
+    },
+    {
+      "id": "mega-y",
+      "order": 2,
+      "name": {
+        "ja": "メガリザードンY",
+        "en": "Mega Charizard Y"
+      },
+      "form_type": "mega",
+      "region": "kanto",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 104,
+        "defense": 78,
+        "sp_attack": 159,
+        "sp_defense": 115,
+        "speed": 100
+      },
+      "ability_ids": [
+        70
+      ]
+    },
+    {
+      "id": "gigantamax",
+      "order": 3,
+      "name": {
+        "ja": "キョダイマックスリザードン",
+        "en": "Gigantamax Charizard"
+      },
+      "form_type": "gigantamax",
+      "region": "kanto",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "sp_attack": 109,
+        "sp_defense": 85,
+        "speed": 100
+      },
+      "ability_ids": [
+        66
+      ],
+      "hidden_ability_id": 94
+    }
+  ]
+}

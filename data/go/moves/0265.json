@@ -1,0 +1,13 @@
+{
+  "id": 265,
+  "identifier": "night-shade",
+  "name": {
+    "ja": "ナイトヘッド",
+    "en": "Night Shade"
+  },
+  "type": "ghost",
+  "move_type": "charged",
+  "power": 60,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

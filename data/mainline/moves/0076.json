@@ -1,0 +1,18 @@
+{
+  "id": 76,
+  "identifier": "solar-beam",
+  "name": {
+    "ja": "ソーラービーム",
+    "en": "Solar Beam"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "１ターン目に　光を　いっぱいに　集め２ターン目に　光の　束を発射して　攻撃する。",
+    "en": "The user gathers light on the first turn, then blasts a bundled beam on the next turn."
+  }
+}

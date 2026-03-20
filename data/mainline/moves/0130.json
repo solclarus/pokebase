@@ -1,0 +1,18 @@
+{
+  "id": 130,
+  "identifier": "skull-bash",
+  "name": {
+    "ja": "ロケットずつき",
+    "en": "Skull Bash"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "１ターン目に　頭を　ひっこめて防御を　あげる。２ターン目に　相手を　攻撃する。",
+    "en": "The user tucks in its head to raise its Defense stat on the first turn, then rams the target on the next turn."
+  }
+}

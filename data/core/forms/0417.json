@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 417,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "パチリス",
+        "en": "Pachirisu"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 45,
+        "defense": 70,
+        "sp_attack": 45,
+        "sp_defense": 90,
+        "speed": 95
+      },
+      "ability_ids": [
+        50,
+        53
+      ],
+      "hidden_ability_id": 10
+    }
+  ]
+}

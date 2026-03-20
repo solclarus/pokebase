@@ -1,0 +1,18 @@
+{
+  "id": 221,
+  "identifier": "sacred-fire",
+  "name": {
+    "ja": "せいなるほのお",
+    "en": "Sacred Fire"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "神秘の　炎で相手を　焼きつくして　攻撃する。やけど状態に　することが　ある。",
+    "en": "The target is razed with a mystical fire of great intensity. This may also leave the target with a burn."
+  }
+}

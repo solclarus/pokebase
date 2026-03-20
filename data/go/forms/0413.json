@@ -1,0 +1,48 @@
+{
+  "pokemon_id": 413,
+  "forms": [
+    {
+      "form_id": "plant",
+      "base_attack": 127,
+      "base_defense": 175,
+      "base_stamina": 155,
+      "fast_move_ids": [
+        235,
+        201
+      ],
+      "charged_move_ids": [
+        30,
+        273,
+        49
+      ],
+      "released_at": "2019-05-17",
+      "shiny_released_at": "2019-12-05",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "sandy",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2019-05-17",
+      "shiny_released_at": "2019-12-05",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "trash",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2019-05-17",
+      "shiny_released_at": "2019-12-05",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

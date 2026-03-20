@@ -1,0 +1,18 @@
+{
+  "id": 260,
+  "identifier": "flatter",
+  "name": {
+    "ja": "おだてる",
+    "en": "Flatter"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "相手を　おだてて　混乱させる。同時に　相手の　特攻もあげてしまう。",
+    "en": "Flattery is used to confuse the target. However, this also boosts the target's Sp. Atk stat."
+  }
+}

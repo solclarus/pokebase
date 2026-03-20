@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 390,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヒコザル",
+        "en": "Chimchar"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 58,
+        "defense": 44,
+        "sp_attack": 58,
+        "sp_defense": 44,
+        "speed": 61
+      },
+      "ability_ids": [
+        66
+      ],
+      "hidden_ability_id": 89
+    }
+  ]
+}

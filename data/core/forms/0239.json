@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 239,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エレキッド",
+        "en": "Elekid"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 63,
+        "defense": 37,
+        "sp_attack": 65,
+        "sp_defense": 55,
+        "speed": 95
+      },
+      "ability_ids": [
+        9
+      ],
+      "hidden_ability_id": 72
+    }
+  ]
+}

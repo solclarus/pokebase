@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 510,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レパルダス",
+        "en": "Liepard"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 64,
+        "attack": 88,
+        "defense": 50,
+        "sp_attack": 88,
+        "sp_defense": 50,
+        "speed": 106
+      },
+      "ability_ids": [
+        7,
+        84
+      ],
+      "hidden_ability_id": 158
+    }
+  ]
+}

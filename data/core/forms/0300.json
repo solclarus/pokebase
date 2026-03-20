@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 300,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エネコ",
+        "en": "Skitty"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 45,
+        "defense": 45,
+        "sp_attack": 35,
+        "sp_defense": 35,
+        "speed": 50
+      },
+      "ability_ids": [
+        56,
+        96
+      ],
+      "hidden_ability_id": 147
+    }
+  ]
+}

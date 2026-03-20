@@ -1,0 +1,18 @@
+{
+  "id": 313,
+  "identifier": "fake-tears",
+  "name": {
+    "ja": "うそなき",
+    "en": "Fake Tears"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "ないた　ふりをして　涙を　流す。こまらせる　ことで相手の　特防を　がくっと　さげる。",
+    "en": "The user feigns crying to fluster the target. This harshly lowers the target's Sp. Def stat."
+  }
+}

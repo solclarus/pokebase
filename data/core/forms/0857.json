@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 857,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テブリム",
+        "en": "Hattrem"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 57,
+        "attack": 40,
+        "defense": 65,
+        "sp_attack": 86,
+        "sp_defense": 73,
+        "speed": 49
+      },
+      "ability_ids": [
+        131,
+        107
+      ],
+      "hidden_ability_id": 156
+    }
+  ]
+}

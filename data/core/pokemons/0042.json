@@ -1,0 +1,10 @@
+{
+  "id": 42,
+  "identifier": "golbat",
+  "name": {
+    "ja": "ゴルバット",
+    "en": "Golbat"
+  },
+  "generation": 1,
+  "category": "normal"
+}

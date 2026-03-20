@@ -1,0 +1,101 @@
+{
+  "pokemon_id": 351,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ポワルン",
+        "en": "Castform"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 70,
+        "sp_attack": 70,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "ability_ids": [
+        59
+      ]
+    },
+    {
+      "id": "sunny",
+      "order": 1,
+      "name": {
+        "ja": "たいようのすがた",
+        "en": "Sunny Form"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 70,
+        "sp_attack": 70,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "ability_ids": [
+        59
+      ]
+    },
+    {
+      "id": "rainy",
+      "order": 2,
+      "name": {
+        "ja": "あまみずのすがた",
+        "en": "Rainy Form"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 70,
+        "sp_attack": 70,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "ability_ids": [
+        59
+      ]
+    },
+    {
+      "id": "snowy",
+      "order": 3,
+      "name": {
+        "ja": "ゆきぐものすがた",
+        "en": "Snowy Form"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 70,
+        "defense": 70,
+        "sp_attack": 70,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "ability_ids": [
+        59
+      ]
+    }
+  ]
+}

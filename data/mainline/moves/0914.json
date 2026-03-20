@@ -1,0 +1,18 @@
+{
+  "id": 914,
+  "identifier": "alluring-voice",
+  "name": {
+    "ja": "みわくのボイス",
+    "en": "Alluring Voice"
+  },
+  "type": "fairy",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user attacks the target using its angelic voice. This also confuses the target if its stats have been boosted during the turn."
+  }
+}

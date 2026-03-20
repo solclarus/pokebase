@@ -1,0 +1,13 @@
+{
+  "id": 248,
+  "identifier": "ice-face",
+  "name": {
+    "ja": "アイスフェイス",
+    "en": "Ice Face"
+  },
+  "description": {
+    "ja": "物理攻撃は　頭の　氷がみがわりに　なるが　姿も　変わる。氷は　あられが　降ると　元に戻る。",
+    "en": "The Pokémon's ice head can take a physical attack as a substitute, but the attack also changes the Pokémon's appearance. The ice will be restored when it snows."
+  },
+  "generation": 8
+}

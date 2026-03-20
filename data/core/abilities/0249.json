@@ -1,0 +1,13 @@
+{
+  "id": 249,
+  "identifier": "power-spot",
+  "name": {
+    "ja": "パワースポット",
+    "en": "Power Spot"
+  },
+  "description": {
+    "ja": "隣に　いるだけで技の　威力が　上がる。",
+    "en": "Just being next to the Pokémon powers up moves."
+  },
+  "generation": 8
+}

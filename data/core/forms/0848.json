@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 848,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エレズン",
+        "en": "Toxel"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 38,
+        "defense": 35,
+        "sp_attack": 54,
+        "sp_defense": 35,
+        "speed": 40
+      },
+      "ability_ids": [
+        155,
+        9
+      ],
+      "hidden_ability_id": 103
+    }
+  ]
+}

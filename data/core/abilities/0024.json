@@ -1,0 +1,13 @@
+{
+  "id": 24,
+  "identifier": "rough-skin",
+  "name": {
+    "ja": "さめはだ",
+    "en": "Rough Skin"
+  },
+  "description": {
+    "ja": "攻撃を　受けたとき自分に　触れた　相手をざらざらの　肌で　キズつける。",
+    "en": "The Pokémon's rough skin damages attackers that make direct contact with it."
+  },
+  "generation": 3
+}

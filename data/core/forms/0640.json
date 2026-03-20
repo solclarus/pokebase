@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 640,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ビリジオン",
+        "en": "Virizion"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 91,
+        "attack": 90,
+        "defense": 72,
+        "sp_attack": 90,
+        "sp_defense": 129,
+        "speed": 108
+      },
+      "ability_ids": [
+        154
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 74,
+  "identifier": "growth",
+  "name": {
+    "ja": "せいちょう",
+    "en": "Growth"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "体を　一気に大きく　生長させて攻撃と　特攻を　あげる。",
+    "en": "The user's body grows all at once, boosting the Attack and Sp. Atk stats."
+  }
+}

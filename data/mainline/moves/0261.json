@@ -1,0 +1,18 @@
+{
+  "id": 261,
+  "identifier": "will-o-wisp",
+  "name": {
+    "ja": "おにび",
+    "en": "Will-O-Wisp"
+  },
+  "type": "fire",
+  "category": "status",
+  "power": null,
+  "accuracy": 85,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "不気味で　怪しい　炎を　放って相手を　やけどの　状態に　する。",
+    "en": "The user shoots a sinister flame at the target to inflict a burn."
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 288,
+  "costumes": [
+    {
+      "costume_id": "0288-visor",
+      "identifier": "vigoroth-visor",
+      "name": {
+        "ja": "ヤルキモノ（バイザー）",
+        "en": "Vigoroth (Visor)"
+      },
+      "event": "June 7, 2024",
+      "available_from": "2024-06-07",
+      "available_until": null
+    }
+  ]
+}

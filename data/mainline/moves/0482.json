@@ -1,0 +1,18 @@
+{
+  "id": 482,
+  "identifier": "sludge-wave",
+  "name": {
+    "ja": "ヘドロウェーブ",
+    "en": "Sludge Wave"
+  },
+  "type": "poison",
+  "category": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "ヘドロの　波で　自分の周りに　いるものを　攻撃する。毒状態に　することが　ある。",
+    "en": "The user strikes everything around it by swamping the area with a giant sludge wave. This may also poison those it hits."
+  }
+}

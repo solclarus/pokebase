@@ -1,0 +1,18 @@
+{
+  "id": 770,
+  "identifier": "max-rockfall",
+  "name": {
+    "ja": "ダイロック",
+    "en": "Max Rockfall"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　いわタイプの　攻撃。５ターンの　間　砂あらしにする。",
+    "en": "This is a Rock-type attack Dynamax Pokémon use. The user summons a sandstorm lasting five turns."
+  }
+}

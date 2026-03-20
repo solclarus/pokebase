@@ -1,0 +1,13 @@
+{
+  "id": 484,
+  "identifier": "clanging-scales",
+  "name": {
+    "ja": "スケイルノイズ",
+    "en": "Clanging Scales"
+  },
+  "type": "dragon",
+  "move_type": "charged",
+  "power": 120,
+  "energy_delta": -100,
+  "duration_ms": 3300
+}

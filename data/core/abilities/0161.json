@@ -1,0 +1,13 @@
+{
+  "id": 161,
+  "identifier": "zen-mode",
+  "name": {
+    "ja": "ダルマモード",
+    "en": "Zen Mode"
+  },
+  "description": {
+    "ja": "ＨＰが　半分　以下に　なると姿が　変化する。",
+    "en": "Changes the Pokémon’s shape when HP is half or less."
+  },
+  "generation": 5
+}

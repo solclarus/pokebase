@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1006,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テツノブジン",
+        "en": "Iron Valiant"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fairy",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 74,
+        "attack": 130,
+        "defense": 90,
+        "sp_attack": 120,
+        "sp_defense": 60,
+        "speed": 116
+      },
+      "ability_ids": [
+        282
+      ]
+    }
+  ]
+}

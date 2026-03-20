@@ -1,0 +1,18 @@
+{
+  "id": 389,
+  "identifier": "sucker-punch",
+  "name": {
+    "ja": "ふいうち",
+    "en": "Sucker Punch"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "相手より　先に　攻撃　できる。相手が　だす技が攻撃技でないと　失敗する。",
+    "en": "This move enables the user to attack first. This move fails if the target is not readying an attack."
+  }
+}

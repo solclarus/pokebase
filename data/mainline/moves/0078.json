@@ -1,0 +1,18 @@
+{
+  "id": 78,
+  "identifier": "stun-spore",
+  "name": {
+    "ja": "しびれごな",
+    "en": "Stun Spore"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "しびれる　粉をたくさん　ふりまいて相手を　まひ状態に　する。",
+    "en": "The user scatters a cloud of numbing powder that paralyzes the target."
+  }
+}

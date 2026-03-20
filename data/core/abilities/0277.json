@@ -1,0 +1,13 @@
+{
+  "id": 277,
+  "identifier": "wind-power",
+  "name": {
+    "ja": "ふうりょくでんき",
+    "en": "Wind Power"
+  },
+  "description": {
+    "ja": "風技を受けるとじゅうでん状態になる。",
+    "en": "The Pokémon becomes charged when it is hit by a wind move, boosting the power of the next Electric-type move the Pokémon uses."
+  },
+  "generation": 9
+}

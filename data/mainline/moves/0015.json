@@ -1,0 +1,18 @@
+{
+  "id": 15,
+  "identifier": "cut",
+  "name": {
+    "ja": "いあいぎり",
+    "en": "Cut"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 95,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "カマや　ツメなどで相手を　切りつけて　攻撃する。",
+    "en": "The target is cut with a scythe or claw."
+  }
+}

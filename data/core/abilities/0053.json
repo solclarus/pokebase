@@ -1,0 +1,13 @@
+{
+  "id": 53,
+  "identifier": "pickup",
+  "name": {
+    "ja": "ものひろい",
+    "en": "Pickup"
+  },
+  "description": {
+    "ja": "相手の　使った　道具を拾ってくることが　ある。冒険中も　拾ってくる。",
+    "en": "The Pokémon may pick up an item another Pokémon used during a battle. It may pick up items outside of battle, too."
+  },
+  "generation": 3
+}

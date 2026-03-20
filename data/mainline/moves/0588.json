@@ -1,0 +1,18 @@
+{
+  "id": 588,
+  "identifier": "kings-shield",
+  "name": {
+    "ja": "キングシールド",
+    "en": "King’s Shield"
+  },
+  "type": "steel",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "相手の　攻撃を　防ぐと　同時に防御態勢になる。　触れた相手の　攻撃を　さげる。",
+    "en": "The user takes a defensive stance while it protects itself from damage. It also lowers the Attack stat of any attacker that makes direct contact."
+  }
+}

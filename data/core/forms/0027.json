@@ -1,0 +1,56 @@
+{
+  "pokemon_id": 27,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サンド",
+        "en": "Sandshrew"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "ground"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 85,
+        "sp_attack": 20,
+        "sp_defense": 30,
+        "speed": 40
+      },
+      "ability_ids": [
+        8
+      ],
+      "hidden_ability_id": 146
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "サンド（アローラのすがた）",
+        "en": "Alolan Sandshrew"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ice",
+        "steel"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 90,
+        "sp_attack": 10,
+        "sp_defense": 35,
+        "speed": 40
+      },
+      "ability_ids": [
+        81
+      ],
+      "hidden_ability_id": 212
+    }
+  ]
+}

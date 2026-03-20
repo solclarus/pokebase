@@ -1,0 +1,99 @@
+{
+  "pokemon_id": 26,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ライチュウ",
+        "en": "Raichu"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 90,
+        "defense": 55,
+        "sp_attack": 90,
+        "sp_defense": 80,
+        "speed": 110
+      },
+      "ability_ids": [
+        9
+      ],
+      "hidden_ability_id": 31
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "ライチュウ（アローラのすがた）",
+        "en": "Alolan Raichu"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "electric",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 85,
+        "defense": 50,
+        "sp_attack": 95,
+        "sp_defense": 85,
+        "speed": 110
+      },
+      "ability_ids": [
+        207
+      ]
+    },
+    {
+      "id": "mega-x",
+      "order": 2,
+      "name": {
+        "ja": "メガライチュウX",
+        "en": "Mega Raichu X"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 135,
+        "defense": 95,
+        "sp_attack": 90,
+        "sp_defense": 95,
+        "speed": 110
+      },
+      "ability_ids": []
+    },
+    {
+      "id": "mega-y",
+      "order": 3,
+      "name": {
+        "ja": "メガライチュウY",
+        "en": "Mega Raichu Y"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 55,
+        "sp_attack": 160,
+        "sp_defense": 80,
+        "speed": 130
+      },
+      "ability_ids": []
+    }
+  ]
+}

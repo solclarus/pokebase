@@ -1,0 +1,18 @@
+{
+  "id": 379,
+  "identifier": "power-trick",
+  "name": {
+    "ja": "パワートリック",
+    "en": "Power Trick"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "超能力で自分の　攻撃と　防御の力を　交換する。",
+    "en": "The user employs its psychic power to switch its Attack stat with its Defense stat."
+  }
+}

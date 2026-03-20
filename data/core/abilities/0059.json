@@ -1,0 +1,13 @@
+{
+  "id": 59,
+  "identifier": "forecast",
+  "name": {
+    "ja": "てんきや",
+    "en": "Forecast"
+  },
+  "description": {
+    "ja": "天気の　影響を　受けてみずタイプ　ほのおタイプ　こおりタイプのどれかに　変化する。",
+    "en": "The Pokémon transforms with the weather to change its type to Water, Fire, or Ice."
+  },
+  "generation": 3
+}

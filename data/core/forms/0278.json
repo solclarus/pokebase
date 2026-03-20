@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 278,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キャモメ",
+        "en": "Wingull"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "water",
+        "flying"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 30,
+        "defense": 30,
+        "sp_attack": 55,
+        "sp_defense": 30,
+        "speed": 85
+      },
+      "ability_ids": [
+        51,
+        93
+      ],
+      "hidden_ability_id": 44
+    }
+  ]
+}

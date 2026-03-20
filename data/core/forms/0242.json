@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 242,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハピナス",
+        "en": "Blissey"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 255,
+        "attack": 10,
+        "defense": 10,
+        "sp_attack": 75,
+        "sp_defense": 135,
+        "speed": 55
+      },
+      "ability_ids": [
+        30,
+        32
+      ],
+      "hidden_ability_id": 131
+    }
+  ]
+}

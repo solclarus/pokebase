@@ -1,0 +1,18 @@
+{
+  "id": 341,
+  "identifier": "mud-shot",
+  "name": {
+    "ja": "マッドショット",
+    "en": "Mud Shot"
+  },
+  "type": "ground",
+  "category": "special",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "泥の　塊を相手に　投げつけて　攻撃する。同時に　相手の　素早さを　さげる。",
+    "en": "The user attacks by hurling a blob of mud at the target. This also lowers the target's Speed stat."
+  }
+}

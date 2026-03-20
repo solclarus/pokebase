@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 113,
+  "costumes": [
+    {
+      "costume_id": "0113-flower",
+      "identifier": "chansey-flower",
+      "name": {
+        "ja": "ラッキー（はなかんむり）",
+        "en": "Chansey (Flower)"
+      },
+      "event": "April 4, 2021",
+      "available_from": "2021-04-04",
+      "available_until": null
+    }
+  ]
+}

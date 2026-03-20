@@ -1,0 +1,18 @@
+{
+  "id": 664,
+  "identifier": "sparkling-aria",
+  "name": {
+    "ja": "うたかたのアリア",
+    "en": "Sparkling Aria"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "歌うことによって　たくさんのバルーンを　放出する。技を　受けると　やけどが　治る。",
+    "en": "The user bursts into song, emitting many bubbles. Any Pokémon suffering from a burn will be cured by the touch of these bubbles."
+  }
+}

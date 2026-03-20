@@ -1,0 +1,18 @@
+{
+  "id": 536,
+  "identifier": "leaf-tornado",
+  "name": {
+    "ja": "グラスミキサー",
+    "en": "Leaf Tornado"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 65,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "鋭い　はっぱで　相手を包みこんで　攻撃する。命中率を　さげることが　ある。",
+    "en": "The user attacks its target by encircling it in sharp leaves. This attack may also lower the target’s accuracy."
+  }
+}

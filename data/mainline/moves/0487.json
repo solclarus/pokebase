@@ -1,0 +1,18 @@
+{
+  "id": 487,
+  "identifier": "soak",
+  "name": {
+    "ja": "みずびたし",
+    "en": "Soak"
+  },
+  "type": "water",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "たくさんの　水を　浴びせかけて相手を　みずタイプに　する。",
+    "en": "The user shoots a torrent of water that changes the target's type to Water."
+  }
+}

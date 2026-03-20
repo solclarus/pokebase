@@ -1,0 +1,18 @@
+{
+  "id": 484,
+  "identifier": "heavy-slam",
+  "name": {
+    "ja": "ヘビーボンバー",
+    "en": "Heavy Slam"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "重たい　体で　相手に　ぶつかって攻撃する。　自分が　相手より重いほど　威力が　あがる。",
+    "en": "The user slams into the target with its heavy body. The more the user outweighs the target, the greater the move's power."
+  }
+}

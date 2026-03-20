@@ -1,0 +1,37 @@
+{
+  "pokemon_id": 758,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 228,
+      "base_defense": 130,
+      "base_stamina": 169,
+      "fast_move_ids": [
+        346,
+        224
+      ],
+      "charged_move_ids": [
+        50,
+        103,
+        82,
+        91
+      ],
+      "released_at": "2022-04-03",
+      "shiny_released_at": "2025-08-11",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "totem",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 615,
+  "identifier": "thousand-waves",
+  "name": {
+    "ja": "サウザンウェーブ",
+    "en": "Thousand Waves"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "地をはう　波によって　攻撃。波に　巻き込まれた　相手は戦闘から　逃げられなくなる。",
+    "en": "The user attacks with a wave that crawls along the ground. Those it hits can’t flee from battle."
+  }
+}

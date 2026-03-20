@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 713,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "クレベース",
+        "en": "Avalugg"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 117,
+        "defense": 184,
+        "sp_attack": 44,
+        "sp_defense": 46,
+        "speed": 28
+      },
+      "ability_ids": [
+        20,
+        115
+      ],
+      "hidden_ability_id": 5
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ヒスイのすがた",
+        "en": "Hisuian Form"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "ice",
+        "rock"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 127,
+        "defense": 184,
+        "sp_attack": 34,
+        "sp_defense": 36,
+        "speed": 38
+      },
+      "ability_ids": [
+        173,
+        115
+      ],
+      "hidden_ability_id": 5
+    }
+  ]
+}

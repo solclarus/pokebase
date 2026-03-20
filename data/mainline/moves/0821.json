@@ -1,0 +1,18 @@
+{
+  "id": 821,
+  "identifier": "freezing-glare",
+  "name": {
+    "ja": "いてつくしせん",
+    "en": "Freezing Glare"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "両目から　サイコパワーを撃ちだして　攻撃する。こおり状態に　することが　ある。",
+    "en": "The user shoots its psychic power from its eyes to attack. This may also leave the target frozen."
+  }
+}

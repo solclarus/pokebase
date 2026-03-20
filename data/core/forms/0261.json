@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 261,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ポチエナ",
+        "en": "Poochyena"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 35,
+        "sp_attack": 30,
+        "sp_defense": 30,
+        "speed": 35
+      },
+      "ability_ids": [
+        50,
+        95
+      ],
+      "hidden_ability_id": 155
+    }
+  ]
+}

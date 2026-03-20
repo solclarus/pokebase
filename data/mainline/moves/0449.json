@@ -1,0 +1,18 @@
+{
+  "id": 449,
+  "identifier": "judgment",
+  "name": {
+    "ja": "さばきのつぶて",
+    "en": "Judgment"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 100,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "無数の　光弾を　相手に　放出する。自分の　持つ　プレートに　よりタイプが　変わる。",
+    "en": "The user releases countless shots of light at the target. This move's type changes depending on the kind of plate held by the user."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 272,
+  "identifier": "purifying-salt",
+  "name": {
+    "ja": "きよめのしお",
+    "en": "Purifying Salt"
+  },
+  "description": {
+    "ja": "清らかな塩で状態異常にならない。ゴーストタイプの技のダメージを半減させる。",
+    "en": "The Pokémon's pure salt protects it from status conditions and halves the damage taken from Ghost-type moves."
+  },
+  "generation": 9
+}

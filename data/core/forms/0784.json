@@ -1,0 +1,59 @@
+{
+  "pokemon_id": 784,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ジャラランガ",
+        "en": "Kommo-o"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 125,
+        "sp_attack": 100,
+        "sp_defense": 105,
+        "speed": 85
+      },
+      "ability_ids": [
+        171,
+        43
+      ],
+      "hidden_ability_id": 142
+    },
+    {
+      "id": "totem",
+      "order": 1,
+      "name": {
+        "ja": "kommo-o-totem",
+        "en": "Totem Kommo-o"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 125,
+        "sp_attack": 100,
+        "sp_defense": 105,
+        "speed": 85
+      },
+      "ability_ids": [
+        171,
+        43
+      ],
+      "hidden_ability_id": 142
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 470,
+  "identifier": "behemoth-bash",
+  "name": {
+    "ja": "きょじゅうだん",
+    "en": "Behemoth Bash"
+  },
+  "type": "steel",
+  "move_type": "charged",
+  "power": 125,
+  "energy_delta": -50,
+  "duration_ms": 1500
+}

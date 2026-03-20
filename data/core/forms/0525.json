@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 525,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ガントル",
+        "en": "Boldore"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 105,
+        "defense": 105,
+        "sp_attack": 50,
+        "sp_defense": 40,
+        "speed": 20
+      },
+      "ability_ids": [
+        5,
+        133
+      ],
+      "hidden_ability_id": 159
+    }
+  ]
+}

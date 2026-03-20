@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 87,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ジュゴン",
+        "en": "Dewgong"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 70,
+        "defense": 80,
+        "sp_attack": 70,
+        "sp_defense": 95,
+        "speed": 70
+      },
+      "ability_ids": [
+        47,
+        93
+      ],
+      "hidden_ability_id": 115
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 749,
+  "identifier": "tar-shot",
+  "name": {
+    "ja": "タールショット",
+    "en": "Tar Shot"
+  },
+  "type": "rock",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 8,
+  "description": {
+    "ja": "ねばねばの　タールを　浴びせて相手の　素早さを　下げる。相手は　ほのおが　弱点に　なる。",
+    "en": "The user pours sticky tar over the target, lowering the target's Speed stat. The target becomes weaker to Fire-type moves."
+  }
+}

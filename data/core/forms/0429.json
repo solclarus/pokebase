@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 429,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ムウマージ",
+        "en": "Mismagius"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "sp_attack": 105,
+        "sp_defense": 105,
+        "speed": 105
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

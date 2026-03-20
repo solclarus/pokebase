@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 320,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ホエルコ",
+        "en": "Wailmer"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 130,
+        "attack": 70,
+        "defense": 35,
+        "sp_attack": 70,
+        "sp_defense": 35,
+        "speed": 60
+      },
+      "ability_ids": [
+        41,
+        12
+      ],
+      "hidden_ability_id": 46
+    }
+  ]
+}

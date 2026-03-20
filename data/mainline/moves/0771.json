@@ -1,0 +1,18 @@
+{
+  "id": 771,
+  "identifier": "max-quake",
+  "name": {
+    "ja": "ダイアース",
+    "en": "Max Quake"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　じめんタイプの　攻撃。味方の　特防を　上げる。",
+    "en": "This is a Ground-type attack Dynamax Pokémon use. This raises ally Pokémon’s Sp. Def stats."
+  }
+}

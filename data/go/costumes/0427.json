@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 427,
+  "costumes": [
+    {
+      "costume_id": "0427-flower",
+      "identifier": "buneary-flower",
+      "name": {
+        "ja": "ミミロル（はなかんむり）",
+        "en": "Buneary (Flower)"
+      },
+      "event": "April 9, 2020",
+      "available_from": "2020-04-09",
+      "available_until": null
+    }
+  ]
+}

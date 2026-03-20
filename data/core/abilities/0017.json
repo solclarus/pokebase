@@ -1,0 +1,13 @@
+{
+  "id": 17,
+  "identifier": "immunity",
+  "name": {
+    "ja": "めんえき",
+    "en": "Immunity"
+  },
+  "description": {
+    "ja": "体内に　免疫を　持っているためどく状態に　ならない。",
+    "en": "The Pokémon's immune system prevents it from being poisoned."
+  },
+  "generation": 3
+}

@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 170,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "チョンチー",
+        "en": "Chinchou"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water",
+        "electric"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 38,
+        "defense": 38,
+        "sp_attack": 56,
+        "sp_defense": 56,
+        "speed": 67
+      },
+      "ability_ids": [
+        10,
+        35
+      ],
+      "hidden_ability_id": 11
+    }
+  ]
+}

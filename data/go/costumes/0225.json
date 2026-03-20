@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 225,
+  "costumes": [
+    {
+      "costume_id": "0225-holiday",
+      "identifier": "delibird-holiday",
+      "name": {
+        "ja": "デリバード（ホリデー）",
+        "en": "Delibird (Holiday)"
+      },
+      "event": "December 22, 2020",
+      "available_from": "2020-12-22",
+      "available_until": null
+    }
+  ]
+}

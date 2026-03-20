@@ -1,0 +1,13 @@
+{
+  "id": 114,
+  "identifier": "storm-drain",
+  "name": {
+    "ja": "よびみず",
+    "en": "Storm Drain"
+  },
+  "description": {
+    "ja": "みずタイプの　技を　自分に　よせつけダメージは　受けずに　特攻が　上がる。",
+    "en": "The Pokémon draws in all Water-type moves. Instead of taking damage from them, its Sp. Atk stat is boosted."
+  },
+  "generation": 4
+}

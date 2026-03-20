@@ -1,0 +1,18 @@
+{
+  "id": 70,
+  "identifier": "strength",
+  "name": {
+    "ja": "かいりき",
+    "en": "Strength"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "こん身の　力で相手を　なぐりつけて　攻撃する。",
+    "en": "The target is slugged with a punch thrown at maximum power."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 93,
+  "identifier": "hydration",
+  "name": {
+    "ja": "うるおいボディ",
+    "en": "Hydration"
+  },
+  "description": {
+    "ja": "天気が　雨のとき状態異常が　治る。",
+    "en": "Cures the Pokémon's status conditions in rain."
+  },
+  "generation": 4
+}

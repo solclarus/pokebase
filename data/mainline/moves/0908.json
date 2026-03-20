@@ -1,0 +1,18 @@
+{
+  "id": 908,
+  "identifier": "burning-bulwark",
+  "name": {
+    "ja": "かえんのまもり",
+    "en": "Burning Bulwark"
+  },
+  "type": "fire",
+  "category": "status",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user's intensely hot fur protects it from attacks and also burns any attacker that makes direct contact with it."
+  }
+}

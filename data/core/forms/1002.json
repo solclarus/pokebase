@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1002,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "パオジアン",
+        "en": "Chien-Pao"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dark",
+        "ice"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 120,
+        "defense": 80,
+        "sp_attack": 90,
+        "sp_defense": 65,
+        "speed": 135
+      },
+      "ability_ids": [
+        285
+      ]
+    }
+  ]
+}

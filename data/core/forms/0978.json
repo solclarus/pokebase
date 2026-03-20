@@ -1,0 +1,152 @@
+{
+  "pokemon_id": 978,
+  "forms": [
+    {
+      "id": "curly",
+      "order": 0,
+      "name": {
+        "ja": "シャリタツ",
+        "en": "Tatsugiri"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 50,
+        "defense": 60,
+        "sp_attack": 120,
+        "sp_defense": 95,
+        "speed": 82
+      },
+      "ability_ids": [
+        279
+      ],
+      "hidden_ability_id": 114
+    },
+    {
+      "id": "droopy",
+      "order": 1,
+      "name": {
+        "ja": "たれたすがた",
+        "en": "Droopy Form"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 50,
+        "defense": 60,
+        "sp_attack": 120,
+        "sp_defense": 95,
+        "speed": 82
+      },
+      "ability_ids": [
+        279
+      ],
+      "hidden_ability_id": 114
+    },
+    {
+      "id": "stretchy",
+      "order": 2,
+      "name": {
+        "ja": "のびたすがた",
+        "en": "Stretchy Form"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 50,
+        "defense": 60,
+        "sp_attack": 120,
+        "sp_defense": 95,
+        "speed": 82
+      },
+      "ability_ids": [
+        279
+      ],
+      "hidden_ability_id": 114
+    },
+    {
+      "id": "curly-mega",
+      "order": 3,
+      "name": {
+        "ja": "メガシャリタツ",
+        "en": "Mega Tatsugiri"
+      },
+      "form_type": "mega",
+      "region": "paldea",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 65,
+        "defense": 90,
+        "sp_attack": 135,
+        "sp_defense": 125,
+        "speed": 92
+      },
+      "ability_ids": []
+    },
+    {
+      "id": "droopy-mega",
+      "order": 4,
+      "name": {
+        "ja": "メガシャリタツ",
+        "en": "Mega Tatsugiri"
+      },
+      "form_type": "mega",
+      "region": "paldea",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 65,
+        "defense": 90,
+        "sp_attack": 135,
+        "sp_defense": 125,
+        "speed": 92
+      },
+      "ability_ids": []
+    },
+    {
+      "id": "stretchy-mega",
+      "order": 5,
+      "name": {
+        "ja": "メガシャリタツ",
+        "en": "Mega Tatsugiri"
+      },
+      "form_type": "mega",
+      "region": "paldea",
+      "types": [
+        "dragon",
+        "water"
+      ],
+      "stats": {
+        "hp": 68,
+        "attack": 65,
+        "defense": 90,
+        "sp_attack": 135,
+        "sp_defense": 125,
+        "speed": 92
+      },
+      "ability_ids": []
+    }
+  ]
+}

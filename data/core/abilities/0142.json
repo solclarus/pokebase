@@ -1,0 +1,13 @@
+{
+  "id": 142,
+  "identifier": "overcoat",
+  "name": {
+    "ja": "ぼうじん",
+    "en": "Overcoat"
+  },
+  "description": {
+    "ja": "すなあらしや　あられなどのダメージを　受けない。粉の　技を　受けない。",
+    "en": "The Pokémon takes no damage from sandstorms. It is also protected from the effects of powders and spores."
+  },
+  "generation": 5
+}

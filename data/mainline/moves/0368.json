@@ -1,0 +1,18 @@
+{
+  "id": 368,
+  "identifier": "metal-burst",
+  "name": {
+    "ja": "メタルバースト",
+    "en": "Metal Burst"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "技を　だす前に最後に　受けた　技の　ダメージを大きくして　だした　相手に　返す。",
+    "en": "The user retaliates with much greater force against the opponent that last inflicted damage on it."
+  }
+}

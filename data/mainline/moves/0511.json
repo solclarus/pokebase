@@ -1,0 +1,18 @@
+{
+  "id": 511,
+  "identifier": "quash",
+  "name": {
+    "ja": "さきおくり",
+    "en": "Quash"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "相手を　おさえつけて行動の　順番を最後に　する。",
+    "en": "The user suppresses the target and makes its move go last."
+  }
+}

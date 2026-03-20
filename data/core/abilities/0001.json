@@ -1,0 +1,13 @@
+{
+  "id": 1,
+  "identifier": "stench",
+  "name": {
+    "ja": "あくしゅう",
+    "en": "Stench"
+  },
+  "description": {
+    "ja": "臭い　においを　放つことによって攻撃した　ときに　相手をひるませることが　ある。",
+    "en": "By releasing a stench when attacking, the Pokémon may cause the target to flinch."
+  },
+  "generation": 3
+}

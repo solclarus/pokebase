@@ -1,0 +1,13 @@
+{
+  "id": 18,
+  "identifier": "flash-fire",
+  "name": {
+    "ja": "もらいび",
+    "en": "Flash Fire"
+  },
+  "description": {
+    "ja": "ほのおタイプの　技を　受けると炎を　もらい　自分が　出すほのおタイプの　技が　強くなる。",
+    "en": "If hit by a Fire-type move, the Pokémon absorbs the flames and uses them to power up its own Fire-type moves."
+  },
+  "generation": 3
+}

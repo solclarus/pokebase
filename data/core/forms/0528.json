@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 528,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ココロモリ",
+        "en": "Swoobat"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "stats": {
+        "hp": 67,
+        "attack": 57,
+        "defense": 55,
+        "sp_attack": 77,
+        "sp_defense": 55,
+        "speed": 114
+      },
+      "ability_ids": [
+        109,
+        103
+      ],
+      "hidden_ability_id": 86
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 496,
+  "identifier": "round",
+  "name": {
+    "ja": "りんしょう",
+    "en": "Round"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "歌で　相手を　攻撃する。みんなで　輪唱すると　続けてだすことが　でき　威力も　あがる。",
+    "en": "The user attacks the target with a song. If others use this move, they will act immediately after the initial user, and the power of their Rounds will be boosted."
+  }
+}

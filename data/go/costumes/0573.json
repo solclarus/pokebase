@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 573,
+  "costumes": [
+    {
+      "costume_id": "0573-fashionable",
+      "identifier": "cinccino-fashionable",
+      "name": {
+        "ja": "チラチーノ（ファッショナブル）",
+        "en": "Cinccino (Fashionable)"
+      },
+      "event": "January 10, 2025",
+      "available_from": "2025-01-10",
+      "available_until": null
+    }
+  ]
+}

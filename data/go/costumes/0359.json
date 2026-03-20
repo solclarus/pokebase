@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 359,
+  "costumes": [
+    {
+      "costume_id": "0359-sunglasses",
+      "identifier": "absol-sunglasses",
+      "name": {
+        "ja": "アブソル（サングラス）",
+        "en": "Absol (Sunglasses)"
+      },
+      "event": "September 27, 2022",
+      "available_from": "2022-09-27",
+      "available_until": null
+    }
+  ]
+}

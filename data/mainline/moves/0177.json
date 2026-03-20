@@ -1,0 +1,18 @@
+{
+  "id": 177,
+  "identifier": "aeroblast",
+  "name": {
+    "ja": "エアロブラスト",
+    "en": "Aeroblast"
+  },
+  "type": "flying",
+  "category": "special",
+  "power": 100,
+  "accuracy": 95,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "空気の　渦を発射して　攻撃する。急所に　当たりやすい。",
+    "en": "A vortex of air is shot at the target to inflict damage. This move has a heightened chance of landing a critical hit."
+  }
+}

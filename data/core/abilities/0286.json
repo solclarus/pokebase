@@ -1,0 +1,13 @@
+{
+  "id": 286,
+  "identifier": "tablets-of-ruin",
+  "name": {
+    "ja": "わざわいのおふだ",
+    "en": "Tablets of Ruin"
+  },
+  "description": {
+    "ja": "災厄を呼ぶ木札の力で自分以外の攻撃が弱くなる。",
+    "en": "The power of the Pokémon's ruinous wooden tablets lowers the Attack stats of all Pokémon except itself."
+  },
+  "generation": 9
+}

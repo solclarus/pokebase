@@ -1,0 +1,13 @@
+{
+  "id": 254,
+  "identifier": "wandering-spirit",
+  "name": {
+    "ja": "さまようたましい",
+    "en": "Wandering Spirit"
+  },
+  "description": {
+    "ja": "接触する　技で攻撃　してきた　ポケモンと特性を　入れ替える。",
+    "en": "The Pokémon exchanges Abilities with a Pokémon that hits it with a move that makes direct contact."
+  },
+  "generation": 8
+}

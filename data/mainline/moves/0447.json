@@ -1,0 +1,18 @@
+{
+  "id": 447,
+  "identifier": "grass-knot",
+  "name": {
+    "ja": "くさむすび",
+    "en": "Grass Knot"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "草を　からませて　相手を転ばせる。相手が　重いほど威力が　あがる。",
+    "en": "The user snares the target with grass and trips it. The heavier the target, the greater the move's power."
+  }
+}

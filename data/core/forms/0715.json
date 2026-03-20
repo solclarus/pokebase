@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 715,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オンバーン",
+        "en": "Noivern"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 70,
+        "defense": 80,
+        "sp_attack": 97,
+        "sp_defense": 80,
+        "speed": 123
+      },
+      "ability_ids": [
+        119,
+        151
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

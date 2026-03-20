@@ -1,0 +1,13 @@
+{
+  "id": 212,
+  "identifier": "lick",
+  "name": {
+    "ja": "したでなめる",
+    "en": "Lick"
+  },
+  "type": "ghost",
+  "move_type": "fast",
+  "power": 5,
+  "energy_delta": 6,
+  "duration_ms": 500
+}

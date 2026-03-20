@@ -1,0 +1,49 @@
+{
+  "pokemon_id": 700,
+  "costumes": [
+    {
+      "costume_id": "0700-flower",
+      "identifier": "sylveon-flower",
+      "name": {
+        "ja": "ニンフィア（はなかんむり）",
+        "en": "Sylveon (Flower)"
+      },
+      "event": "May 25, 2021",
+      "available_from": "2021-05-25",
+      "available_until": null
+    },
+    {
+      "costume_id": "0700-hat",
+      "identifier": "sylveon-hat",
+      "name": {
+        "ja": "ニンフィア（ぼうし）",
+        "en": "Sylveon (Hat)"
+      },
+      "event": "December 23, 2022",
+      "available_from": "2022-12-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0700-spring2023",
+      "identifier": "sylveon-spring2023",
+      "name": {
+        "ja": "ニンフィア（スプリング（2023））",
+        "en": "Sylveon (Spring2023)"
+      },
+      "event": "April 4, 2023",
+      "available_from": "2023-04-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0700-explorer",
+      "identifier": "sylveon-explorer",
+      "name": {
+        "ja": "ニンフィア（エクスプローラー）",
+        "en": "Sylveon (Explorer)"
+      },
+      "event": "October 7, 2023",
+      "available_from": "2023-10-07",
+      "available_until": null
+    }
+  ]
+}

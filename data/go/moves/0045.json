@@ -1,0 +1,13 @@
+{
+  "id": 45,
+  "identifier": "aerial-ace",
+  "name": {
+    "ja": "つばめがえし",
+    "en": "Aerial Ace"
+  },
+  "type": "flying",
+  "move_type": "charged",
+  "power": 55,
+  "energy_delta": -33,
+  "duration_ms": 2500
+}

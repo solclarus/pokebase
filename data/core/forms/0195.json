@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 195,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヌオー",
+        "en": "Quagsire"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "stats": {
+        "hp": 95,
+        "attack": 85,
+        "defense": 85,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 35
+      },
+      "ability_ids": [
+        6,
+        11
+      ],
+      "hidden_ability_id": 109
+    }
+  ]
+}

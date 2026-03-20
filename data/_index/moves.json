@@ -1,0 +1,8276 @@
+{
+  "moves": [
+    {
+      "id": 1,
+      "identifier": "pound",
+      "name": {
+        "ja": "はたく",
+        "en": "Pound"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 2,
+      "identifier": "karate-chop",
+      "name": {
+        "ja": "からてチョップ",
+        "en": "Karate Chop"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 3,
+      "identifier": "double-slap",
+      "name": {
+        "ja": "おうふくビンタ",
+        "en": "Double Slap"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 4,
+      "identifier": "comet-punch",
+      "name": {
+        "ja": "れんぞくパンチ",
+        "en": "Comet Punch"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 5,
+      "identifier": "mega-punch",
+      "name": {
+        "ja": "メガトンパンチ",
+        "en": "Mega Punch"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 6,
+      "identifier": "pay-day",
+      "name": {
+        "ja": "ネコにこばん",
+        "en": "Pay Day"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 7,
+      "identifier": "fire-punch",
+      "name": {
+        "ja": "ほのおのパンチ",
+        "en": "Fire Punch"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 8,
+      "identifier": "ice-punch",
+      "name": {
+        "ja": "れいとうパンチ",
+        "en": "Ice Punch"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 9,
+      "identifier": "thunder-punch",
+      "name": {
+        "ja": "かみなりパンチ",
+        "en": "Thunder Punch"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 10,
+      "identifier": "scratch",
+      "name": {
+        "ja": "ひっかく",
+        "en": "Scratch"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 11,
+      "identifier": "vice-grip",
+      "name": {
+        "ja": "はさむ",
+        "en": "Vise Grip"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 12,
+      "identifier": "guillotine",
+      "name": {
+        "ja": "ハサミギロチン",
+        "en": "Guillotine"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 13,
+      "identifier": "razor-wind",
+      "name": {
+        "ja": "かまいたち",
+        "en": "Razor Wind"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 14,
+      "identifier": "swords-dance",
+      "name": {
+        "ja": "つるぎのまい",
+        "en": "Swords Dance"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 15,
+      "identifier": "cut",
+      "name": {
+        "ja": "いあいぎり",
+        "en": "Cut"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 16,
+      "identifier": "gust",
+      "name": {
+        "ja": "かぜおこし",
+        "en": "Gust"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 17,
+      "identifier": "wing-attack",
+      "name": {
+        "ja": "つばさでうつ",
+        "en": "Wing Attack"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 18,
+      "identifier": "whirlwind",
+      "name": {
+        "ja": "ふきとばし",
+        "en": "Whirlwind"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 19,
+      "identifier": "fly",
+      "name": {
+        "ja": "そらをとぶ",
+        "en": "Fly"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 20,
+      "identifier": "bind",
+      "name": {
+        "ja": "しめつける",
+        "en": "Bind"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 21,
+      "identifier": "slam",
+      "name": {
+        "ja": "たたきつける",
+        "en": "Slam"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 22,
+      "identifier": "vine-whip",
+      "name": {
+        "ja": "つるのムチ",
+        "en": "Vine Whip"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 23,
+      "identifier": "stomp",
+      "name": {
+        "ja": "ふみつけ",
+        "en": "Stomp"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 24,
+      "identifier": "double-kick",
+      "name": {
+        "ja": "にどげり",
+        "en": "Double Kick"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 25,
+      "identifier": "mega-kick",
+      "name": {
+        "ja": "メガトンキック",
+        "en": "Mega Kick"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 26,
+      "identifier": "jump-kick",
+      "name": {
+        "ja": "とびげり",
+        "en": "Jump Kick"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 27,
+      "identifier": "rolling-kick",
+      "name": {
+        "ja": "まわしげり",
+        "en": "Rolling Kick"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 28,
+      "identifier": "sand-attack",
+      "name": {
+        "ja": "すなかけ",
+        "en": "Sand Attack"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 29,
+      "identifier": "headbutt",
+      "name": {
+        "ja": "ずつき",
+        "en": "Headbutt"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 30,
+      "identifier": "horn-attack",
+      "name": {
+        "ja": "つのでつく",
+        "en": "Horn Attack"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 31,
+      "identifier": "fury-attack",
+      "name": {
+        "ja": "みだれづき",
+        "en": "Fury Attack"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 32,
+      "identifier": "horn-drill",
+      "name": {
+        "ja": "つのドリル",
+        "en": "Horn Drill"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 33,
+      "identifier": "tackle",
+      "name": {
+        "ja": "たいあたり",
+        "en": "Tackle"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 34,
+      "identifier": "body-slam",
+      "name": {
+        "ja": "のしかかり",
+        "en": "Body Slam"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 35,
+      "identifier": "wrap",
+      "name": {
+        "ja": "まきつく",
+        "en": "Wrap"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 36,
+      "identifier": "take-down",
+      "name": {
+        "ja": "とっしん",
+        "en": "Take Down"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 37,
+      "identifier": "thrash",
+      "name": {
+        "ja": "あばれる",
+        "en": "Thrash"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 38,
+      "identifier": "double-edge",
+      "name": {
+        "ja": "すてみタックル",
+        "en": "Double-Edge"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 39,
+      "identifier": "tail-whip",
+      "name": {
+        "ja": "しっぽをふる",
+        "en": "Tail Whip"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 40,
+      "identifier": "poison-sting",
+      "name": {
+        "ja": "どくばり",
+        "en": "Poison Sting"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 41,
+      "identifier": "twineedle",
+      "name": {
+        "ja": "ダブルニードル",
+        "en": "Twineedle"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 42,
+      "identifier": "pin-missile",
+      "name": {
+        "ja": "ミサイルばり",
+        "en": "Pin Missile"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 43,
+      "identifier": "leer",
+      "name": {
+        "ja": "にらみつける",
+        "en": "Leer"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 44,
+      "identifier": "bite",
+      "name": {
+        "ja": "かみつく",
+        "en": "Bite"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 45,
+      "identifier": "growl",
+      "name": {
+        "ja": "なきごえ",
+        "en": "Growl"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 46,
+      "identifier": "roar",
+      "name": {
+        "ja": "ほえる",
+        "en": "Roar"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 47,
+      "identifier": "sing",
+      "name": {
+        "ja": "うたう",
+        "en": "Sing"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 48,
+      "identifier": "supersonic",
+      "name": {
+        "ja": "ちょうおんぱ",
+        "en": "Supersonic"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 49,
+      "identifier": "sonic-boom",
+      "name": {
+        "ja": "ソニックブーム",
+        "en": "Sonic Boom"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 50,
+      "identifier": "disable",
+      "name": {
+        "ja": "かなしばり",
+        "en": "Disable"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 51,
+      "identifier": "acid",
+      "name": {
+        "ja": "ようかいえき",
+        "en": "Acid"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 52,
+      "identifier": "ember",
+      "name": {
+        "ja": "ひのこ",
+        "en": "Ember"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 53,
+      "identifier": "flamethrower",
+      "name": {
+        "ja": "かえんほうしゃ",
+        "en": "Flamethrower"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 54,
+      "identifier": "mist",
+      "name": {
+        "ja": "しろいきり",
+        "en": "Mist"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 55,
+      "identifier": "water-gun",
+      "name": {
+        "ja": "みずでっぽう",
+        "en": "Water Gun"
+      },
+      "type": "water"
+    },
+    {
+      "id": 56,
+      "identifier": "hydro-pump",
+      "name": {
+        "ja": "ハイドロポンプ",
+        "en": "Hydro Pump"
+      },
+      "type": "water"
+    },
+    {
+      "id": 57,
+      "identifier": "surf",
+      "name": {
+        "ja": "なみのり",
+        "en": "Surf"
+      },
+      "type": "water"
+    },
+    {
+      "id": 58,
+      "identifier": "ice-beam",
+      "name": {
+        "ja": "れいとうビーム",
+        "en": "Ice Beam"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 59,
+      "identifier": "blizzard",
+      "name": {
+        "ja": "ふぶき",
+        "en": "Blizzard"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 60,
+      "identifier": "psybeam",
+      "name": {
+        "ja": "サイケこうせん",
+        "en": "Psybeam"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 61,
+      "identifier": "bubble-beam",
+      "name": {
+        "ja": "バブルこうせん",
+        "en": "Bubble Beam"
+      },
+      "type": "water"
+    },
+    {
+      "id": 62,
+      "identifier": "aurora-beam",
+      "name": {
+        "ja": "オーロラビーム",
+        "en": "Aurora Beam"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 63,
+      "identifier": "hyper-beam",
+      "name": {
+        "ja": "はかいこうせん",
+        "en": "Hyper Beam"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 64,
+      "identifier": "peck",
+      "name": {
+        "ja": "つつく",
+        "en": "Peck"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 65,
+      "identifier": "drill-peck",
+      "name": {
+        "ja": "ドリルくちばし",
+        "en": "Drill Peck"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 66,
+      "identifier": "submission",
+      "name": {
+        "ja": "じごくぐるま",
+        "en": "Submission"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 67,
+      "identifier": "low-kick",
+      "name": {
+        "ja": "けたぐり",
+        "en": "Low Kick"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 68,
+      "identifier": "counter",
+      "name": {
+        "ja": "カウンター",
+        "en": "Counter"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 69,
+      "identifier": "seismic-toss",
+      "name": {
+        "ja": "ちきゅうなげ",
+        "en": "Seismic Toss"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 70,
+      "identifier": "strength",
+      "name": {
+        "ja": "かいりき",
+        "en": "Strength"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 71,
+      "identifier": "absorb",
+      "name": {
+        "ja": "すいとる",
+        "en": "Absorb"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 72,
+      "identifier": "mega-drain",
+      "name": {
+        "ja": "メガドレイン",
+        "en": "Mega Drain"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 73,
+      "identifier": "leech-seed",
+      "name": {
+        "ja": "やどりぎのタネ",
+        "en": "Leech Seed"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 74,
+      "identifier": "growth",
+      "name": {
+        "ja": "せいちょう",
+        "en": "Growth"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 75,
+      "identifier": "razor-leaf",
+      "name": {
+        "ja": "はっぱカッター",
+        "en": "Razor Leaf"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 76,
+      "identifier": "solar-beam",
+      "name": {
+        "ja": "ソーラービーム",
+        "en": "Solar Beam"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 77,
+      "identifier": "poison-powder",
+      "name": {
+        "ja": "どくのこな",
+        "en": "Poison Powder"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 78,
+      "identifier": "stun-spore",
+      "name": {
+        "ja": "しびれごな",
+        "en": "Stun Spore"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 79,
+      "identifier": "sleep-powder",
+      "name": {
+        "ja": "ねむりごな",
+        "en": "Sleep Powder"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 80,
+      "identifier": "petal-dance",
+      "name": {
+        "ja": "はなびらのまい",
+        "en": "Petal Dance"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 81,
+      "identifier": "string-shot",
+      "name": {
+        "ja": "いとをはく",
+        "en": "String Shot"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 82,
+      "identifier": "dragon-rage",
+      "name": {
+        "ja": "りゅうのいかり",
+        "en": "Dragon Rage"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 83,
+      "identifier": "fire-spin",
+      "name": {
+        "ja": "ほのおのうず",
+        "en": "Fire Spin"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 84,
+      "identifier": "thunder-shock",
+      "name": {
+        "ja": "でんきショック",
+        "en": "Thunder Shock"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 85,
+      "identifier": "thunderbolt",
+      "name": {
+        "ja": "１０まんボルト",
+        "en": "Thunderbolt"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 86,
+      "identifier": "thunder-wave",
+      "name": {
+        "ja": "でんじは",
+        "en": "Thunder Wave"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 87,
+      "identifier": "thunder",
+      "name": {
+        "ja": "かみなり",
+        "en": "Thunder"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 88,
+      "identifier": "rock-throw",
+      "name": {
+        "ja": "いわおとし",
+        "en": "Rock Throw"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 89,
+      "identifier": "earthquake",
+      "name": {
+        "ja": "じしん",
+        "en": "Earthquake"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 90,
+      "identifier": "fissure",
+      "name": {
+        "ja": "じわれ",
+        "en": "Fissure"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 91,
+      "identifier": "dig",
+      "name": {
+        "ja": "あなをほる",
+        "en": "Dig"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 92,
+      "identifier": "toxic",
+      "name": {
+        "ja": "どくどく",
+        "en": "Toxic"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 93,
+      "identifier": "confusion",
+      "name": {
+        "ja": "ねんりき",
+        "en": "Confusion"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 94,
+      "identifier": "psychic",
+      "name": {
+        "ja": "サイコキネシス",
+        "en": "Psychic"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 95,
+      "identifier": "hypnosis",
+      "name": {
+        "ja": "さいみんじゅつ",
+        "en": "Hypnosis"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 96,
+      "identifier": "meditate",
+      "name": {
+        "ja": "ヨガのポーズ",
+        "en": "Meditate"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 97,
+      "identifier": "agility",
+      "name": {
+        "ja": "こうそくいどう",
+        "en": "Agility"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 98,
+      "identifier": "quick-attack",
+      "name": {
+        "ja": "でんこうせっか",
+        "en": "Quick Attack"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 99,
+      "identifier": "rage",
+      "name": {
+        "ja": "いかり",
+        "en": "Rage"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 100,
+      "identifier": "teleport",
+      "name": {
+        "ja": "テレポート",
+        "en": "Teleport"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 101,
+      "identifier": "night-shade",
+      "name": {
+        "ja": "ナイトヘッド",
+        "en": "Night Shade"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 102,
+      "identifier": "mimic",
+      "name": {
+        "ja": "ものまね",
+        "en": "Mimic"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 103,
+      "identifier": "screech",
+      "name": {
+        "ja": "いやなおと",
+        "en": "Screech"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 104,
+      "identifier": "double-team",
+      "name": {
+        "ja": "かげぶんしん",
+        "en": "Double Team"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 105,
+      "identifier": "recover",
+      "name": {
+        "ja": "じこさいせい",
+        "en": "Recover"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 106,
+      "identifier": "harden",
+      "name": {
+        "ja": "かたくなる",
+        "en": "Harden"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 107,
+      "identifier": "minimize",
+      "name": {
+        "ja": "ちいさくなる",
+        "en": "Minimize"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 108,
+      "identifier": "smokescreen",
+      "name": {
+        "ja": "えんまく",
+        "en": "Smokescreen"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 109,
+      "identifier": "confuse-ray",
+      "name": {
+        "ja": "あやしいひかり",
+        "en": "Confuse Ray"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 110,
+      "identifier": "withdraw",
+      "name": {
+        "ja": "からにこもる",
+        "en": "Withdraw"
+      },
+      "type": "water"
+    },
+    {
+      "id": 111,
+      "identifier": "defense-curl",
+      "name": {
+        "ja": "まるくなる",
+        "en": "Defense Curl"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 112,
+      "identifier": "barrier",
+      "name": {
+        "ja": "バリアー",
+        "en": "Barrier"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 113,
+      "identifier": "light-screen",
+      "name": {
+        "ja": "ひかりのかべ",
+        "en": "Light Screen"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 114,
+      "identifier": "haze",
+      "name": {
+        "ja": "くろいきり",
+        "en": "Haze"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 115,
+      "identifier": "reflect",
+      "name": {
+        "ja": "リフレクター",
+        "en": "Reflect"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 116,
+      "identifier": "focus-energy",
+      "name": {
+        "ja": "きあいだめ",
+        "en": "Focus Energy"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 117,
+      "identifier": "bide",
+      "name": {
+        "ja": "がまん",
+        "en": "Bide"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 118,
+      "identifier": "metronome",
+      "name": {
+        "ja": "ゆびをふる",
+        "en": "Metronome"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 119,
+      "identifier": "mirror-move",
+      "name": {
+        "ja": "オウムがえし",
+        "en": "Mirror Move"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 120,
+      "identifier": "self-destruct",
+      "name": {
+        "ja": "じばく",
+        "en": "Self-Destruct"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 121,
+      "identifier": "egg-bomb",
+      "name": {
+        "ja": "タマゴばくだん",
+        "en": "Egg Bomb"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 122,
+      "identifier": "lick",
+      "name": {
+        "ja": "したでなめる",
+        "en": "Lick"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 123,
+      "identifier": "smog",
+      "name": {
+        "ja": "スモッグ",
+        "en": "Smog"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 124,
+      "identifier": "sludge",
+      "name": {
+        "ja": "ヘドロこうげき",
+        "en": "Sludge"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 125,
+      "identifier": "bone-club",
+      "name": {
+        "ja": "ホネこんぼう",
+        "en": "Bone Club"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 126,
+      "identifier": "fire-blast",
+      "name": {
+        "ja": "だいもんじ",
+        "en": "Fire Blast"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 127,
+      "identifier": "waterfall",
+      "name": {
+        "ja": "たきのぼり",
+        "en": "Waterfall"
+      },
+      "type": "water"
+    },
+    {
+      "id": 128,
+      "identifier": "clamp",
+      "name": {
+        "ja": "からではさむ",
+        "en": "Clamp"
+      },
+      "type": "water"
+    },
+    {
+      "id": 129,
+      "identifier": "swift",
+      "name": {
+        "ja": "スピードスター",
+        "en": "Swift"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 130,
+      "identifier": "skull-bash",
+      "name": {
+        "ja": "ロケットずつき",
+        "en": "Skull Bash"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 131,
+      "identifier": "spike-cannon",
+      "name": {
+        "ja": "とげキャノン",
+        "en": "Spike Cannon"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 132,
+      "identifier": "constrict",
+      "name": {
+        "ja": "からみつく",
+        "en": "Constrict"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 133,
+      "identifier": "amnesia",
+      "name": {
+        "ja": "ドわすれ",
+        "en": "Amnesia"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 134,
+      "identifier": "kinesis",
+      "name": {
+        "ja": "スプーンまげ",
+        "en": "Kinesis"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 135,
+      "identifier": "soft-boiled",
+      "name": {
+        "ja": "タマゴうみ",
+        "en": "Soft-Boiled"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 136,
+      "identifier": "high-jump-kick",
+      "name": {
+        "ja": "とびひざげり",
+        "en": "High Jump Kick"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 137,
+      "identifier": "glare",
+      "name": {
+        "ja": "へびにらみ",
+        "en": "Glare"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 138,
+      "identifier": "dream-eater",
+      "name": {
+        "ja": "ゆめくい",
+        "en": "Dream Eater"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 139,
+      "identifier": "poison-gas",
+      "name": {
+        "ja": "どくガス",
+        "en": "Poison Gas"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 140,
+      "identifier": "barrage",
+      "name": {
+        "ja": "たまなげ",
+        "en": "Barrage"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 141,
+      "identifier": "leech-life",
+      "name": {
+        "ja": "きゅうけつ",
+        "en": "Leech Life"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 142,
+      "identifier": "lovely-kiss",
+      "name": {
+        "ja": "あくまのキッス",
+        "en": "Lovely Kiss"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 143,
+      "identifier": "sky-attack",
+      "name": {
+        "ja": "ゴッドバード",
+        "en": "Sky Attack"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 144,
+      "identifier": "transform",
+      "name": {
+        "ja": "へんしん",
+        "en": "Transform"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 145,
+      "identifier": "bubble",
+      "name": {
+        "ja": "あわ",
+        "en": "Bubble"
+      },
+      "type": "water"
+    },
+    {
+      "id": 146,
+      "identifier": "dizzy-punch",
+      "name": {
+        "ja": "ピヨピヨパンチ",
+        "en": "Dizzy Punch"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 147,
+      "identifier": "spore",
+      "name": {
+        "ja": "キノコのほうし",
+        "en": "Spore"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 148,
+      "identifier": "flash",
+      "name": {
+        "ja": "フラッシュ",
+        "en": "Flash"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 149,
+      "identifier": "psywave",
+      "name": {
+        "ja": "サイコウェーブ",
+        "en": "Psywave"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 150,
+      "identifier": "splash",
+      "name": {
+        "ja": "はねる",
+        "en": "Splash"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 151,
+      "identifier": "acid-armor",
+      "name": {
+        "ja": "とける",
+        "en": "Acid Armor"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 152,
+      "identifier": "crabhammer",
+      "name": {
+        "ja": "クラブハンマー",
+        "en": "Crabhammer"
+      },
+      "type": "water"
+    },
+    {
+      "id": 153,
+      "identifier": "explosion",
+      "name": {
+        "ja": "だいばくはつ",
+        "en": "Explosion"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 154,
+      "identifier": "fury-swipes",
+      "name": {
+        "ja": "みだれひっかき",
+        "en": "Fury Swipes"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 155,
+      "identifier": "bonemerang",
+      "name": {
+        "ja": "ホネブーメラン",
+        "en": "Bonemerang"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 156,
+      "identifier": "rest",
+      "name": {
+        "ja": "ねむる",
+        "en": "Rest"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 157,
+      "identifier": "rock-slide",
+      "name": {
+        "ja": "いわなだれ",
+        "en": "Rock Slide"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 158,
+      "identifier": "hyper-fang",
+      "name": {
+        "ja": "ひっさつまえば",
+        "en": "Hyper Fang"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 159,
+      "identifier": "sharpen",
+      "name": {
+        "ja": "かくばる",
+        "en": "Sharpen"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 160,
+      "identifier": "conversion",
+      "name": {
+        "ja": "テクスチャー",
+        "en": "Conversion"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 161,
+      "identifier": "tri-attack",
+      "name": {
+        "ja": "トライアタック",
+        "en": "Tri Attack"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 162,
+      "identifier": "super-fang",
+      "name": {
+        "ja": "いかりのまえば",
+        "en": "Super Fang"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 163,
+      "identifier": "slash",
+      "name": {
+        "ja": "きりさく",
+        "en": "Slash"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 164,
+      "identifier": "substitute",
+      "name": {
+        "ja": "みがわり",
+        "en": "Substitute"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 165,
+      "identifier": "struggle",
+      "name": {
+        "ja": "わるあがき",
+        "en": "Struggle"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 166,
+      "identifier": "sketch",
+      "name": {
+        "ja": "スケッチ",
+        "en": "Sketch"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 167,
+      "identifier": "triple-kick",
+      "name": {
+        "ja": "トリプルキック",
+        "en": "Triple Kick"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 168,
+      "identifier": "thief",
+      "name": {
+        "ja": "どろぼう",
+        "en": "Thief"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 169,
+      "identifier": "spider-web",
+      "name": {
+        "ja": "クモのす",
+        "en": "Spider Web"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 170,
+      "identifier": "mind-reader",
+      "name": {
+        "ja": "こころのめ",
+        "en": "Mind Reader"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 171,
+      "identifier": "nightmare",
+      "name": {
+        "ja": "あくむ",
+        "en": "Nightmare"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 172,
+      "identifier": "flame-wheel",
+      "name": {
+        "ja": "かえんぐるま",
+        "en": "Flame Wheel"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 173,
+      "identifier": "snore",
+      "name": {
+        "ja": "いびき",
+        "en": "Snore"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 174,
+      "identifier": "curse",
+      "name": {
+        "ja": "のろい",
+        "en": "Curse"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 175,
+      "identifier": "flail",
+      "name": {
+        "ja": "じたばた",
+        "en": "Flail"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 176,
+      "identifier": "conversion-2",
+      "name": {
+        "ja": "テクスチャー２",
+        "en": "Conversion 2"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 177,
+      "identifier": "aeroblast",
+      "name": {
+        "ja": "エアロブラスト",
+        "en": "Aeroblast"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 178,
+      "identifier": "cotton-spore",
+      "name": {
+        "ja": "わたほうし",
+        "en": "Cotton Spore"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 179,
+      "identifier": "reversal",
+      "name": {
+        "ja": "きしかいせい",
+        "en": "Reversal"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 180,
+      "identifier": "spite",
+      "name": {
+        "ja": "うらみ",
+        "en": "Spite"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 181,
+      "identifier": "powder-snow",
+      "name": {
+        "ja": "こなゆき",
+        "en": "Powder Snow"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 182,
+      "identifier": "protect",
+      "name": {
+        "ja": "まもる",
+        "en": "Protect"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 183,
+      "identifier": "mach-punch",
+      "name": {
+        "ja": "マッハパンチ",
+        "en": "Mach Punch"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 184,
+      "identifier": "scary-face",
+      "name": {
+        "ja": "こわいかお",
+        "en": "Scary Face"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 185,
+      "identifier": "feint-attack",
+      "name": {
+        "ja": "だましうち",
+        "en": "Feint Attack"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 186,
+      "identifier": "sweet-kiss",
+      "name": {
+        "ja": "てんしのキッス",
+        "en": "Sweet Kiss"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 187,
+      "identifier": "belly-drum",
+      "name": {
+        "ja": "はらだいこ",
+        "en": "Belly Drum"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 188,
+      "identifier": "sludge-bomb",
+      "name": {
+        "ja": "ヘドロばくだん",
+        "en": "Sludge Bomb"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 189,
+      "identifier": "mud-slap",
+      "name": {
+        "ja": "どろかけ",
+        "en": "Mud-Slap"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 190,
+      "identifier": "octazooka",
+      "name": {
+        "ja": "オクタンほう",
+        "en": "Octazooka"
+      },
+      "type": "water"
+    },
+    {
+      "id": 191,
+      "identifier": "spikes",
+      "name": {
+        "ja": "まきびし",
+        "en": "Spikes"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 192,
+      "identifier": "zap-cannon",
+      "name": {
+        "ja": "でんじほう",
+        "en": "Zap Cannon"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 193,
+      "identifier": "foresight",
+      "name": {
+        "ja": "みやぶる",
+        "en": "Foresight"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 194,
+      "identifier": "destiny-bond",
+      "name": {
+        "ja": "みちづれ",
+        "en": "Destiny Bond"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 195,
+      "identifier": "perish-song",
+      "name": {
+        "ja": "ほろびのうた",
+        "en": "Perish Song"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 196,
+      "identifier": "icy-wind",
+      "name": {
+        "ja": "こごえるかぜ",
+        "en": "Icy Wind"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 197,
+      "identifier": "detect",
+      "name": {
+        "ja": "みきり",
+        "en": "Detect"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 198,
+      "identifier": "bone-rush",
+      "name": {
+        "ja": "ボーンラッシュ",
+        "en": "Bone Rush"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 199,
+      "identifier": "lock-on",
+      "name": {
+        "ja": "ロックオン",
+        "en": "Lock-On"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 200,
+      "identifier": "outrage",
+      "name": {
+        "ja": "げきりん",
+        "en": "Outrage"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 201,
+      "identifier": "sandstorm",
+      "name": {
+        "ja": "すなあらし",
+        "en": "Sandstorm"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 202,
+      "identifier": "giga-drain",
+      "name": {
+        "ja": "ギガドレイン",
+        "en": "Giga Drain"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 203,
+      "identifier": "endure",
+      "name": {
+        "ja": "こらえる",
+        "en": "Endure"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 204,
+      "identifier": "charm",
+      "name": {
+        "ja": "あまえる",
+        "en": "Charm"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 205,
+      "identifier": "rollout",
+      "name": {
+        "ja": "ころがる",
+        "en": "Rollout"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 206,
+      "identifier": "false-swipe",
+      "name": {
+        "ja": "みねうち",
+        "en": "False Swipe"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 207,
+      "identifier": "swagger",
+      "name": {
+        "ja": "いばる",
+        "en": "Swagger"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 208,
+      "identifier": "milk-drink",
+      "name": {
+        "ja": "ミルクのみ",
+        "en": "Milk Drink"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 209,
+      "identifier": "spark",
+      "name": {
+        "ja": "スパーク",
+        "en": "Spark"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 210,
+      "identifier": "fury-cutter",
+      "name": {
+        "ja": "れんぞくぎり",
+        "en": "Fury Cutter"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 211,
+      "identifier": "steel-wing",
+      "name": {
+        "ja": "はがねのつばさ",
+        "en": "Steel Wing"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 212,
+      "identifier": "mean-look",
+      "name": {
+        "ja": "くろいまなざし",
+        "en": "Mean Look"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 213,
+      "identifier": "attract",
+      "name": {
+        "ja": "メロメロ",
+        "en": "Attract"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 214,
+      "identifier": "sleep-talk",
+      "name": {
+        "ja": "ねごと",
+        "en": "Sleep Talk"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 215,
+      "identifier": "heal-bell",
+      "name": {
+        "ja": "いやしのすず",
+        "en": "Heal Bell"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 216,
+      "identifier": "return",
+      "name": {
+        "ja": "おんがえし",
+        "en": "Return"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 217,
+      "identifier": "present",
+      "name": {
+        "ja": "プレゼント",
+        "en": "Present"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 218,
+      "identifier": "frustration",
+      "name": {
+        "ja": "やつあたり",
+        "en": "Frustration"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 219,
+      "identifier": "safeguard",
+      "name": {
+        "ja": "しんぴのまもり",
+        "en": "Safeguard"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 220,
+      "identifier": "pain-split",
+      "name": {
+        "ja": "いたみわけ",
+        "en": "Pain Split"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 221,
+      "identifier": "sacred-fire",
+      "name": {
+        "ja": "せいなるほのお",
+        "en": "Sacred Fire"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 222,
+      "identifier": "magnitude",
+      "name": {
+        "ja": "マグニチュード",
+        "en": "Magnitude"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 223,
+      "identifier": "dynamic-punch",
+      "name": {
+        "ja": "ばくれつパンチ",
+        "en": "Dynamic Punch"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 224,
+      "identifier": "megahorn",
+      "name": {
+        "ja": "メガホーン",
+        "en": "Megahorn"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 225,
+      "identifier": "dragon-breath",
+      "name": {
+        "ja": "りゅうのいぶき",
+        "en": "Dragon Breath"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 226,
+      "identifier": "baton-pass",
+      "name": {
+        "ja": "バトンタッチ",
+        "en": "Baton Pass"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 227,
+      "identifier": "encore",
+      "name": {
+        "ja": "アンコール",
+        "en": "Encore"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 228,
+      "identifier": "pursuit",
+      "name": {
+        "ja": "おいうち",
+        "en": "Pursuit"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 229,
+      "identifier": "rapid-spin",
+      "name": {
+        "ja": "こうそくスピン",
+        "en": "Rapid Spin"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 230,
+      "identifier": "sweet-scent",
+      "name": {
+        "ja": "あまいかおり",
+        "en": "Sweet Scent"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 231,
+      "identifier": "iron-tail",
+      "name": {
+        "ja": "アイアンテール",
+        "en": "Iron Tail"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 232,
+      "identifier": "metal-claw",
+      "name": {
+        "ja": "メタルクロー",
+        "en": "Metal Claw"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 233,
+      "identifier": "vital-throw",
+      "name": {
+        "ja": "あてみなげ",
+        "en": "Vital Throw"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 234,
+      "identifier": "morning-sun",
+      "name": {
+        "ja": "あさのひざし",
+        "en": "Morning Sun"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 235,
+      "identifier": "synthesis",
+      "name": {
+        "ja": "こうごうせい",
+        "en": "Synthesis"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 236,
+      "identifier": "moonlight",
+      "name": {
+        "ja": "つきのひかり",
+        "en": "Moonlight"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 237,
+      "identifier": "hidden-power",
+      "name": {
+        "ja": "めざめるパワー",
+        "en": "Hidden Power"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 238,
+      "identifier": "cross-chop",
+      "name": {
+        "ja": "クロスチョップ",
+        "en": "Cross Chop"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 239,
+      "identifier": "twister",
+      "name": {
+        "ja": "たつまき",
+        "en": "Twister"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 240,
+      "identifier": "rain-dance",
+      "name": {
+        "ja": "あまごい",
+        "en": "Rain Dance"
+      },
+      "type": "water"
+    },
+    {
+      "id": 241,
+      "identifier": "sunny-day",
+      "name": {
+        "ja": "にほんばれ",
+        "en": "Sunny Day"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 242,
+      "identifier": "crunch",
+      "name": {
+        "ja": "かみくだく",
+        "en": "Crunch"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 243,
+      "identifier": "mirror-coat",
+      "name": {
+        "ja": "ミラーコート",
+        "en": "Mirror Coat"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 244,
+      "identifier": "psych-up",
+      "name": {
+        "ja": "じこあんじ",
+        "en": "Psych Up"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 245,
+      "identifier": "extreme-speed",
+      "name": {
+        "ja": "しんそく",
+        "en": "Extreme Speed"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 246,
+      "identifier": "ancient-power",
+      "name": {
+        "ja": "げんしのちから",
+        "en": "Ancient Power"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 247,
+      "identifier": "shadow-ball",
+      "name": {
+        "ja": "シャドーボール",
+        "en": "Shadow Ball"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 248,
+      "identifier": "future-sight",
+      "name": {
+        "ja": "みらいよち",
+        "en": "Future Sight"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 249,
+      "identifier": "rock-smash",
+      "name": {
+        "ja": "いわくだき",
+        "en": "Rock Smash"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 250,
+      "identifier": "whirlpool",
+      "name": {
+        "ja": "うずしお",
+        "en": "Whirlpool"
+      },
+      "type": "water"
+    },
+    {
+      "id": 251,
+      "identifier": "beat-up",
+      "name": {
+        "ja": "ふくろだたき",
+        "en": "Beat Up"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 252,
+      "identifier": "fake-out",
+      "name": {
+        "ja": "ねこだまし",
+        "en": "Fake Out"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 253,
+      "identifier": "uproar",
+      "name": {
+        "ja": "さわぐ",
+        "en": "Uproar"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 254,
+      "identifier": "stockpile",
+      "name": {
+        "ja": "たくわえる",
+        "en": "Stockpile"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 255,
+      "identifier": "spit-up",
+      "name": {
+        "ja": "はきだす",
+        "en": "Spit Up"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 256,
+      "identifier": "swallow",
+      "name": {
+        "ja": "のみこむ",
+        "en": "Swallow"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 257,
+      "identifier": "heat-wave",
+      "name": {
+        "ja": "ねっぷう",
+        "en": "Heat Wave"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 258,
+      "identifier": "hail",
+      "name": {
+        "ja": "あられ",
+        "en": "Hail"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 259,
+      "identifier": "torment",
+      "name": {
+        "ja": "いちゃもん",
+        "en": "Torment"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 260,
+      "identifier": "flatter",
+      "name": {
+        "ja": "おだてる",
+        "en": "Flatter"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 261,
+      "identifier": "will-o-wisp",
+      "name": {
+        "ja": "おにび",
+        "en": "Will-O-Wisp"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 262,
+      "identifier": "memento",
+      "name": {
+        "ja": "おきみやげ",
+        "en": "Memento"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 263,
+      "identifier": "facade",
+      "name": {
+        "ja": "からげんき",
+        "en": "Facade"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 264,
+      "identifier": "focus-punch",
+      "name": {
+        "ja": "きあいパンチ",
+        "en": "Focus Punch"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 265,
+      "identifier": "smelling-salts",
+      "name": {
+        "ja": "きつけ",
+        "en": "Smelling Salts"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 266,
+      "identifier": "follow-me",
+      "name": {
+        "ja": "このゆびとまれ",
+        "en": "Follow Me"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 267,
+      "identifier": "nature-power",
+      "name": {
+        "ja": "しぜんのちから",
+        "en": "Nature Power"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 268,
+      "identifier": "charge",
+      "name": {
+        "ja": "じゅうでん",
+        "en": "Charge"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 269,
+      "identifier": "taunt",
+      "name": {
+        "ja": "ちょうはつ",
+        "en": "Taunt"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 270,
+      "identifier": "helping-hand",
+      "name": {
+        "ja": "てだすけ",
+        "en": "Helping Hand"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 271,
+      "identifier": "trick",
+      "name": {
+        "ja": "トリック",
+        "en": "Trick"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 272,
+      "identifier": "role-play",
+      "name": {
+        "ja": "なりきり",
+        "en": "Role Play"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 273,
+      "identifier": "wish",
+      "name": {
+        "ja": "ねがいごと",
+        "en": "Wish"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 274,
+      "identifier": "assist",
+      "name": {
+        "ja": "ねこのて",
+        "en": "Assist"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 275,
+      "identifier": "ingrain",
+      "name": {
+        "ja": "ねをはる",
+        "en": "Ingrain"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 276,
+      "identifier": "superpower",
+      "name": {
+        "ja": "ばかぢから",
+        "en": "Superpower"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 277,
+      "identifier": "magic-coat",
+      "name": {
+        "ja": "マジックコート",
+        "en": "Magic Coat"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 278,
+      "identifier": "recycle",
+      "name": {
+        "ja": "リサイクル",
+        "en": "Recycle"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 279,
+      "identifier": "revenge",
+      "name": {
+        "ja": "リベンジ",
+        "en": "Revenge"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 280,
+      "identifier": "brick-break",
+      "name": {
+        "ja": "かわらわり",
+        "en": "Brick Break"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 281,
+      "identifier": "yawn",
+      "name": {
+        "ja": "あくび",
+        "en": "Yawn"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 282,
+      "identifier": "knock-off",
+      "name": {
+        "ja": "はたきおとす",
+        "en": "Knock Off"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 283,
+      "identifier": "endeavor",
+      "name": {
+        "ja": "がむしゃら",
+        "en": "Endeavor"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 284,
+      "identifier": "eruption",
+      "name": {
+        "ja": "ふんか",
+        "en": "Eruption"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 285,
+      "identifier": "skill-swap",
+      "name": {
+        "ja": "スキルスワップ",
+        "en": "Skill Swap"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 286,
+      "identifier": "imprison",
+      "name": {
+        "ja": "ふういん",
+        "en": "Imprison"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 287,
+      "identifier": "refresh",
+      "name": {
+        "ja": "リフレッシュ",
+        "en": "Refresh"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 288,
+      "identifier": "grudge",
+      "name": {
+        "ja": "おんねん",
+        "en": "Grudge"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 289,
+      "identifier": "snatch",
+      "name": {
+        "ja": "よこどり",
+        "en": "Snatch"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 290,
+      "identifier": "secret-power",
+      "name": {
+        "ja": "ひみつのちから",
+        "en": "Secret Power"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 291,
+      "identifier": "dive",
+      "name": {
+        "ja": "ダイビング",
+        "en": "Dive"
+      },
+      "type": "water"
+    },
+    {
+      "id": 292,
+      "identifier": "arm-thrust",
+      "name": {
+        "ja": "つっぱり",
+        "en": "Arm Thrust"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 293,
+      "identifier": "camouflage",
+      "name": {
+        "ja": "ほごしょく",
+        "en": "Camouflage"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 294,
+      "identifier": "tail-glow",
+      "name": {
+        "ja": "ほたるび",
+        "en": "Tail Glow"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 295,
+      "identifier": "luster-purge",
+      "name": {
+        "ja": "ラスターパージ",
+        "en": "Luster Purge"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 296,
+      "identifier": "mist-ball",
+      "name": {
+        "ja": "ミストボール",
+        "en": "Mist Ball"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 297,
+      "identifier": "feather-dance",
+      "name": {
+        "ja": "フェザーダンス",
+        "en": "Feather Dance"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 298,
+      "identifier": "teeter-dance",
+      "name": {
+        "ja": "フラフラダンス",
+        "en": "Teeter Dance"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 299,
+      "identifier": "blaze-kick",
+      "name": {
+        "ja": "ブレイズキック",
+        "en": "Blaze Kick"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 300,
+      "identifier": "mud-sport",
+      "name": {
+        "ja": "どろあそび",
+        "en": "Mud Sport"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 301,
+      "identifier": "ice-ball",
+      "name": {
+        "ja": "アイスボール",
+        "en": "Ice Ball"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 302,
+      "identifier": "needle-arm",
+      "name": {
+        "ja": "ニードルアーム",
+        "en": "Needle Arm"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 303,
+      "identifier": "slack-off",
+      "name": {
+        "ja": "なまける",
+        "en": "Slack Off"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 304,
+      "identifier": "hyper-voice",
+      "name": {
+        "ja": "ハイパーボイス",
+        "en": "Hyper Voice"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 305,
+      "identifier": "poison-fang",
+      "name": {
+        "ja": "どくどくのキバ",
+        "en": "Poison Fang"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 306,
+      "identifier": "crush-claw",
+      "name": {
+        "ja": "ブレイククロー",
+        "en": "Crush Claw"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 307,
+      "identifier": "blast-burn",
+      "name": {
+        "ja": "ブラストバーン",
+        "en": "Blast Burn"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 308,
+      "identifier": "hydro-cannon",
+      "name": {
+        "ja": "ハイドロカノン",
+        "en": "Hydro Cannon"
+      },
+      "type": "water"
+    },
+    {
+      "id": 309,
+      "identifier": "meteor-mash",
+      "name": {
+        "ja": "コメットパンチ",
+        "en": "Meteor Mash"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 310,
+      "identifier": "astonish",
+      "name": {
+        "ja": "おどろかす",
+        "en": "Astonish"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 311,
+      "identifier": "weather-ball",
+      "name": {
+        "ja": "ウェザーボール",
+        "en": "Weather Ball"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 312,
+      "identifier": "aromatherapy",
+      "name": {
+        "ja": "アロマセラピー",
+        "en": "Aromatherapy"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 313,
+      "identifier": "fake-tears",
+      "name": {
+        "ja": "うそなき",
+        "en": "Fake Tears"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 314,
+      "identifier": "air-cutter",
+      "name": {
+        "ja": "エアカッター",
+        "en": "Air Cutter"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 315,
+      "identifier": "overheat",
+      "name": {
+        "ja": "オーバーヒート",
+        "en": "Overheat"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 316,
+      "identifier": "odor-sleuth",
+      "name": {
+        "ja": "かぎわける",
+        "en": "Odor Sleuth"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 317,
+      "identifier": "rock-tomb",
+      "name": {
+        "ja": "がんせきふうじ",
+        "en": "Rock Tomb"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 318,
+      "identifier": "silver-wind",
+      "name": {
+        "ja": "ぎんいろのかぜ",
+        "en": "Silver Wind"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 319,
+      "identifier": "metal-sound",
+      "name": {
+        "ja": "きんぞくおん",
+        "en": "Metal Sound"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 320,
+      "identifier": "grass-whistle",
+      "name": {
+        "ja": "くさぶえ",
+        "en": "Grass Whistle"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 321,
+      "identifier": "tickle",
+      "name": {
+        "ja": "くすぐる",
+        "en": "Tickle"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 322,
+      "identifier": "cosmic-power",
+      "name": {
+        "ja": "コスモパワー",
+        "en": "Cosmic Power"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 323,
+      "identifier": "water-spout",
+      "name": {
+        "ja": "しおふき",
+        "en": "Water Spout"
+      },
+      "type": "water"
+    },
+    {
+      "id": 324,
+      "identifier": "signal-beam",
+      "name": {
+        "ja": "シグナルビーム",
+        "en": "Signal Beam"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 325,
+      "identifier": "shadow-punch",
+      "name": {
+        "ja": "シャドーパンチ",
+        "en": "Shadow Punch"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 326,
+      "identifier": "extrasensory",
+      "name": {
+        "ja": "じんつうりき",
+        "en": "Extrasensory"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 327,
+      "identifier": "sky-uppercut",
+      "name": {
+        "ja": "スカイアッパー",
+        "en": "Sky Uppercut"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 328,
+      "identifier": "sand-tomb",
+      "name": {
+        "ja": "すなじごく",
+        "en": "Sand Tomb"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 329,
+      "identifier": "sheer-cold",
+      "name": {
+        "ja": "ぜったいれいど",
+        "en": "Sheer Cold"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 330,
+      "identifier": "muddy-water",
+      "name": {
+        "ja": "だくりゅう",
+        "en": "Muddy Water"
+      },
+      "type": "water"
+    },
+    {
+      "id": 331,
+      "identifier": "bullet-seed",
+      "name": {
+        "ja": "タネマシンガン",
+        "en": "Bullet Seed"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 332,
+      "identifier": "aerial-ace",
+      "name": {
+        "ja": "つばめがえし",
+        "en": "Aerial Ace"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 333,
+      "identifier": "icicle-spear",
+      "name": {
+        "ja": "つららばり",
+        "en": "Icicle Spear"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 334,
+      "identifier": "iron-defense",
+      "name": {
+        "ja": "てっぺき",
+        "en": "Iron Defense"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 335,
+      "identifier": "block",
+      "name": {
+        "ja": "とおせんぼう",
+        "en": "Block"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 336,
+      "identifier": "howl",
+      "name": {
+        "ja": "とおぼえ",
+        "en": "Howl"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 337,
+      "identifier": "dragon-claw",
+      "name": {
+        "ja": "ドラゴンクロー",
+        "en": "Dragon Claw"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 338,
+      "identifier": "frenzy-plant",
+      "name": {
+        "ja": "ハードプラント",
+        "en": "Frenzy Plant"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 339,
+      "identifier": "bulk-up",
+      "name": {
+        "ja": "ビルドアップ",
+        "en": "Bulk Up"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 340,
+      "identifier": "bounce",
+      "name": {
+        "ja": "とびはねる",
+        "en": "Bounce"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 341,
+      "identifier": "mud-shot",
+      "name": {
+        "ja": "マッドショット",
+        "en": "Mud Shot"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 342,
+      "identifier": "poison-tail",
+      "name": {
+        "ja": "ポイズンテール",
+        "en": "Poison Tail"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 343,
+      "identifier": "covet",
+      "name": {
+        "ja": "ほしがる",
+        "en": "Covet"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 344,
+      "identifier": "volt-tackle",
+      "name": {
+        "ja": "ボルテッカー",
+        "en": "Volt Tackle"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 345,
+      "identifier": "magical-leaf",
+      "name": {
+        "ja": "マジカルリーフ",
+        "en": "Magical Leaf"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 346,
+      "identifier": "water-sport",
+      "name": {
+        "ja": "みずあそび",
+        "en": "Water Sport"
+      },
+      "type": "water"
+    },
+    {
+      "id": 347,
+      "identifier": "calm-mind",
+      "name": {
+        "ja": "めいそう",
+        "en": "Calm Mind"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 348,
+      "identifier": "leaf-blade",
+      "name": {
+        "ja": "リーフブレード",
+        "en": "Leaf Blade"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 349,
+      "identifier": "dragon-dance",
+      "name": {
+        "ja": "りゅうのまい",
+        "en": "Dragon Dance"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 350,
+      "identifier": "rock-blast",
+      "name": {
+        "ja": "ロックブラスト",
+        "en": "Rock Blast"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 351,
+      "identifier": "shock-wave",
+      "name": {
+        "ja": "でんげきは",
+        "en": "Shock Wave"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 352,
+      "identifier": "water-pulse",
+      "name": {
+        "ja": "みずのはどう",
+        "en": "Water Pulse"
+      },
+      "type": "water"
+    },
+    {
+      "id": 353,
+      "identifier": "doom-desire",
+      "name": {
+        "ja": "はめつのねがい",
+        "en": "Doom Desire"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 354,
+      "identifier": "psycho-boost",
+      "name": {
+        "ja": "サイコブースト",
+        "en": "Psycho Boost"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 355,
+      "identifier": "roost",
+      "name": {
+        "ja": "はねやすめ",
+        "en": "Roost"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 356,
+      "identifier": "gravity",
+      "name": {
+        "ja": "じゅうりょく",
+        "en": "Gravity"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 357,
+      "identifier": "miracle-eye",
+      "name": {
+        "ja": "ミラクルアイ",
+        "en": "Miracle Eye"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 358,
+      "identifier": "wake-up-slap",
+      "name": {
+        "ja": "めざましビンタ",
+        "en": "Wake-Up Slap"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 359,
+      "identifier": "hammer-arm",
+      "name": {
+        "ja": "アームハンマー",
+        "en": "Hammer Arm"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 360,
+      "identifier": "gyro-ball",
+      "name": {
+        "ja": "ジャイロボール",
+        "en": "Gyro Ball"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 361,
+      "identifier": "healing-wish",
+      "name": {
+        "ja": "いやしのねがい",
+        "en": "Healing Wish"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 362,
+      "identifier": "brine",
+      "name": {
+        "ja": "しおみず",
+        "en": "Brine"
+      },
+      "type": "water"
+    },
+    {
+      "id": 363,
+      "identifier": "natural-gift",
+      "name": {
+        "ja": "しぜんのめぐみ",
+        "en": "Natural Gift"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 364,
+      "identifier": "feint",
+      "name": {
+        "ja": "フェイント",
+        "en": "Feint"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 365,
+      "identifier": "pluck",
+      "name": {
+        "ja": "ついばむ",
+        "en": "Pluck"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 366,
+      "identifier": "tailwind",
+      "name": {
+        "ja": "おいかぜ",
+        "en": "Tailwind"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 367,
+      "identifier": "acupressure",
+      "name": {
+        "ja": "つぼをつく",
+        "en": "Acupressure"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 368,
+      "identifier": "metal-burst",
+      "name": {
+        "ja": "メタルバースト",
+        "en": "Metal Burst"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 369,
+      "identifier": "u-turn",
+      "name": {
+        "ja": "とんぼがえり",
+        "en": "U-turn"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 370,
+      "identifier": "close-combat",
+      "name": {
+        "ja": "インファイト",
+        "en": "Close Combat"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 371,
+      "identifier": "payback",
+      "name": {
+        "ja": "しっぺがえし",
+        "en": "Payback"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 372,
+      "identifier": "assurance",
+      "name": {
+        "ja": "ダメおし",
+        "en": "Assurance"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 373,
+      "identifier": "embargo",
+      "name": {
+        "ja": "さしおさえ",
+        "en": "Embargo"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 374,
+      "identifier": "fling",
+      "name": {
+        "ja": "なげつける",
+        "en": "Fling"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 375,
+      "identifier": "psycho-shift",
+      "name": {
+        "ja": "サイコシフト",
+        "en": "Psycho Shift"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 376,
+      "identifier": "trump-card",
+      "name": {
+        "ja": "きりふだ",
+        "en": "Trump Card"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 377,
+      "identifier": "heal-block",
+      "name": {
+        "ja": "かいふくふうじ",
+        "en": "Heal Block"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 378,
+      "identifier": "wring-out",
+      "name": {
+        "ja": "しぼりとる",
+        "en": "Wring Out"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 379,
+      "identifier": "power-trick",
+      "name": {
+        "ja": "パワートリック",
+        "en": "Power Trick"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 380,
+      "identifier": "gastro-acid",
+      "name": {
+        "ja": "いえき",
+        "en": "Gastro Acid"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 381,
+      "identifier": "lucky-chant",
+      "name": {
+        "ja": "おまじない",
+        "en": "Lucky Chant"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 382,
+      "identifier": "me-first",
+      "name": {
+        "ja": "さきどり",
+        "en": "Me First"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 383,
+      "identifier": "copycat",
+      "name": {
+        "ja": "まねっこ",
+        "en": "Copycat"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 384,
+      "identifier": "power-swap",
+      "name": {
+        "ja": "パワースワップ",
+        "en": "Power Swap"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 385,
+      "identifier": "guard-swap",
+      "name": {
+        "ja": "ガードスワップ",
+        "en": "Guard Swap"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 386,
+      "identifier": "punishment",
+      "name": {
+        "ja": "おしおき",
+        "en": "Punishment"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 387,
+      "identifier": "last-resort",
+      "name": {
+        "ja": "とっておき",
+        "en": "Last Resort"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 388,
+      "identifier": "worry-seed",
+      "name": {
+        "ja": "なやみのタネ",
+        "en": "Worry Seed"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 389,
+      "identifier": "sucker-punch",
+      "name": {
+        "ja": "ふいうち",
+        "en": "Sucker Punch"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 390,
+      "identifier": "toxic-spikes",
+      "name": {
+        "ja": "どくびし",
+        "en": "Toxic Spikes"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 391,
+      "identifier": "heart-swap",
+      "name": {
+        "ja": "ハートスワップ",
+        "en": "Heart Swap"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 392,
+      "identifier": "aqua-ring",
+      "name": {
+        "ja": "アクアリング",
+        "en": "Aqua Ring"
+      },
+      "type": "water"
+    },
+    {
+      "id": 393,
+      "identifier": "magnet-rise",
+      "name": {
+        "ja": "でんじふゆう",
+        "en": "Magnet Rise"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 394,
+      "identifier": "flare-blitz",
+      "name": {
+        "ja": "フレアドライブ",
+        "en": "Flare Blitz"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 395,
+      "identifier": "force-palm",
+      "name": {
+        "ja": "はっけい",
+        "en": "Force Palm"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 396,
+      "identifier": "aura-sphere",
+      "name": {
+        "ja": "はどうだん",
+        "en": "Aura Sphere"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 397,
+      "identifier": "rock-polish",
+      "name": {
+        "ja": "ロックカット",
+        "en": "Rock Polish"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 398,
+      "identifier": "poison-jab",
+      "name": {
+        "ja": "どくづき",
+        "en": "Poison Jab"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 399,
+      "identifier": "dark-pulse",
+      "name": {
+        "ja": "あくのはどう",
+        "en": "Dark Pulse"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 400,
+      "identifier": "night-slash",
+      "name": {
+        "ja": "つじぎり",
+        "en": "Night Slash"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 401,
+      "identifier": "aqua-tail",
+      "name": {
+        "ja": "アクアテール",
+        "en": "Aqua Tail"
+      },
+      "type": "water"
+    },
+    {
+      "id": 402,
+      "identifier": "seed-bomb",
+      "name": {
+        "ja": "タネばくだん",
+        "en": "Seed Bomb"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 403,
+      "identifier": "air-slash",
+      "name": {
+        "ja": "エアスラッシュ",
+        "en": "Air Slash"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 404,
+      "identifier": "x-scissor",
+      "name": {
+        "ja": "シザークロス",
+        "en": "X-Scissor"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 405,
+      "identifier": "bug-buzz",
+      "name": {
+        "ja": "むしのさざめき",
+        "en": "Bug Buzz"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 406,
+      "identifier": "dragon-pulse",
+      "name": {
+        "ja": "りゅうのはどう",
+        "en": "Dragon Pulse"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 407,
+      "identifier": "dragon-rush",
+      "name": {
+        "ja": "ドラゴンダイブ",
+        "en": "Dragon Rush"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 408,
+      "identifier": "power-gem",
+      "name": {
+        "ja": "パワージェム",
+        "en": "Power Gem"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 409,
+      "identifier": "drain-punch",
+      "name": {
+        "ja": "ドレインパンチ",
+        "en": "Drain Punch"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 410,
+      "identifier": "vacuum-wave",
+      "name": {
+        "ja": "しんくうは",
+        "en": "Vacuum Wave"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 411,
+      "identifier": "focus-blast",
+      "name": {
+        "ja": "きあいだま",
+        "en": "Focus Blast"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 412,
+      "identifier": "energy-ball",
+      "name": {
+        "ja": "エナジーボール",
+        "en": "Energy Ball"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 413,
+      "identifier": "brave-bird",
+      "name": {
+        "ja": "ブレイブバード",
+        "en": "Brave Bird"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 414,
+      "identifier": "earth-power",
+      "name": {
+        "ja": "だいちのちから",
+        "en": "Earth Power"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 415,
+      "identifier": "switcheroo",
+      "name": {
+        "ja": "すりかえ",
+        "en": "Switcheroo"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 416,
+      "identifier": "giga-impact",
+      "name": {
+        "ja": "ギガインパクト",
+        "en": "Giga Impact"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 417,
+      "identifier": "nasty-plot",
+      "name": {
+        "ja": "わるだくみ",
+        "en": "Nasty Plot"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 418,
+      "identifier": "bullet-punch",
+      "name": {
+        "ja": "バレットパンチ",
+        "en": "Bullet Punch"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 419,
+      "identifier": "avalanche",
+      "name": {
+        "ja": "ゆきなだれ",
+        "en": "Avalanche"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 420,
+      "identifier": "ice-shard",
+      "name": {
+        "ja": "こおりのつぶて",
+        "en": "Ice Shard"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 421,
+      "identifier": "shadow-claw",
+      "name": {
+        "ja": "シャドークロー",
+        "en": "Shadow Claw"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 422,
+      "identifier": "thunder-fang",
+      "name": {
+        "ja": "かみなりのキバ",
+        "en": "Thunder Fang"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 423,
+      "identifier": "ice-fang",
+      "name": {
+        "ja": "こおりのキバ",
+        "en": "Ice Fang"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 424,
+      "identifier": "fire-fang",
+      "name": {
+        "ja": "ほのおのキバ",
+        "en": "Fire Fang"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 425,
+      "identifier": "shadow-sneak",
+      "name": {
+        "ja": "かげうち",
+        "en": "Shadow Sneak"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 426,
+      "identifier": "mud-bomb",
+      "name": {
+        "ja": "どろばくだん",
+        "en": "Mud Bomb"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 427,
+      "identifier": "psycho-cut",
+      "name": {
+        "ja": "サイコカッター",
+        "en": "Psycho Cut"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 428,
+      "identifier": "zen-headbutt",
+      "name": {
+        "ja": "しねんのずつき",
+        "en": "Zen Headbutt"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 429,
+      "identifier": "mirror-shot",
+      "name": {
+        "ja": "ミラーショット",
+        "en": "Mirror Shot"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 430,
+      "identifier": "flash-cannon",
+      "name": {
+        "ja": "ラスターカノン",
+        "en": "Flash Cannon"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 431,
+      "identifier": "rock-climb",
+      "name": {
+        "ja": "ロッククライム",
+        "en": "Rock Climb"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 432,
+      "identifier": "defog",
+      "name": {
+        "ja": "きりばらい",
+        "en": "Defog"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 433,
+      "identifier": "trick-room",
+      "name": {
+        "ja": "トリックルーム",
+        "en": "Trick Room"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 434,
+      "identifier": "draco-meteor",
+      "name": {
+        "ja": "りゅうせいぐん",
+        "en": "Draco Meteor"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 435,
+      "identifier": "discharge",
+      "name": {
+        "ja": "ほうでん",
+        "en": "Discharge"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 436,
+      "identifier": "lava-plume",
+      "name": {
+        "ja": "ふんえん",
+        "en": "Lava Plume"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 437,
+      "identifier": "leaf-storm",
+      "name": {
+        "ja": "リーフストーム",
+        "en": "Leaf Storm"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 438,
+      "identifier": "power-whip",
+      "name": {
+        "ja": "パワーウィップ",
+        "en": "Power Whip"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 439,
+      "identifier": "rock-wrecker",
+      "name": {
+        "ja": "がんせきほう",
+        "en": "Rock Wrecker"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 440,
+      "identifier": "cross-poison",
+      "name": {
+        "ja": "クロスポイズン",
+        "en": "Cross Poison"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 441,
+      "identifier": "gunk-shot",
+      "name": {
+        "ja": "ダストシュート",
+        "en": "Gunk Shot"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 442,
+      "identifier": "iron-head",
+      "name": {
+        "ja": "アイアンヘッド",
+        "en": "Iron Head"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 443,
+      "identifier": "magnet-bomb",
+      "name": {
+        "ja": "マグネットボム",
+        "en": "Magnet Bomb"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 444,
+      "identifier": "stone-edge",
+      "name": {
+        "ja": "ストーンエッジ",
+        "en": "Stone Edge"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 445,
+      "identifier": "captivate",
+      "name": {
+        "ja": "ゆうわく",
+        "en": "Captivate"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 446,
+      "identifier": "stealth-rock",
+      "name": {
+        "ja": "ステルスロック",
+        "en": "Stealth Rock"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 447,
+      "identifier": "grass-knot",
+      "name": {
+        "ja": "くさむすび",
+        "en": "Grass Knot"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 448,
+      "identifier": "chatter",
+      "name": {
+        "ja": "おしゃべり",
+        "en": "Chatter"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 449,
+      "identifier": "judgment",
+      "name": {
+        "ja": "さばきのつぶて",
+        "en": "Judgment"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 450,
+      "identifier": "bug-bite",
+      "name": {
+        "ja": "むしくい",
+        "en": "Bug Bite"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 451,
+      "identifier": "charge-beam",
+      "name": {
+        "ja": "チャージビーム",
+        "en": "Charge Beam"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 452,
+      "identifier": "wood-hammer",
+      "name": {
+        "ja": "ウッドハンマー",
+        "en": "Wood Hammer"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 453,
+      "identifier": "aqua-jet",
+      "name": {
+        "ja": "アクアジェット",
+        "en": "Aqua Jet"
+      },
+      "type": "water"
+    },
+    {
+      "id": 454,
+      "identifier": "attack-order",
+      "name": {
+        "ja": "こうげきしれい",
+        "en": "Attack Order"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 455,
+      "identifier": "defend-order",
+      "name": {
+        "ja": "ぼうぎょしれい",
+        "en": "Defend Order"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 456,
+      "identifier": "heal-order",
+      "name": {
+        "ja": "かいふくしれい",
+        "en": "Heal Order"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 457,
+      "identifier": "head-smash",
+      "name": {
+        "ja": "もろはのずつき",
+        "en": "Head Smash"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 458,
+      "identifier": "double-hit",
+      "name": {
+        "ja": "ダブルアタック",
+        "en": "Double Hit"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 459,
+      "identifier": "roar-of-time",
+      "name": {
+        "ja": "ときのほうこう",
+        "en": "Roar of Time"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 460,
+      "identifier": "spacial-rend",
+      "name": {
+        "ja": "あくうせつだん",
+        "en": "Spacial Rend"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 461,
+      "identifier": "lunar-dance",
+      "name": {
+        "ja": "みかづきのまい",
+        "en": "Lunar Dance"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 462,
+      "identifier": "crush-grip",
+      "name": {
+        "ja": "にぎりつぶす",
+        "en": "Crush Grip"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 463,
+      "identifier": "magma-storm",
+      "name": {
+        "ja": "マグマストーム",
+        "en": "Magma Storm"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 464,
+      "identifier": "dark-void",
+      "name": {
+        "ja": "ダークホール",
+        "en": "Dark Void"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 465,
+      "identifier": "seed-flare",
+      "name": {
+        "ja": "シードフレア",
+        "en": "Seed Flare"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 466,
+      "identifier": "ominous-wind",
+      "name": {
+        "ja": "あやしいかぜ",
+        "en": "Ominous Wind"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 467,
+      "identifier": "shadow-force",
+      "name": {
+        "ja": "シャドーダイブ",
+        "en": "Shadow Force"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 468,
+      "identifier": "hone-claws",
+      "name": {
+        "ja": "つめとぎ",
+        "en": "Hone Claws"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 469,
+      "identifier": "wide-guard",
+      "name": {
+        "ja": "ワイドガード",
+        "en": "Wide Guard"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 470,
+      "identifier": "guard-split",
+      "name": {
+        "ja": "ガードシェア",
+        "en": "Guard Split"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 471,
+      "identifier": "power-split",
+      "name": {
+        "ja": "パワーシェア",
+        "en": "Power Split"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 472,
+      "identifier": "wonder-room",
+      "name": {
+        "ja": "ワンダールーム",
+        "en": "Wonder Room"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 473,
+      "identifier": "psyshock",
+      "name": {
+        "ja": "サイコショック",
+        "en": "Psyshock"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 474,
+      "identifier": "venoshock",
+      "name": {
+        "ja": "ベノムショック",
+        "en": "Venoshock"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 475,
+      "identifier": "autotomize",
+      "name": {
+        "ja": "ボディパージ",
+        "en": "Autotomize"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 476,
+      "identifier": "rage-powder",
+      "name": {
+        "ja": "いかりのこな",
+        "en": "Rage Powder"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 477,
+      "identifier": "telekinesis",
+      "name": {
+        "ja": "テレキネシス",
+        "en": "Telekinesis"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 478,
+      "identifier": "magic-room",
+      "name": {
+        "ja": "マジックルーム",
+        "en": "Magic Room"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 479,
+      "identifier": "smack-down",
+      "name": {
+        "ja": "うちおとす",
+        "en": "Smack Down"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 480,
+      "identifier": "storm-throw",
+      "name": {
+        "ja": "やまあらし",
+        "en": "Storm Throw"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 481,
+      "identifier": "flame-burst",
+      "name": {
+        "ja": "はじけるほのお",
+        "en": "Flame Burst"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 482,
+      "identifier": "sludge-wave",
+      "name": {
+        "ja": "ヘドロウェーブ",
+        "en": "Sludge Wave"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 483,
+      "identifier": "quiver-dance",
+      "name": {
+        "ja": "ちょうのまい",
+        "en": "Quiver Dance"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 484,
+      "identifier": "heavy-slam",
+      "name": {
+        "ja": "ヘビーボンバー",
+        "en": "Heavy Slam"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 485,
+      "identifier": "synchronoise",
+      "name": {
+        "ja": "シンクロノイズ",
+        "en": "Synchronoise"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 486,
+      "identifier": "electro-ball",
+      "name": {
+        "ja": "エレキボール",
+        "en": "Electro Ball"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 487,
+      "identifier": "soak",
+      "name": {
+        "ja": "みずびたし",
+        "en": "Soak"
+      },
+      "type": "water"
+    },
+    {
+      "id": 488,
+      "identifier": "flame-charge",
+      "name": {
+        "ja": "ニトロチャージ",
+        "en": "Flame Charge"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 489,
+      "identifier": "coil",
+      "name": {
+        "ja": "とぐろをまく",
+        "en": "Coil"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 490,
+      "identifier": "low-sweep",
+      "name": {
+        "ja": "ローキック",
+        "en": "Low Sweep"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 491,
+      "identifier": "acid-spray",
+      "name": {
+        "ja": "アシッドボム",
+        "en": "Acid Spray"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 492,
+      "identifier": "foul-play",
+      "name": {
+        "ja": "イカサマ",
+        "en": "Foul Play"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 493,
+      "identifier": "simple-beam",
+      "name": {
+        "ja": "シンプルビーム",
+        "en": "Simple Beam"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 494,
+      "identifier": "entrainment",
+      "name": {
+        "ja": "なかまづくり",
+        "en": "Entrainment"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 495,
+      "identifier": "after-you",
+      "name": {
+        "ja": "おさきにどうぞ",
+        "en": "After You"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 496,
+      "identifier": "round",
+      "name": {
+        "ja": "りんしょう",
+        "en": "Round"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 497,
+      "identifier": "echoed-voice",
+      "name": {
+        "ja": "エコーボイス",
+        "en": "Echoed Voice"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 498,
+      "identifier": "chip-away",
+      "name": {
+        "ja": "なしくずし",
+        "en": "Chip Away"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 499,
+      "identifier": "clear-smog",
+      "name": {
+        "ja": "クリアスモッグ",
+        "en": "Clear Smog"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 500,
+      "identifier": "stored-power",
+      "name": {
+        "ja": "アシストパワー",
+        "en": "Stored Power"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 501,
+      "identifier": "quick-guard",
+      "name": {
+        "ja": "ファストガード",
+        "en": "Quick Guard"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 502,
+      "identifier": "ally-switch",
+      "name": {
+        "ja": "サイドチェンジ",
+        "en": "Ally Switch"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 503,
+      "identifier": "scald",
+      "name": {
+        "ja": "ねっとう",
+        "en": "Scald"
+      },
+      "type": "water"
+    },
+    {
+      "id": 504,
+      "identifier": "shell-smash",
+      "name": {
+        "ja": "からをやぶる",
+        "en": "Shell Smash"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 505,
+      "identifier": "heal-pulse",
+      "name": {
+        "ja": "いやしのはどう",
+        "en": "Heal Pulse"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 506,
+      "identifier": "hex",
+      "name": {
+        "ja": "たたりめ",
+        "en": "Hex"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 507,
+      "identifier": "sky-drop",
+      "name": {
+        "ja": "フリーフォール",
+        "en": "Sky Drop"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 508,
+      "identifier": "shift-gear",
+      "name": {
+        "ja": "ギアチェンジ",
+        "en": "Shift Gear"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 509,
+      "identifier": "circle-throw",
+      "name": {
+        "ja": "ともえなげ",
+        "en": "Circle Throw"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 510,
+      "identifier": "incinerate",
+      "name": {
+        "ja": "やきつくす",
+        "en": "Incinerate"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 511,
+      "identifier": "quash",
+      "name": {
+        "ja": "さきおくり",
+        "en": "Quash"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 512,
+      "identifier": "acrobatics",
+      "name": {
+        "ja": "アクロバット",
+        "en": "Acrobatics"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 513,
+      "identifier": "reflect-type",
+      "name": {
+        "ja": "ミラータイプ",
+        "en": "Reflect Type"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 514,
+      "identifier": "retaliate",
+      "name": {
+        "ja": "かたきうち",
+        "en": "Retaliate"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 515,
+      "identifier": "final-gambit",
+      "name": {
+        "ja": "いのちがけ",
+        "en": "Final Gambit"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 516,
+      "identifier": "bestow",
+      "name": {
+        "ja": "ギフトパス",
+        "en": "Bestow"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 517,
+      "identifier": "inferno",
+      "name": {
+        "ja": "れんごく",
+        "en": "Inferno"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 518,
+      "identifier": "water-pledge",
+      "name": {
+        "ja": "みずのちかい",
+        "en": "Water Pledge"
+      },
+      "type": "water"
+    },
+    {
+      "id": 519,
+      "identifier": "fire-pledge",
+      "name": {
+        "ja": "ほのおのちかい",
+        "en": "Fire Pledge"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 520,
+      "identifier": "grass-pledge",
+      "name": {
+        "ja": "くさのちかい",
+        "en": "Grass Pledge"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 521,
+      "identifier": "volt-switch",
+      "name": {
+        "ja": "ボルトチェンジ",
+        "en": "Volt Switch"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 522,
+      "identifier": "struggle-bug",
+      "name": {
+        "ja": "むしのていこう",
+        "en": "Struggle Bug"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 523,
+      "identifier": "bulldoze",
+      "name": {
+        "ja": "じならし",
+        "en": "Bulldoze"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 524,
+      "identifier": "frost-breath",
+      "name": {
+        "ja": "こおりのいぶき",
+        "en": "Frost Breath"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 525,
+      "identifier": "dragon-tail",
+      "name": {
+        "ja": "ドラゴンテール",
+        "en": "Dragon Tail"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 526,
+      "identifier": "work-up",
+      "name": {
+        "ja": "ふるいたてる",
+        "en": "Work Up"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 527,
+      "identifier": "electroweb",
+      "name": {
+        "ja": "エレキネット",
+        "en": "Electroweb"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 528,
+      "identifier": "wild-charge",
+      "name": {
+        "ja": "ワイルドボルト",
+        "en": "Wild Charge"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 529,
+      "identifier": "drill-run",
+      "name": {
+        "ja": "ドリルライナー",
+        "en": "Drill Run"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 530,
+      "identifier": "dual-chop",
+      "name": {
+        "ja": "ダブルチョップ",
+        "en": "Dual Chop"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 531,
+      "identifier": "heart-stamp",
+      "name": {
+        "ja": "ハートスタンプ",
+        "en": "Heart Stamp"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 532,
+      "identifier": "horn-leech",
+      "name": {
+        "ja": "ウッドホーン",
+        "en": "Horn Leech"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 533,
+      "identifier": "sacred-sword",
+      "name": {
+        "ja": "せいなるつるぎ",
+        "en": "Sacred Sword"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 534,
+      "identifier": "razor-shell",
+      "name": {
+        "ja": "シェルブレード",
+        "en": "Razor Shell"
+      },
+      "type": "water"
+    },
+    {
+      "id": 535,
+      "identifier": "heat-crash",
+      "name": {
+        "ja": "ヒートスタンプ",
+        "en": "Heat Crash"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 536,
+      "identifier": "leaf-tornado",
+      "name": {
+        "ja": "グラスミキサー",
+        "en": "Leaf Tornado"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 537,
+      "identifier": "steamroller",
+      "name": {
+        "ja": "ハードローラー",
+        "en": "Steamroller"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 538,
+      "identifier": "cotton-guard",
+      "name": {
+        "ja": "コットンガード",
+        "en": "Cotton Guard"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 539,
+      "identifier": "night-daze",
+      "name": {
+        "ja": "ナイトバースト",
+        "en": "Night Daze"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 540,
+      "identifier": "psystrike",
+      "name": {
+        "ja": "サイコブレイク",
+        "en": "Psystrike"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 541,
+      "identifier": "tail-slap",
+      "name": {
+        "ja": "スイープビンタ",
+        "en": "Tail Slap"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 542,
+      "identifier": "hurricane",
+      "name": {
+        "ja": "ぼうふう",
+        "en": "Hurricane"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 543,
+      "identifier": "head-charge",
+      "name": {
+        "ja": "アフロブレイク",
+        "en": "Head Charge"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 544,
+      "identifier": "gear-grind",
+      "name": {
+        "ja": "ギアソーサー",
+        "en": "Gear Grind"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 545,
+      "identifier": "searing-shot",
+      "name": {
+        "ja": "かえんだん",
+        "en": "Searing Shot"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 546,
+      "identifier": "techno-blast",
+      "name": {
+        "ja": "テクノバスター",
+        "en": "Techno Blast"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 547,
+      "identifier": "relic-song",
+      "name": {
+        "ja": "いにしえのうた",
+        "en": "Relic Song"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 548,
+      "identifier": "secret-sword",
+      "name": {
+        "ja": "しんぴのつるぎ",
+        "en": "Secret Sword"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 549,
+      "identifier": "glaciate",
+      "name": {
+        "ja": "こごえるせかい",
+        "en": "Glaciate"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 550,
+      "identifier": "bolt-strike",
+      "name": {
+        "ja": "らいげき",
+        "en": "Bolt Strike"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 551,
+      "identifier": "blue-flare",
+      "name": {
+        "ja": "あおいほのお",
+        "en": "Blue Flare"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 552,
+      "identifier": "fiery-dance",
+      "name": {
+        "ja": "ほのおのまい",
+        "en": "Fiery Dance"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 553,
+      "identifier": "freeze-shock",
+      "name": {
+        "ja": "フリーズボルト",
+        "en": "Freeze Shock"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 554,
+      "identifier": "ice-burn",
+      "name": {
+        "ja": "コールドフレア",
+        "en": "Ice Burn"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 555,
+      "identifier": "snarl",
+      "name": {
+        "ja": "バークアウト",
+        "en": "Snarl"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 556,
+      "identifier": "icicle-crash",
+      "name": {
+        "ja": "つららおとし",
+        "en": "Icicle Crash"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 557,
+      "identifier": "v-create",
+      "name": {
+        "ja": "Ｖジェネレート",
+        "en": "V-create"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 558,
+      "identifier": "fusion-flare",
+      "name": {
+        "ja": "クロスフレイム",
+        "en": "Fusion Flare"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 559,
+      "identifier": "fusion-bolt",
+      "name": {
+        "ja": "クロスサンダー",
+        "en": "Fusion Bolt"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 560,
+      "identifier": "flying-press",
+      "name": {
+        "ja": "フライングプレス",
+        "en": "Flying Press"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 561,
+      "identifier": "mat-block",
+      "name": {
+        "ja": "たたみがえし",
+        "en": "Mat Block"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 562,
+      "identifier": "belch",
+      "name": {
+        "ja": "ゲップ",
+        "en": "Belch"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 563,
+      "identifier": "rototiller",
+      "name": {
+        "ja": "たがやす",
+        "en": "Rototiller"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 564,
+      "identifier": "sticky-web",
+      "name": {
+        "ja": "ねばねばネット",
+        "en": "Sticky Web"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 565,
+      "identifier": "fell-stinger",
+      "name": {
+        "ja": "とどめばり",
+        "en": "Fell Stinger"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 566,
+      "identifier": "phantom-force",
+      "name": {
+        "ja": "ゴーストダイブ",
+        "en": "Phantom Force"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 567,
+      "identifier": "trick-or-treat",
+      "name": {
+        "ja": "ハロウィン",
+        "en": "Trick-or-Treat"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 568,
+      "identifier": "noble-roar",
+      "name": {
+        "ja": "おたけび",
+        "en": "Noble Roar"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 569,
+      "identifier": "ion-deluge",
+      "name": {
+        "ja": "プラズマシャワー",
+        "en": "Ion Deluge"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 570,
+      "identifier": "parabolic-charge",
+      "name": {
+        "ja": "パラボラチャージ",
+        "en": "Parabolic Charge"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 571,
+      "identifier": "forests-curse",
+      "name": {
+        "ja": "もりののろい",
+        "en": "Forest’s Curse"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 572,
+      "identifier": "petal-blizzard",
+      "name": {
+        "ja": "はなふぶき",
+        "en": "Petal Blizzard"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 573,
+      "identifier": "freeze-dry",
+      "name": {
+        "ja": "フリーズドライ",
+        "en": "Freeze-Dry"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 574,
+      "identifier": "disarming-voice",
+      "name": {
+        "ja": "チャームボイス",
+        "en": "Disarming Voice"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 575,
+      "identifier": "parting-shot",
+      "name": {
+        "ja": "すてゼリフ",
+        "en": "Parting Shot"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 576,
+      "identifier": "topsy-turvy",
+      "name": {
+        "ja": "ひっくりかえす",
+        "en": "Topsy-Turvy"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 577,
+      "identifier": "draining-kiss",
+      "name": {
+        "ja": "ドレインキッス",
+        "en": "Draining Kiss"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 578,
+      "identifier": "crafty-shield",
+      "name": {
+        "ja": "トリックガード",
+        "en": "Crafty Shield"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 579,
+      "identifier": "flower-shield",
+      "name": {
+        "ja": "フラワーガード",
+        "en": "Flower Shield"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 580,
+      "identifier": "grassy-terrain",
+      "name": {
+        "ja": "グラスフィールド",
+        "en": "Grassy Terrain"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 581,
+      "identifier": "misty-terrain",
+      "name": {
+        "ja": "ミストフィールド",
+        "en": "Misty Terrain"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 582,
+      "identifier": "electrify",
+      "name": {
+        "ja": "そうでん",
+        "en": "Electrify"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 583,
+      "identifier": "play-rough",
+      "name": {
+        "ja": "じゃれつく",
+        "en": "Play Rough"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 584,
+      "identifier": "fairy-wind",
+      "name": {
+        "ja": "ようせいのかぜ",
+        "en": "Fairy Wind"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 585,
+      "identifier": "moonblast",
+      "name": {
+        "ja": "ムーンフォース",
+        "en": "Moonblast"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 586,
+      "identifier": "boomburst",
+      "name": {
+        "ja": "ばくおんぱ",
+        "en": "Boomburst"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 587,
+      "identifier": "fairy-lock",
+      "name": {
+        "ja": "フェアリーロック",
+        "en": "Fairy Lock"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 588,
+      "identifier": "kings-shield",
+      "name": {
+        "ja": "キングシールド",
+        "en": "King’s Shield"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 589,
+      "identifier": "play-nice",
+      "name": {
+        "ja": "なかよくする",
+        "en": "Play Nice"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 590,
+      "identifier": "confide",
+      "name": {
+        "ja": "ないしょばなし",
+        "en": "Confide"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 591,
+      "identifier": "diamond-storm",
+      "name": {
+        "ja": "ダイヤストーム",
+        "en": "Diamond Storm"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 592,
+      "identifier": "steam-eruption",
+      "name": {
+        "ja": "スチームバースト",
+        "en": "Steam Eruption"
+      },
+      "type": "water"
+    },
+    {
+      "id": 593,
+      "identifier": "hyperspace-hole",
+      "name": {
+        "ja": "いじげんホール",
+        "en": "Hyperspace Hole"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 594,
+      "identifier": "water-shuriken",
+      "name": {
+        "ja": "みずしゅりけん",
+        "en": "Water Shuriken"
+      },
+      "type": "water"
+    },
+    {
+      "id": 595,
+      "identifier": "mystical-fire",
+      "name": {
+        "ja": "マジカルフレイム",
+        "en": "Mystical Fire"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 596,
+      "identifier": "spiky-shield",
+      "name": {
+        "ja": "ニードルガード",
+        "en": "Spiky Shield"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 597,
+      "identifier": "aromatic-mist",
+      "name": {
+        "ja": "アロマミスト",
+        "en": "Aromatic Mist"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 598,
+      "identifier": "eerie-impulse",
+      "name": {
+        "ja": "かいでんぱ",
+        "en": "Eerie Impulse"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 599,
+      "identifier": "venom-drench",
+      "name": {
+        "ja": "ベノムトラップ",
+        "en": "Venom Drench"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 600,
+      "identifier": "powder",
+      "name": {
+        "ja": "ふんじん",
+        "en": "Powder"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 601,
+      "identifier": "geomancy",
+      "name": {
+        "ja": "ジオコントロール",
+        "en": "Geomancy"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 602,
+      "identifier": "magnetic-flux",
+      "name": {
+        "ja": "じばそうさ",
+        "en": "Magnetic Flux"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 603,
+      "identifier": "happy-hour",
+      "name": {
+        "ja": "ハッピータイム",
+        "en": "Happy Hour"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 604,
+      "identifier": "electric-terrain",
+      "name": {
+        "ja": "エレキフィールド",
+        "en": "Electric Terrain"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 605,
+      "identifier": "dazzling-gleam",
+      "name": {
+        "ja": "マジカルシャイン",
+        "en": "Dazzling Gleam"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 606,
+      "identifier": "celebrate",
+      "name": {
+        "ja": "おいわい",
+        "en": "Celebrate"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 607,
+      "identifier": "hold-hands",
+      "name": {
+        "ja": "てをつなぐ",
+        "en": "Hold Hands"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 608,
+      "identifier": "baby-doll-eyes",
+      "name": {
+        "ja": "つぶらなひとみ",
+        "en": "Baby-Doll Eyes"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 609,
+      "identifier": "nuzzle",
+      "name": {
+        "ja": "ほっぺすりすり",
+        "en": "Nuzzle"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 610,
+      "identifier": "hold-back",
+      "name": {
+        "ja": "てかげん",
+        "en": "Hold Back"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 611,
+      "identifier": "infestation",
+      "name": {
+        "ja": "まとわりつく",
+        "en": "Infestation"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 612,
+      "identifier": "power-up-punch",
+      "name": {
+        "ja": "グロウパンチ",
+        "en": "Power-Up Punch"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 613,
+      "identifier": "oblivion-wing",
+      "name": {
+        "ja": "デスウイング",
+        "en": "Oblivion Wing"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 614,
+      "identifier": "thousand-arrows",
+      "name": {
+        "ja": "サウザンアロー",
+        "en": "Thousand Arrows"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 615,
+      "identifier": "thousand-waves",
+      "name": {
+        "ja": "サウザンウェーブ",
+        "en": "Thousand Waves"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 616,
+      "identifier": "lands-wrath",
+      "name": {
+        "ja": "グランドフォース",
+        "en": "Land’s Wrath"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 617,
+      "identifier": "light-of-ruin",
+      "name": {
+        "ja": "はめつのひかり",
+        "en": "Light of Ruin"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 618,
+      "identifier": "origin-pulse",
+      "name": {
+        "ja": "こんげんのはどう",
+        "en": "Origin Pulse"
+      },
+      "type": "water"
+    },
+    {
+      "id": 619,
+      "identifier": "precipice-blades",
+      "name": {
+        "ja": "だんがいのつるぎ",
+        "en": "Precipice Blades"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 620,
+      "identifier": "dragon-ascent",
+      "name": {
+        "ja": "ガリョウテンセイ",
+        "en": "Dragon Ascent"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 621,
+      "identifier": "hyperspace-fury",
+      "name": {
+        "ja": "いじげんラッシュ",
+        "en": "Hyperspace Fury"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 622,
+      "identifier": "breakneck-blitz--physical",
+      "name": {
+        "ja": "ウルトラダッシュアタック",
+        "en": "Breakneck Blitz"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 623,
+      "identifier": "breakneck-blitz--special",
+      "name": {
+        "ja": "ウルトラダッシュアタック",
+        "en": "Breakneck Blitz"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 624,
+      "identifier": "all-out-pummeling--physical",
+      "name": {
+        "ja": "ぜんりょくむそうげきれつけん",
+        "en": "All-Out Pummeling"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 625,
+      "identifier": "all-out-pummeling--special",
+      "name": {
+        "ja": "ぜんりょくむそうげきれつけん",
+        "en": "All-Out Pummeling"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 626,
+      "identifier": "supersonic-skystrike--physical",
+      "name": {
+        "ja": "ファイナルダイブクラッシュ",
+        "en": "Supersonic Skystrike"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 627,
+      "identifier": "supersonic-skystrike--special",
+      "name": {
+        "ja": "ファイナルダイブクラッシュ",
+        "en": "Supersonic Skystrike"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 628,
+      "identifier": "acid-downpour--physical",
+      "name": {
+        "ja": "アシッドポイズンデリート",
+        "en": "Acid Downpour"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 629,
+      "identifier": "acid-downpour--special",
+      "name": {
+        "ja": "アシッドポイズンデリート",
+        "en": "Acid Downpour"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 630,
+      "identifier": "tectonic-rage--physical",
+      "name": {
+        "ja": "ライジングランドオーバー",
+        "en": "Tectonic Rage"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 631,
+      "identifier": "tectonic-rage--special",
+      "name": {
+        "ja": "ライジングランドオーバー",
+        "en": "Tectonic Rage"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 632,
+      "identifier": "continental-crush--physical",
+      "name": {
+        "ja": "ワールズエンドフォール",
+        "en": "Continental Crush"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 633,
+      "identifier": "continental-crush--special",
+      "name": {
+        "ja": "ワールズエンドフォール",
+        "en": "Continental Crush"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 634,
+      "identifier": "savage-spin-out--physical",
+      "name": {
+        "ja": "ぜったいほしょくかいてんざん",
+        "en": "Savage Spin-Out"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 635,
+      "identifier": "savage-spin-out--special",
+      "name": {
+        "ja": "ぜったいほしょくかいてんざん",
+        "en": "Savage Spin-Out"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 636,
+      "identifier": "never-ending-nightmare--physical",
+      "name": {
+        "ja": "むげんあんやへのいざない",
+        "en": "Never-Ending Nightmare"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 637,
+      "identifier": "never-ending-nightmare--special",
+      "name": {
+        "ja": "むげんあんやへのいざない",
+        "en": "Never-Ending Nightmare"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 638,
+      "identifier": "corkscrew-crash--physical",
+      "name": {
+        "ja": "ちょうぜつらせんれんげき",
+        "en": "Corkscrew Crash"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 639,
+      "identifier": "corkscrew-crash--special",
+      "name": {
+        "ja": "ちょうぜつらせんれんげき",
+        "en": "Corkscrew Crash"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 640,
+      "identifier": "inferno-overdrive--physical",
+      "name": {
+        "ja": "ダイナミックフルフレイム",
+        "en": "Inferno Overdrive"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 641,
+      "identifier": "inferno-overdrive--special",
+      "name": {
+        "ja": "ダイナミックフルフレイム",
+        "en": "Inferno Overdrive"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 642,
+      "identifier": "hydro-vortex--physical",
+      "name": {
+        "ja": "スーパーアクアトルネード",
+        "en": "Hydro Vortex"
+      },
+      "type": "water"
+    },
+    {
+      "id": 643,
+      "identifier": "hydro-vortex--special",
+      "name": {
+        "ja": "スーパーアクアトルネード",
+        "en": "Hydro Vortex"
+      },
+      "type": "water"
+    },
+    {
+      "id": 644,
+      "identifier": "bloom-doom--physical",
+      "name": {
+        "ja": "ブルームシャインエクストラ",
+        "en": "Bloom Doom"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 645,
+      "identifier": "bloom-doom--special",
+      "name": {
+        "ja": "ブルームシャインエクストラ",
+        "en": "Bloom Doom"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 646,
+      "identifier": "gigavolt-havoc--physical",
+      "name": {
+        "ja": "スパーキングギガボルト",
+        "en": "Gigavolt Havoc"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 647,
+      "identifier": "gigavolt-havoc--special",
+      "name": {
+        "ja": "スパーキングギガボルト",
+        "en": "Gigavolt Havoc"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 648,
+      "identifier": "shattered-psyche--physical",
+      "name": {
+        "ja": "マキシマムサイブレイカー",
+        "en": "Shattered Psyche"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 649,
+      "identifier": "shattered-psyche--special",
+      "name": {
+        "ja": "マキシマムサイブレイカー",
+        "en": "Shattered Psyche"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 650,
+      "identifier": "subzero-slammer--physical",
+      "name": {
+        "ja": "レイジングジオフリーズ",
+        "en": "Subzero Slammer"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 651,
+      "identifier": "subzero-slammer--special",
+      "name": {
+        "ja": "レイジングジオフリーズ",
+        "en": "Subzero Slammer"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 652,
+      "identifier": "devastating-drake--physical",
+      "name": {
+        "ja": "アルティメットドラゴンバーン",
+        "en": "Devastating Drake"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 653,
+      "identifier": "devastating-drake--special",
+      "name": {
+        "ja": "アルティメットドラゴンバーン",
+        "en": "Devastating Drake"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 654,
+      "identifier": "black-hole-eclipse--physical",
+      "name": {
+        "ja": "ブラックホールイクリプス",
+        "en": "Black Hole Eclipse"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 655,
+      "identifier": "black-hole-eclipse--special",
+      "name": {
+        "ja": "ブラックホールイクリプス",
+        "en": "Black Hole Eclipse"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 656,
+      "identifier": "twinkle-tackle--physical",
+      "name": {
+        "ja": "ラブリースターインパクト",
+        "en": "Twinkle Tackle"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 657,
+      "identifier": "twinkle-tackle--special",
+      "name": {
+        "ja": "ラブリースターインパクト",
+        "en": "Twinkle Tackle"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 658,
+      "identifier": "catastropika",
+      "name": {
+        "ja": "ひっさつのピカチュート",
+        "en": "Catastropika"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 659,
+      "identifier": "shore-up",
+      "name": {
+        "ja": "すなあつめ",
+        "en": "Shore Up"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 660,
+      "identifier": "first-impression",
+      "name": {
+        "ja": "であいがしら",
+        "en": "First Impression"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 661,
+      "identifier": "baneful-bunker",
+      "name": {
+        "ja": "トーチカ",
+        "en": "Baneful Bunker"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 662,
+      "identifier": "spirit-shackle",
+      "name": {
+        "ja": "かげぬい",
+        "en": "Spirit Shackle"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 663,
+      "identifier": "darkest-lariat",
+      "name": {
+        "ja": "ＤＤラリアット",
+        "en": "Darkest Lariat"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 664,
+      "identifier": "sparkling-aria",
+      "name": {
+        "ja": "うたかたのアリア",
+        "en": "Sparkling Aria"
+      },
+      "type": "water"
+    },
+    {
+      "id": 665,
+      "identifier": "ice-hammer",
+      "name": {
+        "ja": "アイスハンマー",
+        "en": "Ice Hammer"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 666,
+      "identifier": "floral-healing",
+      "name": {
+        "ja": "フラワーヒール",
+        "en": "Floral Healing"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 667,
+      "identifier": "high-horsepower",
+      "name": {
+        "ja": "１０まんばりき",
+        "en": "High Horsepower"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 668,
+      "identifier": "strength-sap",
+      "name": {
+        "ja": "ちからをすいとる",
+        "en": "Strength Sap"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 669,
+      "identifier": "solar-blade",
+      "name": {
+        "ja": "ソーラーブレード",
+        "en": "Solar Blade"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 670,
+      "identifier": "leafage",
+      "name": {
+        "ja": "このは",
+        "en": "Leafage"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 671,
+      "identifier": "spotlight",
+      "name": {
+        "ja": "スポットライト",
+        "en": "Spotlight"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 672,
+      "identifier": "toxic-thread",
+      "name": {
+        "ja": "どくのいと",
+        "en": "Toxic Thread"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 673,
+      "identifier": "laser-focus",
+      "name": {
+        "ja": "とぎすます",
+        "en": "Laser Focus"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 674,
+      "identifier": "gear-up",
+      "name": {
+        "ja": "アシストギア",
+        "en": "Gear Up"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 675,
+      "identifier": "throat-chop",
+      "name": {
+        "ja": "じごくづき",
+        "en": "Throat Chop"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 676,
+      "identifier": "pollen-puff",
+      "name": {
+        "ja": "かふんだんご",
+        "en": "Pollen Puff"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 677,
+      "identifier": "anchor-shot",
+      "name": {
+        "ja": "アンカーショット",
+        "en": "Anchor Shot"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 678,
+      "identifier": "psychic-terrain",
+      "name": {
+        "ja": "サイコフィールド",
+        "en": "Psychic Terrain"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 679,
+      "identifier": "lunge",
+      "name": {
+        "ja": "とびかかる",
+        "en": "Lunge"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 680,
+      "identifier": "fire-lash",
+      "name": {
+        "ja": "ほのおのムチ",
+        "en": "Fire Lash"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 681,
+      "identifier": "power-trip",
+      "name": {
+        "ja": "つけあがる",
+        "en": "Power Trip"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 682,
+      "identifier": "burn-up",
+      "name": {
+        "ja": "もえつきる",
+        "en": "Burn Up"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 683,
+      "identifier": "speed-swap",
+      "name": {
+        "ja": "スピードスワップ",
+        "en": "Speed Swap"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 684,
+      "identifier": "smart-strike",
+      "name": {
+        "ja": "スマートホーン",
+        "en": "Smart Strike"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 685,
+      "identifier": "purify",
+      "name": {
+        "ja": "じょうか",
+        "en": "Purify"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 686,
+      "identifier": "revelation-dance",
+      "name": {
+        "ja": "めざめるダンス",
+        "en": "Revelation Dance"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 687,
+      "identifier": "core-enforcer",
+      "name": {
+        "ja": "コアパニッシャー",
+        "en": "Core Enforcer"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 688,
+      "identifier": "trop-kick",
+      "name": {
+        "ja": "トロピカルキック",
+        "en": "Trop Kick"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 689,
+      "identifier": "instruct",
+      "name": {
+        "ja": "さいはい",
+        "en": "Instruct"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 690,
+      "identifier": "beak-blast",
+      "name": {
+        "ja": "くちばしキャノン",
+        "en": "Beak Blast"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 691,
+      "identifier": "clanging-scales",
+      "name": {
+        "ja": "スケイルノイズ",
+        "en": "Clanging Scales"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 692,
+      "identifier": "dragon-hammer",
+      "name": {
+        "ja": "ドラゴンハンマー",
+        "en": "Dragon Hammer"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 693,
+      "identifier": "brutal-swing",
+      "name": {
+        "ja": "ぶんまわす",
+        "en": "Brutal Swing"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 694,
+      "identifier": "aurora-veil",
+      "name": {
+        "ja": "オーロラベール",
+        "en": "Aurora Veil"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 695,
+      "identifier": "sinister-arrow-raid",
+      "name": {
+        "ja": "シャドーアローズストライク",
+        "en": "Sinister Arrow Raid"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 696,
+      "identifier": "malicious-moonsault",
+      "name": {
+        "ja": "ハイパーダーククラッシャー",
+        "en": "Malicious Moonsault"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 697,
+      "identifier": "oceanic-operetta",
+      "name": {
+        "ja": "わだつみのシンフォニア",
+        "en": "Oceanic Operetta"
+      },
+      "type": "water"
+    },
+    {
+      "id": 698,
+      "identifier": "guardian-of-alola",
+      "name": {
+        "ja": "ガーディアン・デ・アローラ",
+        "en": "Guardian of Alola"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 699,
+      "identifier": "soul-stealing-7-star-strike",
+      "name": {
+        "ja": "しちせいだっこんたい",
+        "en": "Soul-Stealing 7-Star Strike"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 700,
+      "identifier": "stoked-sparksurfer",
+      "name": {
+        "ja": "ライトニングサーフライド",
+        "en": "Stoked Sparksurfer"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 701,
+      "identifier": "pulverizing-pancake",
+      "name": {
+        "ja": "ほんきをだす　こうげき",
+        "en": "Pulverizing Pancake"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 702,
+      "identifier": "extreme-evoboost",
+      "name": {
+        "ja": "ナインエボルブースト",
+        "en": "Extreme Evoboost"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 703,
+      "identifier": "genesis-supernova",
+      "name": {
+        "ja": "オリジンズスーパーノヴァ",
+        "en": "Genesis Supernova"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 704,
+      "identifier": "shell-trap",
+      "name": {
+        "ja": "トラップシェル",
+        "en": "Shell Trap"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 705,
+      "identifier": "fleur-cannon",
+      "name": {
+        "ja": "フルールカノン",
+        "en": "Fleur Cannon"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 706,
+      "identifier": "psychic-fangs",
+      "name": {
+        "ja": "サイコファング",
+        "en": "Psychic Fangs"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 707,
+      "identifier": "stomping-tantrum",
+      "name": {
+        "ja": "じだんだ",
+        "en": "Stomping Tantrum"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 708,
+      "identifier": "shadow-bone",
+      "name": {
+        "ja": "シャドーボーン",
+        "en": "Shadow Bone"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 709,
+      "identifier": "accelerock",
+      "name": {
+        "ja": "アクセルロック",
+        "en": "Accelerock"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 710,
+      "identifier": "liquidation",
+      "name": {
+        "ja": "アクアブレイク",
+        "en": "Liquidation"
+      },
+      "type": "water"
+    },
+    {
+      "id": 711,
+      "identifier": "prismatic-laser",
+      "name": {
+        "ja": "プリズムレーザー",
+        "en": "Prismatic Laser"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 712,
+      "identifier": "spectral-thief",
+      "name": {
+        "ja": "シャドースチール",
+        "en": "Spectral Thief"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 713,
+      "identifier": "sunsteel-strike",
+      "name": {
+        "ja": "メテオドライブ",
+        "en": "Sunsteel Strike"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 714,
+      "identifier": "moongeist-beam",
+      "name": {
+        "ja": "シャドーレイ",
+        "en": "Moongeist Beam"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 715,
+      "identifier": "tearful-look",
+      "name": {
+        "ja": "なみだめ",
+        "en": "Tearful Look"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 716,
+      "identifier": "zing-zap",
+      "name": {
+        "ja": "びりびりちくちく",
+        "en": "Zing Zap"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 717,
+      "identifier": "natures-madness",
+      "name": {
+        "ja": "しぜんのいかり",
+        "en": "Nature’s Madness"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 718,
+      "identifier": "multi-attack",
+      "name": {
+        "ja": "マルチアタック",
+        "en": "Multi-Attack"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 719,
+      "identifier": "10-000-000-volt-thunderbolt",
+      "name": {
+        "ja": "１０００まんボルト",
+        "en": "10,000,000 Volt Thunderbolt"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 720,
+      "identifier": "mind-blown",
+      "name": {
+        "ja": "ビックリヘッド",
+        "en": "Mind Blown"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 721,
+      "identifier": "plasma-fists",
+      "name": {
+        "ja": "プラズマフィスト",
+        "en": "Plasma Fists"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 722,
+      "identifier": "photon-geyser",
+      "name": {
+        "ja": "フォトンゲイザー",
+        "en": "Photon Geyser"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 723,
+      "identifier": "light-that-burns-the-sky",
+      "name": {
+        "ja": "てんこがすめつぼうのひかり",
+        "en": "Light That Burns the Sky"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 724,
+      "identifier": "searing-sunraze-smash",
+      "name": {
+        "ja": "サンシャインスマッシャー",
+        "en": "Searing Sunraze Smash"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 725,
+      "identifier": "menacing-moonraze-maelstrom",
+      "name": {
+        "ja": "ムーンライトブラスター",
+        "en": "Menacing Moonraze Maelstrom"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 726,
+      "identifier": "lets-snuggle-forever",
+      "name": {
+        "ja": "ぽかぼかフレンドタイム",
+        "en": "Let’s Snuggle Forever"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 727,
+      "identifier": "splintered-stormshards",
+      "name": {
+        "ja": "ラジアルエッジストーム",
+        "en": "Splintered Stormshards"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 728,
+      "identifier": "clangorous-soulblaze",
+      "name": {
+        "ja": "ブレイジングソウルビート",
+        "en": "Clangorous Soulblaze"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 729,
+      "identifier": "zippy-zap",
+      "name": {
+        "ja": "ばちばちアクセル",
+        "en": "Zippy Zap"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 730,
+      "identifier": "splishy-splash",
+      "name": {
+        "ja": "ざぶざぶサーフ",
+        "en": "Splishy Splash"
+      },
+      "type": "water"
+    },
+    {
+      "id": 731,
+      "identifier": "floaty-fall",
+      "name": {
+        "ja": "ふわふわフォール",
+        "en": "Floaty Fall"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 732,
+      "identifier": "pika-papow",
+      "name": {
+        "ja": "ピカピカサンダー",
+        "en": "Pika Papow"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 733,
+      "identifier": "bouncy-bubble",
+      "name": {
+        "ja": "いきいきバブル",
+        "en": "Bouncy Bubble"
+      },
+      "type": "water"
+    },
+    {
+      "id": 734,
+      "identifier": "buzzy-buzz",
+      "name": {
+        "ja": "びりびりエレキ",
+        "en": "Buzzy Buzz"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 735,
+      "identifier": "sizzly-slide",
+      "name": {
+        "ja": "めらめらバーン",
+        "en": "Sizzly Slide"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 736,
+      "identifier": "glitzy-glow",
+      "name": {
+        "ja": "どばどばオーラ",
+        "en": "Glitzy Glow"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 737,
+      "identifier": "baddy-bad",
+      "name": {
+        "ja": "わるわるゾーン",
+        "en": "Baddy Bad"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 738,
+      "identifier": "sappy-seed",
+      "name": {
+        "ja": "すくすくボンバー",
+        "en": "Sappy Seed"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 739,
+      "identifier": "freezy-frost",
+      "name": {
+        "ja": "こちこちフロスト",
+        "en": "Freezy Frost"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 740,
+      "identifier": "sparkly-swirl",
+      "name": {
+        "ja": "きらきらストーム",
+        "en": "Sparkly Swirl"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 741,
+      "identifier": "veevee-volley",
+      "name": {
+        "ja": "ブイブイブレイク",
+        "en": "Veevee Volley"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 742,
+      "identifier": "double-iron-bash",
+      "name": {
+        "ja": "ダブルパンツァー",
+        "en": "Double Iron Bash"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 743,
+      "identifier": "max-guard",
+      "name": {
+        "ja": "ダイウォール",
+        "en": "Max Guard"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 744,
+      "identifier": "dynamax-cannon",
+      "name": {
+        "ja": "ダイマックスほう",
+        "en": "Dynamax Cannon"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 745,
+      "identifier": "snipe-shot",
+      "name": {
+        "ja": "ねらいうち",
+        "en": "Snipe Shot"
+      },
+      "type": "water"
+    },
+    {
+      "id": 746,
+      "identifier": "jaw-lock",
+      "name": {
+        "ja": "くらいつく",
+        "en": "Jaw Lock"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 747,
+      "identifier": "stuff-cheeks",
+      "name": {
+        "ja": "ほおばる",
+        "en": "Stuff Cheeks"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 748,
+      "identifier": "no-retreat",
+      "name": {
+        "ja": "はいすいのじん",
+        "en": "No Retreat"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 749,
+      "identifier": "tar-shot",
+      "name": {
+        "ja": "タールショット",
+        "en": "Tar Shot"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 750,
+      "identifier": "magic-powder",
+      "name": {
+        "ja": "まほうのこな",
+        "en": "Magic Powder"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 751,
+      "identifier": "dragon-darts",
+      "name": {
+        "ja": "ドラゴンアロー",
+        "en": "Dragon Darts"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 752,
+      "identifier": "teatime",
+      "name": {
+        "ja": "おちゃかい",
+        "en": "Teatime"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 753,
+      "identifier": "octolock",
+      "name": {
+        "ja": "たこがため",
+        "en": "Octolock"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 754,
+      "identifier": "bolt-beak",
+      "name": {
+        "ja": "でんげきくちばし",
+        "en": "Bolt Beak"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 755,
+      "identifier": "fishious-rend",
+      "name": {
+        "ja": "エラがみ",
+        "en": "Fishious Rend"
+      },
+      "type": "water"
+    },
+    {
+      "id": 756,
+      "identifier": "court-change",
+      "name": {
+        "ja": "コートチェンジ",
+        "en": "Court Change"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 757,
+      "identifier": "max-flare",
+      "name": {
+        "ja": "ダイバーン",
+        "en": "Max Flare"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 758,
+      "identifier": "max-flutterby",
+      "name": {
+        "ja": "ダイワーム",
+        "en": "Max Flutterby"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 759,
+      "identifier": "max-lightning",
+      "name": {
+        "ja": "ダイサンダー",
+        "en": "Max Lightning"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 760,
+      "identifier": "max-strike",
+      "name": {
+        "ja": "ダイアタック",
+        "en": "Max Strike"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 761,
+      "identifier": "max-knuckle",
+      "name": {
+        "ja": "ダイナックル",
+        "en": "Max Knuckle"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 762,
+      "identifier": "max-phantasm",
+      "name": {
+        "ja": "ダイホロウ",
+        "en": "Max Phantasm"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 763,
+      "identifier": "max-hailstorm",
+      "name": {
+        "ja": "ダイアイス",
+        "en": "Max Hailstorm"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 764,
+      "identifier": "max-ooze",
+      "name": {
+        "ja": "ダイアシッド",
+        "en": "Max Ooze"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 765,
+      "identifier": "max-geyser",
+      "name": {
+        "ja": "ダイストリーム",
+        "en": "Max Geyser"
+      },
+      "type": "water"
+    },
+    {
+      "id": 766,
+      "identifier": "max-airstream",
+      "name": {
+        "ja": "ダイジェット",
+        "en": "Max Airstream"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 767,
+      "identifier": "max-starfall",
+      "name": {
+        "ja": "ダイフェアリー",
+        "en": "Max Starfall"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 768,
+      "identifier": "max-wyrmwind",
+      "name": {
+        "ja": "ダイドラグーン",
+        "en": "Max Wyrmwind"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 769,
+      "identifier": "max-mindstorm",
+      "name": {
+        "ja": "ダイサイコ",
+        "en": "Max Mindstorm"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 770,
+      "identifier": "max-rockfall",
+      "name": {
+        "ja": "ダイロック",
+        "en": "Max Rockfall"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 771,
+      "identifier": "max-quake",
+      "name": {
+        "ja": "ダイアース",
+        "en": "Max Quake"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 772,
+      "identifier": "max-darkness",
+      "name": {
+        "ja": "ダイアーク",
+        "en": "Max Darkness"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 773,
+      "identifier": "max-overgrowth",
+      "name": {
+        "ja": "ダイソウゲン",
+        "en": "Max Overgrowth"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 774,
+      "identifier": "max-steelspike",
+      "name": {
+        "ja": "ダイスチル",
+        "en": "Max Steelspike"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 775,
+      "identifier": "clangorous-soul",
+      "name": {
+        "ja": "ソウルビート",
+        "en": "Clangorous Soul"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 776,
+      "identifier": "body-press",
+      "name": {
+        "ja": "ボディプレス",
+        "en": "Body Press"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 777,
+      "identifier": "decorate",
+      "name": {
+        "ja": "デコレーション",
+        "en": "Decorate"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 778,
+      "identifier": "drum-beating",
+      "name": {
+        "ja": "ドラムアタック",
+        "en": "Drum Beating"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 779,
+      "identifier": "snap-trap",
+      "name": {
+        "ja": "トラバサミ",
+        "en": "Snap Trap"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 780,
+      "identifier": "pyro-ball",
+      "name": {
+        "ja": "かえんボール",
+        "en": "Pyro Ball"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 781,
+      "identifier": "behemoth-blade",
+      "name": {
+        "ja": "きょじゅうざん",
+        "en": "Behemoth Blade"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 782,
+      "identifier": "behemoth-bash",
+      "name": {
+        "ja": "きょじゅうだん",
+        "en": "Behemoth Bash"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 783,
+      "identifier": "aura-wheel",
+      "name": {
+        "ja": "オーラぐるま",
+        "en": "Aura Wheel"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 784,
+      "identifier": "breaking-swipe",
+      "name": {
+        "ja": "ワイドブレイカー",
+        "en": "Breaking Swipe"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 785,
+      "identifier": "branch-poke",
+      "name": {
+        "ja": "えだづき",
+        "en": "Branch Poke"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 786,
+      "identifier": "overdrive",
+      "name": {
+        "ja": "オーバードライブ",
+        "en": "Overdrive"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 787,
+      "identifier": "apple-acid",
+      "name": {
+        "ja": "りんごさん",
+        "en": "Apple Acid"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 788,
+      "identifier": "grav-apple",
+      "name": {
+        "ja": "Ｇのちから",
+        "en": "Grav Apple"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 789,
+      "identifier": "spirit-break",
+      "name": {
+        "ja": "ソウルクラッシュ",
+        "en": "Spirit Break"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 790,
+      "identifier": "strange-steam",
+      "name": {
+        "ja": "ワンダースチーム",
+        "en": "Strange Steam"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 791,
+      "identifier": "life-dew",
+      "name": {
+        "ja": "いのちのしずく",
+        "en": "Life Dew"
+      },
+      "type": "water"
+    },
+    {
+      "id": 792,
+      "identifier": "obstruct",
+      "name": {
+        "ja": "ブロッキング",
+        "en": "Obstruct"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 793,
+      "identifier": "false-surrender",
+      "name": {
+        "ja": "どげざつき",
+        "en": "False Surrender"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 794,
+      "identifier": "meteor-assault",
+      "name": {
+        "ja": "スターアサルト",
+        "en": "Meteor Assault"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 795,
+      "identifier": "eternabeam",
+      "name": {
+        "ja": "ムゲンダイビーム",
+        "en": "Eternabeam"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 796,
+      "identifier": "steel-beam",
+      "name": {
+        "ja": "てっていこうせん",
+        "en": "Steel Beam"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 797,
+      "identifier": "expanding-force",
+      "name": {
+        "ja": "ワイドフォース",
+        "en": "Expanding Force"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 798,
+      "identifier": "steel-roller",
+      "name": {
+        "ja": "アイアンローラー",
+        "en": "Steel Roller"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 799,
+      "identifier": "scale-shot",
+      "name": {
+        "ja": "スケイルショット",
+        "en": "Scale Shot"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 800,
+      "identifier": "meteor-beam",
+      "name": {
+        "ja": "メテオビーム",
+        "en": "Meteor Beam"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 801,
+      "identifier": "shell-side-arm",
+      "name": {
+        "ja": "シェルアームズ",
+        "en": "Shell Side Arm"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 802,
+      "identifier": "misty-explosion",
+      "name": {
+        "ja": "ミストバースト",
+        "en": "Misty Explosion"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 803,
+      "identifier": "grassy-glide",
+      "name": {
+        "ja": "グラススライダー",
+        "en": "Grassy Glide"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 804,
+      "identifier": "rising-voltage",
+      "name": {
+        "ja": "ライジングボルト",
+        "en": "Rising Voltage"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 805,
+      "identifier": "terrain-pulse",
+      "name": {
+        "ja": "だいちのはどう",
+        "en": "Terrain Pulse"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 806,
+      "identifier": "skitter-smack",
+      "name": {
+        "ja": "はいよるいちげき",
+        "en": "Skitter Smack"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 807,
+      "identifier": "burning-jealousy",
+      "name": {
+        "ja": "しっとのほのお",
+        "en": "Burning Jealousy"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 808,
+      "identifier": "lash-out",
+      "name": {
+        "ja": "うっぷんばらし",
+        "en": "Lash Out"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 809,
+      "identifier": "poltergeist",
+      "name": {
+        "ja": "ポルターガイスト",
+        "en": "Poltergeist"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 810,
+      "identifier": "corrosive-gas",
+      "name": {
+        "ja": "ふしょくガス",
+        "en": "Corrosive Gas"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 811,
+      "identifier": "coaching",
+      "name": {
+        "ja": "コーチング",
+        "en": "Coaching"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 812,
+      "identifier": "flip-turn",
+      "name": {
+        "ja": "クイックターン",
+        "en": "Flip Turn"
+      },
+      "type": "water"
+    },
+    {
+      "id": 813,
+      "identifier": "triple-axel",
+      "name": {
+        "ja": "トリプルアクセル",
+        "en": "Triple Axel"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 814,
+      "identifier": "dual-wingbeat",
+      "name": {
+        "ja": "ダブルウイング",
+        "en": "Dual Wingbeat"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 815,
+      "identifier": "scorching-sands",
+      "name": {
+        "ja": "ねっさのだいち",
+        "en": "Scorching Sands"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 816,
+      "identifier": "jungle-healing",
+      "name": {
+        "ja": "ジャングルヒール",
+        "en": "Jungle Healing"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 817,
+      "identifier": "wicked-blow",
+      "name": {
+        "ja": "あんこくきょうだ",
+        "en": "Wicked Blow"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 818,
+      "identifier": "surging-strikes",
+      "name": {
+        "ja": "すいりゅうれんだ",
+        "en": "Surging Strikes"
+      },
+      "type": "water"
+    },
+    {
+      "id": 819,
+      "identifier": "thunder-cage",
+      "name": {
+        "ja": "サンダープリズン",
+        "en": "Thunder Cage"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 820,
+      "identifier": "dragon-energy",
+      "name": {
+        "ja": "ドラゴンエナジー",
+        "en": "Dragon Energy"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 821,
+      "identifier": "freezing-glare",
+      "name": {
+        "ja": "いてつくしせん",
+        "en": "Freezing Glare"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 822,
+      "identifier": "fiery-wrath",
+      "name": {
+        "ja": "もえあがるいかり",
+        "en": "Fiery Wrath"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 823,
+      "identifier": "thunderous-kick",
+      "name": {
+        "ja": "らいめいげり",
+        "en": "Thunderous Kick"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 824,
+      "identifier": "glacial-lance",
+      "name": {
+        "ja": "ブリザードランス",
+        "en": "Glacial Lance"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 825,
+      "identifier": "astral-barrage",
+      "name": {
+        "ja": "アストラルビット",
+        "en": "Astral Barrage"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 826,
+      "identifier": "eerie-spell",
+      "name": {
+        "ja": "ぶきみなじゅもん",
+        "en": "Eerie Spell"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 827,
+      "identifier": "dire-claw",
+      "name": {
+        "ja": "フェイタルクロー",
+        "en": "Dire Claw"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 828,
+      "identifier": "psyshield-bash",
+      "name": {
+        "ja": "バリアーラッシュ",
+        "en": "Psyshield Bash"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 829,
+      "identifier": "power-shift",
+      "name": {
+        "ja": "パワーシフト",
+        "en": "Power Shift"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 830,
+      "identifier": "stone-axe",
+      "name": {
+        "ja": "がんせきアックス",
+        "en": "Stone Axe"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 831,
+      "identifier": "springtide-storm",
+      "name": {
+        "ja": "はるのあらし",
+        "en": "Springtide Storm"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 832,
+      "identifier": "mystical-power",
+      "name": {
+        "ja": "しんぴのちから",
+        "en": "Mystical Power"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 833,
+      "identifier": "raging-fury",
+      "name": {
+        "ja": "だいふんげき",
+        "en": "Raging Fury"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 834,
+      "identifier": "wave-crash",
+      "name": {
+        "ja": "ウェーブタックル",
+        "en": "Wave Crash"
+      },
+      "type": "water"
+    },
+    {
+      "id": 835,
+      "identifier": "chloroblast",
+      "name": {
+        "ja": "クロロブラスト",
+        "en": "Chloroblast"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 836,
+      "identifier": "mountain-gale",
+      "name": {
+        "ja": "ひょうざんおろし",
+        "en": "Mountain Gale"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 837,
+      "identifier": "victory-dance",
+      "name": {
+        "ja": "しょうりのまい",
+        "en": "Victory Dance"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 838,
+      "identifier": "headlong-rush",
+      "name": {
+        "ja": "ぶちかまし",
+        "en": "Headlong Rush"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 839,
+      "identifier": "barb-barrage",
+      "name": {
+        "ja": "どくばりセンボン",
+        "en": "Barb Barrage"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 840,
+      "identifier": "esper-wing",
+      "name": {
+        "ja": "オーラウイング",
+        "en": "Esper Wing"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 841,
+      "identifier": "bitter-malice",
+      "name": {
+        "ja": "うらみつらみ",
+        "en": "Bitter Malice"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 842,
+      "identifier": "shelter",
+      "name": {
+        "ja": "たてこもる",
+        "en": "Shelter"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 843,
+      "identifier": "triple-arrows",
+      "name": {
+        "ja": "３ぼんのや",
+        "en": "Triple Arrows"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 844,
+      "identifier": "infernal-parade",
+      "name": {
+        "ja": "ひゃっきやこう",
+        "en": "Infernal Parade"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 845,
+      "identifier": "ceaseless-edge",
+      "name": {
+        "ja": "ひけん・ちえなみ",
+        "en": "Ceaseless Edge"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 846,
+      "identifier": "bleakwind-storm",
+      "name": {
+        "ja": "こがらしあらし",
+        "en": "Bleakwind Storm"
+      },
+      "type": "flying"
+    },
+    {
+      "id": 847,
+      "identifier": "wildbolt-storm",
+      "name": {
+        "ja": "かみなりあらし",
+        "en": "Wildbolt Storm"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 848,
+      "identifier": "sandsear-storm",
+      "name": {
+        "ja": "ねっさのあらし",
+        "en": "Sandsear Storm"
+      },
+      "type": "ground"
+    },
+    {
+      "id": 849,
+      "identifier": "lunar-blessing",
+      "name": {
+        "ja": "みかづきのいのり",
+        "en": "Lunar Blessing"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 850,
+      "identifier": "take-heart",
+      "name": {
+        "ja": "ブレイブチャージ",
+        "en": "Take Heart"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 851,
+      "identifier": "tera-blast",
+      "name": {
+        "ja": "テラバースト",
+        "en": "Tera Blast"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 852,
+      "identifier": "silk-trap",
+      "name": {
+        "ja": "スレッドトラップ",
+        "en": "Silk Trap"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 853,
+      "identifier": "axe-kick",
+      "name": {
+        "ja": "かかとおとし",
+        "en": "Axe Kick"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 854,
+      "identifier": "last-respects",
+      "name": {
+        "ja": "おはかまいり",
+        "en": "Last Respects"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 855,
+      "identifier": "lumina-crash",
+      "name": {
+        "ja": "ルミナコリジョン",
+        "en": "Lumina Crash"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 856,
+      "identifier": "order-up",
+      "name": {
+        "ja": "いっちょうあがり",
+        "en": "Order Up"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 857,
+      "identifier": "jet-punch",
+      "name": {
+        "ja": "ジェットパンチ",
+        "en": "Jet Punch"
+      },
+      "type": "water"
+    },
+    {
+      "id": 858,
+      "identifier": "spicy-extract",
+      "name": {
+        "ja": "ハバネロエキス",
+        "en": "Spicy Extract"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 859,
+      "identifier": "spin-out",
+      "name": {
+        "ja": "ホイールスピン",
+        "en": "Spin Out"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 860,
+      "identifier": "population-bomb",
+      "name": {
+        "ja": "ネズミざん",
+        "en": "Population Bomb"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 861,
+      "identifier": "ice-spinner",
+      "name": {
+        "ja": "アイススピナー",
+        "en": "Ice Spinner"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 862,
+      "identifier": "glaive-rush",
+      "name": {
+        "ja": "きょけんとつげき",
+        "en": "Glaive Rush"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 863,
+      "identifier": "revival-blessing",
+      "name": {
+        "ja": "さいきのいのり",
+        "en": "Revival Blessing"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 864,
+      "identifier": "salt-cure",
+      "name": {
+        "ja": "しおづけ",
+        "en": "Salt Cure"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 865,
+      "identifier": "triple-dive",
+      "name": {
+        "ja": "トリプルダイブ",
+        "en": "Triple Dive"
+      },
+      "type": "water"
+    },
+    {
+      "id": 866,
+      "identifier": "mortal-spin",
+      "name": {
+        "ja": "キラースピン",
+        "en": "Mortal Spin"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 867,
+      "identifier": "doodle",
+      "name": {
+        "ja": "うつしえ",
+        "en": "Doodle"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 868,
+      "identifier": "fillet-away",
+      "name": {
+        "ja": "みをけずる",
+        "en": "Fillet Away"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 869,
+      "identifier": "kowtow-cleave",
+      "name": {
+        "ja": "ドゲザン",
+        "en": "Kowtow Cleave"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 870,
+      "identifier": "flower-trick",
+      "name": {
+        "ja": "トリックフラワー",
+        "en": "Flower Trick"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 871,
+      "identifier": "torch-song",
+      "name": {
+        "ja": "フレアソング",
+        "en": "Torch Song"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 872,
+      "identifier": "aqua-step",
+      "name": {
+        "ja": "アクアステップ",
+        "en": "Aqua Step"
+      },
+      "type": "water"
+    },
+    {
+      "id": 873,
+      "identifier": "raging-bull",
+      "name": {
+        "ja": "レイジングブル",
+        "en": "Raging Bull"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 874,
+      "identifier": "make-it-rain",
+      "name": {
+        "ja": "ゴールドラッシュ",
+        "en": "Make It Rain"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 875,
+      "identifier": "psyblade",
+      "name": {
+        "ja": "サイコブレイド ",
+        "en": "Psyblade"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 876,
+      "identifier": "hydro-steam",
+      "name": {
+        "ja": "ハイドロスチーム",
+        "en": "Hydro Steam"
+      },
+      "type": "water"
+    },
+    {
+      "id": 877,
+      "identifier": "ruination",
+      "name": {
+        "ja": "カタストロフィ",
+        "en": "Ruination"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 878,
+      "identifier": "collision-course",
+      "name": {
+        "ja": "アクセルブレイク",
+        "en": "Collision Course"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 879,
+      "identifier": "electro-drift",
+      "name": {
+        "ja": "イナズマドライブ",
+        "en": "Electro Drift"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 880,
+      "identifier": "shed-tail",
+      "name": {
+        "ja": "しっぽきり",
+        "en": "Shed Tail"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 881,
+      "identifier": "chilly-reception",
+      "name": {
+        "ja": "さむいギャグ",
+        "en": "Chilly Reception"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 882,
+      "identifier": "tidy-up",
+      "name": {
+        "ja": "おかたづけ",
+        "en": "Tidy Up"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 883,
+      "identifier": "snowscape",
+      "name": {
+        "ja": "ゆきげしき",
+        "en": "Snowscape"
+      },
+      "type": "ice"
+    },
+    {
+      "id": 884,
+      "identifier": "pounce",
+      "name": {
+        "ja": "とびつく",
+        "en": "Pounce"
+      },
+      "type": "bug"
+    },
+    {
+      "id": 885,
+      "identifier": "trailblaze",
+      "name": {
+        "ja": "くさわけ",
+        "en": "Trailblaze"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 886,
+      "identifier": "chilling-water",
+      "name": {
+        "ja": "ひやみず",
+        "en": "Chilling Water"
+      },
+      "type": "water"
+    },
+    {
+      "id": 887,
+      "identifier": "hyper-drill",
+      "name": {
+        "ja": "ハイパードリル",
+        "en": "Hyper Drill"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 888,
+      "identifier": "twin-beam",
+      "name": {
+        "ja": "ツインビーム",
+        "en": "Twin Beam"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 889,
+      "identifier": "rage-fist",
+      "name": {
+        "ja": "ふんどのこぶし",
+        "en": "Rage Fist"
+      },
+      "type": "ghost"
+    },
+    {
+      "id": 890,
+      "identifier": "armor-cannon",
+      "name": {
+        "ja": "アーマーキャノン",
+        "en": "Armor Cannon"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 891,
+      "identifier": "bitter-blade",
+      "name": {
+        "ja": "むねんのつるぎ",
+        "en": "Bitter Blade"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 892,
+      "identifier": "double-shock",
+      "name": {
+        "ja": "でんこうそうげき",
+        "en": "Double Shock"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 893,
+      "identifier": "gigaton-hammer",
+      "name": {
+        "ja": "デカハンマー",
+        "en": "Gigaton Hammer"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 894,
+      "identifier": "comeuppance",
+      "name": {
+        "ja": "ほうふく",
+        "en": "Comeuppance"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 895,
+      "identifier": "aqua-cutter",
+      "name": {
+        "ja": "アクアカッター",
+        "en": "Aqua Cutter"
+      },
+      "type": "water"
+    },
+    {
+      "id": 896,
+      "identifier": "blazing-torque",
+      "name": {
+        "ja": "バーンアクセル",
+        "en": "Blazing Torque"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 897,
+      "identifier": "wicked-torque",
+      "name": {
+        "ja": "ダークアクセル",
+        "en": "Wicked Torque"
+      },
+      "type": "dark"
+    },
+    {
+      "id": 898,
+      "identifier": "noxious-torque",
+      "name": {
+        "ja": "ポイズンアクセル",
+        "en": "Noxious Torque"
+      },
+      "type": "poison"
+    },
+    {
+      "id": 899,
+      "identifier": "combat-torque",
+      "name": {
+        "ja": "ファイトアクセル",
+        "en": "Combat Torque"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 900,
+      "identifier": "magical-torque",
+      "name": {
+        "ja": "マジカルアクセル",
+        "en": "Magical Torque"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 901,
+      "identifier": "blood-moon",
+      "name": {
+        "ja": "ブラッドムーン",
+        "en": "Blood Moon"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 902,
+      "identifier": "matcha-gotcha",
+      "name": {
+        "ja": "シャカシャカほう",
+        "en": "Matcha Gotcha"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 903,
+      "identifier": "syrup-bomb",
+      "name": {
+        "ja": "みずあめボム",
+        "en": "Syrup Bomb"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 904,
+      "identifier": "ivy-cudgel",
+      "name": {
+        "ja": "ツタこんぼう",
+        "en": "Ivy Cudgel"
+      },
+      "type": "grass"
+    },
+    {
+      "id": 905,
+      "identifier": "electro-shot",
+      "name": {
+        "ja": "エレクトロビーム",
+        "en": "Electro Shot"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 906,
+      "identifier": "tera-starstorm",
+      "name": {
+        "ja": "テラクラスター",
+        "en": "Tera Starstorm"
+      },
+      "type": "normal"
+    },
+    {
+      "id": 907,
+      "identifier": "fickle-beam",
+      "name": {
+        "ja": "きまぐレーザー",
+        "en": "Fickle Beam"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 908,
+      "identifier": "burning-bulwark",
+      "name": {
+        "ja": "かえんのまもり",
+        "en": "Burning Bulwark"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 909,
+      "identifier": "thunderclap",
+      "name": {
+        "ja": "じんらい",
+        "en": "Thunderclap"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 910,
+      "identifier": "mighty-cleave",
+      "name": {
+        "ja": "パワフルエッジ",
+        "en": "Mighty Cleave"
+      },
+      "type": "rock"
+    },
+    {
+      "id": 911,
+      "identifier": "tachyon-cutter",
+      "name": {
+        "ja": "タキオンカッター",
+        "en": "Tachyon Cutter"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 912,
+      "identifier": "hard-press",
+      "name": {
+        "ja": "ハードプレス",
+        "en": "Hard Press"
+      },
+      "type": "steel"
+    },
+    {
+      "id": 913,
+      "identifier": "dragon-cheer",
+      "name": {
+        "ja": "ドラゴンエール",
+        "en": "Dragon Cheer"
+      },
+      "type": "dragon"
+    },
+    {
+      "id": 914,
+      "identifier": "alluring-voice",
+      "name": {
+        "ja": "みわくのボイス",
+        "en": "Alluring Voice"
+      },
+      "type": "fairy"
+    },
+    {
+      "id": 915,
+      "identifier": "temper-flare",
+      "name": {
+        "ja": "やけっぱち",
+        "en": "Temper Flare"
+      },
+      "type": "fire"
+    },
+    {
+      "id": 916,
+      "identifier": "supercell-slam",
+      "name": {
+        "ja": "サンダーダイブ",
+        "en": "Supercell Slam"
+      },
+      "type": "electric"
+    },
+    {
+      "id": 917,
+      "identifier": "psychic-noise",
+      "name": {
+        "ja": "サイコノイズ",
+        "en": "Psychic Noise"
+      },
+      "type": "psychic"
+    },
+    {
+      "id": 918,
+      "identifier": "upper-hand",
+      "name": {
+        "ja": "はやてがえし",
+        "en": "Upper Hand"
+      },
+      "type": "fighting"
+    },
+    {
+      "id": 919,
+      "identifier": "malignant-chain",
+      "name": {
+        "ja": "じゃどくのくさり",
+        "en": "Malignant Chain"
+      },
+      "type": "poison"
+    }
+  ],
+  "total": 919
+}

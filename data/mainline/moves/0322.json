@@ -1,0 +1,18 @@
+{
+  "id": 322,
+  "identifier": "cosmic-power",
+  "name": {
+    "ja": "コスモパワー",
+    "en": "Cosmic Power"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "宇宙から　神秘の　力をとりこむ　ことで自分の　防御と　特防を　あげる。",
+    "en": "The user absorbs a mystical power from space to boost its Defense and Sp. Def stats."
+  }
+}

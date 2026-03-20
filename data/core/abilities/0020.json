@@ -1,0 +1,13 @@
+{
+  "id": 20,
+  "identifier": "own-tempo",
+  "name": {
+    "ja": "マイペース",
+    "en": "Own Tempo"
+  },
+  "description": {
+    "ja": "マイペースなのでこんらん状態に　ならない。",
+    "en": "The Pokémon sticks to its own tempo, preventing it from becoming confused or being affected by Intimidate."
+  },
+  "generation": 3
+}

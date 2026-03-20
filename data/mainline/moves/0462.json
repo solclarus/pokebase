@@ -1,0 +1,18 @@
+{
+  "id": 462,
+  "identifier": "crush-grip",
+  "name": {
+    "ja": "にぎりつぶす",
+    "en": "Crush Grip"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "すさまじい　力で　相手を　にぎりつぶす。相手の　ＨＰが　残っているほど威力が　あがる。",
+    "en": "The target is crushed with great force. The more HP the target has left, the greater the move's power."
+  }
+}

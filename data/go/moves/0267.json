@@ -1,0 +1,13 @@
+{
+  "id": 267,
+  "identifier": "gyro-ball",
+  "name": {
+    "ja": "ジャイロボール",
+    "en": "Gyro Ball"
+  },
+  "type": "steel",
+  "move_type": "charged",
+  "power": 85,
+  "energy_delta": -50,
+  "duration_ms": 3500
+}

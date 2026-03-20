@@ -1,0 +1,13 @@
+{
+  "id": 94,
+  "identifier": "solar-power",
+  "name": {
+    "ja": "サンパワー",
+    "en": "Solar Power"
+  },
+  "description": {
+    "ja": "天気が　晴れると特攻が　上がるが毎ターン　ＨＰが　減る。",
+    "en": "In harsh sunlight, the Pokémon's Sp. Atk stat is boosted, but its HP decreases every turn."
+  },
+  "generation": 4
+}

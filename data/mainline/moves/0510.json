@@ -1,0 +1,18 @@
+{
+  "id": 510,
+  "identifier": "incinerate",
+  "name": {
+    "ja": "やきつくす",
+    "en": "Incinerate"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "炎で　相手を　攻撃する。相手が　きのみなどを　持っているとき燃やして　使えなくする。",
+    "en": "The user attacks opposing Pokémon with fire. If a Pokémon is holding a certain item, such as a Berry, the item becomes burned up and unusable."
+  }
+}

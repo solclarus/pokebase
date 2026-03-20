@@ -1,0 +1,80 @@
+{
+  "pokemon_id": 845,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウッウ",
+        "en": "Cramorant"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 55,
+        "sp_attack": 85,
+        "sp_defense": 95,
+        "speed": 85
+      },
+      "ability_ids": [
+        241
+      ]
+    },
+    {
+      "id": "gulping",
+      "order": 1,
+      "name": {
+        "ja": "うのみのすがた",
+        "en": "Gulping Form"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 55,
+        "sp_attack": 85,
+        "sp_defense": 95,
+        "speed": 85
+      },
+      "ability_ids": [
+        241
+      ]
+    },
+    {
+      "id": "gorging",
+      "order": 2,
+      "name": {
+        "ja": "まるのみのすがた",
+        "en": "Gorging Form"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "flying",
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 55,
+        "sp_attack": 85,
+        "sp_defense": 95,
+        "speed": 85
+      },
+      "ability_ids": [
+        241
+      ]
+    }
+  ]
+}

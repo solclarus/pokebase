@@ -1,0 +1,13 @@
+{
+  "id": 21,
+  "identifier": "suction-cups",
+  "name": {
+    "ja": "きゅうばん",
+    "en": "Suction Cups"
+  },
+  "description": {
+    "ja": "吸盤で　地面に　張り付きポケモンを　入れ替えさせる技や　道具が　効かなくなる。",
+    "en": "The Pokémon uses suction cups to stay in one spot. This protects it from moves and items that would force it to switch out."
+  },
+  "generation": 3
+}

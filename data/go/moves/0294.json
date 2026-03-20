@@ -1,0 +1,13 @@
+{
+  "id": 294,
+  "identifier": "weather-ball-rock",
+  "name": {
+    "ja": "ウェザーボール",
+    "en": "Weather Ball Rock"
+  },
+  "type": "rock",
+  "move_type": "charged",
+  "power": 55,
+  "energy_delta": -33,
+  "duration_ms": 1500
+}

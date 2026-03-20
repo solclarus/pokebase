@@ -1,0 +1,44 @@
+{
+  "pokemon_id": 59,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 227,
+      "base_defense": 166,
+      "base_stamina": 207,
+      "fast_move_ids": [
+        240,
+        278,
+        326
+      ],
+      "charged_move_ids": [
+        103,
+        251,
+        279,
+        24,
+        353,
+        393
+      ],
+      "released_at": "2016-07-06",
+      "shiny_released_at": "2018-09-01",
+      "elite_fast_move_ids": [
+        202
+      ],
+      "elite_charged_move_ids": [
+        95
+      ]
+    },
+    {
+      "form_id": "hisui",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2022-07-27",
+      "shiny_released_at": "2023-09-27",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

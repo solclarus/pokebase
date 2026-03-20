@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 247,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "サナギラス",
+        "en": "Pupitar"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 84,
+        "defense": 70,
+        "sp_attack": 65,
+        "sp_defense": 70,
+        "speed": 51
+      },
+      "ability_ids": [
+        61
+      ]
+    }
+  ]
+}

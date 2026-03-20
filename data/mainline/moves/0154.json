@@ -1,0 +1,18 @@
+{
+  "id": 154,
+  "identifier": "fury-swipes",
+  "name": {
+    "ja": "みだれひっかき",
+    "en": "Fury Swipes"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 18,
+  "accuracy": 80,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "ツメや　カマなどで相手を　ひっかいて　攻撃する。２ー５回の　間　連続で　だす。",
+    "en": "The user attacks by raking the target with claws, scythes, or the like. This move hits two to five times in a row."
+  }
+}

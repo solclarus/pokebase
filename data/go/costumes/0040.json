@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 40,
+  "costumes": [
+    {
+      "costume_id": "0040-ribbon",
+      "identifier": "wigglytuff-ribbon",
+      "name": {
+        "ja": "プクリン（リボン）",
+        "en": "Wigglytuff (Ribbon)"
+      },
+      "event": "January 1, 2024",
+      "available_from": "2024-01-01",
+      "available_until": null
+    }
+  ]
+}

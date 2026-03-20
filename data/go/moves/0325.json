@@ -1,0 +1,13 @@
+{
+  "id": 325,
+  "identifier": "lock-on",
+  "name": {
+    "ja": "ロックオン",
+    "en": "Lock On"
+  },
+  "type": "normal",
+  "move_type": "fast",
+  "power": 2,
+  "energy_delta": 10,
+  "duration_ms": 500
+}

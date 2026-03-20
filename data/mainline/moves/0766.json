@@ -1,0 +1,18 @@
+{
+  "id": 766,
+  "identifier": "max-airstream",
+  "name": {
+    "ja": "ダイジェット",
+    "en": "Max Airstream"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　ひこうタイプの　攻撃。味方の　素早さを　上げる。",
+    "en": "This is a Flying-type attack Dynamax Pokémon use. This raises ally Pokémon’s Speed stats."
+  }
+}

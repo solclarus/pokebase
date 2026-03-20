@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 994,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テツノドクガ",
+        "en": "Iron Moth"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fire",
+        "poison"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 70,
+        "defense": 60,
+        "sp_attack": 140,
+        "sp_defense": 110,
+        "speed": 110
+      },
+      "ability_ids": [
+        282
+      ]
+    }
+  ]
+}

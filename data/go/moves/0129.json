@@ -1,0 +1,13 @@
+{
+  "id": 129,
+  "identifier": "hyper-fang",
+  "name": {
+    "ja": "ひっさつまえば",
+    "en": "Hyper Fang"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 80,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

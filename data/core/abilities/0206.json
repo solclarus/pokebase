@@ -1,0 +1,13 @@
+{
+  "id": 206,
+  "identifier": "galvanize",
+  "name": {
+    "ja": "エレキスキン",
+    "en": "Galvanize"
+  },
+  "description": {
+    "ja": "ノーマルタイプの　技がでんきタイプになる。威力が　少し　上がる。",
+    "en": "Normal-type moves become Electric-type moves. The power of those moves is boosted a little."
+  },
+  "generation": 7
+}

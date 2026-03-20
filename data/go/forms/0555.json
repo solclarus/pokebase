@@ -1,0 +1,61 @@
+{
+  "pokemon_id": 555,
+  "forms": [
+    {
+      "form_id": "standard",
+      "base_attack": 243,
+      "base_defense": 202,
+      "base_stamina": 233,
+      "fast_move_ids": [
+        221,
+        327
+      ],
+      "charged_move_ids": [
+        270,
+        254,
+        310,
+        33
+      ],
+      "released_at": "2020-01-24",
+      "shiny_released_at": "2021-07-06",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "zen",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "galar-standard",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": "2020-06-03",
+      "shiny_released_at": "2021-12-23",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "galar-zen",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

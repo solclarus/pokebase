@@ -1,0 +1,18 @@
+{
+  "id": 364,
+  "identifier": "feint",
+  "name": {
+    "ja": "フェイント",
+    "en": "Feint"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "まもるや　みきり　などを　している相手に　攻撃が　できる。守りの　効果を　解除させる。",
+    "en": "This attack can hit a target using a move such as Protect or Detect. This also lifts the effects of those moves."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 223,
+  "identifier": "cut",
+  "name": {
+    "ja": "いあいぎり",
+    "en": "Cut"
+  },
+  "type": "normal",
+  "move_type": "fast",
+  "power": 5,
+  "energy_delta": 5,
+  "duration_ms": 500
+}

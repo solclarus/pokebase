@@ -1,0 +1,18 @@
+{
+  "id": 211,
+  "identifier": "steel-wing",
+  "name": {
+    "ja": "はがねのつばさ",
+    "en": "Steel Wing"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 70,
+  "accuracy": 90,
+  "pp": 25,
+  "generation": 2,
+  "description": {
+    "ja": "硬い　翼を　相手に　たたきつけて攻撃する。　自分の　防御があがることが　ある。",
+    "en": "The target is hit with wings of steel. This may also boost the user's Defense stat."
+  }
+}

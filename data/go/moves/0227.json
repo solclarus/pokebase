@@ -1,0 +1,13 @@
+{
+  "id": 227,
+  "identifier": "rock-throw",
+  "name": {
+    "ja": "いわおとし",
+    "en": "Rock Throw"
+  },
+  "type": "rock",
+  "move_type": "fast",
+  "power": 13,
+  "energy_delta": 8,
+  "duration_ms": 1000
+}

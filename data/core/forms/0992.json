@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 992,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テツノカイナ",
+        "en": "Iron Hands"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fighting",
+        "electric"
+      ],
+      "stats": {
+        "hp": 154,
+        "attack": 140,
+        "defense": 108,
+        "sp_attack": 50,
+        "sp_defense": 68,
+        "speed": 50
+      },
+      "ability_ids": [
+        282
+      ]
+    }
+  ]
+}

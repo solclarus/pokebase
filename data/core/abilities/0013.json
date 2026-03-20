@@ -1,0 +1,13 @@
+{
+  "id": 13,
+  "identifier": "cloud-nine",
+  "name": {
+    "ja": "ノーてんき",
+    "en": "Cloud Nine"
+  },
+  "description": {
+    "ja": "あらゆる　天気の　影響がなくなって　しまう。",
+    "en": "Eliminates the effects of weather."
+  },
+  "generation": 3
+}

@@ -1,0 +1,18 @@
+{
+  "id": 855,
+  "identifier": "lumina-crash",
+  "name": {
+    "ja": "ルミナコリジョン",
+    "en": "Lumina Crash"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user attacks by unleashing a peculiar light that even affects the mind. This also harshly lowers the target's Sp. Def stat."
+  }
+}

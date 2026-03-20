@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 33,
+  "costumes": [
+    {
+      "costume_id": "0033-party_hat",
+      "identifier": "nidorino-party-hat",
+      "name": {
+        "ja": "ニドリーノ（パーティーハット）",
+        "en": "Nidorino (Party Hat)"
+      },
+      "event": "March 1, 2020",
+      "available_from": "2020-03-01",
+      "available_until": null
+    }
+  ]
+}

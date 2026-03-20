@@ -1,0 +1,13 @@
+{
+  "id": 60,
+  "identifier": "sticky-hold",
+  "name": {
+    "ja": "ねんちゃく",
+    "en": "Sticky Hold"
+  },
+  "description": {
+    "ja": "粘着質の　体に道具が　くっついているため相手に　道具を　奪われない。",
+    "en": "The Pokémon's held items cling to its sticky body and cannot be removed by other Pokémon."
+  },
+  "generation": 3
+}

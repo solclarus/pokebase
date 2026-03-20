@@ -1,0 +1,13 @@
+{
+  "id": 387,
+  "identifier": "geomancy",
+  "name": {
+    "ja": "ジオコントロール",
+    "en": "Geomancy"
+  },
+  "type": "fairy",
+  "move_type": "fast",
+  "power": 20,
+  "energy_delta": 14,
+  "duration_ms": 1500
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 910,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アチゲータ",
+        "en": "Crocalor"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 81,
+        "attack": 55,
+        "defense": 78,
+        "sp_attack": 90,
+        "sp_defense": 58,
+        "speed": 49
+      },
+      "ability_ids": [
+        66
+      ],
+      "hidden_ability_id": 109
+    }
+  ]
+}

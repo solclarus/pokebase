@@ -1,0 +1,61 @@
+{
+  "pokemon_id": 128,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 210,
+      "base_defense": 193,
+      "base_stamina": 181,
+      "fast_move_ids": [
+        221,
+        234
+      ],
+      "charged_move_ids": [
+        126,
+        74,
+        31,
+        392
+      ],
+      "released_at": "2016-07-06",
+      "shiny_released_at": "2019-09-09",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "paldea-combat",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2025-04-03",
+      "shiny_released_at": null
+    },
+    {
+      "form_id": "paldea-blaze",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2025-04-03",
+      "shiny_released_at": null
+    },
+    {
+      "form_id": "paldea-aqua",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2025-04-03",
+      "shiny_released_at": null
+    }
+  ]
+}

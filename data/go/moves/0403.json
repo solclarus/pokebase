@@ -1,0 +1,13 @@
+{
+  "id": 403,
+  "identifier": "sand-attack",
+  "name": {
+    "ja": "すなかけ",
+    "en": "Sand Attack"
+  },
+  "type": "ground",
+  "move_type": "charged",
+  "power": 4,
+  "energy_delta": 7,
+  "duration_ms": 500
+}

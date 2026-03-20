@@ -1,0 +1,13 @@
+{
+  "id": 215,
+  "identifier": "innards-out",
+  "name": {
+    "ja": "とびだすなかみ",
+    "en": "Innards Out"
+  },
+  "description": {
+    "ja": "相手に　倒されたときＨＰの　残りの　ぶんだけ相手に　ダメージを　あたえる。",
+    "en": "Damages the attacker landing the finishing hit by the amount equal to its last HP."
+  },
+  "generation": 7
+}

@@ -1,0 +1,18 @@
+{
+  "id": 435,
+  "identifier": "discharge",
+  "name": {
+    "ja": "ほうでん",
+    "en": "Discharge"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "まばゆい　電撃で　自分の周りに　いるものを　攻撃する。まひ状態に　することが　ある。",
+    "en": "The user strikes everything around it by letting loose a flare of electricity. This may also leave those hit by the attack with paralysis."
+  }
+}

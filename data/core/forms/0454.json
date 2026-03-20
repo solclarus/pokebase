@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 454,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドクロッグ",
+        "en": "Toxicroak"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "poison",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 83,
+        "attack": 106,
+        "defense": 65,
+        "sp_attack": 86,
+        "sp_defense": 65,
+        "speed": 85
+      },
+      "ability_ids": [
+        107,
+        87
+      ],
+      "hidden_ability_id": 143
+    }
+  ]
+}

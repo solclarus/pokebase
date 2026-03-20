@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 714,
+  "costumes": [
+    {
+      "costume_id": "0714-headband",
+      "identifier": "noibat-headband",
+      "name": {
+        "ja": "オンバット（ヘッドバンド）",
+        "en": "Noibat (Headband)"
+      },
+      "event": "October 21, 2025",
+      "available_from": "2025-10-21",
+      "available_until": null
+    }
+  ]
+}

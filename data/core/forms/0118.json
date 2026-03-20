@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 118,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "トサキント",
+        "en": "Goldeen"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 67,
+        "defense": 60,
+        "sp_attack": 35,
+        "sp_defense": 50,
+        "speed": 63
+      },
+      "ability_ids": [
+        33,
+        41
+      ],
+      "hidden_ability_id": 31
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 403,
+  "identifier": "air-slash",
+  "name": {
+    "ja": "エアスラッシュ",
+    "en": "Air Slash"
+  },
+  "type": "flying",
+  "category": "special",
+  "power": 75,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "空をも　切り裂く空気の　刃で　攻撃する。相手を　ひるませることが　ある。",
+    "en": "The user attacks with a blade of air that slices even the sky. This may also make the target flinch."
+  }
+}

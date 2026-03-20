@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 176,
+  "costumes": [
+    {
+      "costume_id": "0176-flower",
+      "identifier": "togetic-flower",
+      "name": {
+        "ja": "トゲチック（はなかんむり）",
+        "en": "Togetic (Flower)"
+      },
+      "event": "April 12, 2022",
+      "available_from": "2022-04-12",
+      "available_until": null
+    }
+  ]
+}

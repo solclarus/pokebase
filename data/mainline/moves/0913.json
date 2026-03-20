@@ -1,0 +1,18 @@
+{
+  "id": 913,
+  "identifier": "dragon-cheer",
+  "name": {
+    "ja": "ドラゴンエール",
+    "en": "Dragon Cheer"
+  },
+  "type": "dragon",
+  "category": "status",
+  "power": 0,
+  "accuracy": 0,
+  "pp": 15,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user raises its allies’ morale with a draconic cry so that their future attacks have a heightened chance of landing critical hits. This rouses Dragon types more."
+  }
+}

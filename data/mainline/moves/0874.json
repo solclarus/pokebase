@@ -1,0 +1,18 @@
+{
+  "id": 874,
+  "identifier": "make-it-rain",
+  "name": {
+    "ja": "ゴールドラッシュ",
+    "en": "Make It Rain"
+  },
+  "type": "steel",
+  "category": "special",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user attacks by throwing out a mass of coins. This also lowers the user's Sp. Atk stat. Money is earned after the battle."
+  }
+}

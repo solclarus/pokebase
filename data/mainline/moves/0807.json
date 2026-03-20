@@ -1,0 +1,18 @@
+{
+  "id": 807,
+  "identifier": "burning-jealousy",
+  "name": {
+    "ja": "しっとのほのお",
+    "en": "Burning Jealousy"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "しっとの　エネルギーで　相手を　攻撃。そのターン　能力が　あがった　ポケモンをやけどの　状態に　する。",
+    "en": "The user attacks with energy from jealousy. This leaves all opposing Pokémon that have had their stats boosted during the turn with a burn."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 92,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゴース",
+        "en": "Gastly"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "ghost",
+        "poison"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 35,
+        "defense": 30,
+        "sp_attack": 100,
+        "sp_defense": 35,
+        "speed": 80
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

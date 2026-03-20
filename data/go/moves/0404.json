@@ -1,0 +1,13 @@
+{
+  "id": 404,
+  "identifier": "sunsteel-strike",
+  "name": {
+    "ja": "メテオドライブ",
+    "en": "Sunsteel Strike"
+  },
+  "type": "steel",
+  "move_type": "charged",
+  "power": 230,
+  "energy_delta": -100,
+  "duration_ms": 3000
+}

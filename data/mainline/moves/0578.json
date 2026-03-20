@@ -1,0 +1,18 @@
+{
+  "id": 578,
+  "identifier": "crafty-shield",
+  "name": {
+    "ja": "トリックガード",
+    "en": "Crafty Shield"
+  },
+  "type": "fairy",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "不思議な　力を　使って味方への　変化技を　防ぐ。ダメージ技は　受けてしまう。",
+    "en": "The user protects itself and its allies from status moves with a mysterious power. This does not stop moves that do damage."
+  }
+}

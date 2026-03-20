@@ -1,0 +1,18 @@
+{
+  "id": 526,
+  "identifier": "work-up",
+  "name": {
+    "ja": "ふるいたてる",
+    "en": "Work Up"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 5,
+  "description": {
+    "ja": "自分を　奮いたてて攻撃と　特攻を　あげる。",
+    "en": "The user is roused, and its Attack and Sp. Atk stats are boosted."
+  }
+}

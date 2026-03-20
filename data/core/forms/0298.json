@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 298,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ルリリ",
+        "en": "Azurill"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 20,
+        "defense": 40,
+        "sp_attack": 20,
+        "sp_defense": 40,
+        "speed": 20
+      },
+      "ability_ids": [
+        47,
+        37
+      ],
+      "hidden_ability_id": 157
+    }
+  ]
+}

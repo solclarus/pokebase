@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 584,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "バイバニラ",
+        "en": "Vanilluxe"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 95,
+        "defense": 85,
+        "sp_attack": 110,
+        "sp_defense": 95,
+        "speed": 79
+      },
+      "ability_ids": [
+        115,
+        117
+      ],
+      "hidden_ability_id": 133
+    }
+  ]
+}

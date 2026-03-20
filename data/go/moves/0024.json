@@ -1,0 +1,13 @@
+{
+  "id": 24,
+  "identifier": "flamethrower",
+  "name": {
+    "ja": "かえんほうしゃ",
+    "en": "Flamethrower"
+  },
+  "type": "fire",
+  "move_type": "charged",
+  "power": 65,
+  "energy_delta": -50,
+  "duration_ms": 2000
+}

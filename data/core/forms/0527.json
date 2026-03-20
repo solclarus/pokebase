@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 527,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コロモリ",
+        "en": "Woobat"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 45,
+        "defense": 43,
+        "sp_attack": 55,
+        "sp_defense": 43,
+        "speed": 72
+      },
+      "ability_ids": [
+        109,
+        103
+      ],
+      "hidden_ability_id": 86
+    }
+  ]
+}

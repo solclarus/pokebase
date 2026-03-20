@@ -1,0 +1,13 @@
+{
+  "id": 200,
+  "identifier": "steelworker",
+  "name": {
+    "ja": "はがねつかい",
+    "en": "Steelworker"
+  },
+  "description": {
+    "ja": "はがねタイプの　技の威力が　上がる。",
+    "en": "Powers up Steel-type moves."
+  },
+  "generation": 7
+}

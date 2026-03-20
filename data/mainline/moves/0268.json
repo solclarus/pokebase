@@ -1,0 +1,18 @@
+{
+  "id": 268,
+  "identifier": "charge",
+  "name": {
+    "ja": "じゅうでん",
+    "en": "Charge"
+  },
+  "type": "electric",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "次の　ターンに　だす　でんきタイプの技の　威力を　あげる。自分の　特防も　あがる。",
+    "en": "The user becomes charged, boosting the power of the next Electric-type move it uses. This also boosts the user's Sp. Def stat."
+  }
+}

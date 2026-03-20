@@ -1,0 +1,18 @@
+{
+  "id": 229,
+  "identifier": "rapid-spin",
+  "name": {
+    "ja": "こうそくスピン",
+    "en": "Rapid Spin"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 40,
+  "generation": 2,
+  "description": {
+    "ja": "回転して　相手を　攻撃する。しめつける　まきつく　やどりぎのタネ　など吹きとばす。自分の　素早さも　あがる。",
+    "en": "The user performs a spin attack that can also eliminate the effects of such moves as Bind, Wrap, and Leech Seed. This also boosts the user's Speed stat."
+  }
+}

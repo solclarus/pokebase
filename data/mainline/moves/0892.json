@@ -1,0 +1,18 @@
+{
+  "id": 892,
+  "identifier": "double-shock",
+  "name": {
+    "ja": "でんこうそうげき",
+    "en": "Double Shock"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user discharges all the electricity from its body to perform a high-damage attack. After using this move, the user will no longer be Electric type."
+  }
+}

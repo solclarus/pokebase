@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 212,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハッサム",
+        "en": "Scizor"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 130,
+        "defense": 100,
+        "sp_attack": 55,
+        "sp_defense": 80,
+        "speed": 65
+      },
+      "ability_ids": [
+        68,
+        101
+      ],
+      "hidden_ability_id": 135
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガハッサム",
+        "en": "Mega Scizor"
+      },
+      "form_type": "mega",
+      "region": "johto",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 150,
+        "defense": 140,
+        "sp_attack": 65,
+        "sp_defense": 100,
+        "speed": 75
+      },
+      "ability_ids": [
+        101
+      ]
+    }
+  ]
+}

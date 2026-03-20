@@ -1,0 +1,18 @@
+{
+  "id": 34,
+  "identifier": "body-slam",
+  "name": {
+    "ja": "のしかかり",
+    "en": "Body Slam"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "全身で相手に　のしかかり　攻撃する。まひ状態に　することが　ある。",
+    "en": "The user attacks by dropping onto the target with its full body weight. This may also leave the target with paralysis."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 798,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カミツルギ",
+        "en": "Kartana"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "stats": {
+        "hp": 59,
+        "attack": 181,
+        "defense": 131,
+        "sp_attack": 59,
+        "sp_defense": 31,
+        "speed": 109
+      },
+      "ability_ids": [
+        224
+      ]
+    }
+  ]
+}

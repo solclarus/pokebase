@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1025,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "モモワロウ",
+        "en": "Pecharunt"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "poison",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 88,
+        "defense": 160,
+        "sp_attack": 88,
+        "sp_defense": 88,
+        "speed": 88
+      },
+      "ability_ids": [
+        307
+      ]
+    }
+  ]
+}

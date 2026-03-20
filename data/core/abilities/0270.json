@@ -1,0 +1,13 @@
+{
+  "id": 270,
+  "identifier": "thermal-exchange",
+  "name": {
+    "ja": "ねつこうかん",
+    "en": "Thermal Exchange"
+  },
+  "description": {
+    "ja": "ほのおタイプの技を受けると攻撃が上がる。やけど状態にならない。",
+    "en": "Boosts the Attack stat when the Pokémon is hit by a Fire-type move. The Pokémon also cannot be burned."
+  },
+  "generation": 9
+}

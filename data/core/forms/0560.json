@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 560,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ズルズキン",
+        "en": "Scrafty"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 115,
+        "sp_attack": 45,
+        "sp_defense": 115,
+        "speed": 58
+      },
+      "ability_ids": [
+        61,
+        153
+      ],
+      "hidden_ability_id": 22
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガズルズキン",
+        "en": "Mega Scrafty"
+      },
+      "form_type": "mega",
+      "region": "unova",
+      "types": [
+        "dark",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 130,
+        "defense": 135,
+        "sp_attack": 55,
+        "sp_defense": 135,
+        "speed": 68
+      },
+      "ability_ids": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 523,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゼブライカ",
+        "en": "Zebstrika"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 63,
+        "sp_attack": 80,
+        "sp_defense": 63,
+        "speed": 116
+      },
+      "ability_ids": [
+        31,
+        78
+      ],
+      "hidden_ability_id": 157
+    }
+  ]
+}

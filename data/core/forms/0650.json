@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 650,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハリマロン",
+        "en": "Chespin"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 56,
+        "attack": 61,
+        "defense": 65,
+        "sp_attack": 48,
+        "sp_defense": 45,
+        "speed": 38
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 171
+    }
+  ]
+}

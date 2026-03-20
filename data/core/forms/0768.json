@@ -1,0 +1,53 @@
+{
+  "pokemon_id": 768,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "グソクムシャ",
+        "en": "Golisopod"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 125,
+        "defense": 140,
+        "sp_attack": 60,
+        "sp_defense": 90,
+        "speed": 40
+      },
+      "ability_ids": [
+        194
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガグソクムシャ",
+        "en": "Mega Golisopod"
+      },
+      "form_type": "mega",
+      "region": "alola",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 150,
+        "defense": 175,
+        "sp_attack": 70,
+        "sp_defense": 120,
+        "speed": 40
+      },
+      "ability_ids": []
+    }
+  ]
+}

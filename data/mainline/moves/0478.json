@@ -1,0 +1,18 @@
+{
+  "id": 478,
+  "identifier": "magic-room",
+  "name": {
+    "ja": "マジックルーム",
+    "en": "Magic Room"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "まか不思議な　空間を　つくる。５ターンの間　すべてのポケモンの道具の　効果が　なくなる。",
+    "en": "The user creates a bizarre area in which Pokémon's held items lose their effects for five turns."
+  }
+}

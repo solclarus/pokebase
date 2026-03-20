@@ -1,0 +1,18 @@
+{
+  "id": 354,
+  "identifier": "psycho-boost",
+  "name": {
+    "ja": "サイコブースト",
+    "en": "Psycho Boost"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "The user attacks the target with all its might. The recoil from this move harshly lowers the user's Sp. Atk stat."
+  }
+}

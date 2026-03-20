@@ -1,0 +1,130 @@
+{
+  "pokemon_id": 1008,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ミライドン",
+        "en": "Miraidon"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 85,
+        "defense": 100,
+        "sp_attack": 135,
+        "sp_defense": 115,
+        "speed": 135
+      },
+      "ability_ids": [
+        289
+      ]
+    },
+    {
+      "id": "low-power-mode",
+      "order": 1,
+      "name": {
+        "ja": "リミテッドモード",
+        "en": "Low-Power Mode"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 85,
+        "defense": 100,
+        "sp_attack": 135,
+        "sp_defense": 115,
+        "speed": 135
+      },
+      "ability_ids": [
+        289
+      ]
+    },
+    {
+      "id": "drive-mode",
+      "order": 2,
+      "name": {
+        "ja": "ドライブモード",
+        "en": "Drive Mode"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 85,
+        "defense": 100,
+        "sp_attack": 135,
+        "sp_defense": 115,
+        "speed": 135
+      },
+      "ability_ids": [
+        289
+      ]
+    },
+    {
+      "id": "aquatic-mode",
+      "order": 3,
+      "name": {
+        "ja": "フロートモード",
+        "en": "Aquatic Mode"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 85,
+        "defense": 100,
+        "sp_attack": 135,
+        "sp_defense": 115,
+        "speed": 135
+      },
+      "ability_ids": [
+        289
+      ]
+    },
+    {
+      "id": "glide-mode",
+      "order": 4,
+      "name": {
+        "ja": "グライドモード",
+        "en": "Glide Mode"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 85,
+        "defense": 100,
+        "sp_attack": 135,
+        "sp_defense": 115,
+        "speed": 135
+      },
+      "ability_ids": [
+        289
+      ]
+    }
+  ]
+}

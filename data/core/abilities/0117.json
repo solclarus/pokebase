@@ -1,0 +1,13 @@
+{
+  "id": 117,
+  "identifier": "snow-warning",
+  "name": {
+    "ja": "ゆきふらし",
+    "en": "Snow Warning"
+  },
+  "description": {
+    "ja": "登場　したときに天気を　あられに　する。",
+    "en": "The Pokémon makes it snow when it enters a battle."
+  },
+  "generation": 4
+}

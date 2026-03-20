@@ -1,0 +1,13 @@
+{
+  "id": 57,
+  "identifier": "plus",
+  "name": {
+    "ja": "プラス",
+    "en": "Plus"
+  },
+  "description": {
+    "ja": "プラスか　マイナスの　特性を　持つポケモンが　仲間に　いると自分の　特攻が　上がる。",
+    "en": "Boosts the Sp. Atk stat of the Pokémon if an ally with the Plus or Minus Ability is also in battle."
+  },
+  "generation": 3
+}

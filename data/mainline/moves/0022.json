@@ -1,0 +1,18 @@
+{
+  "id": 22,
+  "identifier": "vine-whip",
+  "name": {
+    "ja": "つるのムチ",
+    "en": "Vine Whip"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 45,
+  "accuracy": 100,
+  "pp": 25,
+  "generation": 1,
+  "description": {
+    "ja": "ムチのように　しなる　細長い　つるで相手を　たたきつけて　攻撃する。",
+    "en": "The target is struck with slender, whiplike vines to inflict damage."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 225,
+  "identifier": "dragon-breath",
+  "name": {
+    "ja": "りゅうのいぶき",
+    "en": "Dragon Breath"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 2,
+  "description": {
+    "ja": "ものすごい　息を相手に　吹きつけて　攻撃する。まひ状態に　することが　ある。",
+    "en": "The user exhales a mighty gust that inflicts damage. This may also leave the target with paralysis."
+  }
+}

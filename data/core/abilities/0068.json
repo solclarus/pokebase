@@ -1,0 +1,13 @@
+{
+  "id": 68,
+  "identifier": "swarm",
+  "name": {
+    "ja": "むしのしらせ",
+    "en": "Swarm"
+  },
+  "description": {
+    "ja": "ＨＰが　減ったときむしタイプの　技の威力が　上がる。",
+    "en": "Powers up Bug-type moves when the Pokémon's HP is low."
+  },
+  "generation": 3
+}

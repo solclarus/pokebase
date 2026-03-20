@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 2,
+  "costumes": [
+    {
+      "costume_id": "0002-party_hat",
+      "identifier": "ivysaur-party-hat",
+      "name": {
+        "ja": "フシギソウ（パーティーハット）",
+        "en": "Ivysaur (Party Hat)"
+      },
+      "event": "July 1, 2025",
+      "available_from": "2025-07-01",
+      "available_until": null
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 639,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テラキオン",
+        "en": "Terrakion"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "rock",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 91,
+        "attack": 129,
+        "defense": 90,
+        "sp_attack": 72,
+        "sp_defense": 90,
+        "speed": 108
+      },
+      "ability_ids": [
+        154
+      ]
+    }
+  ]
+}

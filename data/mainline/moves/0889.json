@@ -1,0 +1,18 @@
+{
+  "id": 889,
+  "identifier": "rage-fist",
+  "name": {
+    "ja": "ふんどのこぶし",
+    "en": "Rage Fist"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user converts its rage into energy to attack. The more times the user has been hit by attacks, the greater the move's power."
+  }
+}

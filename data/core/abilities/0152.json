@@ -1,0 +1,13 @@
+{
+  "id": 152,
+  "identifier": "mummy",
+  "name": {
+    "ja": "ミイラ",
+    "en": "Mummy"
+  },
+  "description": {
+    "ja": "相手に　触られると相手を　ミイラに　してしまう。",
+    "en": "Contact with the Pokémon changes the attacker’s Ability to Mummy."
+  },
+  "generation": 5
+}

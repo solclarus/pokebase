@@ -1,0 +1,13 @@
+{
+  "id": 269,
+  "identifier": "fire-spin",
+  "name": {
+    "ja": "ほのおのうず",
+    "en": "Fire Spin"
+  },
+  "type": "fire",
+  "move_type": "fast",
+  "power": 13,
+  "energy_delta": 9,
+  "duration_ms": 1000
+}

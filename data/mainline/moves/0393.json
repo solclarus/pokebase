@@ -1,0 +1,18 @@
+{
+  "id": 393,
+  "identifier": "magnet-rise",
+  "name": {
+    "ja": "でんじふゆう",
+    "en": "Magnet Rise"
+  },
+  "type": "electric",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "電気で　つくった　磁力の　力で宙に　浮かぶ。５ターンの　間　浮遊できる。",
+    "en": "The user levitates using electrically generated magnetism for five turns."
+  }
+}

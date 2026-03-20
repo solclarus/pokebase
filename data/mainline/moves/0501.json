@@ -1,0 +1,18 @@
+{
+  "id": 501,
+  "identifier": "quick-guard",
+  "name": {
+    "ja": "ファストガード",
+    "en": "Quick Guard"
+  },
+  "type": "fighting",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "自分と　味方を　相手の先制攻撃から　守る。",
+    "en": "The user protects itself and its allies from priority moves."
+  }
+}

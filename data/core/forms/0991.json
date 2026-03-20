@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 991,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テツノツツミ",
+        "en": "Iron Bundle"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "stats": {
+        "hp": 56,
+        "attack": 80,
+        "defense": 114,
+        "sp_attack": 124,
+        "sp_defense": 60,
+        "speed": 136
+      },
+      "ability_ids": [
+        282
+      ]
+    }
+  ]
+}

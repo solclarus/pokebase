@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 922,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "パモット",
+        "en": "Pawmo"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 40,
+        "sp_attack": 50,
+        "sp_defense": 40,
+        "speed": 85
+      },
+      "ability_ids": [
+        10,
+        30
+      ],
+      "hidden_ability_id": 89
+    }
+  ]
+}

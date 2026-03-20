@@ -1,0 +1,18 @@
+{
+  "id": 757,
+  "identifier": "max-flare",
+  "name": {
+    "ja": "ダイバーン",
+    "en": "Max Flare"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 100,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　ほのおタイプの　攻撃。５ターンの　間　日差しを　強くする。",
+    "en": "This is a Fire-type attack Dynamax Pokémon use. The user intensifies the sun for five turns."
+  }
+}

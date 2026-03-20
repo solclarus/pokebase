@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 972,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハカドッグ",
+        "en": "Houndstone"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "hp": 72,
+        "attack": 101,
+        "defense": 100,
+        "sp_attack": 50,
+        "sp_defense": 97,
+        "speed": 68
+      },
+      "ability_ids": [
+        146
+      ],
+      "hidden_ability_id": 218
+    }
+  ]
+}

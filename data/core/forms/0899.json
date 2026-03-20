@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 899,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アヤシシ",
+        "en": "Wyrdeer"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 103,
+        "attack": 105,
+        "defense": 72,
+        "sp_attack": 105,
+        "sp_defense": 75,
+        "speed": 65
+      },
+      "ability_ids": [
+        22,
+        119
+      ],
+      "hidden_ability_id": 157
+    }
+  ]
+}

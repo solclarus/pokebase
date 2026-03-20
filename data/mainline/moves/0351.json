@@ -1,0 +1,18 @@
+{
+  "id": 351,
+  "identifier": "shock-wave",
+  "name": {
+    "ja": "でんげきは",
+    "en": "Shock Wave"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "電撃を　素早く相手に　浴びせる。攻撃は　必ず　命中する。",
+    "en": "The user strikes the target with a quick jolt of electricity. This attack never misses."
+  }
+}

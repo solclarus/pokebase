@@ -1,0 +1,18 @@
+{
+  "id": 517,
+  "identifier": "inferno",
+  "name": {
+    "ja": "れんごく",
+    "en": "Inferno"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 100,
+  "accuracy": 50,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "激しい　炎で相手を　包みこみ　攻撃する。やけど状態に　する。",
+    "en": "The user attacks by engulfing the target in an intense fire. This leaves the target with a burn."
+  }
+}

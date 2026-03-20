@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 98,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "クラブ",
+        "en": "Krabby"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 30,
+        "attack": 105,
+        "defense": 90,
+        "sp_attack": 25,
+        "sp_defense": 25,
+        "speed": 50
+      },
+      "ability_ids": [
+        52,
+        75
+      ],
+      "hidden_ability_id": 125
+    }
+  ]
+}

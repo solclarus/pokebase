@@ -1,0 +1,18 @@
+{
+  "id": 69,
+  "identifier": "seismic-toss",
+  "name": {
+    "ja": "ちきゅうなげ",
+    "en": "Seismic Toss"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "引力を　使い　投げとばす。自分の　レベルと　同じ　ダメージを相手に　与える。",
+    "en": "The target is thrown using the power of gravity. It inflicts damage equal to the user's level."
+  }
+}

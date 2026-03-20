@@ -1,0 +1,18 @@
+{
+  "id": 585,
+  "identifier": "moonblast",
+  "name": {
+    "ja": "ムーンフォース",
+    "en": "Moonblast"
+  },
+  "type": "fairy",
+  "category": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 6,
+  "description": {
+    "ja": "月の　パワーを　かりて相手を　攻撃する。　相手の特攻を　さげる　ことがある。",
+    "en": "Borrowing the power of the moon, the user attacks the target. This may also lower the target's Sp. Atk stat."
+  }
+}

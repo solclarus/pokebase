@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 99,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キングラー",
+        "en": "Kingler"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 130,
+        "defense": 115,
+        "sp_attack": 50,
+        "sp_defense": 50,
+        "speed": 75
+      },
+      "ability_ids": [
+        52,
+        75
+      ],
+      "hidden_ability_id": 125
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスキングラー",
+        "en": "Gigantamax Kingler"
+      },
+      "form_type": "gigantamax",
+      "region": "kanto",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 130,
+        "defense": 115,
+        "sp_attack": 50,
+        "sp_defense": 50,
+        "speed": 75
+      },
+      "ability_ids": [
+        52,
+        75
+      ],
+      "hidden_ability_id": 125
+    }
+  ]
+}

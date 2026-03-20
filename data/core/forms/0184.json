@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 184,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マリルリ",
+        "en": "Azumarill"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 50,
+        "defense": 80,
+        "sp_attack": 60,
+        "sp_defense": 80,
+        "speed": 50
+      },
+      "ability_ids": [
+        47,
+        37
+      ],
+      "hidden_ability_id": 157
+    }
+  ]
+}

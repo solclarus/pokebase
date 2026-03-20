@@ -1,0 +1,13 @@
+{
+  "id": 302,
+  "identifier": "toxic-chain",
+  "name": {
+    "ja": "どくのくさり",
+    "en": "Toxic Chain"
+  },
+  "description": {
+    "ja": "毒素をふくんだ鎖の力で技を当てた相手を猛毒の状態にすることがある。",
+    "en": "The power of the Pokémon's toxic chain may badly poison any target the Pokémon hits with a move"
+  },
+  "generation": 9
+}

@@ -1,0 +1,18 @@
+{
+  "id": 557,
+  "identifier": "v-create",
+  "name": {
+    "ja": "Ｖジェネレート",
+    "en": "V-create"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 180,
+  "accuracy": 95,
+  "pp": 5,
+  "generation": 5,
+  "description": {
+    "ja": "灼熱の　炎を　額から発生させて　捨て身の　体当たり。防御　特防　素早さが　さがる。",
+    "en": "With a hot flame on its forehead, the user hurls itself at its target. This lowers the user’s Defense, Sp. Def, and Speed stats."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1001,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "チオンジェン",
+        "en": "Wo-Chien"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dark",
+        "grass"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 85,
+        "defense": 100,
+        "sp_attack": 95,
+        "sp_defense": 135,
+        "speed": 70
+      },
+      "ability_ids": [
+        286
+      ]
+    }
+  ]
+}

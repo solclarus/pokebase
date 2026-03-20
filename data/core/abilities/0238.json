@@ -1,0 +1,13 @@
+{
+  "id": 238,
+  "identifier": "cotton-down",
+  "name": {
+    "ja": "わたげ",
+    "en": "Cotton Down"
+  },
+  "description": {
+    "ja": "攻撃を　受けると　わたげを　ばらまいて自分以外の　ポケモン　すべての素早さを　下げる。",
+    "en": "When the Pokémon is hit by an attack, it scatters cotton fluff around and lowers the Speed stat of all Pokémon except itself."
+  },
+  "generation": 8
+}

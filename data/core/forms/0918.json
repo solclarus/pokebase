@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 918,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ワナイダー",
+        "en": "Spidops"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 79,
+        "defense": 92,
+        "sp_attack": 52,
+        "sp_defense": 86,
+        "speed": 35
+      },
+      "ability_ids": [
+        15
+      ],
+      "hidden_ability_id": 198
+    }
+  ]
+}

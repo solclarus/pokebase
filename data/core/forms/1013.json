@@ -1,0 +1,83 @@
+{
+  "pokemon_id": 1013,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤバソチャ",
+        "en": "Sinistcha"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 60,
+        "defense": 106,
+        "sp_attack": 121,
+        "sp_defense": 80,
+        "speed": 70
+      },
+      "ability_ids": [
+        301
+      ],
+      "hidden_ability_id": 85
+    },
+    {
+      "id": "unremarkable",
+      "order": 1,
+      "name": {
+        "ja": "ヤバソチャ",
+        "en": "Sinistcha"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 60,
+        "defense": 106,
+        "sp_attack": 121,
+        "sp_defense": 80,
+        "speed": 70
+      },
+      "ability_ids": [
+        301
+      ],
+      "hidden_ability_id": 85
+    },
+    {
+      "id": "masterpiece",
+      "order": 2,
+      "name": {
+        "ja": "ヤバソチャ",
+        "en": "Sinistcha"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 60,
+        "defense": 106,
+        "sp_attack": 121,
+        "sp_defense": 80,
+        "speed": 70
+      },
+      "ability_ids": [
+        301
+      ],
+      "hidden_ability_id": 85
+    }
+  ]
+}

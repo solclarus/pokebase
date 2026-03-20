@@ -1,0 +1,18 @@
+{
+  "id": 36,
+  "identifier": "take-down",
+  "name": {
+    "ja": "とっしん",
+    "en": "Take Down"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 85,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "すごい　勢いで相手に　ぶつかって　攻撃する。自分も　少し　ダメージを　受ける。",
+    "en": "A reckless full-body charge attack for slamming into the target. This also damages the user a little."
+  }
+}

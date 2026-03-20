@@ -1,0 +1,13 @@
+{
+  "id": 472,
+  "identifier": "thunder-cage",
+  "name": {
+    "ja": "サンダープリズン",
+    "en": "Thunder Cage"
+  },
+  "type": "electric",
+  "move_type": "charged",
+  "power": 220,
+  "energy_delta": -100,
+  "duration_ms": 3300
+}

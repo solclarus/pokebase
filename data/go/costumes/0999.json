@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 999,
+  "costumes": [
+    {
+      "costume_id": "0999-roaming_9th_anniversary_coin",
+      "identifier": "gimmighoul-roaming-9th-anniversary-coin",
+      "name": {
+        "ja": "コレクレー（ローミング9周年コイン）",
+        "en": "Gimmighoul (Roaming 9th Anniversary Coin)"
+      },
+      "event": "July 1, 2025",
+      "available_from": "2025-07-01",
+      "available_until": null
+    }
+  ]
+}

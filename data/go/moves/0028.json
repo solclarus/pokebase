@@ -1,0 +1,13 @@
+{
+  "id": 28,
+  "identifier": "cross-chop",
+  "name": {
+    "ja": "クロスチョップ",
+    "en": "Cross Chop"
+  },
+  "type": "fighting",
+  "move_type": "charged",
+  "power": 50,
+  "energy_delta": -50,
+  "duration_ms": 1500
+}

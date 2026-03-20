@@ -1,0 +1,18 @@
+{
+  "id": 270,
+  "identifier": "helping-hand",
+  "name": {
+    "ja": "てだすけ",
+    "en": "Helping Hand"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "仲間を　助ける。てだすけ　された　ポケモンの　技の威力は　いつもより　大きくなる。",
+    "en": "The user assists an ally by boosting the power of that ally's attack."
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 125,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "エレブー",
+        "en": "Electabuzz"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 83,
+        "defense": 57,
+        "sp_attack": 95,
+        "sp_defense": 85,
+        "speed": 105
+      },
+      "ability_ids": [
+        9
+      ],
+      "hidden_ability_id": 72
+    }
+  ]
+}

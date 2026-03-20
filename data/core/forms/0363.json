@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 363,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "タマザラシ",
+        "en": "Spheal"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "ice",
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 40,
+        "defense": 50,
+        "sp_attack": 55,
+        "sp_defense": 50,
+        "speed": 25
+      },
+      "ability_ids": [
+        47,
+        115
+      ],
+      "hidden_ability_id": 12
+    }
+  ]
+}

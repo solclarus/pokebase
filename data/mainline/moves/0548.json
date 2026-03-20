@@ -1,0 +1,18 @@
+{
+  "id": 548,
+  "identifier": "secret-sword",
+  "name": {
+    "ja": "しんぴのつるぎ",
+    "en": "Secret Sword"
+  },
+  "type": "fighting",
+  "category": "special",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "長い　つので　切りつけ　攻撃する。つのが　まとった　不思議な　力は物理的な　ダメージを　与える。",
+    "en": "The user cuts with its long horn. The odd power contained in the horn deals physical damage to the target."
+  }
+}

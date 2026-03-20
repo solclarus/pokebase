@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 401,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コロボーシ",
+        "en": "Kricketot"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 37,
+        "attack": 25,
+        "defense": 41,
+        "sp_attack": 25,
+        "sp_defense": 41,
+        "speed": 25
+      },
+      "ability_ids": [
+        61
+      ],
+      "hidden_ability_id": 50
+    }
+  ]
+}

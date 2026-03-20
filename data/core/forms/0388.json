@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 388,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハヤシガメ",
+        "en": "Grotle"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 89,
+        "defense": 85,
+        "sp_attack": 55,
+        "sp_defense": 65,
+        "speed": 36
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 75
+    }
+  ]
+}

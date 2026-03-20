@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 469,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メガヤンマ",
+        "en": "Yanmega"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "stats": {
+        "hp": 86,
+        "attack": 76,
+        "defense": 86,
+        "sp_attack": 116,
+        "sp_defense": 56,
+        "speed": 95
+      },
+      "ability_ids": [
+        3,
+        110
+      ],
+      "hidden_ability_id": 119
+    }
+  ]
+}

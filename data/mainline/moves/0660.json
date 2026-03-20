@@ -1,0 +1,18 @@
+{
+  "id": 660,
+  "identifier": "first-impression",
+  "name": {
+    "ja": "であいがしら",
+    "en": "First Impression"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "威力が　高い　技　だが戦闘に　出たらすぐに　出さないと　成功　しない。",
+    "en": "Although this move has great power, it works only on the first turn each time the user enters battle."
+  }
+}

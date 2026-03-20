@@ -1,0 +1,18 @@
+{
+  "id": 801,
+  "identifier": "shell-side-arm",
+  "name": {
+    "ja": "シェルアームズ",
+    "en": "Shell Side Arm"
+  },
+  "type": "poison",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "物理か　特殊か　より多く　ダメージを与えられる　能力で　攻撃する。毒状態に　することが　ある。",
+    "en": "This move is either physical or special—whichever will inflict more damage. This may also poison the target."
+  }
+}

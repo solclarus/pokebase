@@ -1,0 +1,13 @@
+{
+  "id": 176,
+  "identifier": "stance-change",
+  "name": {
+    "ja": "バトルスイッチ",
+    "en": "Stance Change"
+  },
+  "description": {
+    "ja": "攻撃技を　出すと　ブレードフォルムに技　キングシールドを　出すとシールドフォルムに　変化する。",
+    "en": "The Pokémon changes its form to Blade Forme when it uses an attack move and changes to Shield Forme when it uses King’s Shield."
+  },
+  "generation": 6
+}

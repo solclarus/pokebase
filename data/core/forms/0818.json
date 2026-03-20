@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 818,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "インテレオン",
+        "en": "Inteleon"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 65,
+        "sp_attack": 125,
+        "sp_defense": 65,
+        "speed": 120
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 97
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスインテレオン",
+        "en": "Gigantamax Inteleon"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 65,
+        "sp_attack": 125,
+        "sp_defense": 65,
+        "speed": 120
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 97
+    }
+  ]
+}

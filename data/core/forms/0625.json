@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 625,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "キリキザン",
+        "en": "Bisharp"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 125,
+        "defense": 100,
+        "sp_attack": 60,
+        "sp_defense": 70,
+        "speed": 70
+      },
+      "ability_ids": [
+        128,
+        39
+      ],
+      "hidden_ability_id": 46
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 465,
+  "identifier": "seed-flare",
+  "name": {
+    "ja": "シードフレア",
+    "en": "Seed Flare"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 120,
+  "accuracy": 85,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "体の　中から　衝撃波を発生させる。相手の　特防をがくっと　さげることが　ある。",
+    "en": "The user emits a shock wave from its body to attack its target. This may also harshly lower the target's Sp. Def stat."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 11,
+  "identifier": "vice-grip",
+  "name": {
+    "ja": "はさむ",
+    "en": "Vise Grip"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 55,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "相手を　両側から　はさんでダメージを　あたえる。",
+    "en": "The target is gripped and squeezed from both sides to inflict damage."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 39,
+  "identifier": "inner-focus",
+  "name": {
+    "ja": "せいしんりょく",
+    "en": "Inner Focus"
+  },
+  "description": {
+    "ja": "鍛えられた　精神に　よって相手の　攻撃に　ひるまない。",
+    "en": "The Pokémon's intense focus prevents it from flinching or being affected by Intimidate."
+  },
+  "generation": 3
+}

@@ -1,0 +1,18 @@
+{
+  "id": 809,
+  "identifier": "poltergeist",
+  "name": {
+    "ja": "ポルターガイスト",
+    "en": "Poltergeist"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 110,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "相手の　持ち物を　あやつって　攻撃。相手が　道具を　持っていない　場合は失敗する。",
+    "en": "The user attacks by controlling the target's item. This move fails if the target isn't holding an item."
+  }
+}

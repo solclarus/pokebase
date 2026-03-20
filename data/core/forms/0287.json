@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 287,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ナマケロ",
+        "en": "Slakoth"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "sp_attack": 35,
+        "sp_defense": 35,
+        "speed": 30
+      },
+      "ability_ids": [
+        54
+      ]
+    }
+  ]
+}

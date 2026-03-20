@@ -1,0 +1,13 @@
+{
+  "id": 331,
+  "identifier": "flying-press",
+  "name": {
+    "ja": "フライングプレス",
+    "en": "Flying Press"
+  },
+  "type": "fighting",
+  "move_type": "charged",
+  "power": 115,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

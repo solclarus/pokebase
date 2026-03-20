@@ -1,0 +1,90 @@
+{
+  "pokemon_id": 671,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 212,
+      "base_defense": 244,
+      "base_stamina": 186,
+      "fast_move_ids": [
+        214,
+        221,
+        215,
+        350
+      ],
+      "charged_move_ids": [
+        87,
+        47,
+        108,
+        84,
+        392
+      ],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [
+        488
+      ]
+    },
+    {
+      "form_id": "red",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2022-02-10",
+      "shiny_released_at": "2024-03-21"
+    },
+    {
+      "form_id": "yellow",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2022-02-10",
+      "shiny_released_at": "2024-03-21"
+    },
+    {
+      "form_id": "orange",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2022-02-10",
+      "shiny_released_at": "2024-03-21"
+    },
+    {
+      "form_id": "blue",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2022-02-10",
+      "shiny_released_at": "2024-03-21"
+    },
+    {
+      "form_id": "white",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": [],
+      "released_at": "2022-02-10",
+      "shiny_released_at": "2024-03-21"
+    }
+  ]
+}

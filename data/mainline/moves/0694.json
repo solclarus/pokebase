@@ -1,0 +1,18 @@
+{
+  "id": 694,
+  "identifier": "aurora-veil",
+  "name": {
+    "ja": "オーロラベール",
+    "en": "Aurora Veil"
+  },
+  "type": "ice",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 7,
+  "description": {
+    "ja": "５ターンの　間　物理と特殊の　ダメージを　弱める。あられの　時しか　出すことが　できない。",
+    "en": "This move reduces damage from physical and special moves for five turns. This can be used only when it is snowing."
+  }
+}

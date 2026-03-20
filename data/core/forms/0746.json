@@ -1,0 +1,53 @@
+{
+  "pokemon_id": 746,
+  "forms": [
+    {
+      "id": "solo",
+      "order": 0,
+      "name": {
+        "ja": "ヨワシ",
+        "en": "Wishiwashi"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 20,
+        "defense": 20,
+        "sp_attack": 25,
+        "sp_defense": 25,
+        "speed": 40
+      },
+      "ability_ids": [
+        208
+      ]
+    },
+    {
+      "id": "school",
+      "order": 1,
+      "name": {
+        "ja": "むれたすがた",
+        "en": "School Form"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 140,
+        "defense": 130,
+        "sp_attack": 140,
+        "sp_defense": 135,
+        "speed": 30
+      },
+      "ability_ids": [
+        208
+      ]
+    }
+  ]
+}

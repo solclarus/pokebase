@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 682,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "シュシュプ",
+        "en": "Spritzee"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fairy"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 52,
+        "defense": 60,
+        "sp_attack": 63,
+        "sp_defense": 65,
+        "speed": 23
+      },
+      "ability_ids": [
+        131
+      ],
+      "hidden_ability_id": 165
+    }
+  ]
+}

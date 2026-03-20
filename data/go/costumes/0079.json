@@ -1,0 +1,27 @@
+{
+  "pokemon_id": 79,
+  "costumes": [
+    {
+      "costume_id": "0079-new_year",
+      "identifier": "slowpoke-new-year",
+      "name": {
+        "ja": "ヤドン（お正月）",
+        "en": "Slowpoke (New Year)"
+      },
+      "event": "December 31, 2020",
+      "available_from": "2020-12-31",
+      "available_until": null
+    },
+    {
+      "costume_id": "0079-detective",
+      "identifier": "slowpoke-detective",
+      "name": {
+        "ja": "ヤドン（名探偵）",
+        "en": "Slowpoke (Detective)"
+      },
+      "event": "October 5, 2023",
+      "available_from": "2023-10-05",
+      "available_until": null
+    }
+  ]
+}

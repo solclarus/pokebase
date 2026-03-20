@@ -1,0 +1,18 @@
+{
+  "id": 295,
+  "identifier": "luster-purge",
+  "name": {
+    "ja": "ラスターパージ",
+    "en": "Luster Purge"
+  },
+  "type": "psychic",
+  "category": "special",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "まばゆい　光を解放して　攻撃する。相手の　特防を　さげることが　ある。",
+    "en": "The user lets loose a damaging burst of light. This may also lower the target's Sp. Def stat."
+  }
+}

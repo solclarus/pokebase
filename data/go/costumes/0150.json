@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 150,
+  "costumes": [
+    {
+      "costume_id": "0150-armored",
+      "identifier": "mewtwo-armored",
+      "name": {
+        "ja": "ミュウツー（アーマード）",
+        "en": "Mewtwo (Armored)"
+      },
+      "event": "July 10, 2019",
+      "available_from": "2019-07-10",
+      "available_until": null
+    }
+  ]
+}

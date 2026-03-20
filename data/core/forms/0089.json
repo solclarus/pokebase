@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 89,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ベトベトン",
+        "en": "Muk"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 105,
+        "defense": 75,
+        "sp_attack": 65,
+        "sp_defense": 100,
+        "speed": 50
+      },
+      "ability_ids": [
+        1,
+        60
+      ],
+      "hidden_ability_id": 143
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "ベトベトン（アローラのすがた）",
+        "en": "Alolan Muk"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 105,
+        "defense": 75,
+        "sp_attack": 65,
+        "sp_defense": 100,
+        "speed": 50
+      },
+      "ability_ids": [
+        143,
+        82
+      ],
+      "hidden_ability_id": 223
+    }
+  ]
+}

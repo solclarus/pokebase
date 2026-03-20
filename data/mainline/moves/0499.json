@@ -1,0 +1,18 @@
+{
+  "id": 499,
+  "identifier": "clear-smog",
+  "name": {
+    "ja": "クリアスモッグ",
+    "en": "Clear Smog"
+  },
+  "type": "poison",
+  "category": "special",
+  "power": 50,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "特殊な　泥の　塊を相手に　投げつけて　攻撃する。能力変化を　もとに　もどす。",
+    "en": "The user attacks the target by throwing a clump of special mud. All stat changes are eliminated."
+  }
+}

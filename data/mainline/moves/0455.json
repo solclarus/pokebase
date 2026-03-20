@@ -1,0 +1,18 @@
+{
+  "id": 455,
+  "identifier": "defend-order",
+  "name": {
+    "ja": "ぼうぎょしれい",
+    "en": "Defend Order"
+  },
+  "type": "bug",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "しもべを　呼びだして　自分の　体におおい　つかせる。防御と　特防をあげることが　できる。",
+    "en": "The user calls out its underlings to shield its body, boosting its Defense and Sp. Def stats."
+  }
+}

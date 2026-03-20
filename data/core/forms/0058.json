@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 58,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ガーディ",
+        "en": "Growlithe"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 70,
+        "defense": 45,
+        "sp_attack": 70,
+        "sp_defense": 50,
+        "speed": 60
+      },
+      "ability_ids": [
+        22,
+        18
+      ],
+      "hidden_ability_id": 154
+    },
+    {
+      "id": "hisui",
+      "order": 1,
+      "name": {
+        "ja": "ガーディ（ヒスイのすがた）",
+        "en": "Hisuian Growlithe"
+      },
+      "form_type": "normal",
+      "region": "hisui",
+      "types": [
+        "fire",
+        "rock"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 45,
+        "sp_attack": 65,
+        "sp_defense": 50,
+        "speed": 55
+      },
+      "ability_ids": [
+        22,
+        18
+      ],
+      "hidden_ability_id": 69
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 16,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ポッポ",
+        "en": "Pidgey"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "sp_attack": 35,
+        "sp_defense": 35,
+        "speed": 56
+      },
+      "ability_ids": [
+        51,
+        77
+      ],
+      "hidden_ability_id": 145
+    }
+  ]
+}

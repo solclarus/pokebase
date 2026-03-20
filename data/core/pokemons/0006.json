@@ -1,0 +1,10 @@
+{
+  "id": 6,
+  "identifier": "charizard",
+  "name": {
+    "ja": "リザードン",
+    "en": "Charizard"
+  },
+  "generation": 1,
+  "category": "normal"
+}

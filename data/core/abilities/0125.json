@@ -1,0 +1,13 @@
+{
+  "id": 125,
+  "identifier": "sheer-force",
+  "name": {
+    "ja": "ちからずく",
+    "en": "Sheer Force"
+  },
+  "description": {
+    "ja": "技の　追加効果は　なくなるがそのぶん　高い　威力で技を　出すことが　できる。",
+    "en": "Removes any additional effects from the Pokémon's moves, but increases the moves' power."
+  },
+  "generation": 5
+}

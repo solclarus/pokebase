@@ -1,0 +1,37 @@
+{
+  "pokemon_id": 834,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 213,
+      "base_defense": 164,
+      "base_stamina": 207,
+      "fast_move_ids": [
+        283,
+        202
+      ],
+      "charged_move_ids": [
+        131,
+        284,
+        259,
+        279
+      ],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "gigantamax",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

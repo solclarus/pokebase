@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 34,
+  "costumes": [
+    {
+      "costume_id": "0034-crown",
+      "identifier": "nidoking-crown",
+      "name": {
+        "ja": "ニドキング（クラウン）",
+        "en": "Nidoking (Crown)"
+      },
+      "event": "May 10, 2025",
+      "available_from": "2025-05-10",
+      "available_until": null
+    }
+  ]
+}

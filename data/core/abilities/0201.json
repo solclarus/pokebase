@@ -1,0 +1,13 @@
+{
+  "id": 201,
+  "identifier": "berserk",
+  "name": {
+    "ja": "ぎゃくじょう",
+    "en": "Berserk"
+  },
+  "description": {
+    "ja": "相手の　攻撃でＨＰが　半分に　なると特攻が　上がる。",
+    "en": "Boosts the Pokémon's Sp. Atk stat when it takes a hit that causes its HP to drop to half or less."
+  },
+  "generation": 7
+}

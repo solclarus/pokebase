@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 556,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マラカッチ",
+        "en": "Maractus"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 86,
+        "defense": 67,
+        "sp_attack": 106,
+        "sp_defense": 67,
+        "speed": 60
+      },
+      "ability_ids": [
+        11,
+        34
+      ],
+      "hidden_ability_id": 114
+    }
+  ]
+}

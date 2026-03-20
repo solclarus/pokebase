@@ -1,0 +1,18 @@
+{
+  "id": 844,
+  "identifier": "infernal-parade",
+  "name": {
+    "ja": "ひゃっきやこう",
+    "en": "Infernal Parade"
+  },
+  "type": "ghost",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user attacks with myriad fireballs. This may also leave the target with a burn. This move's power is doubled if the target has a status condition."
+  }
+}

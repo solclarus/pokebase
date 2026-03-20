@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 314,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イルミーゼ",
+        "en": "Illumise"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 47,
+        "defense": 75,
+        "sp_attack": 73,
+        "sp_defense": 85,
+        "speed": 85
+      },
+      "ability_ids": [
+        12,
+        110
+      ],
+      "hidden_ability_id": 158
+    }
+  ]
+}

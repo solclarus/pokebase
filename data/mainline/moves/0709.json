@@ -1,0 +1,18 @@
+{
+  "id": 709,
+  "identifier": "accelerock",
+  "name": {
+    "ja": "アクセルロック",
+    "en": "Accelerock"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 7,
+  "description": {
+    "ja": "素早い　スピードで相手に　ぶつかって　攻撃する。必ず　先制攻撃　できる。",
+    "en": "The user smashes into the target at high speed. This move always goes first."
+  }
+}

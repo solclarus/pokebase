@@ -1,0 +1,18 @@
+{
+  "id": 197,
+  "identifier": "detect",
+  "name": {
+    "ja": "みきり",
+    "en": "Detect"
+  },
+  "type": "fighting",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "相手の　攻撃をまったく　受けない。連続で　だすと　失敗しやすい。",
+    "en": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession."
+  }
+}

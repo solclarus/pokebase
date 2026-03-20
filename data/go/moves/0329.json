@@ -1,0 +1,13 @@
+{
+  "id": 329,
+  "identifier": "fissure",
+  "name": {
+    "ja": "じわれ",
+    "en": "Fissure"
+  },
+  "type": "ground",
+  "move_type": "charged",
+  "power": 9001,
+  "energy_delta": -25,
+  "duration_ms": 3000
+}

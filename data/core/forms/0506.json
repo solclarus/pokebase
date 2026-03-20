@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 506,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヨーテリー",
+        "en": "Lillipup"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 60,
+        "defense": 45,
+        "sp_attack": 25,
+        "sp_defense": 45,
+        "speed": 55
+      },
+      "ability_ids": [
+        72,
+        53
+      ],
+      "hidden_ability_id": 50
+    }
+  ]
+}

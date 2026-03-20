@@ -1,0 +1,18 @@
+{
+  "id": 198,
+  "identifier": "bone-rush",
+  "name": {
+    "ja": "ボーンラッシュ",
+    "en": "Bone Rush"
+  },
+  "type": "ground",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "硬い　ホネで相手を　なぐりつけて　攻撃する。２ー５回の　間　連続で　だす。",
+    "en": "The user attacks by striking the target with a hard bone. This move hits two to five times in a row."
+  }
+}

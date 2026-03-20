@@ -1,0 +1,18 @@
+{
+  "id": 564,
+  "identifier": "sticky-web",
+  "name": {
+    "ja": "ねばねばネット",
+    "en": "Sticky Web"
+  },
+  "type": "bug",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "相手の　周りに　ねばねばしたネットを　はりめぐらせ　交代ででてきた　相手の　素早さを　さげる。",
+    "en": "The user weaves a sticky net around the opposing team, which lowers their Speed stats upon switching into battle."
+  }
+}

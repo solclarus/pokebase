@@ -1,0 +1,18 @@
+{
+  "id": 520,
+  "identifier": "grass-pledge",
+  "name": {
+    "ja": "くさのちかい",
+    "en": "Grass Pledge"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "草の柱で　攻撃する。みずと　組みあわせると　威力があがって　あたりが　湿原に　なる。",
+    "en": "A column of grass hits the target. When used with its water counterpart, this move's power is boosted and a vast swamp appears."
+  }
+}

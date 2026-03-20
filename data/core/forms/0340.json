@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 340,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ナマズン",
+        "en": "Whiscash"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "stats": {
+        "hp": 110,
+        "attack": 78,
+        "defense": 73,
+        "sp_attack": 76,
+        "sp_defense": 71,
+        "speed": 60
+      },
+      "ability_ids": [
+        12,
+        107
+      ],
+      "hidden_ability_id": 93
+    }
+  ]
+}

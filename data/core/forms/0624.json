@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 624,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コマタナ",
+        "en": "Pawniard"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 85,
+        "defense": 70,
+        "sp_attack": 40,
+        "sp_defense": 40,
+        "speed": 60
+      },
+      "ability_ids": [
+        128,
+        39
+      ],
+      "hidden_ability_id": 46
+    }
+  ]
+}

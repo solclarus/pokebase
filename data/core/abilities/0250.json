@@ -1,0 +1,13 @@
+{
+  "id": 250,
+  "identifier": "mimicry",
+  "name": {
+    "ja": "ぎたい",
+    "en": "Mimicry"
+  },
+  "description": {
+    "ja": "フィールドの　状態に　あわせてポケモンの　タイプが　変わる。",
+    "en": "Changes the Pokémon’s type depending on the terrain."
+  },
+  "generation": 8
+}

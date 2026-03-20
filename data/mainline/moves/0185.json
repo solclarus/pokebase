@@ -1,0 +1,18 @@
+{
+  "id": 185,
+  "identifier": "feint-attack",
+  "name": {
+    "ja": "だましうち",
+    "en": "Feint Attack"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 2,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+  }
+}

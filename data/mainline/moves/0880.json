@@ -1,0 +1,18 @@
+{
+  "id": 880,
+  "identifier": "shed-tail",
+  "name": {
+    "ja": "しっぽきり",
+    "en": "Shed Tail"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": 0,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user creates a substitute for itself using its own HP before switching places with a party Pokémon in waiting."
+  }
+}

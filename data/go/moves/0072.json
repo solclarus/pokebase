@@ -1,0 +1,13 @@
+{
+  "id": 72,
+  "identifier": "magnet-bomb",
+  "name": {
+    "ja": "マグネットボム",
+    "en": "Magnet Bomb"
+  },
+  "type": "steel",
+  "move_type": "charged",
+  "power": 75,
+  "energy_delta": -33,
+  "duration_ms": 3000
+}

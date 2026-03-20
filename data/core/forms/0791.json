@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 791,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ソルガレオ",
+        "en": "Solgaleo"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "stats": {
+        "hp": 137,
+        "attack": 137,
+        "defense": 107,
+        "sp_attack": 113,
+        "sp_defense": 89,
+        "speed": 97
+      },
+      "ability_ids": [
+        230
+      ]
+    }
+  ]
+}

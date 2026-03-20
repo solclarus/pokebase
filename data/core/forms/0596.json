@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 596,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "デンチュラ",
+        "en": "Galvantula"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 77,
+        "defense": 60,
+        "sp_attack": 97,
+        "sp_defense": 60,
+        "speed": 108
+      },
+      "ability_ids": [
+        14,
+        127
+      ],
+      "hidden_ability_id": 68
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 79,
+  "identifier": "sleep-powder",
+  "name": {
+    "ja": "ねむりごな",
+    "en": "Sleep Powder"
+  },
+  "type": "grass",
+  "category": "status",
+  "power": null,
+  "accuracy": 75,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "眠くなる　粉をたくさん　ふりまいて相手を　眠り状態に　する。",
+    "en": "The user scatters a cloud of soporific dust that puts the target to sleep."
+  }
+}

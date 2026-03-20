@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 480,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ユクシー",
+        "en": "Uxie"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 75,
+        "defense": 130,
+        "sp_attack": 75,
+        "sp_defense": 130,
+        "speed": 95
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

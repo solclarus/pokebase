@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 853,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オトスパス",
+        "en": "Grapploct"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 118,
+        "defense": 90,
+        "sp_attack": 70,
+        "sp_defense": 80,
+        "speed": 42
+      },
+      "ability_ids": [
+        7
+      ],
+      "hidden_ability_id": 101
+    }
+  ]
+}

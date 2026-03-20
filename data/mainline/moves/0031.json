@@ -1,0 +1,18 @@
+{
+  "id": 31,
+  "identifier": "fury-attack",
+  "name": {
+    "ja": "みだれづき",
+    "en": "Fury Attack"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 85,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "つのや　くちばしで相手を　つついて　攻撃する。２ー５回の　間　連続で　だす。",
+    "en": "The user attacks by jabbing the target with a horn, a beak, or the like. This move hits two to five times in a row."
+  }
+}

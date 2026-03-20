@@ -1,0 +1,13 @@
+{
+  "id": 40,
+  "identifier": "magma-armor",
+  "name": {
+    "ja": "マグマのよろい",
+    "en": "Magma Armor"
+  },
+  "description": {
+    "ja": "熱い　マグマを　身にまといこおり状態に　ならない。",
+    "en": "The Pokémon’s hot magma coating prevents it from being frozen."
+  },
+  "generation": 3
+}

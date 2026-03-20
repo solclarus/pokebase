@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 366,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "パールル",
+        "en": "Clamperl"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 64,
+        "defense": 85,
+        "sp_attack": 74,
+        "sp_defense": 55,
+        "speed": 32
+      },
+      "ability_ids": [
+        75
+      ],
+      "hidden_ability_id": 155
+    }
+  ]
+}

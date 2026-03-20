@@ -1,0 +1,13 @@
+{
+  "id": 52,
+  "identifier": "hyper-cutter",
+  "name": {
+    "ja": "かいりきバサミ",
+    "en": "Hyper Cutter"
+  },
+  "description": {
+    "ja": "力自慢の　ハサミを　持っているので相手に　攻撃を　下げられない。",
+    "en": "The Pokémon's prized, mighty pincers prevent other Pokémon from lowering its Attack stat."
+  },
+  "generation": 3
+}

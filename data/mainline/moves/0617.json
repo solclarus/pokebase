@@ -1,0 +1,18 @@
+{
+  "id": 617,
+  "identifier": "light-of-ruin",
+  "name": {
+    "ja": "はめつのひかり",
+    "en": "Light of Ruin"
+  },
+  "type": "fairy",
+  "category": "special",
+  "power": 140,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 6,
+  "description": {
+    "ja": "永遠の花　の　パワーを　かりて強力な　光線を　撃ちだす。自分も　かなりの　ダメージを　受ける。",
+    "en": "Drawing power from the Eternal Flower, the user fires a powerful beam of light. This also damages the user quite a lot."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 537,
+  "identifier": "steamroller",
+  "name": {
+    "ja": "ハードローラー",
+    "en": "Steamroller"
+  },
+  "type": "bug",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "この技は　使えません思い出すことが　できなくなりますが技を　忘れることを　おすすめします",
+    "en": "This move can’t be used. It’s recommended that this move is forgotten. Once forgotten, this move can’t be remembered."
+  }
+}

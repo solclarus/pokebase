@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 81,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コイル",
+        "en": "Magnemite"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "stats": {
+        "hp": 25,
+        "attack": 35,
+        "defense": 70,
+        "sp_attack": 95,
+        "sp_defense": 55,
+        "speed": 45
+      },
+      "ability_ids": [
+        42,
+        5
+      ],
+      "hidden_ability_id": 148
+    }
+  ]
+}

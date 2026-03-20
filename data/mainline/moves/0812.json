@@ -1,0 +1,18 @@
+{
+  "id": 812,
+  "identifier": "flip-turn",
+  "name": {
+    "ja": "クイックターン",
+    "en": "Flip Turn"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 8,
+  "description": {
+    "ja": "攻撃した　あとものすごい　スピードで　戻ってきて控えの　ポケモンと　入れ替わる。",
+    "en": "After making its attack, the user rushes back to switch places with a party Pokémon in waiting."
+  }
+}

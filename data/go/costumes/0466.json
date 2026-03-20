@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 466,
+  "costumes": [
+    {
+      "costume_id": "0466-spark",
+      "identifier": "electivire-spark",
+      "name": {
+        "ja": "エレキブル（スパーク）",
+        "en": "Electivire (Spark)"
+      },
+      "event": "May 2, 2023",
+      "available_from": "2023-05-02",
+      "available_until": null
+    }
+  ]
+}

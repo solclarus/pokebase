@@ -1,0 +1,13 @@
+{
+  "id": 397,
+  "identifier": "wildbold-storm",
+  "name": {
+    "ja": "かみなりあらし",
+    "en": "Wildbold Storm"
+  },
+  "type": "electric",
+  "move_type": "charged",
+  "power": 150,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

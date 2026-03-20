@@ -1,0 +1,18 @@
+{
+  "id": 865,
+  "identifier": "triple-dive",
+  "name": {
+    "ja": "トリプルダイブ",
+    "en": "Triple Dive"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 30,
+  "accuracy": 95,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user performs a perfectly timed triple dive, hitting the target with splashes of water three times in a row."
+  }
+}

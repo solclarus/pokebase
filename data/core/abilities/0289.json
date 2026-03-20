@@ -1,0 +1,13 @@
+{
+  "id": 289,
+  "identifier": "hadron-engine",
+  "name": {
+    "ja": "ハドロンエンジン",
+    "en": "Hadron Engine"
+  },
+  "description": {
+    "ja": "登場したときエレキフィールドをはる。エレキフィールドだと未来の機関により特攻が高まる。",
+    "en": "Turns the ground into Electric Terrain when the Pokémon enters a battle. The futuristic engine within the Pokémon also boosts its Sp. Atk stat on Electric Terrain."
+  },
+  "generation": 9
+}

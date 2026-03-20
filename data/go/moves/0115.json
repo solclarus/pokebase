@@ -1,0 +1,13 @@
+{
+  "id": 115,
+  "identifier": "fire-punch",
+  "name": {
+    "ja": "ほのおのパンチ",
+    "en": "Fire Punch"
+  },
+  "type": "fire",
+  "move_type": "charged",
+  "power": 50,
+  "energy_delta": -33,
+  "duration_ms": 2000
+}

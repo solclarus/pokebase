@@ -1,0 +1,18 @@
+{
+  "id": 325,
+  "identifier": "shadow-punch",
+  "name": {
+    "ja": "シャドーパンチ",
+    "en": "Shadow Punch"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 60,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "影に　まぎれて　パンチを　くりだす。攻撃は　必ず　命中する。",
+    "en": "The user throws a punch from the shadows. This attack never misses."
+  }
+}

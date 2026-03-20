@@ -1,0 +1,107 @@
+{
+  "pokemon_id": 555,
+  "forms": [
+    {
+      "id": "standard",
+      "order": 0,
+      "name": {
+        "ja": "ヒヒダルマ",
+        "en": "Darmanitan"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 140,
+        "defense": 55,
+        "sp_attack": 30,
+        "sp_defense": 55,
+        "speed": 95
+      },
+      "ability_ids": [
+        125
+      ],
+      "hidden_ability_id": 161
+    },
+    {
+      "id": "zen",
+      "order": 1,
+      "name": {
+        "ja": "ダルマモード",
+        "en": "Zen Mode"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fire",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 30,
+        "defense": 105,
+        "sp_attack": 140,
+        "sp_defense": 105,
+        "speed": 55
+      },
+      "ability_ids": [
+        125
+      ],
+      "hidden_ability_id": 161
+    },
+    {
+      "id": "galar-standard",
+      "order": 2,
+      "name": {
+        "ja": "ガラルのすがた",
+        "en": "Galarian Form"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 140,
+        "defense": 55,
+        "sp_attack": 30,
+        "sp_defense": 55,
+        "speed": 95
+      },
+      "ability_ids": [
+        255
+      ],
+      "hidden_ability_id": 161
+    },
+    {
+      "id": "galar-zen",
+      "order": 3,
+      "name": {
+        "ja": "ダルマモード",
+        "en": "Zen Mode"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ice",
+        "fire"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 160,
+        "defense": 55,
+        "sp_attack": 30,
+        "sp_defense": 55,
+        "speed": 135
+      },
+      "ability_ids": [
+        255
+      ],
+      "hidden_ability_id": 161
+    }
+  ]
+}

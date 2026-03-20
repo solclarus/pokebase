@@ -1,0 +1,13 @@
+{
+  "id": 209,
+  "identifier": "ember",
+  "name": {
+    "ja": "ひのこ",
+    "en": "Ember"
+  },
+  "type": "fire",
+  "move_type": "fast",
+  "power": 10,
+  "energy_delta": 10,
+  "duration_ms": 1000
+}

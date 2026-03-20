@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 602,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "シビシラス",
+        "en": "Tynamo"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 35,
+        "attack": 55,
+        "defense": 40,
+        "sp_attack": 45,
+        "sp_defense": 40,
+        "speed": 60
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 364,
+  "identifier": "acrobatics",
+  "name": {
+    "ja": "アクロバット",
+    "en": "Acrobatics"
+  },
+  "type": "flying",
+  "move_type": "charged",
+  "power": 100,
+  "energy_delta": -100,
+  "duration_ms": 2000
+}

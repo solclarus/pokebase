@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 633,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "モノズ",
+        "en": "Deino"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "dark",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 52,
+        "attack": 65,
+        "defense": 50,
+        "sp_attack": 45,
+        "sp_defense": 50,
+        "speed": 38
+      },
+      "ability_ids": [
+        55
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 677,
+  "identifier": "anchor-shot",
+  "name": {
+    "ja": "アンカーショット",
+    "en": "Anchor Shot"
+  },
+  "type": "steel",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 7,
+  "description": {
+    "ja": "アンカーを　相手に　からませて攻撃する。　相手は逃げることが　できなくなる。",
+    "en": "The user entangles the target with its anchor chain while attacking. The target becomes unable to flee."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 815,
+  "identifier": "scorching-sands",
+  "name": {
+    "ja": "ねっさのだいち",
+    "en": "Scorching Sands"
+  },
+  "type": "ground",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "熱く　焼けた　砂を相手に　ぶつけて　攻撃する。やけど状態に　することが　ある。",
+    "en": "The user throws scorching sand at the target to attack. This may also leave the target with a burn."
+  }
+}

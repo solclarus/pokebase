@@ -1,0 +1,13 @@
+{
+  "id": 247,
+  "identifier": "focus-blast",
+  "name": {
+    "ja": "きあいだま",
+    "en": "Focus Blast"
+  },
+  "type": "fighting",
+  "move_type": "charged",
+  "power": 140,
+  "energy_delta": -100,
+  "duration_ms": 3500
+}

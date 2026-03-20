@@ -1,0 +1,13 @@
+{
+  "id": 299,
+  "identifier": "minds-eye",
+  "name": {
+    "ja": "しんがん",
+    "en": "Mind’s Eye"
+  },
+  "description": {
+    "ja": "ノーマルかくとうタイプの技をゴーストタイプに当てることができる。相手の回避率の変化を無視し命中率も下げられない。",
+    "en": "The Pokémon ignores changes to opponents' evasiveness, its accuracy can't be lowered, and it can hit Ghost types with Normal-type and Fighting-type moves"
+  },
+  "generation": 9
+}

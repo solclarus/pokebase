@@ -1,0 +1,18 @@
+{
+  "id": 5,
+  "identifier": "mega-punch",
+  "name": {
+    "ja": "メガトンパンチ",
+    "en": "Mega Punch"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 85,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "力を　こめた　パンチで相手を　攻撃する。",
+    "en": "The target is slugged by a punch thrown with muscle-packed power."
+  }
+}

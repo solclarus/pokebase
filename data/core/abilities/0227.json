@@ -1,0 +1,13 @@
+{
+  "id": 227,
+  "identifier": "psychic-surge",
+  "name": {
+    "ja": "サイコメイカー",
+    "en": "Psychic Surge"
+  },
+  "description": {
+    "ja": "登場　したときにサイコフィールドを　はりめぐらせる。",
+    "en": "Turns the ground into Psychic Terrain when the Pokémon enters a battle."
+  },
+  "generation": 7
+}

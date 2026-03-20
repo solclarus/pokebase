@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 64,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ユンゲラー",
+        "en": "Kadabra"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "sp_attack": 120,
+        "sp_defense": 70,
+        "speed": 105
+      },
+      "ability_ids": [
+        28,
+        39
+      ],
+      "hidden_ability_id": 98
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 986,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アラブルタケ",
+        "en": "Brute Bonnet"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "stats": {
+        "hp": 111,
+        "attack": 127,
+        "defense": 99,
+        "sp_attack": 79,
+        "sp_defense": 99,
+        "speed": 55
+      },
+      "ability_ids": [
+        281
+      ]
+    }
+  ]
+}

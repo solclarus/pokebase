@@ -1,0 +1,111 @@
+{
+  "pokemon_id": 128,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ケンタロス",
+        "en": "Tauros"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 100,
+        "defense": 95,
+        "sp_attack": 40,
+        "sp_defense": 70,
+        "speed": 110
+      },
+      "ability_ids": [
+        22,
+        83
+      ],
+      "hidden_ability_id": 125
+    },
+    {
+      "id": "paldea-combat",
+      "order": 1,
+      "name": {
+        "ja": "ケンタロス",
+        "en": "Tauros"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 105,
+        "sp_attack": 30,
+        "sp_defense": 70,
+        "speed": 100
+      },
+      "ability_ids": [
+        22,
+        83
+      ],
+      "hidden_ability_id": 291
+    },
+    {
+      "id": "paldea-blaze",
+      "order": 2,
+      "name": {
+        "ja": "ケンタロス",
+        "en": "Tauros"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fighting",
+        "fire"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 105,
+        "sp_attack": 30,
+        "sp_defense": 70,
+        "speed": 100
+      },
+      "ability_ids": [
+        22,
+        83
+      ],
+      "hidden_ability_id": 291
+    },
+    {
+      "id": "paldea-aqua",
+      "order": 3,
+      "name": {
+        "ja": "ケンタロス",
+        "en": "Tauros"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fighting",
+        "water"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 110,
+        "defense": 105,
+        "sp_attack": 30,
+        "sp_defense": 70,
+        "speed": 100
+      },
+      "ability_ids": [
+        22,
+        83
+      ],
+      "hidden_ability_id": 291
+    }
+  ]
+}

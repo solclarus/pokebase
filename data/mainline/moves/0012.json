@@ -1,0 +1,18 @@
+{
+  "id": 12,
+  "identifier": "guillotine",
+  "name": {
+    "ja": "ハサミギロチン",
+    "en": "Guillotine"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "大きな　ハサミで相手を　切り裂いて　攻撃する。当たれば　一撃で　ひんしに　する。",
+    "en": "A vicious tearing attack with big pincers. The target faints instantly if this attack hits."
+  }
+}

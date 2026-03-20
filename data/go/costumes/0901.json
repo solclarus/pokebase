@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 901,
+  "costumes": [
+    {
+      "costume_id": "0901-witch_hat",
+      "identifier": "ursaluna-witch-hat",
+      "name": {
+        "ja": "ガチグマ（魔女のぼうし）",
+        "en": "Ursaluna (Witch Hat)"
+      },
+      "event": "October 21, 2025",
+      "available_from": "2025-10-21",
+      "available_until": null
+    }
+  ]
+}

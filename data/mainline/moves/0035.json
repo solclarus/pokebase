@@ -1,0 +1,18 @@
+{
+  "id": 35,
+  "identifier": "wrap",
+  "name": {
+    "ja": "まきつく",
+    "en": "Wrap"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 15,
+  "accuracy": 90,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "長い　体や　つるなどを　使って４ー５ターンの　間相手に　まきついて　攻撃する。",
+    "en": "A long body, vines, or the like are used to wrap and squeeze the target for four to five turns."
+  }
+}

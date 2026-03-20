@@ -1,0 +1,18 @@
+{
+  "id": 662,
+  "identifier": "spirit-shackle",
+  "name": {
+    "ja": "かげぬい",
+    "en": "Spirit Shackle"
+  },
+  "type": "ghost",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "攻撃と　同時に相手の　影を　縫い付けて逃げられなくする。",
+    "en": "The user attacks while simultaneously stitching the target's shadow to the ground to prevent the target from fleeing."
+  }
+}

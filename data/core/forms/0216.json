@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 216,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヒメグマ",
+        "en": "Teddiursa"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 80,
+        "defense": 50,
+        "sp_attack": 50,
+        "sp_defense": 50,
+        "speed": 40
+      },
+      "ability_ids": [
+        53,
+        63
+      ],
+      "hidden_ability_id": 139
+    }
+  ]
+}

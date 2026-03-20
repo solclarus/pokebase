@@ -1,0 +1,18 @@
+{
+  "id": 875,
+  "identifier": "psyblade",
+  "name": {
+    "ja": "サイコブレイド ",
+    "en": "Psyblade"
+  },
+  "type": "psychic",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user rends the target with an ethereal blade. This move's power is boosted by 50 percent if the user is on Electric Terrain."
+  }
+}

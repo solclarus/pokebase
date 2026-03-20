@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 757,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤトウモリ",
+        "en": "Salandit"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "poison",
+        "fire"
+      ],
+      "stats": {
+        "hp": 48,
+        "attack": 44,
+        "defense": 40,
+        "sp_attack": 71,
+        "sp_defense": 40,
+        "speed": 77
+      },
+      "ability_ids": [
+        212
+      ],
+      "hidden_ability_id": 12
+    }
+  ]
+}

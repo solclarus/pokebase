@@ -1,0 +1,18 @@
+{
+  "id": 534,
+  "identifier": "razor-shell",
+  "name": {
+    "ja": "シェルブレード",
+    "en": "Razor Shell"
+  },
+  "type": "water",
+  "category": "physical",
+  "power": 75,
+  "accuracy": 95,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "鋭い　貝殻で　切りつけて攻撃する。　相手の　防御をさげることが　ある。",
+    "en": "The user cuts the target with sharp shells to inflict damage. This may also lower the target's Defense stat."
+  }
+}

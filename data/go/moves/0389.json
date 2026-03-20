@@ -1,0 +1,13 @@
+{
+  "id": 389,
+  "identifier": "oblivion-wing",
+  "name": {
+    "ja": "デスウイング",
+    "en": "Oblivion Wing"
+  },
+  "type": "flying",
+  "move_type": "charged",
+  "power": 85,
+  "energy_delta": -50,
+  "duration_ms": 2000
+}

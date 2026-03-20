@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 37,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ロコン",
+        "en": "Vulpix"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 38,
+        "attack": 41,
+        "defense": 40,
+        "sp_attack": 50,
+        "sp_defense": 65,
+        "speed": 65
+      },
+      "ability_ids": [
+        18
+      ],
+      "hidden_ability_id": 70
+    },
+    {
+      "id": "alola",
+      "order": 1,
+      "name": {
+        "ja": "ロコン（アローラのすがた）",
+        "en": "Alolan Vulpix"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 38,
+        "attack": 41,
+        "defense": 40,
+        "sp_attack": 50,
+        "sp_defense": 65,
+        "speed": 65
+      },
+      "ability_ids": [
+        81
+      ],
+      "hidden_ability_id": 117
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pokemon_id": 398,
+  "forms": [
+    {
+      "form_id": "default",
+      "base_attack": 234,
+      "base_defense": 140,
+      "base_stamina": 198,
+      "fast_move_ids": [
+        210,
+        219
+      ],
+      "charged_move_ids": [
+        256,
+        42,
+        245,
+        341
+      ],
+      "released_at": "2018-10-16",
+      "shiny_released_at": "2022-07-17",
+      "elite_fast_move_ids": [
+        345
+      ],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "mega",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

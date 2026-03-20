@@ -1,0 +1,13 @@
+{
+  "id": 232,
+  "identifier": "prism-armor",
+  "name": {
+    "ja": "プリズムアーマー",
+    "en": "Prism Armor"
+  },
+  "description": {
+    "ja": "効果バツグンに　なってしまう攻撃の　威力を弱める　ことが　できる。",
+    "en": "Reduces the power of supereffective attacks taken."
+  },
+  "generation": 7
+}

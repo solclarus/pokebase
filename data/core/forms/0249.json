@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 249,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ルギア",
+        "en": "Lugia"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "psychic",
+        "flying"
+      ],
+      "stats": {
+        "hp": 106,
+        "attack": 90,
+        "defense": 130,
+        "sp_attack": 90,
+        "sp_defense": 154,
+        "speed": 110
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 136
+    }
+  ]
+}

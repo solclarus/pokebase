@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 302,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤミラミ",
+        "en": "Sableye"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 75,
+        "defense": 75,
+        "sp_attack": 65,
+        "sp_defense": 65,
+        "speed": 50
+      },
+      "ability_ids": [
+        51,
+        100
+      ],
+      "hidden_ability_id": 158
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガヤミラミ",
+        "en": "Mega Sableye"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "dark",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 85,
+        "defense": 125,
+        "sp_attack": 85,
+        "sp_defense": 115,
+        "speed": 20
+      },
+      "ability_ids": [
+        156
+      ]
+    }
+  ]
+}

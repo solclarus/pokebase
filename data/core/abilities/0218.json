@@ -1,0 +1,13 @@
+{
+  "id": 218,
+  "identifier": "fluffy",
+  "name": {
+    "ja": "もふもふ",
+    "en": "Fluffy"
+  },
+  "description": {
+    "ja": "相手から　受けた　接触する　技のダメージを　半減するが　ほのおタイプの技の　ダメージは　２倍になる。",
+    "en": "Halves the damage taken from moves that make direct contact, but doubles that of Fire-type moves."
+  },
+  "generation": 7
+}

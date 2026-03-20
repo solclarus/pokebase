@@ -1,0 +1,13 @@
+{
+  "id": 321,
+  "identifier": "giga-impact",
+  "name": {
+    "ja": "ギガインパクト",
+    "en": "Giga Impact"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 200,
+  "energy_delta": -100,
+  "duration_ms": 4500
+}

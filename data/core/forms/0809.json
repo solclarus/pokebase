@@ -1,0 +1,53 @@
+{
+  "pokemon_id": 809,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メルメタル",
+        "en": "Melmetal"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "hp": 135,
+        "attack": 143,
+        "defense": 143,
+        "sp_attack": 80,
+        "sp_defense": 65,
+        "speed": 34
+      },
+      "ability_ids": [
+        89
+      ]
+    },
+    {
+      "id": "gigantamax",
+      "order": 1,
+      "name": {
+        "ja": "キョダイマックスメルメタル",
+        "en": "Gigantamax Melmetal"
+      },
+      "form_type": "gigantamax",
+      "region": "alola",
+      "types": [
+        "steel"
+      ],
+      "stats": {
+        "hp": 135,
+        "attack": 143,
+        "defense": 143,
+        "sp_attack": 80,
+        "sp_defense": 65,
+        "speed": 34
+      },
+      "ability_ids": [
+        89
+      ]
+    }
+  ]
+}

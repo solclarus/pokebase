@@ -1,0 +1,13 @@
+{
+  "id": 188,
+  "identifier": "aura-break",
+  "name": {
+    "ja": "オーラブレイク",
+    "en": "Aura Break"
+  },
+  "description": {
+    "ja": "オーラの　効果を　逆転させて威力を　下げる。",
+    "en": "The effects of “Aura” Abilities are reversed to lower the power of affected moves."
+  },
+  "generation": 6
+}

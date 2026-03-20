@@ -1,0 +1,13 @@
+{
+  "id": 144,
+  "identifier": "regenerator",
+  "name": {
+    "ja": "さいせいりょく",
+    "en": "Regenerator"
+  },
+  "description": {
+    "ja": "手持ちに　引っ込むとＨＰが　少し　回復する。",
+    "en": "The Pokémon has a little of its HP restored when withdrawn from battle."
+  },
+  "generation": 5
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 704,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヌメラ",
+        "en": "Goomy"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "dragon"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 50,
+        "defense": 35,
+        "sp_attack": 55,
+        "sp_defense": 75,
+        "speed": 40
+      },
+      "ability_ids": [
+        157,
+        93
+      ],
+      "hidden_ability_id": 183
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 682,
+  "identifier": "burn-up",
+  "name": {
+    "ja": "もえつきる",
+    "en": "Burn Up"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 130,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 7,
+  "description": {
+    "ja": "全身の　ほのおを　すべて燃やして　大ダメージを　与える。自分の　ほのおタイプが　なくなる。",
+    "en": "To inflict massive damage, the user burns itself out. After using this move, the user will no longer be Fire type."
+  }
+}

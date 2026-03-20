@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 242,
+  "costumes": [
+    {
+      "costume_id": "0242-flower",
+      "identifier": "blissey-flower",
+      "name": {
+        "ja": "ハピナス（はなかんむり）",
+        "en": "Blissey (Flower)"
+      },
+      "event": "April 4, 2021",
+      "available_from": "2021-04-04",
+      "available_until": null
+    }
+  ]
+}

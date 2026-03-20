@@ -1,2 +1,2 @@
-export * from "./pokemon.service";
-export * from "./go.service";
+export * from "@/service/pokemon";
+export * from "@/service/go";

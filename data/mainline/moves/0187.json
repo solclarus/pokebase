@@ -1,0 +1,18 @@
+{
+  "id": 187,
+  "identifier": "belly-drum",
+  "name": {
+    "ja": "はらだいこ",
+    "en": "Belly Drum"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "自分の　ＨＰを　最大ＨＰの半分　減らして　自分の　攻撃を最大に　あげる。",
+    "en": "The user maximizes its Attack stat but loses HP equal to half its max HP."
+  }
+}

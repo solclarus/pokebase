@@ -1,0 +1,18 @@
+{
+  "id": 161,
+  "identifier": "tri-attack",
+  "name": {
+    "ja": "トライアタック",
+    "en": "Tri Attack"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 1,
+  "description": {
+    "ja": "３つの　光線で　攻撃する。まひか　やけどか　こおり状態のどれかに　することが　ある。",
+    "en": "The user strikes with a simultaneous three-beam attack. This may also burn, freeze, or paralyze the target."
+  }
+}

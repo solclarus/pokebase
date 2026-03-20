@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 614,
+  "costumes": [
+    {
+      "costume_id": "0614-holiday",
+      "identifier": "beartic-holiday",
+      "name": {
+        "ja": "ツンベアー（ホリデー）",
+        "en": "Beartic (Holiday)"
+      },
+      "event": "December 23, 2022",
+      "available_from": "2022-12-23",
+      "available_until": null
+    }
+  ]
+}

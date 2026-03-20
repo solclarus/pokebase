@@ -1,0 +1,13 @@
+{
+  "id": 139,
+  "identifier": "harvest",
+  "name": {
+    "ja": "しゅうかく",
+    "en": "Harvest"
+  },
+  "description": {
+    "ja": "使った　きのみを何回も　作りだす。",
+    "en": "May create another Berry after one is used."
+  },
+  "generation": 5
+}

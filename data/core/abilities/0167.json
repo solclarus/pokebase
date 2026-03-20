@@ -1,0 +1,13 @@
+{
+  "id": 167,
+  "identifier": "cheek-pouch",
+  "name": {
+    "ja": "ほおぶくろ",
+    "en": "Cheek Pouch"
+  },
+  "description": {
+    "ja": "どんな　きのみでも食べると　ＨＰも　回復する。",
+    "en": "The Pokémon's HP is restored when it eats any Berry, in addition to the Berry's usual effect."
+  },
+  "generation": 6
+}

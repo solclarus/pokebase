@@ -1,0 +1,18 @@
+{
+  "id": 680,
+  "identifier": "fire-lash",
+  "name": {
+    "ja": "ほのおのムチ",
+    "en": "Fire Lash"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 7,
+  "description": {
+    "ja": "焼けたムチで　相手を　打ちつける。攻撃を　受けた　相手は防御が　さがる。",
+    "en": "The user strikes the target with a burning lash. This also lowers the target's Defense stat."
+  }
+}

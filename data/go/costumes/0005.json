@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 5,
+  "costumes": [
+    {
+      "costume_id": "0005-party_hat",
+      "identifier": "charmeleon-party-hat",
+      "name": {
+        "ja": "リザード（パーティーハット）",
+        "en": "Charmeleon (Party Hat)"
+      },
+      "event": "Jul 6, 2022",
+      "available_from": "2022-07-06",
+      "available_until": null
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "pokemon_id": 358,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "チリーン",
+        "en": "Chimecho"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 50,
+        "defense": 80,
+        "sp_attack": 95,
+        "sp_defense": 90,
+        "speed": 65
+      },
+      "ability_ids": [
+        26
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガチリーン",
+        "en": "Mega Chimecho"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 50,
+        "defense": 110,
+        "sp_attack": 135,
+        "sp_defense": 120,
+        "speed": 65
+      },
+      "ability_ids": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 75,
+  "identifier": "razor-leaf",
+  "name": {
+    "ja": "はっぱカッター",
+    "en": "Razor Leaf"
+  },
+  "type": "grass",
+  "category": "physical",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 25,
+  "generation": 1,
+  "description": {
+    "ja": "はっぱを　とばして相手を　切りつけて　攻撃する。急所に　当たりやすい。",
+    "en": "Sharp-edged leaves are launched to slash at opposing Pokémon. This move has a heightened chance of landing a critical hit."
+  }
+}

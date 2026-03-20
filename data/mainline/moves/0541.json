@@ -1,0 +1,18 @@
+{
+  "id": 541,
+  "identifier": "tail-slap",
+  "name": {
+    "ja": "スイープビンタ",
+    "en": "Tail Slap"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 25,
+  "accuracy": 85,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "硬い　しっぽで相手を　たたいて　攻撃する。２ー５回の　間　連続で　だす。",
+    "en": "The user attacks by striking the target with its hard tail. This move hits two to five times in a row."
+  }
+}

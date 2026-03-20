@@ -1,0 +1,18 @@
+{
+  "id": 182,
+  "identifier": "protect",
+  "name": {
+    "ja": "まもる",
+    "en": "Protect"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "相手の　攻撃をまったく　受けない。連続で　だすと　失敗しやすい。",
+    "en": "This move enables the user to protect itself from all attacks. Its chance of failing rises if it is used in succession."
+  }
+}

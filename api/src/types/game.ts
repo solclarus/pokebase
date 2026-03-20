@@ -1,5 +1,5 @@
 import { z } from "zod";
-import { LocalizedNameSchema } from "./pokemon";
+import { LocalizedNameSchema } from "@/types/pokemon";
 
 export const PlatformSchema = z.enum([
   "gb",

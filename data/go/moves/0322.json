@@ -1,0 +1,13 @@
+{
+  "id": 322,
+  "identifier": "frustration",
+  "name": {
+    "ja": "やつあたり",
+    "en": "Frustration"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 10,
+  "energy_delta": -33,
+  "duration_ms": 2000
+}

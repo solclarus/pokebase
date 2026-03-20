@@ -1,0 +1,18 @@
+{
+  "id": 717,
+  "identifier": "natures-madness",
+  "name": {
+    "ja": "しぜんのいかり",
+    "en": "Nature’s Madness"
+  },
+  "type": "fairy",
+  "category": "special",
+  "power": null,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "自然の　怒りを　相手に　ぶつける。相手の　ＨＰは　半分に　なる。",
+    "en": "The user hits the target with the force of nature. It halves the target’s HP."
+  }
+}

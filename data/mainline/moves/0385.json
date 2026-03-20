@@ -1,0 +1,18 @@
+{
+  "id": 385,
+  "identifier": "guard-swap",
+  "name": {
+    "ja": "ガードスワップ",
+    "en": "Guard Swap"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "超能力で　自分と　相手の防御と　特防の能力変化を　入れ替える。",
+    "en": "The user employs its psychic power to switch changes to its Defense and Sp. Def stats with the target."
+  }
+}

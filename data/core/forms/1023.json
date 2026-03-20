@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1023,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テツノカシラ",
+        "en": "Iron Crown"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "steel",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 72,
+        "defense": 100,
+        "sp_attack": 122,
+        "sp_defense": 108,
+        "speed": 98
+      },
+      "ability_ids": [
+        282
+      ]
+    }
+  ]
+}

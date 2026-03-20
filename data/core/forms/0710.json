@@ -1,0 +1,113 @@
+{
+  "pokemon_id": 710,
+  "forms": [
+    {
+      "id": "average",
+      "order": 0,
+      "name": {
+        "ja": "バケッチャ",
+        "en": "Pumpkaboo"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "stats": {
+        "hp": 49,
+        "attack": 66,
+        "defense": 70,
+        "sp_attack": 44,
+        "sp_defense": 55,
+        "speed": 51
+      },
+      "ability_ids": [
+        53,
+        119
+      ],
+      "hidden_ability_id": 15
+    },
+    {
+      "id": "small",
+      "order": 1,
+      "name": {
+        "ja": "ちいさいサイズ",
+        "en": "Small Size"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "stats": {
+        "hp": 44,
+        "attack": 66,
+        "defense": 70,
+        "sp_attack": 44,
+        "sp_defense": 55,
+        "speed": 56
+      },
+      "ability_ids": [
+        53,
+        119
+      ],
+      "hidden_ability_id": 15
+    },
+    {
+      "id": "large",
+      "order": 2,
+      "name": {
+        "ja": "おおきいサイズ",
+        "en": "Large Size"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "stats": {
+        "hp": 54,
+        "attack": 66,
+        "defense": 70,
+        "sp_attack": 44,
+        "sp_defense": 55,
+        "speed": 46
+      },
+      "ability_ids": [
+        53,
+        119
+      ],
+      "hidden_ability_id": 15
+    },
+    {
+      "id": "super",
+      "order": 3,
+      "name": {
+        "ja": "とくだいサイズ",
+        "en": "Super Size"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "ghost",
+        "grass"
+      ],
+      "stats": {
+        "hp": 59,
+        "attack": 66,
+        "defense": 70,
+        "sp_attack": 44,
+        "sp_defense": 55,
+        "speed": 41
+      },
+      "ability_ids": [
+        53,
+        119
+      ],
+      "hidden_ability_id": 15
+    }
+  ]
+}

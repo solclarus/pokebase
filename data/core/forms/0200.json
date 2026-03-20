@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 200,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ムウマ",
+        "en": "Misdreavus"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 60,
+        "defense": 60,
+        "sp_attack": 85,
+        "sp_defense": 85,
+        "speed": 85
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 706,
+  "identifier": "psychic-fangs",
+  "name": {
+    "ja": "サイコファング",
+    "en": "Psychic Fangs"
+  },
+  "type": "psychic",
+  "category": "physical",
+  "power": 85,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "サイコパワーで　かみついて相手を　攻撃する。　ひかりのかべやリフレクター　なども　破壊できる。",
+    "en": "The user attacks by biting the target with its psychic capabilities. This move can also break barriers, such as Light Screen and Reflect."
+  }
+}

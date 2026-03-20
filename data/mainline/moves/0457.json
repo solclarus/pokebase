@@ -1,0 +1,18 @@
+{
+  "id": 457,
+  "identifier": "head-smash",
+  "name": {
+    "ja": "もろはのずつき",
+    "en": "Head Smash"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 150,
+  "accuracy": 80,
+  "pp": 5,
+  "generation": 4,
+  "description": {
+    "ja": "命を　懸けて　こん身の　力で相手に　ずつきを　する。　自分もものすごい　ダメージを　受ける。",
+    "en": "The user attacks the target with a hazardous full-power headbutt. This also damages the user terribly."
+  }
+}

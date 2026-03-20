@@ -1,0 +1,10 @@
+{
+  "id": 128,
+  "identifier": "tauros",
+  "name": {
+    "ja": "ケンタロス",
+    "en": "Tauros"
+  },
+  "generation": 1,
+  "category": "normal"
+}

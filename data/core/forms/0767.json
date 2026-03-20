@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 767,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "コソクムシ",
+        "en": "Wimpod"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "stats": {
+        "hp": 25,
+        "attack": 35,
+        "defense": 40,
+        "sp_attack": 20,
+        "sp_defense": 30,
+        "speed": 80
+      },
+      "ability_ids": [
+        193
+      ]
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 696,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "チゴラス",
+        "en": "Tyrunt"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 58,
+        "attack": 89,
+        "defense": 77,
+        "sp_attack": 45,
+        "sp_defense": 45,
+        "speed": 48
+      },
+      "ability_ids": [
+        173
+      ],
+      "hidden_ability_id": 5
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 289,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ケッキング",
+        "en": "Slaking"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 150,
+        "attack": 160,
+        "defense": 100,
+        "sp_attack": 95,
+        "sp_defense": 65,
+        "speed": 100
+      },
+      "ability_ids": [
+        54
+      ]
+    }
+  ]
+}

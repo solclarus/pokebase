@@ -1,0 +1,18 @@
+{
+  "id": 784,
+  "identifier": "breaking-swipe",
+  "name": {
+    "ja": "ワイドブレイカー",
+    "en": "Breaking Swipe"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 8,
+  "description": {
+    "ja": "きょうじんな　しっぽを　激しくふりはらって　相手を　攻撃する。相手の　攻撃を　下げる。",
+    "en": "The user swings its tough tail wildly and attacks opposing Pokémon. This also lowers their Attack stats."
+  }
+}

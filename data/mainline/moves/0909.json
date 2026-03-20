@@ -1,0 +1,18 @@
+{
+  "id": 909,
+  "identifier": "thunderclap",
+  "name": {
+    "ja": "じんらい",
+    "en": "Thunderclap"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 70,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "This move enables the user to attack first with a jolt of electricity. This move fails if the target is not readying an attack."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 271,
+  "identifier": "anger-shell",
+  "name": {
+    "ja": "いかりのこうら",
+    "en": "Anger Shell"
+  },
+  "description": {
+    "ja": "相手の攻撃でHPが半分になると怒りで防御と特防が下がるが攻撃特攻素早さが上がる。",
+    "en": "When an attack causes its HP to drop to half or less, the Pokémon gets angry. This lowers its Defense and Sp. Def stats but boosts its Attack, Sp. Atk, and Speed stats."
+  },
+  "generation": 9
+}

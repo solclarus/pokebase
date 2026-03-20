@@ -1,0 +1,18 @@
+{
+  "id": 494,
+  "identifier": "entrainment",
+  "name": {
+    "ja": "なかまづくり",
+    "en": "Entrainment"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "不思議な　リズムで　おどる。動きを　まねさせて　自分と　相手の特性を　同じに　する。",
+    "en": "The user dances with an odd rhythm that compels the target to mimic it, making the target's Ability the same as the user's."
+  }
+}

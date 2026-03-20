@@ -1,0 +1,18 @@
+{
+  "id": 424,
+  "identifier": "fire-fang",
+  "name": {
+    "ja": "ほのおのキバ",
+    "en": "Fire Fang"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 4,
+  "description": {
+    "ja": "炎を　まとった　キバで　かみつく。相手を　ひるませたりやけど状態に　することが　ある。",
+    "en": "The user bites with flame-cloaked fangs. This may also make the target flinch or leave it with a burn."
+  }
+}

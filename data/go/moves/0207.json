@@ -1,0 +1,13 @@
+{
+  "id": 207,
+  "identifier": "low-kick",
+  "name": {
+    "ja": "けたぐり",
+    "en": "Low Kick"
+  },
+  "type": "fighting",
+  "move_type": "fast",
+  "power": 5,
+  "energy_delta": 5,
+  "duration_ms": 500
+}

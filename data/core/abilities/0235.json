@@ -1,0 +1,13 @@
+{
+  "id": 235,
+  "identifier": "dauntless-shield",
+  "name": {
+    "ja": "ふくつのたて",
+    "en": "Dauntless Shield"
+  },
+  "description": {
+    "ja": "登場　したときに防御が　上がる。",
+    "en": "Boosts the Pokémon’s Defense stat the first time the Pokémon enters a battle."
+  },
+  "generation": 8
+}

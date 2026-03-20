@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 377,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レジロック",
+        "en": "Regirock"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 200,
+        "sp_attack": 50,
+        "sp_defense": 100,
+        "speed": 50
+      },
+      "ability_ids": [
+        29
+      ],
+      "hidden_ability_id": 5
+    }
+  ]
+}

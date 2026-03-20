@@ -1,0 +1,18 @@
+{
+  "id": 56,
+  "identifier": "hydro-pump",
+  "name": {
+    "ja": "ハイドロポンプ",
+    "en": "Hydro Pump"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 110,
+  "accuracy": 80,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "大量の　水を激しい　勢いで相手に　発射して　攻撃する。",
+    "en": "The target is blasted by a huge volume of water launched under great pressure."
+  }
+}

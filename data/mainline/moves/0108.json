@@ -1,0 +1,18 @@
+{
+  "id": 108,
+  "identifier": "smokescreen",
+  "name": {
+    "ja": "えんまく",
+    "en": "Smokescreen"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "煙や　墨などを　吹きかけて相手の　命中率を　さげる。",
+    "en": "The user releases an obscuring cloud of smoke or ink. This lowers the target's accuracy."
+  }
+}

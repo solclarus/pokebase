@@ -1,0 +1,18 @@
+{
+  "id": 262,
+  "identifier": "memento",
+  "name": {
+    "ja": "おきみやげ",
+    "en": "Memento"
+  },
+  "type": "dark",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "自分は　ひんしに　なるが　そのかわりに相手の　攻撃と　特攻をがくっと　さげる。",
+    "en": "The user faints. In return, the target's Attack and Sp. Atk stats are harshly lowered."
+  }
+}

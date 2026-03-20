@@ -1,0 +1,13 @@
+{
+  "id": 138,
+  "identifier": "flare-boost",
+  "name": {
+    "ja": "ねつぼうそう",
+    "en": "Flare Boost"
+  },
+  "description": {
+    "ja": "やけど状態に　なったとき特殊技の　威力が　上がる。",
+    "en": "Powers up special moves when the Pokémon is burned."
+  },
+  "generation": 5
+}

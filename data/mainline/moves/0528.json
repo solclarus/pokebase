@@ -1,0 +1,18 @@
+{
+  "id": 528,
+  "identifier": "wild-charge",
+  "name": {
+    "ja": "ワイルドボルト",
+    "en": "Wild Charge"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "電気を　まとって相手に　ぶつかって　攻撃する。自分も　少し　ダメージを　受ける。",
+    "en": "The user shrouds itself in electricity and smashes into its target. This also damages the user a little."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 296,
+  "identifier": "armor-tail",
+  "name": {
+    "ja": "テイルアーマー",
+    "en": "Armor Tail"
+  },
+  "description": {
+    "ja": "頭を包む謎のしっぽがこちらにむかって先制技を出せないようにする。",
+    "en": "The mysterious tail covering the Pokémon's head makes opponents unable to use priority moves against the Pokémon or its allies."
+  },
+  "generation": 9
+}

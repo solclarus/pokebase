@@ -1,0 +1,18 @@
+{
+  "id": 846,
+  "identifier": "bleakwind-storm",
+  "name": {
+    "ja": "こがらしあらし",
+    "en": "Bleakwind Storm"
+  },
+  "type": "flying",
+  "category": "special",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user attacks with savagely cold winds that cause both body and spirit to tremble. This may also lower the Speed stats of opposing Pokémon."
+  }
+}

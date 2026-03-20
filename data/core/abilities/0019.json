@@ -1,0 +1,13 @@
+{
+  "id": 19,
+  "identifier": "shield-dust",
+  "name": {
+    "ja": "りんぷん",
+    "en": "Shield Dust"
+  },
+  "description": {
+    "ja": "りんぷんに　守られて技の　追加効果を　受けなくなる。",
+    "en": "Protective dust shields the Pokémon from the additional effects of moves."
+  },
+  "generation": 3
+}

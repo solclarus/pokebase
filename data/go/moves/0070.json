@@ -1,0 +1,13 @@
+{
+  "id": 70,
+  "identifier": "shadow-ball",
+  "name": {
+    "ja": "シャドーボール",
+    "en": "Shadow Ball"
+  },
+  "type": "ghost",
+  "move_type": "charged",
+  "power": 100,
+  "energy_delta": -50,
+  "duration_ms": 3000
+}

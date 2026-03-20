@@ -1,0 +1,18 @@
+{
+  "id": 329,
+  "identifier": "sheer-cold",
+  "name": {
+    "ja": "ぜったいれいど",
+    "en": "Sheer Cold"
+  },
+  "type": "ice",
+  "category": "special",
+  "power": null,
+  "accuracy": 30,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "相手を　一撃で　瀕死に　する。こおりタイプ　以外の　ポケモンが使うと　当たりにくい。",
+    "en": "The target faints instantly. This move is less likely to hit the target if used by Pokémon other than Ice types."
+  }
+}

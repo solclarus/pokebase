@@ -1,0 +1,18 @@
+{
+  "id": 392,
+  "identifier": "aqua-ring",
+  "name": {
+    "ja": "アクアリング",
+    "en": "Aqua Ring"
+  },
+  "type": "water",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 4,
+  "description": {
+    "ja": "自分の　体の　周りを水で　つくった　ベールで　おおう。毎ターン　ＨＰを　回復する。",
+    "en": "The user envelops itself in a veil made of water. It regains some HP every turn."
+  }
+}

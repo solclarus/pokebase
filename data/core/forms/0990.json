@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 990,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "テツノワダチ",
+        "en": "Iron Treads"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "ground",
+        "steel"
+      ],
+      "stats": {
+        "hp": 90,
+        "attack": 112,
+        "defense": 120,
+        "sp_attack": 72,
+        "sp_defense": 70,
+        "speed": 106
+      },
+      "ability_ids": [
+        282
+      ]
+    }
+  ]
+}

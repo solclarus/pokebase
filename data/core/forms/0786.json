@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 786,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "カプ・テテフ",
+        "en": "Tapu Lele"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "psychic",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 85,
+        "defense": 75,
+        "sp_attack": 130,
+        "sp_defense": 115,
+        "speed": 95
+      },
+      "ability_ids": [
+        227
+      ],
+      "hidden_ability_id": 140
+    }
+  ]
+}

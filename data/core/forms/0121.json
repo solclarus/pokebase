@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 121,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "スターミー",
+        "en": "Starmie"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 75,
+        "defense": 85,
+        "sp_attack": 100,
+        "sp_defense": 85,
+        "speed": 115
+      },
+      "ability_ids": [
+        35,
+        30
+      ],
+      "hidden_ability_id": 148
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガスターミー",
+        "en": "Mega Starmie"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 140,
+        "defense": 105,
+        "sp_attack": 130,
+        "sp_defense": 105,
+        "speed": 120
+      },
+      "ability_ids": []
+    }
+  ]
+}

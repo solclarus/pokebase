@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 20,
+  "costumes": [
+    {
+      "costume_id": "0020-party",
+      "identifier": "raticate-party",
+      "name": {
+        "ja": "ラッタ（パーティー）",
+        "en": "Raticate (Party)"
+      },
+      "event": "January 2, 2020",
+      "available_from": "2020-01-02",
+      "available_until": null
+    }
+  ]
+}

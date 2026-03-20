@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 850,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤクデ",
+        "en": "Sizzlipede"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fire",
+        "bug"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 65,
+        "defense": 45,
+        "sp_attack": 50,
+        "sp_defense": 50,
+        "speed": 45
+      },
+      "ability_ids": [
+        18,
+        73
+      ],
+      "hidden_ability_id": 49
+    }
+  ]
+}

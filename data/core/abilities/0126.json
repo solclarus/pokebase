@@ -1,0 +1,13 @@
+{
+  "id": 126,
+  "identifier": "contrary",
+  "name": {
+    "ja": "あまのじゃく",
+    "en": "Contrary"
+  },
+  "description": {
+    "ja": "能力の　変化が　逆転して上がるときに　下がり下がるときに　上がる。",
+    "en": "Reverses any stat changes affecting the Pokémon so that attempts to boost its stats instead lower them—and attempts to lower its stats will boost them."
+  },
+  "generation": 5
+}

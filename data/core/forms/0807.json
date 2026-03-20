@@ -1,0 +1,51 @@
+{
+  "pokemon_id": 807,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゼラオラ",
+        "en": "Zeraora"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 112,
+        "defense": 75,
+        "sp_attack": 102,
+        "sp_defense": 80,
+        "speed": 143
+      },
+      "ability_ids": [
+        10
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガゼラオラ",
+        "en": "Mega Zeraora"
+      },
+      "form_type": "mega",
+      "region": "alola",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 157,
+        "defense": 75,
+        "sp_attack": 147,
+        "sp_defense": 80,
+        "speed": 153
+      },
+      "ability_ids": []
+    }
+  ]
+}

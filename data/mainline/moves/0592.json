@@ -1,0 +1,18 @@
+{
+  "id": 592,
+  "identifier": "steam-eruption",
+  "name": {
+    "ja": "スチームバースト",
+    "en": "Steam Eruption"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 110,
+  "accuracy": 95,
+  "pp": 5,
+  "generation": 6,
+  "description": {
+    "ja": "ものすごく　熱い　蒸気を相手に　浴びせる。相手は　やけどする　ことがある。",
+    "en": "The user immerses the target in superheated steam. This may also leave the target with a burn."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 43,
+  "identifier": "leer",
+  "name": {
+    "ja": "にらみつける",
+    "en": "Leer"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 30,
+  "generation": 1,
+  "description": {
+    "ja": "鋭い　目つきで　おびえさせて相手の　防御を　さげる。",
+    "en": "The user gives opposing Pokémon an intimidating leer that lowers their Defense stats."
+  }
+}

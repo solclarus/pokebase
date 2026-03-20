@@ -1,0 +1,18 @@
+{
+  "id": 522,
+  "identifier": "struggle-bug",
+  "name": {
+    "ja": "むしのていこう",
+    "en": "Struggle Bug"
+  },
+  "type": "bug",
+  "category": "special",
+  "power": 50,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 5,
+  "description": {
+    "ja": "抵抗して　相手を　攻撃する。相手の　特攻を　さげる。",
+    "en": "The user attacks by struggling against opposing Pokémon. This also lowers their Sp. Atk stats."
+  }
+}

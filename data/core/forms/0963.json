@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 963,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ナミイルカ",
+        "en": "Finizen"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 45,
+        "defense": 40,
+        "sp_attack": 45,
+        "sp_defense": 40,
+        "speed": 75
+      },
+      "ability_ids": [
+        41
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": 78,
+  "identifier": "thunder",
+  "name": {
+    "ja": "かみなり",
+    "en": "Thunder"
+  },
+  "type": "electric",
+  "move_type": "charged",
+  "power": 100,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

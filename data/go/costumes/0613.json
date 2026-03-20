@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 613,
+  "costumes": [
+    {
+      "costume_id": "0613-holiday",
+      "identifier": "cubchoo-holiday",
+      "name": {
+        "ja": "クマシュン（ホリデー）",
+        "en": "Cubchoo (Holiday)"
+      },
+      "event": "December 22, 2020",
+      "available_from": "2020-12-22",
+      "available_until": null
+    }
+  ]
+}

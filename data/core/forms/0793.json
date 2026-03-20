@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 793,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ウツロイド",
+        "en": "Nihilego"
+      },
+      "form_type": "normal",
+      "region": "alola",
+      "types": [
+        "rock",
+        "poison"
+      ],
+      "stats": {
+        "hp": 109,
+        "attack": 53,
+        "defense": 47,
+        "sp_attack": 127,
+        "sp_defense": 131,
+        "speed": 103
+      },
+      "ability_ids": [
+        224
+      ]
+    }
+  ]
+}

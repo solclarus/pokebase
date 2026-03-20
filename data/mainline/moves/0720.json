@@ -1,0 +1,18 @@
+{
+  "id": 720,
+  "identifier": "mind-blown",
+  "name": {
+    "ja": "ビックリヘッド",
+    "en": "Mind Blown"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 150,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 7,
+  "description": {
+    "ja": "自分の　頭を　爆発　させて周りの　すべてを　攻撃する。自分も　ダメージを　受けてしまう。",
+    "en": "The user attacks everything around it by causing its own head to explode. This also damages the user."
+  }
+}

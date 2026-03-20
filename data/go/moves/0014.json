@@ -1,0 +1,13 @@
+{
+  "id": 14,
+  "identifier": "hyper-beam",
+  "name": {
+    "ja": "はかいこうせん",
+    "en": "Hyper Beam"
+  },
+  "type": "normal",
+  "move_type": "charged",
+  "power": 150,
+  "energy_delta": -100,
+  "duration_ms": 4000
+}

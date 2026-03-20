@@ -1,0 +1,13 @@
+{
+  "id": 265,
+  "identifier": "grim-neigh",
+  "name": {
+    "ja": "くろのいななき",
+    "en": "Grim Neigh"
+  },
+  "description": {
+    "ja": "相手を　倒すと恐ろしい　声で　いなないて特攻が　上がる。",
+    "en": "When the Pokémon knocks out a target, it utters a terrifying neigh, which boosts its Sp. Atk stat."
+  },
+  "generation": 8
+}

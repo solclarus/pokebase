@@ -1,0 +1,18 @@
+{
+  "id": 547,
+  "identifier": "relic-song",
+  "name": {
+    "ja": "いにしえのうた",
+    "en": "Relic Song"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 75,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "いにしえのうたを　相手に　聞かせて心に　うったえて　攻撃する。眠り状態に　することが　ある。",
+    "en": "The user sings an ancient song and attacks by appealing to the hearts of the listening opposing Pokémon. This may also induce sleep."
+  }
+}

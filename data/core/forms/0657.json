@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 657,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゲコガシラ",
+        "en": "Frogadier"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "water"
+      ],
+      "stats": {
+        "hp": 54,
+        "attack": 63,
+        "defense": 52,
+        "sp_attack": 83,
+        "sp_defense": 56,
+        "speed": 97
+      },
+      "ability_ids": [
+        67
+      ],
+      "hidden_ability_id": 168
+    }
+  ]
+}

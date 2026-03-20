@@ -1,0 +1,13 @@
+{
+  "id": 166,
+  "identifier": "flower-veil",
+  "name": {
+    "ja": "フラワーベール",
+    "en": "Flower Veil"
+  },
+  "description": {
+    "ja": "味方の　草ポケモンは能力が　下がらず状態異常にも　ならない。",
+    "en": "Ally Grass-type Pokémon are protected from status conditions and the lowering of their stats."
+  },
+  "generation": 6
+}

@@ -1,0 +1,49 @@
+{
+  "pokemon_id": 134,
+  "costumes": [
+    {
+      "costume_id": "0134-flower",
+      "identifier": "vaporeon-flower",
+      "name": {
+        "ja": "シャワーズ（はなかんむり）",
+        "en": "Vaporeon (Flower)"
+      },
+      "event": "February 26, 2019",
+      "available_from": "2019-02-26",
+      "available_until": null
+    },
+    {
+      "costume_id": "0134-hat",
+      "identifier": "vaporeon-hat",
+      "name": {
+        "ja": "シャワーズ（ぼうし）",
+        "en": "Vaporeon (Hat)"
+      },
+      "event": "December 23, 2022",
+      "available_from": "2022-12-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0134-spring2023",
+      "identifier": "vaporeon-spring2023",
+      "name": {
+        "ja": "シャワーズ（スプリング（2023））",
+        "en": "Vaporeon (Spring2023)"
+      },
+      "event": "April 4, 2023",
+      "available_from": "2023-04-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0134-explorer",
+      "identifier": "vaporeon-explorer",
+      "name": {
+        "ja": "シャワーズ（エクスプローラー）",
+        "en": "Vaporeon (Explorer)"
+      },
+      "event": "October 7, 2023",
+      "available_from": "2023-10-07",
+      "available_until": null
+    }
+  ]
+}

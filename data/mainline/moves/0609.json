@@ -1,0 +1,18 @@
+{
+  "id": 609,
+  "identifier": "nuzzle",
+  "name": {
+    "ja": "ほっぺすりすり",
+    "en": "Nuzzle"
+  },
+  "type": "electric",
+  "category": "physical",
+  "power": 20,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "電気を　帯びた　ほっぺをすりつけて　攻撃。相手を　まひ状態に　する。",
+    "en": "The user attacks by nuzzling its electrified cheeks against the target. This also leaves the target with paralysis."
+  }
+}

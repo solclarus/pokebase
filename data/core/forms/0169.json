@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 169,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "クロバット",
+        "en": "Crobat"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 90,
+        "defense": 80,
+        "sp_attack": 70,
+        "sp_defense": 80,
+        "speed": 130
+      },
+      "ability_ids": [
+        39
+      ],
+      "hidden_ability_id": 151
+    }
+  ]
+}

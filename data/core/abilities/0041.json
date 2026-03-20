@@ -1,0 +1,13 @@
+{
+  "id": 41,
+  "identifier": "water-veil",
+  "name": {
+    "ja": "みずのベール",
+    "en": "Water Veil"
+  },
+  "description": {
+    "ja": "水のベールを　身にまといやけど状態に　ならない。",
+    "en": "The Pokémon's water veil prevents it from being burned."
+  },
+  "generation": 3
+}

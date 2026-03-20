@@ -1,0 +1,13 @@
+{
+  "id": 107,
+  "identifier": "hydro-pump",
+  "name": {
+    "ja": "ハイドロポンプ",
+    "en": "Hydro Pump"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 135,
+  "energy_delta": -100,
+  "duration_ms": 3500
+}

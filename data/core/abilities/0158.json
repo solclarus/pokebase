@@ -1,0 +1,13 @@
+{
+  "id": 158,
+  "identifier": "prankster",
+  "name": {
+    "ja": "いたずらごころ",
+    "en": "Prankster"
+  },
+  "description": {
+    "ja": "変化技を　先制で出すことが　できる。",
+    "en": "Gives priority to the Pokémon's status moves."
+  },
+  "generation": 5
+}

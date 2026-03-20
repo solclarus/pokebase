@@ -1,0 +1,18 @@
+{
+  "id": 213,
+  "identifier": "attract",
+  "name": {
+    "ja": "メロメロ",
+    "en": "Attract"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 2,
+  "description": {
+    "ja": "♂なら♀を　♀なら♂を　誘惑してメロメロに　する。相手は　技が　だしにくくなる。",
+    "en": "If the target is of the opposite gender to the user, it becomes infatuated with the user and will sometimes be unable to use its moves."
+  }
+}

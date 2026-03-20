@@ -1,0 +1,13 @@
+{
+  "id": 177,
+  "identifier": "gale-wings",
+  "name": {
+    "ja": "はやてのつばさ",
+    "en": "Gale Wings"
+  },
+  "description": {
+    "ja": "ＨＰが　満タン　だとひこうタイプの　技を先制で　出すことが　できる。",
+    "en": "Gives priority to the Pokémon's Flying-type moves while its HP is full."
+  },
+  "generation": 6
+}

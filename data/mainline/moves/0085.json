@@ -1,0 +1,18 @@
+{
+  "id": 85,
+  "identifier": "thunderbolt",
+  "name": {
+    "ja": "１０まんボルト",
+    "en": "Thunderbolt"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 1,
+  "description": {
+    "ja": "強い　電撃を相手に　浴びせて　攻撃する。まひ状態に　することが　ある。",
+    "en": "The user attacks the target with a strong electric blast. This may also leave the target with paralysis."
+  }
+}

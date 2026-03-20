@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 887,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ドラパルト",
+        "en": "Dragapult"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "dragon",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 88,
+        "attack": 120,
+        "defense": 75,
+        "sp_attack": 100,
+        "sp_defense": 75,
+        "speed": 142
+      },
+      "ability_ids": [
+        29,
+        151
+      ],
+      "hidden_ability_id": 130
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 380,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ラティアス",
+        "en": "Latias"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 80,
+        "defense": 90,
+        "sp_attack": 110,
+        "sp_defense": 130,
+        "speed": 110
+      },
+      "ability_ids": [
+        26
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガラティアス",
+        "en": "Mega Latias"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 100,
+        "defense": 120,
+        "sp_attack": 140,
+        "sp_defense": 150,
+        "speed": 110
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 352,
+  "identifier": "water-pulse",
+  "name": {
+    "ja": "みずのはどう",
+    "en": "Water Pulse"
+  },
+  "type": "water",
+  "category": "special",
+  "power": 60,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 3,
+  "description": {
+    "ja": "水の　振動を相手に　与えて　攻撃する。相手を　混乱させることが　ある。",
+    "en": "The user attacks the target with a pulsing blast of water. This may also confuse the target."
+  }
+}

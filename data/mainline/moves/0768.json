@@ -1,0 +1,18 @@
+{
+  "id": 768,
+  "identifier": "max-wyrmwind",
+  "name": {
+    "ja": "ダイドラグーン",
+    "en": "Max Wyrmwind"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 10,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "ダイマックスした　ポケモンが繰りだす　ドラゴンタイプの　攻撃。相手の　攻撃を　下げる。",
+    "en": "This is a Dragon-type attack Dynamax Pokémon use. This lowers the target’s Attack stat."
+  }
+}

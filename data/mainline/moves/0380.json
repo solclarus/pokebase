@@ -1,0 +1,18 @@
+{
+  "id": 380,
+  "identifier": "gastro-acid",
+  "name": {
+    "ja": "いえき",
+    "en": "Gastro Acid"
+  },
+  "type": "poison",
+  "category": "status",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "胃液を　相手の体に　吐きつける。　ついた　胃液は相手の　特性の　効果を　消す。",
+    "en": "The user hurls up its stomach acids on the target. The fluid eliminates the effect of the target's Ability."
+  }
+}

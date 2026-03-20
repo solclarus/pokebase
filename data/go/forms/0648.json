@@ -1,0 +1,37 @@
+{
+  "pokemon_id": 648,
+  "forms": [
+    {
+      "form_id": "aria",
+      "base_attack": 269,
+      "base_defense": 188,
+      "base_stamina": 225,
+      "fast_move_ids": [
+        219,
+        235
+      ],
+      "charged_move_ids": [
+        60,
+        79,
+        86,
+        14
+      ],
+      "released_at": "2021-07-17",
+      "shiny_released_at": "2025-02-21",
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    },
+    {
+      "form_id": "pirouette",
+      "base_attack": null,
+      "base_defense": null,
+      "base_stamina": null,
+      "fast_move_ids": [],
+      "charged_move_ids": [],
+      "released_at": null,
+      "shiny_released_at": null,
+      "elite_fast_move_ids": [],
+      "elite_charged_move_ids": []
+    }
+  ]
+}

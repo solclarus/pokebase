@@ -1,0 +1,13 @@
+{
+  "id": 137,
+  "identifier": "toxic-boost",
+  "name": {
+    "ja": "どくぼうそう",
+    "en": "Toxic Boost"
+  },
+  "description": {
+    "ja": "どく状態に　なったとき物理技の　威力が　上がる。",
+    "en": "Powers up physical moves when the Pokémon is poisoned."
+  },
+  "generation": 5
+}

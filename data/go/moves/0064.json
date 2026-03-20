@@ -1,0 +1,13 @@
+{
+  "id": 64,
+  "identifier": "rock-slide",
+  "name": {
+    "ja": "いわなだれ",
+    "en": "Rock Slide"
+  },
+  "type": "rock",
+  "move_type": "charged",
+  "power": 75,
+  "energy_delta": -50,
+  "duration_ms": 2500
+}

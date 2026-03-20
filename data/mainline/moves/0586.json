@@ -1,0 +1,18 @@
+{
+  "id": 586,
+  "identifier": "boomburst",
+  "name": {
+    "ja": "ばくおんぱ",
+    "en": "Boomburst"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 140,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 6,
+  "description": {
+    "ja": "すさまじい　爆音の破壊力に　よって周りに　いるものを　攻撃する。",
+    "en": "The user attacks everything around it with the destructive power of a terrible explosive sound."
+  }
+}

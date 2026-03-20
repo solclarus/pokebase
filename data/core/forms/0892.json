@@ -1,0 +1,105 @@
+{
+  "pokemon_id": 892,
+  "forms": [
+    {
+      "id": "single-strike",
+      "order": 0,
+      "name": {
+        "ja": "ウーラオス",
+        "en": "Urshifu"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fighting",
+        "dark"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 130,
+        "defense": 100,
+        "sp_attack": 63,
+        "sp_defense": 60,
+        "speed": 97
+      },
+      "ability_ids": [
+        260
+      ]
+    },
+    {
+      "id": "rapid-strike",
+      "order": 1,
+      "name": {
+        "ja": "れんげきのかた",
+        "en": "Rapid Strike Style"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fighting",
+        "water"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 130,
+        "defense": 100,
+        "sp_attack": 63,
+        "sp_defense": 60,
+        "speed": 97
+      },
+      "ability_ids": [
+        260
+      ]
+    },
+    {
+      "id": "single-strike-gmax",
+      "order": 2,
+      "name": {
+        "ja": "キョダイマックスウーラオス（いちげきのかた）",
+        "en": "Gigantamax Urshifu (Single Strike)"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "fighting",
+        "dark"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 130,
+        "defense": 100,
+        "sp_attack": 63,
+        "sp_defense": 60,
+        "speed": 97
+      },
+      "ability_ids": [
+        260
+      ]
+    },
+    {
+      "id": "rapid-strike-gmax",
+      "order": 3,
+      "name": {
+        "ja": "キョダイマックスウーラオス（れんげきのかた）",
+        "en": "Gigantamax Urshifu (Rapid Strike)"
+      },
+      "form_type": "gigantamax",
+      "region": "galar",
+      "types": [
+        "fighting",
+        "water"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 130,
+        "defense": 100,
+        "sp_attack": 63,
+        "sp_defense": 60,
+        "speed": 97
+      },
+      "ability_ids": [
+        260
+      ]
+    }
+  ]
+}

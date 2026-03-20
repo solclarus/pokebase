@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 384,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "レックウザ",
+        "en": "Rayquaza"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 150,
+        "defense": 90,
+        "sp_attack": 150,
+        "sp_defense": 90,
+        "speed": 95
+      },
+      "ability_ids": [
+        76
+      ]
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガレックウザ",
+        "en": "Mega Rayquaza"
+      },
+      "form_type": "mega",
+      "region": "hoenn",
+      "types": [
+        "dragon",
+        "flying"
+      ],
+      "stats": {
+        "hp": 105,
+        "attack": 180,
+        "defense": 100,
+        "sp_attack": 180,
+        "sp_defense": 100,
+        "speed": 115
+      },
+      "ability_ids": [
+        191
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 603,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "シビビール",
+        "en": "Eelektrik"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "electric"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 85,
+        "defense": 70,
+        "sp_attack": 75,
+        "sp_defense": 70,
+        "speed": 40
+      },
+      "ability_ids": [
+        26
+      ]
+    }
+  ]
+}

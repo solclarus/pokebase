@@ -1,0 +1,18 @@
+{
+  "id": 207,
+  "identifier": "swagger",
+  "name": {
+    "ja": "いばる",
+    "en": "Swagger"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": 85,
+  "pp": 15,
+  "generation": 2,
+  "description": {
+    "ja": "相手を　怒らせて　混乱させる。怒りで　相手の　攻撃はぐーんと　あがってしまう。",
+    "en": "The user enrages and confuses the target. However, this also sharply boosts the target's Attack stat."
+  }
+}

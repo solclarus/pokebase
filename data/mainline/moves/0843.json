@@ -1,0 +1,18 @@
+{
+  "id": 843,
+  "identifier": "triple-arrows",
+  "name": {
+    "ja": "３ぼんのや",
+    "en": "Triple Arrows"
+  },
+  "type": "fighting",
+  "category": "physical",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user kicks, then fires three arrows. This move has a heightened chance of landing a critical hit and may also lower the target’s Defense stat or make it flinch."
+  }
+}

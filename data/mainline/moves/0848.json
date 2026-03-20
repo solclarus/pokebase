@@ -1,0 +1,18 @@
+{
+  "id": 848,
+  "identifier": "sandsear-storm",
+  "name": {
+    "ja": "ねっさのあらし",
+    "en": "Sandsear Storm"
+  },
+  "type": "ground",
+  "category": "special",
+  "power": 100,
+  "accuracy": 80,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "",
+    "en": "The user attacks by wrapping opposing Pokémon in fierce winds and searingly hot sand. This may also leave them with a burn."
+  }
+}

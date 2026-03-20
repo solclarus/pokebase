@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 874,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イシヘンジン",
+        "en": "Stonjourner"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "rock"
+      ],
+      "stats": {
+        "hp": 100,
+        "attack": 125,
+        "defense": 135,
+        "sp_attack": 20,
+        "sp_defense": 20,
+        "speed": 70
+      },
+      "ability_ids": [
+        249
+      ]
+    }
+  ]
+}

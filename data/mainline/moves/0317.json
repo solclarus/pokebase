@@ -1,0 +1,18 @@
+{
+  "id": 317,
+  "identifier": "rock-tomb",
+  "name": {
+    "ja": "がんせきふうじ",
+    "en": "Rock Tomb"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 60,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 3,
+  "description": {
+    "ja": "岩石を　投げつけて　攻撃する。相手の　動きを　封じることで素早さを　さげる。",
+    "en": "The user hurls boulders at the target to inflict damage. This also lowers the target's Speed stat by cutting off its movement."
+  }
+}

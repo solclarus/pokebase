@@ -1,0 +1,18 @@
+{
+  "id": 201,
+  "identifier": "sandstorm",
+  "name": {
+    "ja": "すなあらし",
+    "en": "Sandstorm"
+  },
+  "type": "rock",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "５ターンの　間　砂あらしで　いわじめん　はがねタイプ　以外に　ダメージ。いわタイプの　特防が　あがる。",
+    "en": "A five-turn sandstorm is summoned to damage all Pokémon except Rock, Ground, and Steel types. The sandstorm also boosts the Sp. Def stats of Rock types."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 47,
+  "identifier": "petal-blizzard",
+  "name": {
+    "ja": "はなふぶき",
+    "en": "Petal Blizzard"
+  },
+  "type": "grass",
+  "move_type": "charged",
+  "power": 110,
+  "energy_delta": -100,
+  "duration_ms": 2500
+}

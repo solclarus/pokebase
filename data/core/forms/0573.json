@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 573,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "チラチーノ",
+        "en": "Cinccino"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 75,
+        "attack": 95,
+        "defense": 60,
+        "sp_attack": 65,
+        "sp_defense": 60,
+        "speed": 115
+      },
+      "ability_ids": [
+        56,
+        101
+      ],
+      "hidden_ability_id": 92
+    }
+  ]
+}

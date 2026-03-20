@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 924,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ワッカネズミ",
+        "en": "Tandemaus"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 45,
+        "sp_attack": 40,
+        "sp_defense": 45,
+        "speed": 75
+      },
+      "ability_ids": [
+        50,
+        53
+      ],
+      "hidden_ability_id": 20
+    }
+  ]
+}

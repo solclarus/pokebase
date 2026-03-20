@@ -1,0 +1,18 @@
+{
+  "id": 196,
+  "identifier": "icy-wind",
+  "name": {
+    "ja": "こごえるかぜ",
+    "en": "Icy Wind"
+  },
+  "type": "ice",
+  "category": "special",
+  "power": 55,
+  "accuracy": 95,
+  "pp": 15,
+  "generation": 2,
+  "description": {
+    "ja": "凍てつく　冷気を相手に　吹きつけて　攻撃する。相手の　素早さを　さげる。",
+    "en": "The user attacks with a gust of chilled air. This also lowers opposing Pokémon's Speed stats."
+  }
+}

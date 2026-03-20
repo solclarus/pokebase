@@ -1,0 +1,18 @@
+{
+  "id": 239,
+  "identifier": "twister",
+  "name": {
+    "ja": "たつまき",
+    "en": "Twister"
+  },
+  "type": "dragon",
+  "category": "special",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 20,
+  "generation": 2,
+  "description": {
+    "ja": "竜巻を　おこして相手を　まきこみ　攻撃する。相手を　ひるませることが　ある。",
+    "en": "The user whips up a vicious tornado to tear at opposing Pokémon. This may also make them flinch."
+  }
+}

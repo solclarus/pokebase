@@ -1,0 +1,18 @@
+{
+  "id": 95,
+  "identifier": "hypnosis",
+  "name": {
+    "ja": "さいみんじゅつ",
+    "en": "Hypnosis"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": 60,
+  "pp": 20,
+  "generation": 1,
+  "description": {
+    "ja": "眠気を　誘う　暗示を　かけて相手を　眠り状態に　する。",
+    "en": "The user employs hypnotic suggestion to make the target fall asleep."
+  }
+}

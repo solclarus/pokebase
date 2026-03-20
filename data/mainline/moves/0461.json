@@ -1,0 +1,18 @@
+{
+  "id": 461,
+  "identifier": "lunar-dance",
+  "name": {
+    "ja": "みかづきのまい",
+    "en": "Lunar Dance"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "自分は　ひんしに　なるが控えから　でてくる　ポケモンのすべての　状態を　回復する。",
+    "en": "The user faints. In return, the Pokémon taking its place will have its HP and PP restored and its status conditions cured."
+  }
+}

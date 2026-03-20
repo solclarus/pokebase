@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 315,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ロゼリア",
+        "en": "Roselia"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 60,
+        "defense": 45,
+        "sp_attack": 100,
+        "sp_defense": 80,
+        "speed": 65
+      },
+      "ability_ids": [
+        30,
+        38
+      ],
+      "hidden_ability_id": 102
+    }
+  ]
+}

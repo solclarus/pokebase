@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 545,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ペンドラー",
+        "en": "Scolipede"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 100,
+        "defense": 89,
+        "sp_attack": 55,
+        "sp_defense": 69,
+        "speed": 112
+      },
+      "ability_ids": [
+        38,
+        68
+      ],
+      "hidden_ability_id": 3
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガペンドラー",
+        "en": "Mega Scolipede"
+      },
+      "form_type": "mega",
+      "region": "unova",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 140,
+        "defense": 149,
+        "sp_attack": 75,
+        "sp_defense": 99,
+        "speed": 62
+      },
+      "ability_ids": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 683,
+  "identifier": "speed-swap",
+  "name": {
+    "ja": "スピードスワップ",
+    "en": "Speed Swap"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "相手の　素早さと自分の　素早さを入れ替えてしまう。",
+    "en": "The user exchanges Speed stats with the target."
+  }
+}

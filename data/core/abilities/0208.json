@@ -1,0 +1,13 @@
+{
+  "id": 208,
+  "identifier": "schooling",
+  "name": {
+    "ja": "ぎょぐん",
+    "en": "Schooling"
+  },
+  "description": {
+    "ja": "ＨＰが　多いときは　群れて　強くなる。ＨＰの　残りが　少なくなると群れは　散り散りに　なってしまう。",
+    "en": "When it has a lot of HP, the Pokémon forms a powerful school. It stops schooling when its HP is low."
+  },
+  "generation": 7
+}

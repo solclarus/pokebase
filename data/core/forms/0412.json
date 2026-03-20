@@ -1,0 +1,105 @@
+{
+  "pokemon_id": 412,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ミノムッチ",
+        "en": "Burmy"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 29,
+        "defense": 45,
+        "sp_attack": 29,
+        "sp_defense": 45,
+        "speed": 36
+      },
+      "ability_ids": [
+        61
+      ],
+      "hidden_ability_id": 142
+    },
+    {
+      "id": "plant",
+      "order": 1,
+      "name": {
+        "ja": "ミノムッチ",
+        "en": "Burmy"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 29,
+        "defense": 45,
+        "sp_attack": 29,
+        "sp_defense": 45,
+        "speed": 36
+      },
+      "ability_ids": [
+        61
+      ],
+      "hidden_ability_id": 142
+    },
+    {
+      "id": "sandy",
+      "order": 2,
+      "name": {
+        "ja": "ミノムッチ",
+        "en": "Burmy"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 29,
+        "defense": 45,
+        "sp_attack": 29,
+        "sp_defense": 45,
+        "speed": 36
+      },
+      "ability_ids": [
+        61
+      ],
+      "hidden_ability_id": 142
+    },
+    {
+      "id": "trash",
+      "order": 3,
+      "name": {
+        "ja": "ミノムッチ",
+        "en": "Burmy"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "bug"
+      ],
+      "stats": {
+        "hp": 40,
+        "attack": 29,
+        "defense": 45,
+        "sp_attack": 29,
+        "sp_defense": 45,
+        "speed": 36
+      },
+      "ability_ids": [
+        61
+      ],
+      "hidden_ability_id": 142
+    }
+  ]
+}

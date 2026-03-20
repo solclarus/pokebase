@@ -1,0 +1,27 @@
+{
+  "pokemon_id": 77,
+  "costumes": [
+    {
+      "costume_id": "0077-galarian_meloetta",
+      "identifier": "ponyta-galarian-meloetta",
+      "name": {
+        "ja": "ポニータ（ガラルメロエッタ）",
+        "en": "Ponyta (Galarian Meloetta)"
+      },
+      "event": "July 17, 2021",
+      "available_from": "2021-07-17",
+      "available_until": null
+    },
+    {
+      "costume_id": "0077-candela",
+      "identifier": "ponyta-candela",
+      "name": {
+        "ja": "ポニータ（カンデラ）",
+        "en": "Ponyta (Candela)"
+      },
+      "event": "May 11, 2023",
+      "available_from": "2023-05-11",
+      "available_until": null
+    }
+  ]
+}

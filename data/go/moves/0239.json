@@ -1,0 +1,13 @@
+{
+  "id": 239,
+  "identifier": "steel-wing",
+  "name": {
+    "ja": "はがねのつばさ",
+    "en": "Steel Wing"
+  },
+  "type": "steel",
+  "move_type": "fast",
+  "power": 14,
+  "energy_delta": 8,
+  "duration_ms": 1000
+}

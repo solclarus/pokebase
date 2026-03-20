@@ -1,0 +1,18 @@
+{
+  "id": 780,
+  "identifier": "pyro-ball",
+  "name": {
+    "ja": "かえんボール",
+    "en": "Pyro Ball"
+  },
+  "type": "fire",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 90,
+  "pp": 5,
+  "generation": 8,
+  "description": {
+    "ja": "小石を　燃やした　炎の　ボールで相手を　攻撃する。やけど　状態に　することが　ある。",
+    "en": "The user attacks by igniting a small stone and launching it as a fiery ball at the target. This may also leave the target with a burn."
+  }
+}

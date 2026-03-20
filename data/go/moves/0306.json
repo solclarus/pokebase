@@ -1,0 +1,13 @@
+{
+  "id": 306,
+  "identifier": "lunge",
+  "name": {
+    "ja": "とびかかる",
+    "en": "Lunge"
+  },
+  "type": "bug",
+  "move_type": "charged",
+  "power": 55,
+  "energy_delta": -33,
+  "duration_ms": 3000
+}

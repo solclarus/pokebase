@@ -1,0 +1,13 @@
+{
+  "id": 87,
+  "identifier": "moonblast",
+  "name": {
+    "ja": "ムーンフォース",
+    "en": "Moonblast"
+  },
+  "type": "fairy",
+  "move_type": "charged",
+  "power": 130,
+  "energy_delta": -100,
+  "duration_ms": 4000
+}

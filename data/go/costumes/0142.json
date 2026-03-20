@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 142,
+  "costumes": [
+    {
+      "costume_id": "0142-satchel",
+      "identifier": "aerodactyl-satchel",
+      "name": {
+        "ja": "プテラ（サッチェル）",
+        "en": "Aerodactyl (Satchel)"
+      },
+      "event": "August 4, 2023",
+      "available_from": "2023-08-04",
+      "available_until": null
+    }
+  ]
+}

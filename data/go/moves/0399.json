@@ -1,0 +1,13 @@
+{
+  "id": 399,
+  "identifier": "volt-tackle",
+  "name": {
+    "ja": "ボルテッカー",
+    "en": "Volt Tackle"
+  },
+  "type": "electric",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -33,
+  "duration_ms": 3500
+}

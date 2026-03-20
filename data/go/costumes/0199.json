@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 199,
+  "costumes": [
+    {
+      "costume_id": "0199-new_year",
+      "identifier": "slowking-new-year",
+      "name": {
+        "ja": "ヤドキング（お正月）",
+        "en": "Slowking (New Year)"
+      },
+      "event": "December 31, 2021",
+      "available_from": "2021-12-31",
+      "available_until": null
+    }
+  ]
+}

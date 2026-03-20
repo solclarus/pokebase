@@ -1,0 +1,18 @@
+{
+  "id": 200,
+  "identifier": "outrage",
+  "name": {
+    "ja": "げきりん",
+    "en": "Outrage"
+  },
+  "type": "dragon",
+  "category": "physical",
+  "power": 120,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 2,
+  "description": {
+    "ja": "２ー３ターンの　間暴れまくって　攻撃する。暴れたあとは　混乱する。",
+    "en": "The user rampages and attacks for two to three turns. The user then becomes confused."
+  }
+}

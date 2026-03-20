@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 520,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハトーボー",
+        "en": "Tranquill"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "stats": {
+        "hp": 62,
+        "attack": 77,
+        "defense": 62,
+        "sp_attack": 50,
+        "sp_defense": 42,
+        "speed": 65
+      },
+      "ability_ids": [
+        145,
+        105
+      ],
+      "hidden_ability_id": 79
+    }
+  ]
+}

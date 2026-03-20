@@ -1,0 +1,18 @@
+{
+  "id": 412,
+  "identifier": "energy-ball",
+  "name": {
+    "ja": "エナジーボール",
+    "en": "Energy Ball"
+  },
+  "type": "grass",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 4,
+  "description": {
+    "ja": "自然から　集めた命の力を　発射する。相手の　特防を　さげることがある。",
+    "en": "The user draws power from nature and fires it at the target. This may also lower the target's Sp. Def stat."
+  }
+}

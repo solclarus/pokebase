@@ -1,0 +1,18 @@
+{
+  "id": 495,
+  "identifier": "after-you",
+  "name": {
+    "ja": "おさきにどうぞ",
+    "en": "After You"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "相手の　行動を　サポートして自分の　行動の　あとに続けて　動けるように　する。",
+    "en": "The user helps the target and makes it use its move right after the user."
+  }
+}

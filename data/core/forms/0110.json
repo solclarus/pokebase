@@ -1,0 +1,58 @@
+{
+  "pokemon_id": 110,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "マタドガス",
+        "en": "Weezing"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 120,
+        "sp_attack": 85,
+        "sp_defense": 70,
+        "speed": 60
+      },
+      "ability_ids": [
+        26,
+        256
+      ],
+      "hidden_ability_id": 1
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "マタドガス（ガラルのすがた）",
+        "en": "Galarian Weezing"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "poison",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 65,
+        "attack": 90,
+        "defense": 120,
+        "sp_attack": 85,
+        "sp_defense": 70,
+        "speed": 60
+      },
+      "ability_ids": [
+        26,
+        256
+      ],
+      "hidden_ability_id": 228
+    }
+  ]
+}

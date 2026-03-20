@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 890,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ムゲンダイナ",
+        "en": "Eternatus"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 140,
+        "attack": 85,
+        "defense": 95,
+        "sp_attack": 145,
+        "sp_defense": 95,
+        "speed": 130
+      },
+      "ability_ids": [
+        46
+      ]
+    },
+    {
+      "id": "eternamax",
+      "order": 1,
+      "name": {
+        "ja": "ムゲンダイマックス",
+        "en": "Eternamax"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "poison",
+        "dragon"
+      ],
+      "stats": {
+        "hp": 255,
+        "attack": 115,
+        "defense": 250,
+        "sp_attack": 125,
+        "sp_defense": 250,
+        "speed": 130
+      },
+      "ability_ids": [
+        46
+      ]
+    }
+  ]
+}

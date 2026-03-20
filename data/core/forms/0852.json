@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 852,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "タタッコ",
+        "en": "Clobbopus"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "fighting"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 68,
+        "defense": 60,
+        "sp_attack": 50,
+        "sp_defense": 50,
+        "speed": 32
+      },
+      "ability_ids": [
+        7
+      ],
+      "hidden_ability_id": 101
+    }
+  ]
+}

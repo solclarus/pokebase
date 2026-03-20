@@ -1,0 +1,18 @@
+{
+  "id": 247,
+  "identifier": "shadow-ball",
+  "name": {
+    "ja": "シャドーボール",
+    "en": "Shadow Ball"
+  },
+  "type": "ghost",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 2,
+  "description": {
+    "ja": "黒い影の　塊を　投げつけて攻撃する。　相手の　特防をさげることが　ある。",
+    "en": "The user attacks by hurling a shadowy blob at the target. This may also lower the target’s Sp. Def stat."
+  }
+}

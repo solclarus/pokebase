@@ -1,0 +1,13 @@
+{
+  "id": 120,
+  "identifier": "reckless",
+  "name": {
+    "ja": "すてみ",
+    "en": "Reckless"
+  },
+  "description": {
+    "ja": "反動で　ダメージを受ける　技の　威力が　上がる。",
+    "en": "Powers up moves that have recoil damage."
+  },
+  "generation": 4
+}

@@ -1,0 +1,18 @@
+{
+  "id": 822,
+  "identifier": "fiery-wrath",
+  "name": {
+    "ja": "もえあがるいかり",
+    "en": "Fiery Wrath"
+  },
+  "type": "dark",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "怒りを　炎の　ようなオーラに　変えて　攻撃する。相手を　ひるませることが　ある。",
+    "en": "The user transforms its wrath into a fire-like aura to attack. This may also make opposing Pokémon flinch."
+  }
+}

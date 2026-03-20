@@ -1,0 +1,18 @@
+{
+  "id": 606,
+  "identifier": "celebrate",
+  "name": {
+    "ja": "おいわい",
+    "en": "Celebrate"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 40,
+  "generation": 6,
+  "description": {
+    "ja": "ポケモンが　とってもハッピーな　あなたのことをお祝い　してくれる。",
+    "en": "The Pokémon congratulates you on your special day!"
+  }
+}

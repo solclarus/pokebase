@@ -1,0 +1,18 @@
+{
+  "id": 120,
+  "identifier": "self-destruct",
+  "name": {
+    "ja": "じばく",
+    "en": "Self-Destruct"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 200,
+  "accuracy": 100,
+  "pp": 5,
+  "generation": 1,
+  "description": {
+    "ja": "爆発を　おこして　自分の周りに　いるものを　攻撃する。使ったあとに　ひんしに　なる。",
+    "en": "The user attacks everything around it by causing an explosion. The user faints upon using this move."
+  }
+}

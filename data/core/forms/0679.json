@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 679,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヒトツキ",
+        "en": "Honedge"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 80,
+        "defense": 100,
+        "sp_attack": 35,
+        "sp_defense": 37,
+        "speed": 28
+      },
+      "ability_ids": [
+        99
+      ]
+    }
+  ]
+}

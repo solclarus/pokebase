@@ -1,0 +1,13 @@
+{
+  "id": 306,
+  "identifier": "teraform-zero",
+  "name": {
+    "ja": "ゼロフォーミング",
+    "en": "Teraform Zero"
+  },
+  "description": {
+    "ja": "テラパゴスがステラフォルムになったとき秘められた力で天気とフィールドの影響をすべてゼロにする。",
+    "en": "When Terapagos changes into its Stellar Form, it uses its hidden powers to eliminate all effects of weather and terrain, reducing them to zero."
+  },
+  "generation": 9
+}

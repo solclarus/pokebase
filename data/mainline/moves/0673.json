@@ -1,0 +1,18 @@
+{
+  "id": 673,
+  "identifier": "laser-focus",
+  "name": {
+    "ja": "とぎすます",
+    "en": "Laser Focus"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 30,
+  "generation": 7,
+  "description": {
+    "ja": "精神を　集中して次の　攻撃を　必ず急所に　当てる。",
+    "en": "The user concentrates intensely. The attack on the next turn always results in a critical hit."
+  }
+}

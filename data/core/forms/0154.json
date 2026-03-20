@@ -1,0 +1,53 @@
+{
+  "pokemon_id": 154,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "メガニウム",
+        "en": "Meganium"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "grass"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 82,
+        "defense": 100,
+        "sp_attack": 83,
+        "sp_defense": 100,
+        "speed": 80
+      },
+      "ability_ids": [
+        65
+      ],
+      "hidden_ability_id": 102
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガメガニウム",
+        "en": "Mega Meganium"
+      },
+      "form_type": "mega",
+      "region": "kalos",
+      "types": [
+        "grass",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 80,
+        "attack": 92,
+        "defense": 115,
+        "sp_attack": 143,
+        "sp_defense": 115,
+        "speed": 80
+      },
+      "ability_ids": []
+    }
+  ]
+}

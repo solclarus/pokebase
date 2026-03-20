@@ -1,0 +1,18 @@
+{
+  "id": 519,
+  "identifier": "fire-pledge",
+  "name": {
+    "ja": "ほのおのちかい",
+    "en": "Fire Pledge"
+  },
+  "type": "fire",
+  "category": "special",
+  "power": 80,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "炎の柱で　攻撃する。くさと　組みあわせると　威力があがって　周りが　火の海に　なる。",
+    "en": "A column of fire hits the target. When used with its grass counterpart, this move's power is boosted and a vast sea of fire appears."
+  }
+}

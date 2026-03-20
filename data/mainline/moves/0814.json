@@ -1,0 +1,18 @@
+{
+  "id": 814,
+  "identifier": "dual-wingbeat",
+  "name": {
+    "ja": "ダブルウイング",
+    "en": "Dual Wingbeat"
+  },
+  "type": "flying",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 8,
+  "description": {
+    "ja": "翼を　相手に　ぶつけて攻撃する。　２回連続でダメージを　与える。",
+    "en": "The user slams the target with its wings to inflict damage. The target is hit twice in a row."
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 663,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ファイアロー",
+        "en": "Talonflame"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "fire",
+        "flying"
+      ],
+      "stats": {
+        "hp": 78,
+        "attack": 81,
+        "defense": 71,
+        "sp_attack": 74,
+        "sp_defense": 69,
+        "speed": 126
+      },
+      "ability_ids": [
+        49
+      ],
+      "hidden_ability_id": 177
+    }
+  ]
+}

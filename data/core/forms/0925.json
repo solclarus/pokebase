@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 925,
+  "forms": [
+    {
+      "id": "family-of-four",
+      "order": 0,
+      "name": {
+        "ja": "イッカネズミ",
+        "en": "Maushold"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 74,
+        "attack": 75,
+        "defense": 70,
+        "sp_attack": 65,
+        "sp_defense": 75,
+        "speed": 111
+      },
+      "ability_ids": [
+        132,
+        167
+      ],
+      "hidden_ability_id": 101
+    },
+    {
+      "id": "family-of-three",
+      "order": 1,
+      "name": {
+        "ja": "３びきかぞく",
+        "en": "Family of Three"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 74,
+        "attack": 75,
+        "defense": 70,
+        "sp_attack": 65,
+        "sp_defense": 75,
+        "speed": 111
+      },
+      "ability_ids": [
+        132,
+        167
+      ],
+      "hidden_ability_id": 101
+    }
+  ]
+}

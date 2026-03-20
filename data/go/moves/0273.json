@@ -1,0 +1,13 @@
+{
+  "id": 273,
+  "identifier": "energy-ball",
+  "name": {
+    "ja": "エナジーボール",
+    "en": "Energy Ball"
+  },
+  "type": "grass",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -50,
+  "duration_ms": 4000
+}

@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 942,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "オラチフ",
+        "en": "Maschiff"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 78,
+        "defense": 60,
+        "sp_attack": 40,
+        "sp_defense": 51,
+        "speed": 51
+      },
+      "ability_ids": [
+        22,
+        50
+      ],
+      "hidden_ability_id": 198
+    }
+  ]
+}

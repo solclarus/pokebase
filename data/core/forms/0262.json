@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 262,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "グラエナ",
+        "en": "Mightyena"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "dark"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 70,
+        "sp_attack": 60,
+        "sp_defense": 60,
+        "speed": 70
+      },
+      "ability_ids": [
+        22,
+        95
+      ],
+      "hidden_ability_id": 153
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 563,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "デスカーン",
+        "en": "Cofagrigus"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "ghost"
+      ],
+      "stats": {
+        "hp": 58,
+        "attack": 50,
+        "defense": 145,
+        "sp_attack": 95,
+        "sp_defense": 105,
+        "speed": 30
+      },
+      "ability_ids": [
+        152
+      ]
+    }
+  ]
+}

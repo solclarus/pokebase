@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 168,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アリアドス",
+        "en": "Ariados"
+      },
+      "form_type": "normal",
+      "region": "johto",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 70,
+        "sp_attack": 60,
+        "sp_defense": 70,
+        "speed": 40
+      },
+      "ability_ids": [
+        68,
+        15
+      ],
+      "hidden_ability_id": 97
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 192,
+  "identifier": "zap-cannon",
+  "name": {
+    "ja": "でんじほう",
+    "en": "Zap Cannon"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": 120,
+  "accuracy": 50,
+  "pp": 5,
+  "generation": 2,
+  "description": {
+    "ja": "大砲の　ような電気を　発射して　攻撃する。相手を　まひの　状態に　する。",
+    "en": "The user attacks by firing an electric blast like a cannon. This also leaves the target with paralysis."
+  }
+}

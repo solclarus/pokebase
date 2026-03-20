@@ -1,0 +1,18 @@
+{
+  "id": 281,
+  "identifier": "yawn",
+  "name": {
+    "ja": "あくび",
+    "en": "Yawn"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "大きな　あくびで　眠気を　誘う。次の　ターンに相手を　眠り状態に　する。",
+    "en": "The user lets loose a huge yawn that lulls the target into falling asleep on the next turn."
+  }
+}

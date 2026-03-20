@@ -1,0 +1,13 @@
+{
+  "id": 462,
+  "identifier": "force-palm",
+  "name": {
+    "ja": "はっけい",
+    "en": "Force Palm"
+  },
+  "type": "fighting",
+  "move_type": "fast",
+  "power": 10,
+  "energy_delta": 16,
+  "duration_ms": 1000
+}

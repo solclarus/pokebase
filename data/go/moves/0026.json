@@ -1,0 +1,13 @@
+{
+  "id": 26,
+  "identifier": "dig",
+  "name": {
+    "ja": "あなをほる",
+    "en": "Dig"
+  },
+  "type": "ground",
+  "move_type": "charged",
+  "power": 100,
+  "energy_delta": -50,
+  "duration_ms": 4500
+}

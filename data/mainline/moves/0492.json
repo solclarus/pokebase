@@ -1,0 +1,18 @@
+{
+  "id": 492,
+  "identifier": "foul-play",
+  "name": {
+    "ja": "イカサマ",
+    "en": "Foul Play"
+  },
+  "type": "dark",
+  "category": "physical",
+  "power": 95,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 5,
+  "description": {
+    "ja": "相手の　力を　利用する。戦っている　相手の　攻撃が高いほど　ダメージが　あがる。",
+    "en": "The user turns the target's strength against it. The higher the target's Attack stat, the greater the damage this move inflicts."
+  }
+}

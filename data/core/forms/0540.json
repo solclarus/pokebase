@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 540,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "クルミル",
+        "en": "Sewaddle"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "stats": {
+        "hp": 45,
+        "attack": 53,
+        "defense": 70,
+        "sp_attack": 40,
+        "sp_defense": 60,
+        "speed": 42
+      },
+      "ability_ids": [
+        68,
+        34
+      ],
+      "hidden_ability_id": 142
+    }
+  ]
+}

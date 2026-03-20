@@ -1,0 +1,13 @@
+{
+  "id": 287,
+  "identifier": "beads-of-ruin",
+  "name": {
+    "ja": "わざわいのたま",
+    "en": "Beads of Ruin"
+  },
+  "description": {
+    "ja": "災厄を呼ぶ勾玉の力で自分以外の特防が弱くなる。",
+    "en": "The power of the Pokémon's ruinous beads lowers the Sp. Def stats of all Pokémon except itself."
+  },
+  "generation": 9
+}

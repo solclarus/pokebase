@@ -1,0 +1,49 @@
+{
+  "pokemon_id": 470,
+  "costumes": [
+    {
+      "costume_id": "0470-flower",
+      "identifier": "leafeon-flower",
+      "name": {
+        "ja": "リーフィア（はなかんむり）",
+        "en": "Leafeon (Flower)"
+      },
+      "event": "May 17, 2019",
+      "available_from": "2019-05-17",
+      "available_until": null
+    },
+    {
+      "costume_id": "0470-hat",
+      "identifier": "leafeon-hat",
+      "name": {
+        "ja": "リーフィア（ぼうし）",
+        "en": "Leafeon (Hat)"
+      },
+      "event": "December 23, 2022",
+      "available_from": "2022-12-23",
+      "available_until": null
+    },
+    {
+      "costume_id": "0470-spring2023",
+      "identifier": "leafeon-spring2023",
+      "name": {
+        "ja": "リーフィア（スプリング（2023））",
+        "en": "Leafeon (Spring2023)"
+      },
+      "event": "April 4, 2023",
+      "available_from": "2023-04-04",
+      "available_until": null
+    },
+    {
+      "costume_id": "0470-explorer",
+      "identifier": "leafeon-explorer",
+      "name": {
+        "ja": "リーフィア（エクスプローラー）",
+        "en": "Leafeon (Explorer)"
+      },
+      "event": "October 7, 2023",
+      "available_from": "2023-10-07",
+      "available_until": null
+    }
+  ]
+}

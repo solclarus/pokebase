@@ -1,0 +1,18 @@
+{
+  "id": 911,
+  "identifier": "tachyon-cutter",
+  "name": {
+    "ja": "タキオンカッター",
+    "en": "Tachyon Cutter"
+  },
+  "type": "steel",
+  "category": "special",
+  "power": 50,
+  "accuracy": 0,
+  "pp": 10,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user attacks by launching particle blades at the target twice in a row. This attack never misses."
+  }
+}

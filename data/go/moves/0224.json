@@ -1,0 +1,13 @@
+{
+  "id": 224,
+  "identifier": "poison-jab",
+  "name": {
+    "ja": "どくづき",
+    "en": "Poison Jab"
+  },
+  "type": "poison",
+  "move_type": "fast",
+  "power": 13,
+  "energy_delta": 9,
+  "duration_ms": 1000
+}

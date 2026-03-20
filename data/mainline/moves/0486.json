@@ -1,0 +1,18 @@
+{
+  "id": 486,
+  "identifier": "electro-ball",
+  "name": {
+    "ja": "エレキボール",
+    "en": "Electro Ball"
+  },
+  "type": "electric",
+  "category": "special",
+  "power": null,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "電気の　塊を　相手にぶつける。相手より　素早さが速いほど　威力が　あがる。",
+    "en": "The user hurls an electric orb at the target. The faster the user is than the target, the greater the move's power."
+  }
+}

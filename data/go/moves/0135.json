@@ -1,0 +1,13 @@
+{
+  "id": 135,
+  "identifier": "hydro-pump-blastoise",
+  "name": {
+    "ja": "ハイドロポンプ",
+    "en": "Hydro Pump Blastoise"
+  },
+  "type": "water",
+  "move_type": "charged",
+  "power": 90,
+  "energy_delta": -100,
+  "duration_ms": 4500
+}

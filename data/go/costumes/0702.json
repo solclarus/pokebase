@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 702,
+  "costumes": [
+    {
+      "costume_id": "0702-holiday",
+      "identifier": "dedenne-holiday",
+      "name": {
+        "ja": "デデンネ（ホリデー）",
+        "en": "Dedenne (Holiday)"
+      },
+      "event": "December 17, 2024",
+      "available_from": "2024-12-17",
+      "available_until": null
+    }
+  ]
+}

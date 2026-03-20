@@ -1,0 +1,18 @@
+{
+  "id": 665,
+  "identifier": "ice-hammer",
+  "name": {
+    "ja": "アイスハンマー",
+    "en": "Ice Hammer"
+  },
+  "type": "ice",
+  "category": "physical",
+  "power": 100,
+  "accuracy": 90,
+  "pp": 10,
+  "generation": 7,
+  "description": {
+    "ja": "強くて　重い　こぶしをふるって　ダメージを　与える。自分の　素早さが　さがる。",
+    "en": "The user swings its strong, heavy fist at the target to inflict damage. This also lowers the user's Speed stat."
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": 12,
+  "identifier": "oblivious",
+  "name": {
+    "ja": "どんかん",
+    "en": "Oblivious"
+  },
+  "description": {
+    "ja": "鈍感なのでメロメロや　ちょうはつ状態にならない。",
+    "en": "The Pokémon is oblivious, keeping it from being infatuated, falling for taunts, or being affected by Intimidate."
+  },
+  "generation": 3
+}

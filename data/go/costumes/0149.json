@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 149,
+  "costumes": [
+    {
+      "costume_id": "0149-bow",
+      "identifier": "dragonite-bow",
+      "name": {
+        "ja": "カイリュー（リボン）",
+        "en": "Dragonite (Bow)"
+      },
+      "event": "November 15, 2023",
+      "available_from": "2023-11-15",
+      "available_until": null
+    }
+  ]
+}

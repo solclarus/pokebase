@@ -1,0 +1,18 @@
+{
+  "id": 30,
+  "identifier": "horn-attack",
+  "name": {
+    "ja": "つのでつく",
+    "en": "Horn Attack"
+  },
+  "type": "normal",
+  "category": "physical",
+  "power": 65,
+  "accuracy": 100,
+  "pp": 25,
+  "generation": 1,
+  "description": {
+    "ja": "鋭く　とがった　つので相手を　攻撃する。",
+    "en": "The target is jabbed with a sharply pointed horn to inflict damage."
+  }
+}

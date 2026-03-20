@@ -1,0 +1,13 @@
+{
+  "id": 37,
+  "identifier": "huge-power",
+  "name": {
+    "ja": "ちからもち",
+    "en": "Huge Power"
+  },
+  "description": {
+    "ja": "物理攻撃の威力が　２倍になる。",
+    "en": "Doubles the Pokémon's Attack stat."
+  },
+  "generation": 3
+}

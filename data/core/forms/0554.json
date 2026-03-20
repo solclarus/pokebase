@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 554,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ダルマッカ",
+        "en": "Darumaka"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "fire"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 45,
+        "sp_attack": 15,
+        "sp_defense": 45,
+        "speed": 50
+      },
+      "ability_ids": [
+        55
+      ],
+      "hidden_ability_id": 39
+    },
+    {
+      "id": "galar",
+      "order": 1,
+      "name": {
+        "ja": "ガラルのすがた",
+        "en": "Galarian Form"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ice"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 90,
+        "defense": 45,
+        "sp_attack": 15,
+        "sp_defense": 45,
+        "speed": 50
+      },
+      "ability_ids": [
+        55
+      ],
+      "hidden_ability_id": 39
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 864,
+  "identifier": "salt-cure",
+  "name": {
+    "ja": "しおづけ",
+    "en": "Salt Cure"
+  },
+  "type": "rock",
+  "category": "physical",
+  "power": 40,
+  "accuracy": 100,
+  "pp": 15,
+  "generation": 9,
+  "description": {
+    "ja": "",
+    "en": "The user salt cures the target, inflicting damage every turn. Steel and Water types are more strongly affected by this move."
+  }
+}

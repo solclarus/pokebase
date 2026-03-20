@@ -1,0 +1,54 @@
+{
+  "pokemon_id": 998,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "セグレイブ",
+        "en": "Baxcalibur"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "stats": {
+        "hp": 115,
+        "attack": 145,
+        "defense": 92,
+        "sp_attack": 75,
+        "sp_defense": 86,
+        "speed": 87
+      },
+      "ability_ids": [
+        270
+      ],
+      "hidden_ability_id": 115
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガセグレイブ",
+        "en": "Mega Baxcalibur"
+      },
+      "form_type": "mega",
+      "region": "paldea",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "stats": {
+        "hp": 115,
+        "attack": 175,
+        "defense": 117,
+        "sp_attack": 105,
+        "sp_defense": 101,
+        "speed": 87
+      },
+      "ability_ids": []
+    }
+  ]
+}

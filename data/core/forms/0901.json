@@ -1,0 +1,57 @@
+{
+  "pokemon_id": 901,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ガチグマ",
+        "en": "Ursaluna"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "stats": {
+        "hp": 130,
+        "attack": 140,
+        "defense": 105,
+        "sp_attack": 45,
+        "sp_defense": 80,
+        "speed": 50
+      },
+      "ability_ids": [
+        62,
+        171
+      ],
+      "hidden_ability_id": 127
+    },
+    {
+      "id": "bloodmoon",
+      "order": 1,
+      "name": {
+        "ja": "アカツキ",
+        "en": "Bloodmoon"
+      },
+      "form_type": "normal",
+      "region": "galar",
+      "types": [
+        "ground",
+        "normal"
+      ],
+      "stats": {
+        "hp": 113,
+        "attack": 70,
+        "defense": 120,
+        "sp_attack": 135,
+        "sp_defense": 65,
+        "speed": 52
+      },
+      "ability_ids": [
+        299
+      ]
+    }
+  ]
+}

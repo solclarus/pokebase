@@ -1,0 +1,13 @@
+{
+  "id": 213,
+  "identifier": "comatose",
+  "name": {
+    "ja": "ぜったいねむり",
+    "en": "Comatose"
+  },
+  "description": {
+    "ja": "つねに　夢うつつの　状態で絶対に　目覚めない。眠ったまま　攻撃が　できる。",
+    "en": "The Pokémon is always drowsing and will never wake up. It can attack while in its sleeping state."
+  },
+  "generation": 7
+}

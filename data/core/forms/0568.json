@@ -1,0 +1,31 @@
+{
+  "pokemon_id": 568,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ヤブクロン",
+        "en": "Trubbish"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 50,
+        "attack": 50,
+        "defense": 62,
+        "sp_attack": 40,
+        "sp_defense": 62,
+        "speed": 65
+      },
+      "ability_ids": [
+        1,
+        60
+      ],
+      "hidden_ability_id": 106
+    }
+  ]
+}

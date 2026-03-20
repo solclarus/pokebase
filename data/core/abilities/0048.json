@@ -1,0 +1,13 @@
+{
+  "id": 48,
+  "identifier": "early-bird",
+  "name": {
+    "ja": "はやおき",
+    "en": "Early Bird"
+  },
+  "description": {
+    "ja": "ねむり状態に　なっても２倍の　早さで目覚める　ことが　できる。",
+    "en": "The Pokémon awakens from sleep twice as fast as other Pokémon."
+  },
+  "generation": 3
+}

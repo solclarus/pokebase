@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 336,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハブネーク",
+        "en": "Seviper"
+      },
+      "form_type": "normal",
+      "region": "hoenn",
+      "types": [
+        "poison"
+      ],
+      "stats": {
+        "hp": 73,
+        "attack": 100,
+        "defense": 60,
+        "sp_attack": 100,
+        "sp_defense": 60,
+        "speed": 65
+      },
+      "ability_ids": [
+        61
+      ],
+      "hidden_ability_id": 151
+    }
+  ]
+}

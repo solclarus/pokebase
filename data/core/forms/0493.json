@@ -1,0 +1,29 @@
+{
+  "pokemon_id": 493,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "アルセウス",
+        "en": "Arceus"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "normal"
+      ],
+      "stats": {
+        "hp": 120,
+        "attack": 120,
+        "defense": 120,
+        "sp_attack": 120,
+        "sp_defense": 120,
+        "speed": 120
+      },
+      "ability_ids": [
+        121
+      ]
+    }
+  ]
+}

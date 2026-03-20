@@ -1,0 +1,55 @@
+{
+  "pokemon_id": 681,
+  "forms": [
+    {
+      "id": "shield",
+      "order": 0,
+      "name": {
+        "ja": "ギルガルド",
+        "en": "Aegislash"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 50,
+        "defense": 140,
+        "sp_attack": 50,
+        "sp_defense": 140,
+        "speed": 60
+      },
+      "ability_ids": [
+        176
+      ]
+    },
+    {
+      "id": "blade",
+      "order": 1,
+      "name": {
+        "ja": "ブレードフォルム",
+        "en": "Blade Forme"
+      },
+      "form_type": "normal",
+      "region": "kalos",
+      "types": [
+        "steel",
+        "ghost"
+      ],
+      "stats": {
+        "hp": 60,
+        "attack": 140,
+        "defense": 50,
+        "sp_attack": 140,
+        "sp_defense": 50,
+        "speed": 60
+      },
+      "ability_ids": [
+        176
+      ]
+    }
+  ]
+}

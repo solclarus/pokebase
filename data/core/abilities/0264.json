@@ -1,0 +1,13 @@
+{
+  "id": 264,
+  "identifier": "chilling-neigh",
+  "name": {
+    "ja": "しろのいななき",
+    "en": "Chilling Neigh"
+  },
+  "description": {
+    "ja": "相手を　倒すと冷たい　声で　いなないて攻撃が　上がる。",
+    "en": "When the Pokémon knocks out a target, it utters a chilling neigh, which boosts its Attack stat."
+  },
+  "generation": 8
+}

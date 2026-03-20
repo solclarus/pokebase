@@ -1,0 +1,32 @@
+{
+  "pokemon_id": 959,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "デカヌチャン",
+        "en": "Tinkaton"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "fairy",
+        "steel"
+      ],
+      "stats": {
+        "hp": 85,
+        "attack": 75,
+        "defense": 77,
+        "sp_attack": 70,
+        "sp_defense": 105,
+        "speed": 94
+      },
+      "ability_ids": [
+        104,
+        20
+      ],
+      "hidden_ability_id": 124
+    }
+  ]
+}

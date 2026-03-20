@@ -1,0 +1,130 @@
+{
+  "pokemon_id": 649,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ゲノセクト",
+        "en": "Genesect"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "sp_attack": 120,
+        "sp_defense": 95,
+        "speed": 99
+      },
+      "ability_ids": [
+        88
+      ]
+    },
+    {
+      "id": "douse",
+      "order": 1,
+      "name": {
+        "ja": "ゲノセクト",
+        "en": "Genesect"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "sp_attack": 120,
+        "sp_defense": 95,
+        "speed": 99
+      },
+      "ability_ids": [
+        88
+      ]
+    },
+    {
+      "id": "shock",
+      "order": 2,
+      "name": {
+        "ja": "ゲノセクト",
+        "en": "Genesect"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "sp_attack": 120,
+        "sp_defense": 95,
+        "speed": 99
+      },
+      "ability_ids": [
+        88
+      ]
+    },
+    {
+      "id": "burn",
+      "order": 3,
+      "name": {
+        "ja": "ゲノセクト",
+        "en": "Genesect"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "sp_attack": 120,
+        "sp_defense": 95,
+        "speed": 99
+      },
+      "ability_ids": [
+        88
+      ]
+    },
+    {
+      "id": "chill",
+      "order": 4,
+      "name": {
+        "ja": "ゲノセクト",
+        "en": "Genesect"
+      },
+      "form_type": "normal",
+      "region": "unova",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "stats": {
+        "hp": 71,
+        "attack": 120,
+        "defense": 95,
+        "sp_attack": 120,
+        "sp_defense": 95,
+        "speed": 99
+      },
+      "ability_ids": [
+        88
+      ]
+    }
+  ]
+}

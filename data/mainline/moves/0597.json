@@ -1,0 +1,18 @@
+{
+  "id": 597,
+  "identifier": "aromatic-mist",
+  "name": {
+    "ja": "アロマミスト",
+    "en": "Aromatic Mist"
+  },
+  "type": "fairy",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 20,
+  "generation": 6,
+  "description": {
+    "ja": "不思議な　アロマの　香りによって味方の　特防を　あげる。",
+    "en": "The user boosts the Sp. Def stat of an ally Pokémon by using a mysterious aroma."
+  }
+}

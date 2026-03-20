@@ -1,0 +1,13 @@
+{
+  "id": 268,
+  "identifier": "lingering-aroma",
+  "name": {
+    "ja": "とれないにおい",
+    "en": "Lingering Aroma"
+  },
+  "description": {
+    "ja": "相手に触られるととれないにおいが相手にうつってしまう。",
+    "en": "Contact with the Pokémon changes the attacker's Ability to Lingering Aroma."
+  },
+  "generation": 9
+}

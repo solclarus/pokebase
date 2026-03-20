@@ -1,0 +1,18 @@
+{
+  "id": 272,
+  "identifier": "role-play",
+  "name": {
+    "ja": "なりきり",
+    "en": "Role Play"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "相手に　なりきって　自分も　相手と同じ　特性に　変化する。",
+    "en": "The user mimics the target completely, copying the target's Ability."
+  }
+}

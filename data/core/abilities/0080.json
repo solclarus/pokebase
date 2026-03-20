@@ -1,0 +1,13 @@
+{
+  "id": 80,
+  "identifier": "steadfast",
+  "name": {
+    "ja": "ふくつのこころ",
+    "en": "Steadfast"
+  },
+  "description": {
+    "ja": "ひるむ　たびに不屈の心を　燃やして素早さが　上がる。",
+    "en": "The Pokémon's determination boosts its Speed stat every time it flinches."
+  },
+  "generation": 4
+}

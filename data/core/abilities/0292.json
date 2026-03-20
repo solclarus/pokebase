@@ -1,0 +1,13 @@
+{
+  "id": 292,
+  "identifier": "sharpness",
+  "name": {
+    "ja": "きれあじ",
+    "en": "Sharpness"
+  },
+  "description": {
+    "ja": "相手を切る技の威力が上がる。",
+    "en": "Powers up slicing moves."
+  },
+  "generation": 9
+}

@@ -1,0 +1,13 @@
+{
+  "id": 298,
+  "identifier": "mycelium-might",
+  "name": {
+    "ja": "きんしのちから",
+    "en": "Mycelium Might"
+  },
+  "description": {
+    "ja": "変化技を出すとき必ず行動が遅くなるが相手の特性にジャマされない。",
+    "en": "The Pokémon will always act more slowly when using status moves, but these moves will be unimpeded by the Ability of the target."
+  },
+  "generation": 9
+}

@@ -1,0 +1,80 @@
+{
+  "pokemon_id": 448,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ルカリオ",
+        "en": "Lucario"
+      },
+      "form_type": "normal",
+      "region": "sinnoh",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 110,
+        "defense": 70,
+        "sp_attack": 115,
+        "sp_defense": 70,
+        "speed": 90
+      },
+      "ability_ids": [
+        80,
+        39
+      ],
+      "hidden_ability_id": 154
+    },
+    {
+      "id": "mega",
+      "order": 1,
+      "name": {
+        "ja": "メガルカリオ",
+        "en": "Mega Lucario"
+      },
+      "form_type": "mega",
+      "region": "sinnoh",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 145,
+        "defense": 88,
+        "sp_attack": 140,
+        "sp_defense": 70,
+        "speed": 112
+      },
+      "ability_ids": [
+        91
+      ]
+    },
+    {
+      "id": "mega-z",
+      "order": 2,
+      "name": {
+        "ja": "メガルカリオZ",
+        "en": "Mega Lucario Z"
+      },
+      "form_type": "mega",
+      "region": "sinnoh",
+      "types": [
+        "fighting",
+        "steel"
+      ],
+      "stats": {
+        "hp": 70,
+        "attack": 100,
+        "defense": 70,
+        "sp_attack": 164,
+        "sp_defense": 70,
+        "speed": 151
+      },
+      "ability_ids": []
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": 505,
+  "identifier": "heal-pulse",
+  "name": {
+    "ja": "いやしのはどう",
+    "en": "Heal Pulse"
+  },
+  "type": "psychic",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 10,
+  "generation": 5,
+  "description": {
+    "ja": "いやしのはどうを　とばして最大ＨＰの　半分相手の　ＨＰを　回復する。",
+    "en": "The user emits a healing pulse that restores the target's HP by up to half its max HP."
+  }
+}

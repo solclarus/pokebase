@@ -1,0 +1,18 @@
+{
+  "id": 253,
+  "identifier": "uproar",
+  "name": {
+    "ja": "さわぐ",
+    "en": "Uproar"
+  },
+  "type": "normal",
+  "category": "special",
+  "power": 90,
+  "accuracy": 100,
+  "pp": 10,
+  "generation": 3,
+  "description": {
+    "ja": "３ターンの　間騒いで　相手を　攻撃する。そのあいだは　だれも　眠れなくなる。",
+    "en": "The user attacks in an uproar for three turns. During that time, no Pokémon can fall asleep."
+  }
+}

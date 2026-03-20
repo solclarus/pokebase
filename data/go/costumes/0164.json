@@ -1,0 +1,16 @@
+{
+  "pokemon_id": 164,
+  "costumes": [
+    {
+      "costume_id": "0164-new_year",
+      "identifier": "noctowl-new-year",
+      "name": {
+        "ja": "ヨルノズク（お正月）",
+        "en": "Noctowl (New Year)"
+      },
+      "event": "December 31, 2022",
+      "available_from": "2022-12-31",
+      "available_until": null
+    }
+  ]
+}

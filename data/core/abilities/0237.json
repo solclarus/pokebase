@@ -1,0 +1,13 @@
+{
+  "id": 237,
+  "identifier": "ball-fetch",
+  "name": {
+    "ja": "たまひろい",
+    "en": "Ball Fetch"
+  },
+  "description": {
+    "ja": "道具を　持っていない　場合１回目に　投げて　失敗　したモンスターボールを　拾ってくる。",
+    "en": "If the Pokémon is not holding an item, it will fetch the Poké Ball from the first failed throw of the battle."
+  },
+  "generation": 8
+}

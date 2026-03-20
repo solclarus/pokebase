@@ -1,0 +1,18 @@
+{
+  "id": 335,
+  "identifier": "block",
+  "name": {
+    "ja": "とおせんぼう",
+    "en": "Block"
+  },
+  "type": "normal",
+  "category": "status",
+  "power": null,
+  "accuracy": null,
+  "pp": 5,
+  "generation": 3,
+  "description": {
+    "ja": "両手を　ひろげて　たちはだかり相手の　逃げ道を　ふさいで逃げられなくする。",
+    "en": "The user blocks the target's way with arms spread wide to prevent the target from fleeing."
+  }
+}

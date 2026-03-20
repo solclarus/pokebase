@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 1004,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "イーユイ",
+        "en": "Chi-Yu"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 80,
+        "defense": 80,
+        "sp_attack": 135,
+        "sp_defense": 120,
+        "speed": 100
+      },
+      "ability_ids": [
+        287
+      ]
+    }
+  ]
+}

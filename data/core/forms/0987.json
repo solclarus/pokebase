@@ -1,0 +1,30 @@
+{
+  "pokemon_id": 987,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ハバタクカミ",
+        "en": "Flutter Mane"
+      },
+      "form_type": "normal",
+      "region": "paldea",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "stats": {
+        "hp": 55,
+        "attack": 55,
+        "defense": 55,
+        "sp_attack": 135,
+        "sp_defense": 135,
+        "speed": 135
+      },
+      "ability_ids": [
+        281
+      ]
+    }
+  ]
+}

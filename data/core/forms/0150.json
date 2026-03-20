@@ -1,0 +1,79 @@
+{
+  "pokemon_id": 150,
+  "forms": [
+    {
+      "id": "default",
+      "order": 0,
+      "name": {
+        "ja": "ミュウツー",
+        "en": "Mewtwo"
+      },
+      "form_type": "normal",
+      "region": "kanto",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 106,
+        "attack": 110,
+        "defense": 90,
+        "sp_attack": 154,
+        "sp_defense": 90,
+        "speed": 130
+      },
+      "ability_ids": [
+        46
+      ],
+      "hidden_ability_id": 127
+    },
+    {
+      "id": "mega-x",
+      "order": 1,
+      "name": {
+        "ja": "メガミュウツーX",
+        "en": "Mega Mewtwo X"
+      },
+      "form_type": "mega",
+      "region": "kanto",
+      "types": [
+        "psychic",
+        "fighting"
+      ],
+      "stats": {
+        "hp": 106,
+        "attack": 190,
+        "defense": 100,
+        "sp_attack": 154,
+        "sp_defense": 100,
+        "speed": 130
+      },
+      "ability_ids": [
+        80
+      ]
+    },
+    {
+      "id": "mega-y",
+      "order": 2,
+      "name": {
+        "ja": "メガミュウツーY",
+        "en": "Mega Mewtwo Y"
+      },
+      "form_type": "mega",
+      "region": "kanto",
+      "types": [
+        "psychic"
+      ],
+      "stats": {
+        "hp": 106,
+        "attack": 150,
+        "defense": 70,
+        "sp_attack": 194,
+        "sp_defense": 120,
+        "speed": 140
+      },
+      "ability_ids": [
+        15
+      ]
+    }
+  ]
+}

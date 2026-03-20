@@ -1,0 +1,13 @@
+{
+  "id": 95,
+  "identifier": "quick-feet",
+  "name": {
+    "ja": "はやあし",
+    "en": "Quick Feet"
+  },
+  "description": {
+    "ja": "状態異常に　なると素早さが　上がる。",
+    "en": "Boosts the Speed stat if the Pokémon has a status condition."
+  },
+  "generation": 4
+}
