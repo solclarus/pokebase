@@ -8,9 +8,8 @@
         "ja": "デンヂムシ（ホリデー）",
         "en": "Charjabug (Holiday)"
       },
-      "event": "December 18, 2025",
-      "available_from": "2025-12-18",
-      "available_until": null
+      "released_at": "2025-12-18",
+      "shiny_released_at": null
     }
   ]
 }

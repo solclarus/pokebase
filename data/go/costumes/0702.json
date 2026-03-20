@@ -8,9 +8,8 @@
         "ja": "デデンネ（ホリデー）",
         "en": "Dedenne (Holiday)"
       },
-      "event": "December 17, 2024",
-      "available_from": "2024-12-17",
-      "available_until": null
+      "released_at": "2024-12-17",
+      "shiny_released_at": null
     }
   ]
 }

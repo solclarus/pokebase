@@ -1,0 +1,54 @@
+import { createRoute, z } from "@hono/zod-openapi";
+import { createRouter, ErrorSchema } from "@/context";
+import { DataLoader } from "@/repository";
+import { AbilityService } from "@/service";
+import { AbilitySchema } from "@/types";
+
+export const abilityRoutes = createRouter();
+
+abilityRoutes.use("*", async (c, next) => {
+  const loader = new DataLoader(c.env.ASSETS, "https://assets.local");
+  c.set("abilityService", new AbilityService(loader));
+  await next();
+});
+
+const AbilityListSchema = z.object({
+  abilities: z.array(AbilitySchema),
+  total: z.number(),
+}).openapi("AbilityList");
+
+abilityRoutes.openapi(
+  createRoute({
+    method: "get",
+    path: "/abilities",
+    summary: "List abilities",
+    tags: ["Abilities"],
+    responses: {
+      200: { description: "OK", content: { "application/json": { schema: AbilityListSchema } } },
+    },
+  }),
+  async (c) => {
+    const abilities = await c.get("abilityService").list();
+    return c.json({ abilities, total: abilities.length });
+  }
+);
+
+abilityRoutes.openapi(
+  createRoute({
+    method: "get",
+    path: "/abilities/{id}",
+    summary: "Get ability by ID",
+    tags: ["Abilities"],
+    request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 65 }) }) },
+    responses: {
+      200: { description: "OK", content: { "application/json": { schema: AbilitySchema } } },
+      404: { description: "Not found", content: { "application/json": { schema: ErrorSchema } } },
+    },
+  }),
+  async (c) => {
+    const { id } = c.req.valid("param");
+    const ability = await c.get("abilityService").getById(id);
+    if (!ability) return c.json({ error: "Ability not found" }, 404);
+    return c.json(ability, 200);
+  }
+);

@@ -8,9 +8,8 @@
         "ja": "キテルグマ（ワイルドネスケープ）",
         "en": "Bewear (Wilderness Cape)"
       },
-      "event": "November 7, 2025",
-      "available_from": "2025-11-07",
-      "available_until": null
+      "released_at": "2025-11-07",
+      "shiny_released_at": null
     }
   ]
 }

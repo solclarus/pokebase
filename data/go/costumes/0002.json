@@ -8,9 +8,8 @@
         "ja": "フシギソウ（パーティーハット）",
         "en": "Ivysaur (Party Hat)"
       },
-      "event": "July 1, 2025",
-      "available_from": "2025-07-01",
-      "available_until": null
+      "released_at": "2025-07-01",
+      "shiny_released_at": null
     }
   ]
 }

@@ -8,9 +8,8 @@
         "ja": "ダグトリオ（ぼうし）",
         "en": "Dugtrio (Hat)"
       },
-      "event": "September 27, 2022",
-      "available_from": "2022-09-27",
-      "available_until": null
+      "released_at": "2022-09-27",
+      "shiny_released_at": null
     }
   ]
 }

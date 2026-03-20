@@ -8,9 +8,8 @@
         "ja": "ホーホー（お正月）",
         "en": "Hoothoot (New Year)"
       },
-      "event": "December 31, 2021",
-      "available_from": "2021-12-31",
-      "available_until": null
+      "released_at": "2021-12-31",
+      "shiny_released_at": null
     }
   ]
 }

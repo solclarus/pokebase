@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from "@hono/zod-openapi";
 import { LocalizedNameSchema } from "@/types/pokemon";
 
 export const MoveTypeSchema = z.enum([
@@ -20,7 +20,7 @@ export const MoveSchema = z.object({
   pp: z.number().int().positive(),
   generation: z.number().int().min(1).max(9),
   description: LocalizedNameSchema,
-});
+}).openapi("Move");
 
 export type MoveType = z.infer<typeof MoveTypeSchema>;
 export type MoveCategory = z.infer<typeof MoveCategorySchema>;

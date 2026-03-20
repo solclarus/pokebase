@@ -8,9 +8,8 @@
         "ja": "ヤドン（お正月）",
         "en": "Slowpoke (New Year)"
       },
-      "event": "December 31, 2020",
-      "available_from": "2020-12-31",
-      "available_until": null
+      "released_at": "2020-12-31",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0079-detective",
@@ -19,9 +18,8 @@
         "ja": "ヤドン（名探偵）",
         "en": "Slowpoke (Detective)"
       },
-      "event": "October 5, 2023",
-      "available_from": "2023-10-05",
-      "available_until": null
+      "released_at": "2023-10-05",
+      "shiny_released_at": null
     }
   ]
 }

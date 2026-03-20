@@ -1,8 +1,7 @@
-import type { AvailabilityRepository } from "@/repository/interface";
 import type { AvailabilityFile } from "@/types";
-import type { DataLoader } from "@/repository/json/data-loader";
+import type { DataLoader } from "@/repository/data-loader";
 
-export class JsonAvailabilityRepository implements AvailabilityRepository {
+export class AvailabilityRepository {
   constructor(private loader: DataLoader) {}
 
   async findByPokemonId(pokemonId: number): Promise<AvailabilityFile | null> {

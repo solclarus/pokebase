@@ -8,9 +8,8 @@
         "ja": "パンプジン（ハロウィン（小））",
         "en": "Gourgeist (Small Halloween)"
       },
-      "event": "October 27, 2022",
-      "available_from": "2022-10-27",
-      "available_until": null
+      "released_at": "2022-10-27",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0711-halloween",
@@ -19,9 +18,8 @@
         "ja": "パンプジン（ハロウィン）",
         "en": "Gourgeist (Halloween)"
       },
-      "event": "October 27, 2022",
-      "available_from": "2022-10-27",
-      "available_until": null
+      "released_at": "2022-10-27",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0711-large_halloween",
@@ -30,9 +28,8 @@
         "ja": "パンプジン（ハロウィン（大））",
         "en": "Gourgeist (Large Halloween)"
       },
-      "event": "October 27, 2022",
-      "available_from": "2022-10-27",
-      "available_until": null
+      "released_at": "2022-10-27",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0711-super_halloween",
@@ -41,9 +38,8 @@
         "ja": "パンプジン（スーパーハロウィン）",
         "en": "Gourgeist (Super Halloween)"
       },
-      "event": "October 27, 2022",
-      "available_from": "2022-10-27",
-      "available_until": null
+      "released_at": "2022-10-27",
+      "shiny_released_at": null
     }
   ]
 }

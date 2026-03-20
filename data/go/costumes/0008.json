@@ -8,9 +8,8 @@
         "ja": "サングラスカメール",
         "en": "Wartortle (Sunglasses)"
       },
-      "event": "July 8, 2018",
-      "available_from": "2018-07-08",
-      "available_until": null
+      "released_at": "2018-07-08",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0008-party_hat",
@@ -19,9 +18,8 @@
         "ja": "カメール（パーティーハット）",
         "en": "Wartortle (Party Hat)"
       },
-      "event": "July 6, 2023",
-      "available_from": "2023-07-06",
-      "available_until": null
+      "released_at": "2023-07-06",
+      "shiny_released_at": null
     }
   ]
 }

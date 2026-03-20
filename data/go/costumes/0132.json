@@ -8,9 +8,8 @@
         "ja": "メタモン（キャップ）",
         "en": "Ditto (Cap)"
       },
-      "event": "March 10, 2026",
-      "available_from": "2026-03-10",
-      "available_until": null
+      "released_at": "2026-03-10",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0132-hat",
@@ -19,9 +18,8 @@
         "ja": "メタモン（ぼうし）",
         "en": "Ditto (Hat)"
       },
-      "event": "March 10, 2026",
-      "available_from": "2026-03-10",
-      "available_until": null
+      "released_at": "2026-03-10",
+      "shiny_released_at": null
     }
   ]
 }

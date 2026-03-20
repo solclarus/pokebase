@@ -8,9 +8,8 @@
         "ja": "ウールー（ホリデー）",
         "en": "Wooloo (Holiday)"
       },
-      "event": "December 22, 2024",
-      "available_from": "2024-12-22",
-      "available_until": null
+      "released_at": "2024-12-22",
+      "shiny_released_at": null
     }
   ]
 }

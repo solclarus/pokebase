@@ -8,9 +8,8 @@
         "ja": "オンバット（ヘッドバンド）",
         "en": "Noibat (Headband)"
       },
-      "event": "October 21, 2025",
-      "available_from": "2025-10-21",
-      "available_until": null
+      "released_at": "2025-10-21",
+      "shiny_released_at": null
     }
   ]
 }

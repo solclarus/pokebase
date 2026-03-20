@@ -8,9 +8,8 @@
         "ja": "ヤルキモノ（バイザー）",
         "en": "Vigoroth (Visor)"
       },
-      "event": "June 7, 2024",
-      "available_from": "2024-06-07",
-      "available_until": null
+      "released_at": "2024-06-07",
+      "shiny_released_at": null
     }
   ]
 }

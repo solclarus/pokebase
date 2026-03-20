@@ -8,9 +8,8 @@
         "ja": "トゲチック（はなかんむり）",
         "en": "Togetic (Flower)"
       },
-      "event": "April 12, 2022",
-      "available_from": "2022-04-12",
-      "available_until": null
+      "released_at": "2022-04-12",
+      "shiny_released_at": null
     }
   ]
 }

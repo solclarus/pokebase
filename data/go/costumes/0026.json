@@ -8,9 +8,8 @@
         "ja": "ライチュウ（フェスティブ）",
         "en": "Raichu (Festive)"
       },
-      "event": "December 25, 2016",
-      "available_from": "2016-12-25",
-      "available_until": null
+      "released_at": "2016-12-25",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-party",
@@ -19,9 +18,8 @@
         "ja": "パーティーライチュウ",
         "en": "Raichu (Party)"
       },
-      "event": "February 26, 2017",
-      "available_from": "2017-02-26",
-      "available_until": null
+      "released_at": "2017-02-26",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-ash",
@@ -30,9 +28,8 @@
         "ja": "ライチュウ（サトシ）",
         "en": "Raichu (Ash)"
       },
-      "event": "June 6, 2017",
-      "available_from": "2017-06-06",
-      "available_until": null
+      "released_at": "2017-06-06",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-witch",
@@ -41,9 +38,8 @@
         "ja": "ライチュウ（魔女）",
         "en": "Raichu (Witch)"
       },
-      "event": "October 20, 2017",
-      "available_from": "2017-10-20",
-      "available_until": null
+      "released_at": "2017-10-20",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-summer",
@@ -52,9 +48,8 @@
         "ja": "ライチュウ（サマー）",
         "en": "Raichu (Summer)"
       },
-      "event": "July 5, 2018",
-      "available_from": "2018-07-05",
-      "available_until": null
+      "released_at": "2018-07-05",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-fragment",
@@ -63,9 +58,8 @@
         "ja": "ライチュウ（フラグメント）",
         "en": "Raichu (Fragment)"
       },
-      "event": "October 5, 2018",
-      "available_from": "2018-10-05",
-      "available_until": null
+      "released_at": "2018-10-05",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-flower",
@@ -74,9 +68,8 @@
         "ja": "ライチュウ（はなかんむり）",
         "en": "Raichu (Flower)"
       },
-      "event": "February 26, 2019",
-      "available_from": "2019-02-26",
-      "available_until": null
+      "released_at": "2019-02-26",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-detective",
@@ -85,9 +78,8 @@
         "ja": "ライチュウ（名探偵）",
         "en": "Raichu (Detective)"
       },
-      "event": "May 7, 2019",
-      "available_from": "2019-05-07",
-      "available_until": null
+      "released_at": "2019-05-07",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-winter",
@@ -96,9 +88,8 @@
         "ja": "ライチュウ（ウィンター）",
         "en": "Raichu (Winter)"
       },
-      "event": "December 24, 2019",
-      "available_from": "2019-12-24",
-      "available_until": null
+      "released_at": "2019-12-24",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-worldcap",
@@ -107,9 +98,8 @@
         "ja": "ライチュウ（ワールドキャップ）",
         "en": "Raichu (Worldcap)"
       },
-      "event": "October 6, 2020",
-      "available_from": "2020-10-06",
-      "available_until": null
+      "released_at": "2020-10-06",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-new_year",
@@ -118,9 +108,8 @@
         "ja": "ライチュウ（お正月）",
         "en": "Raichu (New Year)"
       },
-      "event": "December 31, 2020",
-      "available_from": "2020-12-31",
-      "available_until": null
+      "released_at": "2020-12-31",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-spring2023",
@@ -129,9 +118,8 @@
         "ja": "ライチュウ（スプリング（2023））",
         "en": "Raichu (Spring2023)"
       },
-      "event": "April 4, 2023",
-      "available_from": "2023-04-04",
-      "available_until": null
+      "released_at": "2023-04-04",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-detective_2023",
@@ -140,9 +128,8 @@
         "ja": "ライチュウ（名探偵（2023））",
         "en": "Raichu (Detective 2023)"
       },
-      "event": "October 5, 2023",
-      "available_from": "2023-10-05",
-      "available_until": null
+      "released_at": "2023-10-05",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0026-holiday_2023",
@@ -151,9 +138,8 @@
         "ja": "ライチュウ（ホリデー（2023））",
         "en": "Raichu (Holiday 2023)"
       },
-      "event": "December 18, 2023",
-      "available_from": "2023-12-18",
-      "available_until": null
+      "released_at": "2023-12-18",
+      "shiny_released_at": null
     }
   ]
 }

@@ -8,9 +8,8 @@
         "ja": "ヨルノズク（お正月）",
         "en": "Noctowl (New Year)"
       },
-      "event": "December 31, 2022",
-      "available_from": "2022-12-31",
-      "available_until": null
+      "released_at": "2022-12-31",
+      "shiny_released_at": null
     }
   ]
 }

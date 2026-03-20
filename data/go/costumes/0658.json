@@ -8,9 +8,8 @@
         "ja": "ゲッコウガ（ハロウィン）",
         "en": "Greninja (Halloween)"
       },
-      "event": "October 22, 2024",
-      "available_from": "2024-10-22",
-      "available_until": null
+      "released_at": "2024-10-22",
+      "shiny_released_at": null
     }
   ]
 }

@@ -8,9 +8,8 @@
         "ja": "ナエトル（レッドキャップ）",
         "en": "Turtwig (Red Hat)"
       },
-      "event": "November 16, 2021",
-      "available_from": "2021-11-16",
-      "available_until": null
+      "released_at": "2021-11-16",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0387-white_hat",
@@ -19,9 +18,8 @@
         "ja": "ナエトル（ホワイトキャップ）",
         "en": "Turtwig (White Hat)"
       },
-      "event": "November 16, 2021",
-      "available_from": "2021-11-16",
-      "available_until": null
+      "released_at": "2021-11-16",
+      "shiny_released_at": null
     }
   ]
 }

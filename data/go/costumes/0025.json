@@ -8,9 +8,8 @@
         "ja": "サンタピカチュウ",
         "en": "Pikachu (Festive)"
       },
-      "event": "December 25, 2016",
-      "available_from": "2016-12-25",
-      "available_until": null
+      "released_at": "2016-12-25",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-party",
@@ -19,9 +18,8 @@
         "ja": "パーティーピカチュウ",
         "en": "Pikachu (Party)"
       },
-      "event": "February 26, 2017",
-      "available_from": "2017-02-26",
-      "available_until": null
+      "released_at": "2017-02-26",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-ash",
@@ -30,9 +28,8 @@
         "ja": "サトシのピカチュウ",
         "en": "Pikachu (Ash)"
       },
-      "event": "June 6, 2017",
-      "available_from": "2017-06-06",
-      "available_until": null
+      "released_at": "2017-06-06",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-witch",
@@ -41,9 +38,8 @@
         "ja": "まじょのいしピカチュウ",
         "en": "Pikachu (Witch)"
       },
-      "event": "October 20, 2017",
-      "available_from": "2017-10-20",
-      "available_until": null
+      "released_at": "2017-10-20",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-summer",
@@ -52,9 +48,8 @@
         "ja": "サマーピカチュウ",
         "en": "Pikachu (Summer)"
       },
-      "event": "July 5, 2018",
-      "available_from": "2018-07-05",
-      "available_until": null
+      "released_at": "2018-07-05",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-fragment",
@@ -63,9 +58,8 @@
         "ja": "フラグメントピカチュウ",
         "en": "Pikachu (Fragment)"
       },
-      "event": "October 5, 2018",
-      "available_from": "2018-10-05",
-      "available_until": null
+      "released_at": "2018-10-05",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-flower",
@@ -74,9 +68,8 @@
         "ja": "はなかんむりピカチュウ",
         "en": "Pikachu (Flower)"
       },
-      "event": "February 26, 2019",
-      "available_from": "2019-02-26",
-      "available_until": null
+      "released_at": "2019-02-26",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-detective",
@@ -85,9 +78,8 @@
         "ja": "名探偵ピカチュウ",
         "en": "Pikachu (Detective)"
       },
-      "event": "May 7, 2019",
-      "available_from": "2019-05-07",
-      "available_until": null
+      "released_at": "2019-05-07",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-straw_hat",
@@ -96,9 +88,8 @@
         "ja": "麦わらピカチュウ",
         "en": "Pikachu (Straw Hat)"
       },
-      "event": "July 22, 2019",
-      "available_from": "2019-07-22",
-      "available_until": null
+      "released_at": "2019-07-22",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-fall",
@@ -107,9 +98,8 @@
         "ja": "オータムピカチュウ",
         "en": "Pikachu (Fall)"
       },
-      "event": "October 17, 2019",
-      "available_from": "2019-10-17",
-      "available_until": null
+      "released_at": "2019-10-17",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-winter",
@@ -118,9 +108,8 @@
         "ja": "ウィンターピカチュウ",
         "en": "Pikachu (Winter)"
       },
-      "event": "December 24, 2019",
-      "available_from": "2019-12-24",
-      "available_until": null
+      "released_at": "2019-12-24",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-party_hat",
@@ -129,9 +118,8 @@
         "ja": "パーティーハットピカチュウ",
         "en": "Pikachu (Party Hat)"
       },
-      "event": "February 25, 2020",
-      "available_from": "2020-02-25",
-      "available_until": null
+      "released_at": "2020-02-25",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-clone",
@@ -140,9 +128,8 @@
         "ja": "ピカチュウ（クローン）",
         "en": "Pikachu (Clone)"
       },
-      "event": "February 25, 2020",
-      "available_from": "2020-02-25",
-      "available_until": null
+      "released_at": "2020-02-25",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-female_libre",
@@ -151,9 +138,8 @@
         "ja": "ルチャドールピカチュウ",
         "en": "Pikachu (Female Libre)"
       },
-      "event": "March 13, 2020",
-      "available_from": "2020-03-13",
-      "available_until": null
+      "released_at": "2020-03-13",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-safari",
@@ -162,9 +148,8 @@
         "ja": "ピカチュウ（サファリ）",
         "en": "Pikachu (Safari)"
       },
-      "event": "March 27, 2020",
-      "available_from": "2020-03-27",
-      "available_until": null
+      "released_at": "2020-03-27",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-spring",
@@ -173,9 +158,8 @@
         "ja": "スプリングピカチュウ",
         "en": "Pikachu (Spring)"
       },
-      "event": "April 9, 2020",
-      "available_from": "2020-04-09",
-      "available_until": null
+      "released_at": "2020-04-09",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-charizard",
@@ -184,9 +168,8 @@
         "ja": "リザードンピカチュウ",
         "en": "Pikachu (Charizard)"
       },
-      "event": "May 1, 2020",
-      "available_from": "2020-05-01",
-      "available_until": null
+      "released_at": "2020-05-01",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-umbreon",
@@ -195,9 +178,8 @@
         "ja": "ブラッキーピカチュウ",
         "en": "Pikachu (Umbreon)"
       },
-      "event": "May 8, 2020",
-      "available_from": "2020-05-08",
-      "available_until": null
+      "released_at": "2020-05-08",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-rayquaza",
@@ -206,9 +188,8 @@
         "ja": "レックウザピカチュウ",
         "en": "Pikachu (Rayquaza)"
       },
-      "event": "May 15, 2020",
-      "available_from": "2020-05-15",
-      "available_until": null
+      "released_at": "2020-05-15",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-lucario",
@@ -217,9 +198,8 @@
         "ja": "ルカリオピカチュウ",
         "en": "Pikachu (Lucario)"
       },
-      "event": "May 22, 2020",
-      "available_from": "2020-05-22",
-      "available_until": null
+      "released_at": "2020-05-22",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-fly",
@@ -228,9 +208,8 @@
         "ja": "フライピカチュウ",
         "en": "Pikachu (Fly)"
       },
-      "event": "July 3, 2020",
-      "available_from": "2020-07-03",
-      "available_until": null
+      "released_at": "2020-07-03",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-worldcap",
@@ -239,9 +218,8 @@
         "ja": "ワールドキャップピカチュウ",
         "en": "Pikachu (Worldcap)"
       },
-      "event": "October 6, 2020",
-      "available_from": "2020-10-06",
-      "available_until": null
+      "released_at": "2020-10-06",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-explorer",
@@ -250,9 +228,8 @@
         "ja": "ピカチュウ（エクスプローラー）",
         "en": "Pikachu (Explorer)"
       },
-      "event": "December 14, 2020",
-      "available_from": "2020-12-14",
-      "available_until": null
+      "released_at": "2020-12-14",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-holiday",
@@ -261,9 +238,8 @@
         "ja": "ホリデーピカチュウ",
         "en": "Pikachu (Holiday)"
       },
-      "event": "December 22, 2020",
-      "available_from": "2020-12-22",
-      "available_until": null
+      "released_at": "2020-12-22",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-new_year",
@@ -272,9 +248,8 @@
         "ja": "お正月ピカチュウ",
         "en": "Pikachu (New Year)"
       },
-      "event": "December 31, 2020",
-      "available_from": "2020-12-31",
-      "available_until": null
+      "released_at": "2020-12-31",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-5th",
@@ -283,9 +258,8 @@
         "ja": "5周年ピカチュウ",
         "en": "Pikachu (5th)"
       },
-      "event": "July 6, 2021",
-      "available_from": "2021-07-06",
-      "available_until": null
+      "released_at": "2021-07-06",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-female_pop",
@@ -294,9 +268,8 @@
         "ja": "ポップピカチュウ",
         "en": "Pikachu (Female Pop)"
       },
-      "event": "July 17, 2021",
-      "available_from": "2021-07-17",
-      "available_until": null
+      "released_at": "2021-07-17",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-female_rock",
@@ -305,9 +278,8 @@
         "ja": "ロックピカチュウ",
         "en": "Pikachu (Female Rock)"
       },
-      "event": "July 17, 2021",
-      "available_from": "2021-07-17",
-      "available_until": null
+      "released_at": "2021-07-17",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-meloetta",
@@ -316,9 +288,8 @@
         "ja": "メロエッタピカチュウ",
         "en": "Pikachu (Meloetta)"
       },
-      "event": "July 17, 2021",
-      "available_from": "2021-07-17",
-      "available_until": null
+      "released_at": "2021-07-17",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-halloween",
@@ -327,9 +298,8 @@
         "ja": "ハロウィンピカチュウ",
         "en": "Pikachu (Halloween)"
       },
-      "event": "October 15, 2021",
-      "available_from": "2021-10-15",
-      "available_until": null
+      "released_at": "2021-10-15",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-kariyushi",
@@ -338,9 +308,8 @@
         "ja": "かりゆしピカチュウ",
         "en": "Pikachu (Kariyushi)"
       },
-      "event": "March 19, 2022",
-      "available_from": "2022-03-19",
-      "available_until": null
+      "released_at": "2022-03-19",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-fly_okinawa",
@@ -349,9 +318,8 @@
         "ja": "フライピカチュウ（沖縄）",
         "en": "Pikachu (Fly Okinawa)"
       },
-      "event": "May 3, 2022",
-      "available_from": "2022-05-03",
-      "available_until": null
+      "released_at": "2022-05-03",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-shaymin",
@@ -360,9 +328,8 @@
         "ja": "シェイミピカチュウ",
         "en": "Pikachu (Shaymin)"
       },
-      "event": "June 4, 2022",
-      "available_from": "2022-06-04",
-      "available_until": null
+      "released_at": "2022-06-04",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-tcg",
@@ -371,9 +338,8 @@
         "ja": "ピカチュウ（TCG）",
         "en": "Pikachu (Tcg)"
       },
-      "event": "June 16, 2022",
-      "available_from": "2022-06-16",
-      "available_until": null
+      "released_at": "2022-06-16",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-cake",
@@ -382,9 +348,8 @@
         "ja": "ケーキピカチュウ",
         "en": "Pikachu (Cake)"
       },
-      "event": "Jul 6, 2022",
-      "available_from": "2022-07-06",
-      "available_until": null
+      "released_at": "2022-07-06",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-worlds_2022",
@@ -393,9 +358,8 @@
         "ja": "ワールドズピカチュウ（2022）",
         "en": "Pikachu (Worlds 2022)"
       },
-      "event": "August 18, 2022",
-      "available_from": "2022-08-18",
-      "available_until": null
+      "released_at": "2022-08-18",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-scarf",
@@ -404,9 +368,8 @@
         "ja": "ピカチュウ（マフラー）",
         "en": "Pikachu (Scarf)"
       },
-      "event": "August 27, 2022",
-      "available_from": "2022-08-27",
-      "available_until": null
+      "released_at": "2022-08-27",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-green",
@@ -415,9 +378,8 @@
         "ja": "グリーンピカチュウ",
         "en": "Pikachu (Green)"
       },
-      "event": "October 14, 2022",
-      "available_from": "2022-10-14",
-      "available_until": null
+      "released_at": "2022-10-14",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-fly_green",
@@ -426,9 +388,8 @@
         "ja": "フライピカチュウ（グリーン）",
         "en": "Pikachu (Fly Green)"
       },
-      "event": "October 14, 2022",
-      "available_from": "2022-10-14",
-      "available_until": null
+      "released_at": "2022-10-14",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-purple",
@@ -437,9 +398,8 @@
         "ja": "ピカチュウ（パープル）",
         "en": "Pikachu (Purple)"
       },
-      "event": "November 11, 2022",
-      "available_from": "2022-11-11",
-      "available_until": null
+      "released_at": "2022-11-11",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-fly_purple",
@@ -448,9 +408,8 @@
         "ja": "フライピカチュウ（パープル）",
         "en": "Pikachu (Fly Purple)"
       },
-      "event": "November 11, 2022",
-      "available_from": "2022-11-11",
-      "available_until": null
+      "released_at": "2022-11-11",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-2023",
@@ -459,9 +418,8 @@
         "ja": "ピカチュウ（2023）",
         "en": "Pikachu (2023)"
       },
-      "event": "December 31, 2022",
-      "available_from": "2022-12-31",
-      "available_until": null
+      "released_at": "2022-12-31",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-brendan",
@@ -470,9 +428,8 @@
         "ja": "ユウキピカチュウ",
         "en": "Pikachu (Brendan)"
       },
-      "event": "February 18, 2023",
-      "available_from": "2023-02-18",
-      "available_until": null
+      "released_at": "2023-02-18",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-may",
@@ -481,9 +438,8 @@
         "ja": "ハルカピカチュウ",
         "en": "Pikachu (May)"
       },
-      "event": "February 18, 2023",
-      "available_from": "2023-02-18",
-      "available_until": null
+      "released_at": "2023-02-18",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-spring2023",
@@ -492,9 +448,8 @@
         "ja": "スプリングピカチュウ（2023）",
         "en": "Pikachu (Spring2023)"
       },
-      "event": "April 4, 2023",
-      "available_from": "2023-04-04",
-      "available_until": null
+      "released_at": "2023-04-04",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-teal",
@@ -503,9 +458,8 @@
         "ja": "ピカチュウ（ティール）",
         "en": "Pikachu (Teal)"
       },
-      "event": "July 28, 2023",
-      "available_from": "2023-07-28",
-      "available_until": null
+      "released_at": "2023-07-28",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-fly_orange",
@@ -514,9 +468,8 @@
         "ja": "フライピカチュウ（オレンジ）",
         "en": "Pikachu (Fly Orange)"
       },
-      "event": "July 28, 2023",
-      "available_from": "2023-07-28",
-      "available_until": null
+      "released_at": "2023-07-28",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-amethyst",
@@ -525,9 +478,8 @@
         "ja": "ピカチュウ（アメジスト）",
         "en": "Pikachu (Amethyst)"
       },
-      "event": "August 4, 2023",
-      "available_from": "2023-08-04",
-      "available_until": null
+      "released_at": "2023-08-04",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-worlds_2023",
@@ -536,9 +488,8 @@
         "ja": "ワールドズピカチュウ（2023）",
         "en": "Pikachu (Worlds 2023)"
       },
-      "event": "August 11, 2023",
-      "available_from": "2023-08-11",
-      "available_until": null
+      "released_at": "2023-08-11",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-pyrite",
@@ -547,9 +498,8 @@
         "ja": "ピカチュウ（パイライト）",
         "en": "Pikachu (Pyrite)"
       },
-      "event": "August 26, 2023",
-      "available_from": "2023-08-26",
-      "available_until": null
+      "released_at": "2023-08-26",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-quartz",
@@ -558,9 +508,8 @@
         "ja": "ピカチュウ（クォーツ）",
         "en": "Pikachu (Quartz)"
       },
-      "event": "August 26, 2023",
-      "available_from": "2023-08-26",
-      "available_until": null
+      "released_at": "2023-08-26",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-malachite",
@@ -569,9 +518,8 @@
         "ja": "ピカチュウ（マラカイト）",
         "en": "Pikachu (Malachite)"
       },
-      "event": "August 26, 2023",
-      "available_from": "2023-08-26",
-      "available_until": null
+      "released_at": "2023-08-26",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-aquamarine",
@@ -580,9 +528,8 @@
         "ja": "ピカチュウ（アクアマリン）",
         "en": "Pikachu (Aquamarine)"
       },
-      "event": "August 26, 2023",
-      "available_from": "2023-08-26",
-      "available_until": null
+      "released_at": "2023-08-26",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-detective_2023",
@@ -591,9 +538,8 @@
         "ja": "名探偵ピカチュウ（2023）",
         "en": "Pikachu (Detective 2023)"
       },
-      "event": "October 5, 2023",
-      "available_from": "2023-10-05",
-      "available_until": null
+      "released_at": "2023-10-05",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-halloween_2023",
@@ -602,9 +548,8 @@
         "ja": "ハロウィンピカチュウ（2023）",
         "en": "Pikachu (Halloween 2023)"
       },
-      "event": "October 26, 2023",
-      "available_from": "2023-10-26",
-      "available_until": null
+      "released_at": "2023-10-26",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-holiday_2023",
@@ -613,9 +558,8 @@
         "ja": "ホリデーピカチュウ（2023）",
         "en": "Pikachu (Holiday 2023)"
       },
-      "event": "December 18, 2023",
-      "available_from": "2023-12-18",
-      "available_until": null
+      "released_at": "2023-12-18",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-dawn",
@@ -624,9 +568,8 @@
         "ja": "ヒカリピカチュウ",
         "en": "Pikachu (Dawn)"
       },
-      "event": "February 16, 2024",
-      "available_from": "2024-02-16",
-      "available_until": null
+      "released_at": "2024-02-16",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-lucas",
@@ -635,9 +578,8 @@
         "ja": "コウキピカチュウ",
         "en": "Pikachu (Lucas)"
       },
-      "event": "February 16, 2024",
-      "available_from": "2024-02-16",
-      "available_until": null
+      "released_at": "2024-02-16",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-akari",
@@ -646,9 +588,8 @@
         "ja": "アカリピカチュウ",
         "en": "Pikachu (Akari)"
       },
-      "event": "February 16, 2024",
-      "available_from": "2024-02-16",
-      "available_until": null
+      "released_at": "2024-02-16",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-rei",
@@ -657,9 +598,8 @@
         "ja": "レイピカチュウ",
         "en": "Pikachu (Rei)"
       },
-      "event": "February 16, 2024",
-      "available_from": "2024-02-16",
-      "available_until": null
+      "released_at": "2024-02-16",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-female_phd",
@@ -668,9 +608,8 @@
         "ja": "はかせピカチュウ",
         "en": "Pikachu (Female Phd)"
       },
-      "event": "March 1, 2024",
-      "available_from": "2024-03-01",
-      "available_until": null
+      "released_at": "2024-03-01",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-adventure",
@@ -679,9 +618,8 @@
         "ja": "ピカチュウ（アドベンチャー）",
         "en": "Pikachu (Adventure)"
       },
-      "event": "March 2, 2024",
-      "available_from": "2024-03-02",
-      "available_until": null
+      "released_at": "2024-03-02",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-fly_red",
@@ -690,9 +628,8 @@
         "ja": "フライピカチュウ（レッド）",
         "en": "Pikachu (Fly Red)"
       },
-      "event": "March 2, 2024",
-      "available_from": "2024-03-02",
-      "available_until": null
+      "released_at": "2024-03-02",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-horizons",
@@ -701,9 +638,8 @@
         "ja": "ホライゾンピカチュウ",
         "en": "Pikachu (Horizons)"
       },
-      "event": "March 5, 2024",
-      "available_from": "2024-03-05",
-      "available_until": null
+      "released_at": "2024-03-05",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-sun",
@@ -712,9 +648,8 @@
         "ja": "ピカチュウ（サン）",
         "en": "Pikachu (Sun)"
       },
-      "event": "May 30, 2024",
-      "available_from": "2024-05-30",
-      "available_until": null
+      "released_at": "2024-05-30",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-moon",
@@ -723,9 +658,8 @@
         "ja": "ピカチュウ（ムーン）",
         "en": "Pikachu (Moon)"
       },
-      "event": "May 30, 2024",
-      "available_from": "2024-05-30",
-      "available_until": null
+      "released_at": "2024-05-30",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-worlds_2024",
@@ -734,9 +668,8 @@
         "ja": "ワールドズピカチュウ（2024）",
         "en": "Pikachu (Worlds 2024)"
       },
-      "event": "August 16, 2024",
-      "available_from": "2024-08-16",
-      "available_until": null
+      "released_at": "2024-08-16",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-female_saree",
@@ -745,9 +678,8 @@
         "ja": "サリーピカチュウ",
         "en": "Pikachu (Female Saree)"
       },
-      "event": "November 1, 2024",
-      "available_from": "2024-11-01",
-      "available_until": null
+      "released_at": "2024-11-01",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-hilbert",
@@ -756,9 +688,8 @@
         "ja": "トウヤピカチュウ",
         "en": "Pikachu (Hilbert)"
       },
-      "event": "February 21, 2025",
-      "available_from": "2025-02-21",
-      "available_until": null
+      "released_at": "2025-02-21",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-hilda",
@@ -767,9 +698,8 @@
         "ja": "トウコピカチュウ",
         "en": "Pikachu (Hilda)"
       },
-      "event": "February 21, 2025",
-      "available_from": "2025-02-21",
-      "available_until": null
+      "released_at": "2025-02-21",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-nate",
@@ -778,9 +708,8 @@
         "ja": "キョヘイピカチュウ",
         "en": "Pikachu (Nate)"
       },
-      "event": "February 21, 2025",
-      "available_from": "2025-02-21",
-      "available_until": null
+      "released_at": "2025-02-21",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-rosa",
@@ -789,9 +718,8 @@
         "ja": "メイピカチュウ",
         "en": "Pikachu (Rosa)"
       },
-      "event": "February 21, 2025",
-      "available_from": "2025-02-21",
-      "available_until": null
+      "released_at": "2025-02-21",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-kurta",
@@ -800,9 +728,8 @@
         "ja": "ピカチュウ（クルタ）",
         "en": "Pikachu (Kurta)"
       },
-      "event": "March 13, 2025",
-      "available_from": "2025-03-13",
-      "available_until": null
+      "released_at": "2025-03-13",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-go_fest_2025_monocle_red",
@@ -811,9 +738,8 @@
         "ja": "GOフェス2025モノクルピカチュウ（赤）",
         "en": "Pikachu (Go Fest 2025 Monocle Red)"
       },
-      "event": "May 29, 2025",
-      "available_from": "2025-05-29",
-      "available_until": null
+      "released_at": "2025-05-29",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-go_fest_2025_monocle_blue",
@@ -822,9 +748,8 @@
         "ja": "GOフェス2025モノクルピカチュウ（青）",
         "en": "Pikachu (Go Fest 2025 Monocle Blue)"
       },
-      "event": "May 29, 2025",
-      "available_from": "2025-05-29",
-      "available_until": null
+      "released_at": "2025-05-29",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-go_fest_2025_monocle_yellow",
@@ -833,9 +758,8 @@
         "ja": "GOフェス2025モノクルピカチュウ（黄）",
         "en": "Pikachu (Go Fest 2025 Monocle Yellow)"
       },
-      "event": "May 29, 2025",
-      "available_from": "2025-05-29",
-      "available_until": null
+      "released_at": "2025-05-29",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-go_fest_2025_goggles_red",
@@ -844,9 +768,8 @@
         "ja": "GOフェス2025ゴーグルピカチュウ（赤）",
         "en": "Pikachu (Go Fest 2025 Goggles Red)"
       },
-      "event": "June 28, 2025",
-      "available_from": "2025-06-28",
-      "available_until": null
+      "released_at": "2025-06-28",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-go_fest_2025_goggles_blue",
@@ -855,9 +778,8 @@
         "ja": "GOフェス2025ゴーグルピカチュウ（青）",
         "en": "Pikachu (Go Fest 2025 Goggles Blue)"
       },
-      "event": "June 28, 2025",
-      "available_from": "2025-06-28",
-      "available_until": null
+      "released_at": "2025-06-28",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-go_fest_2025_goggles_yellow",
@@ -866,9 +788,8 @@
         "ja": "GOフェス2025ゴーグルピカチュウ（黄）",
         "en": "Pikachu (Go Fest 2025 Goggles Yellow)"
       },
-      "event": "June 28, 2025",
-      "available_from": "2025-06-28",
-      "available_until": null
+      "released_at": "2025-06-28",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-indonesia",
@@ -877,9 +798,8 @@
         "ja": "インドネシアピカチュウ",
         "en": "Pikachu (Indonesia)"
       },
-      "event": "August 5, 2025",
-      "available_from": "2025-08-05",
-      "available_until": null
+      "released_at": "2025-08-05",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-varsity_jacket",
@@ -888,9 +808,8 @@
         "ja": "ピカチュウ（バーシティジャケット）",
         "en": "Pikachu (Varsity Jacket)"
       },
-      "event": "August 15, 2025",
-      "available_from": "2025-08-15",
-      "available_until": null
+      "released_at": "2025-08-15",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-calem",
@@ -899,9 +818,8 @@
         "ja": "カルムピカチュウ",
         "en": "Pikachu (Calem)"
       },
-      "event": "February 20, 2026",
-      "available_from": "2026-02-20",
-      "available_until": null
+      "released_at": "2026-02-20",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-serena",
@@ -910,9 +828,8 @@
         "ja": "セレナピカチュウ",
         "en": "Pikachu (Serena)"
       },
-      "event": "February 20, 2026",
-      "available_from": "2026-02-20",
-      "available_until": null
+      "released_at": "2026-02-20",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-red",
@@ -921,9 +838,8 @@
         "ja": "レッドピカチュウ",
         "en": "Pikachu (Red)"
       },
-      "event": "February 23, 2026",
-      "available_from": "2026-02-23",
-      "available_until": null
+      "released_at": "2026-02-23",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-leaf",
@@ -932,9 +848,8 @@
         "ja": "リーフピカチュウ",
         "en": "Pikachu (Leaf)"
       },
-      "event": "February 23, 2026",
-      "available_from": "2026-02-23",
-      "available_until": null
+      "released_at": "2026-02-23",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-ethan",
@@ -943,9 +858,8 @@
         "ja": "ヒビキピカチュウ",
         "en": "Pikachu (Ethan)"
       },
-      "event": "February 24, 2026",
-      "available_from": "2026-02-24",
-      "available_until": null
+      "released_at": "2026-02-24",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-lyra",
@@ -954,9 +868,8 @@
         "ja": "コトネピカチュウ",
         "en": "Pikachu (Lyra)"
       },
-      "event": "February 24, 2026",
-      "available_from": "2026-02-24",
-      "available_until": null
+      "released_at": "2026-02-24",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0025-baseball",
@@ -965,9 +878,8 @@
         "ja": "ベースボールピカチュウ",
         "en": "Pikachu (Baseball)"
       },
-      "event": "April 3, 2026",
-      "available_from": "2026-04-03",
-      "available_until": null
+      "released_at": "2026-04-03",
+      "shiny_released_at": null
     }
   ]
 }

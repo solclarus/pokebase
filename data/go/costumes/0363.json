@@ -8,9 +8,8 @@
         "ja": "タマザラシ（ホリデー）",
         "en": "Spheal (Holiday)"
       },
-      "event": "December 16, 2021",
-      "available_from": "2021-12-16",
-      "available_until": null
+      "released_at": "2021-12-16",
+      "shiny_released_at": null
     }
   ]
 }

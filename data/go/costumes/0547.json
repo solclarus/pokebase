@@ -8,9 +8,8 @@
         "ja": "エルフーン（はなかんむり）",
         "en": "Whimsicott (Flower)"
       },
-      "event": "March 21, 2024",
-      "available_from": "2024-03-21",
-      "available_until": null
+      "released_at": "2024-03-21",
+      "shiny_released_at": null
     }
   ]
 }

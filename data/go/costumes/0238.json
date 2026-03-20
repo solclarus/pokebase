@@ -8,9 +8,8 @@
         "ja": "ムチュール（リボン）",
         "en": "Smoochum (Bow)"
       },
-      "event": "October 2, 2020",
-      "available_from": "2020-10-02",
-      "available_until": null
+      "released_at": "2020-10-02",
+      "shiny_released_at": null
     }
   ]
 }

@@ -8,9 +8,8 @@
         "ja": "フワライド（ハロウィン）",
         "en": "Drifblim (Halloween)"
       },
-      "event": "October 15, 2021",
-      "available_from": "2021-10-15",
-      "available_until": null
+      "released_at": "2021-10-15",
+      "shiny_released_at": null
     }
   ]
 }

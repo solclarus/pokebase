@@ -8,9 +8,8 @@
         "ja": "エレキブル（スパーク）",
         "en": "Electivire (Spark)"
       },
-      "event": "May 2, 2023",
-      "available_from": "2023-05-02",
-      "available_until": null
+      "released_at": "2023-05-02",
+      "shiny_released_at": null
     }
   ]
 }

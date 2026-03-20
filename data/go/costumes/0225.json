@@ -8,9 +8,8 @@
         "ja": "デリバード（ホリデー）",
         "en": "Delibird (Holiday)"
       },
-      "event": "December 22, 2020",
-      "available_from": "2020-12-22",
-      "available_until": null
+      "released_at": "2020-12-22",
+      "shiny_released_at": null
     }
   ]
 }

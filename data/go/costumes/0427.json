@@ -8,9 +8,8 @@
         "ja": "ミミロル（はなかんむり）",
         "en": "Buneary (Flower)"
       },
-      "event": "April 9, 2020",
-      "available_from": "2020-04-09",
-      "available_until": null
+      "released_at": "2020-04-09",
+      "shiny_released_at": null
     }
   ]
 }

@@ -8,9 +8,8 @@
         "ja": "サングラスカメックス",
         "en": "Blastoise (Sunglasses)"
       },
-      "event": "July 8, 2018",
-      "available_from": "2018-07-08",
-      "available_until": null
+      "released_at": "2018-07-08",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0009-clone",
@@ -19,9 +18,8 @@
         "ja": "カメックス（クローン）",
         "en": "Blastoise (Clone)"
       },
-      "event": "February 25, 2020",
-      "available_from": "2020-02-25",
-      "available_until": null
+      "released_at": "2020-02-25",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0009-party_hat",
@@ -30,9 +28,8 @@
         "ja": "カメックス（パーティーハット）",
         "en": "Blastoise (Party Hat)"
       },
-      "event": "July 6, 2023",
-      "available_from": "2023-07-06",
-      "available_until": null
+      "released_at": "2023-07-06",
+      "shiny_released_at": null
     }
   ]
 }

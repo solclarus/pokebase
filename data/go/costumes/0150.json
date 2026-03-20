@@ -8,9 +8,8 @@
         "ja": "ミュウツー（アーマード）",
         "en": "Mewtwo (Armored)"
       },
-      "event": "July 10, 2019",
-      "available_from": "2019-07-10",
-      "available_until": null
+      "released_at": "2019-07-10",
+      "shiny_released_at": null
     }
   ]
 }

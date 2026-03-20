@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from "@hono/zod-openapi";
 import { LocalizedNameSchema } from "@/types/pokemon";
 
 export const PlatformSchema = z.enum([
@@ -18,30 +18,7 @@ export const GameSchema = z.object({
   release_date: z.string(),
   platform: PlatformSchema,
   dlc_for: z.array(z.string()).optional(),
-});
-
-export const AvailabilityTypeSchema = z.enum([
-  "wild",
-  "trade",
-  "event",
-  "transfer",
-  "gift",
-  "breed",
-]);
-
-export const AvailabilityEntrySchema = z.object({
-  game_id: z.string(),
-  availability_type: AvailabilityTypeSchema,
-  notes: z.string().optional(),
-});
-
-export const AvailabilityFileSchema = z.object({
-  pokemon_id: z.number().int().positive(),
-  entries: z.array(AvailabilityEntrySchema),
-});
+}).openapi("Game");
 
 export type Platform = z.infer<typeof PlatformSchema>;
 export type Game = z.infer<typeof GameSchema>;
-export type AvailabilityType = z.infer<typeof AvailabilityTypeSchema>;
-export type AvailabilityEntry = z.infer<typeof AvailabilityEntrySchema>;
-export type AvailabilityFile = z.infer<typeof AvailabilityFileSchema>;

@@ -8,9 +8,8 @@
         "ja": "コダック（ホリデー）",
         "en": "Psyduck (Holiday)"
       },
-      "event": "December 18, 2023",
-      "available_from": "2023-12-18",
-      "available_until": null
+      "released_at": "2023-12-18",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0054-swim_ring",
@@ -19,9 +18,8 @@
         "ja": "コダック（うきわ）",
         "en": "Psyduck (Swim Ring)"
       },
-      "event": "September 9, 2025",
-      "available_from": "2025-09-09",
-      "available_until": null
+      "released_at": "2025-09-09",
+      "shiny_released_at": null
     }
   ]
 }

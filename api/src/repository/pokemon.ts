@@ -1,13 +1,13 @@
-import type { PokemonRepository } from "@/repository/interface";
 import type { Pokemon } from "@/types";
-import type { DataLoader } from "@/repository/json/data-loader";
+import type { DataLoader } from "@/repository/data-loader";
 
 type PokemonIndex = {
   pokemons: Array<{ id: number; identifier: string }>;
   total: number;
 };
 
-export class JsonPokemonRepository implements PokemonRepository {
+export class PokemonRepository {
+  // findByIdentifier と findAll でインデックスを共有するためリクエスト内でキャッシュする
   private indexCache: PokemonIndex | null = null;
 
   constructor(private loader: DataLoader) {}

@@ -8,9 +8,8 @@
         "ja": "ポニータ（ガラルメロエッタ）",
         "en": "Ponyta (Galarian Meloetta)"
       },
-      "event": "July 17, 2021",
-      "available_from": "2021-07-17",
-      "available_until": null
+      "released_at": "2021-07-17",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0077-candela",
@@ -19,9 +18,8 @@
         "ja": "ポニータ（カンデラ）",
         "en": "Ponyta (Candela)"
       },
-      "event": "May 11, 2023",
-      "available_from": "2023-05-11",
-      "available_until": null
+      "released_at": "2023-05-11",
+      "shiny_released_at": null
     }
   ]
 }

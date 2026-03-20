@@ -8,9 +8,8 @@
         "ja": "バケッチャ（ハロウィン（小））",
         "en": "Pumpkaboo (Small Halloween)"
       },
-      "event": "October 27, 2022",
-      "available_from": "2022-10-27",
-      "available_until": null
+      "released_at": "2022-10-27",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0710-halloween",
@@ -19,9 +18,8 @@
         "ja": "バケッチャ（ハロウィン）",
         "en": "Pumpkaboo (Halloween)"
       },
-      "event": "October 27, 2022",
-      "available_from": "2022-10-27",
-      "available_until": null
+      "released_at": "2022-10-27",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0710-large_halloween",
@@ -30,9 +28,8 @@
         "ja": "バケッチャ（ハロウィン（大））",
         "en": "Pumpkaboo (Large Halloween)"
       },
-      "event": "October 27, 2022",
-      "available_from": "2022-10-27",
-      "available_until": null
+      "released_at": "2022-10-27",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0710-super_halloween",
@@ -41,9 +38,8 @@
         "ja": "バケッチャ（スーパーハロウィン）",
         "en": "Pumpkaboo (Super Halloween)"
       },
-      "event": "October 27, 2022",
-      "available_from": "2022-10-27",
-      "available_until": null
+      "released_at": "2022-10-27",
+      "shiny_released_at": null
     }
   ]
 }

@@ -1,49 +1,43 @@
-import type { PokemonRepository, FormRepository, AvailabilityRepository, AbilityRepository } from "@/repository";
-import type { Pokemon, Form, AvailabilityEntry, Ability, LocalizedName } from "@/types";
+import {
+  DataLoader,
+  PokemonRepository,
+  FormRepository,
+  AvailabilityRepository,
+  LearnsetRepository,
+} from "@/repository";
+import type { PokemonListItem, PokemonDetail, LearnsetFile, FormIndexEntry } from "@/types";
 
-export type PokemonDetail = Pokemon & {
-  forms: Form[];
-  availability: AvailabilityEntry[];
-};
-
-export type PokemonListItem = {
-  id: number;
-  identifier: string;
-  name: LocalizedName;
-  generation: number;
-};
-
+/**
+ * 本編ポケモンデータのビジネスロジック層。
+ * core/（基本情報・フォルム・特性）と mainline/（技・出現情報・ゲーム）の
+ * 各 Repository からデータを取得・結合して返す。
+ */
 export class PokemonService {
-  constructor(
-    private pokemonRepo: PokemonRepository,
-    private formRepo: FormRepository,
-    private availabilityRepo: AvailabilityRepository,
-    private abilityRepo: AbilityRepository
-  ) {}
+  private pokemonRepo: PokemonRepository;
+  private formRepo: FormRepository;
+  private availabilityRepo: AvailabilityRepository;
+  private learnsetRepo: LearnsetRepository;
 
-  async getPokemonById(id: number): Promise<PokemonDetail | null> {
-    const pokemon = await this.pokemonRepo.findById(id);
-    if (!pokemon) return null;
-
-    const [formsFile, availabilityFile] = await Promise.all([
-      this.formRepo.findByPokemonId(id),
-      this.availabilityRepo.findByPokemonId(id),
-    ]);
-
-    return {
-      ...pokemon,
-      forms: formsFile?.forms ?? [],
-      availability: availabilityFile?.entries ?? [],
-    };
+  constructor(loader: DataLoader) {
+    this.pokemonRepo = new PokemonRepository(loader);
+    this.formRepo = new FormRepository(loader);
+    this.availabilityRepo = new AvailabilityRepository(loader);
+    this.learnsetRepo = new LearnsetRepository(loader);
   }
 
-  async getPokemonByIdentifier(identifier: string): Promise<PokemonDetail | null> {
-    const pokemon = await this.pokemonRepo.findByIdentifier(identifier);
+  async getPokemon(id: string): Promise<PokemonDetail | null> {
+    // 数値なら図鑑番号、文字列なら identifier で検索
+    const numId = parseInt(id, 10);
+    const pokemon = isNaN(numId)
+      ? await this.pokemonRepo.findByIdentifier(id)
+      : await this.pokemonRepo.findById(numId);
     if (!pokemon) return null;
+
     const [formsFile, availabilityFile] = await Promise.all([
       this.formRepo.findByPokemonId(pokemon.id),
       this.availabilityRepo.findByPokemonId(pokemon.id),
     ]);
+
     return {
       ...pokemon,
       forms: formsFile?.forms ?? [],
@@ -68,11 +62,15 @@ export class PokemonService {
     };
   }
 
-  async getAbilityById(id: number): Promise<Ability | null> {
-    return this.abilityRepo.findById(id);
+  async getLearnsetByPokemonId(pokemonId: number): Promise<LearnsetFile> {
+    // ファイルが存在しない場合は空の技リストを返す（404 にしない）
+    const learnset = await this.learnsetRepo.findByPokemonId(pokemonId);
+    return learnset ?? { pokemon_id: pokemonId, moves: [] };
   }
 
-  async listAbilities(): Promise<Ability[]> {
-    return this.abilityRepo.findAll();
+  async listForms(formType?: string): Promise<{ forms: FormIndexEntry[]; total: number }> {
+    const forms = await this.formRepo.findAll(formType);
+    return { forms, total: forms.length };
   }
+
 }

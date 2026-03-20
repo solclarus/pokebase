@@ -8,9 +8,8 @@
         "ja": "サングラスゼニガメ",
         "en": "Squirtle (Sunglasses)"
       },
-      "event": "July 8, 2018",
-      "available_from": "2018-07-08",
-      "available_until": null
+      "released_at": "2018-07-08",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0007-fall",
@@ -19,9 +18,8 @@
         "ja": "ゼニガメ（オータム）",
         "en": "Squirtle (Fall)"
       },
-      "event": "October 17, 2019",
-      "available_from": "2019-10-17",
-      "available_until": null
+      "released_at": "2019-10-17",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0007-party_hat",
@@ -30,9 +28,8 @@
         "ja": "ゼニガメ（パーティーハット）",
         "en": "Squirtle (Party Hat)"
       },
-      "event": "February 25, 2020",
-      "available_from": "2020-02-25",
-      "available_until": null
+      "released_at": "2020-02-25",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0007-visor",
@@ -41,9 +38,8 @@
         "ja": "ゼニガメ（バイザー）",
         "en": "Squirtle (Visor)"
       },
-      "event": "July 25, 2020",
-      "available_from": "2020-07-25",
-      "available_until": null
+      "released_at": "2020-07-25",
+      "shiny_released_at": null
     }
   ]
 }

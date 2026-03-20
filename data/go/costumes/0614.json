@@ -8,9 +8,8 @@
         "ja": "ツンベアー（ホリデー）",
         "en": "Beartic (Holiday)"
       },
-      "event": "December 23, 2022",
-      "available_from": "2022-12-23",
-      "available_until": null
+      "released_at": "2022-12-23",
+      "shiny_released_at": null
     }
   ]
 }

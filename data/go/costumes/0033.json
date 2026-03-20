@@ -8,9 +8,8 @@
         "ja": "ニドリーノ（パーティーハット）",
         "en": "Nidorino (Party Hat)"
       },
-      "event": "March 1, 2020",
-      "available_from": "2020-03-01",
-      "available_until": null
+      "released_at": "2020-03-01",
+      "shiny_released_at": null
     }
   ]
 }

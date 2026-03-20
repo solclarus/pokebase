@@ -1,4 +1,4 @@
-import { z } from "zod";
+import { z } from "@hono/zod-openapi";
 import { LocalizedNameSchema } from "@/types/pokemon";
 
 export const StatsSchema = z.object({
@@ -26,7 +26,7 @@ export const FormSchema = z.object({
   stats: StatsSchema,
   ability_ids: z.array(z.number().int().positive()),
   hidden_ability_id: z.number().int().positive().optional(),
-});
+}).openapi("Form");
 
 export const FormIndexEntrySchema = z.object({
   pokemon_id: z.number().int().positive(),
@@ -34,7 +34,7 @@ export const FormIndexEntrySchema = z.object({
   form_type: FormTypeSchema,
   name: LocalizedNameSchema,
   types: z.array(z.string()).min(1).max(2),
-});
+}).openapi("FormIndexEntry");
 
 export const FormsFileSchema = z.object({
   pokemon_id: z.number().int().positive(),

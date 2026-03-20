@@ -8,9 +8,8 @@
         "ja": "ヌオー（ぼうし）",
         "en": "Quagsire (Hat)"
       },
-      "event": "November 15, 2023",
-      "available_from": "2023-11-15",
-      "available_until": null
+      "released_at": "2023-11-15",
+      "shiny_released_at": null
     }
   ]
 }

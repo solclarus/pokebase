@@ -8,9 +8,8 @@
         "ja": "リーフィア（はなかんむり）",
         "en": "Leafeon (Flower)"
       },
-      "event": "May 17, 2019",
-      "available_from": "2019-05-17",
-      "available_until": null
+      "released_at": "2019-05-17",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0470-hat",
@@ -19,9 +18,8 @@
         "ja": "リーフィア（ぼうし）",
         "en": "Leafeon (Hat)"
       },
-      "event": "December 23, 2022",
-      "available_from": "2022-12-23",
-      "available_until": null
+      "released_at": "2022-12-23",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0470-spring2023",
@@ -30,9 +28,8 @@
         "ja": "リーフィア（スプリング（2023））",
         "en": "Leafeon (Spring2023)"
       },
-      "event": "April 4, 2023",
-      "available_from": "2023-04-04",
-      "available_until": null
+      "released_at": "2023-04-04",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0470-explorer",
@@ -41,9 +38,8 @@
         "ja": "リーフィア（エクスプローラー）",
         "en": "Leafeon (Explorer)"
       },
-      "event": "October 7, 2023",
-      "available_from": "2023-10-07",
-      "available_until": null
+      "released_at": "2023-10-07",
+      "shiny_released_at": null
     }
   ]
 }

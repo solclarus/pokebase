@@ -8,9 +8,8 @@
         "ja": "ベトベトン（パーティーハット）",
         "en": "Muk (Party Hat)"
       },
-      "event": "June 28, 2024",
-      "available_from": "2024-06-28",
-      "available_until": null
+      "released_at": "2024-06-28",
+      "shiny_released_at": null
     }
   ]
 }

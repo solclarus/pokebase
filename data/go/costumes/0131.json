@@ -8,9 +8,8 @@
         "ja": "ラプラス（マフラー）",
         "en": "Lapras (Scarf)"
       },
-      "event": "May 12, 2022",
-      "available_from": "2022-05-12",
-      "available_until": null
+      "released_at": "2022-05-12",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0131-blanche",
@@ -19,9 +18,8 @@
         "ja": "ラプラス（ブランシェ）",
         "en": "Lapras (Blanche)"
       },
-      "event": "April 13, 2023",
-      "available_from": "2023-04-13",
-      "available_until": null
+      "released_at": "2023-04-13",
+      "shiny_released_at": null
     }
   ]
 }

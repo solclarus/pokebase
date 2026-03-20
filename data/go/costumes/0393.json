@@ -8,9 +8,8 @@
         "ja": "ポッチャマ（ハロウィン）",
         "en": "Piplup (Halloween)"
       },
-      "event": "October 15, 2021",
-      "available_from": "2021-10-15",
-      "available_until": null
+      "released_at": "2021-10-15",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0393-red_hat",
@@ -19,9 +18,8 @@
         "ja": "ポッチャマ（レッドキャップ）",
         "en": "Piplup (Red Hat)"
       },
-      "event": "November 16, 2021",
-      "available_from": "2021-11-16",
-      "available_until": null
+      "released_at": "2021-11-16",
+      "shiny_released_at": null
     },
     {
       "costume_id": "0393-white_hat",
@@ -30,9 +28,8 @@
         "ja": "ポッチャマ（ホワイトキャップ）",
         "en": "Piplup (White Hat)"
       },
-      "event": "November 16, 2021",
-      "available_from": "2021-11-16",
-      "available_until": null
+      "released_at": "2021-11-16",
+      "shiny_released_at": null
     }
   ]
 }

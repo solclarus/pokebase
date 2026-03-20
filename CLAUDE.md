@@ -32,7 +32,11 @@ pokemon/
 ├── data/
 │   ├── _index/                        # 自動生成（CI）・軽量一覧
 │   │   ├── pokemons.json
-│   │   └── games.json
+│   │   ├── forms.json
+│   │   ├── moves.json
+│   │   ├── abilities.json
+│   │   ├── go-pokemons.json
+│   │   └── go-moves.json
 │   │
 │   ├── core/
 │   │   ├── pokemons/
@@ -43,6 +47,7 @@ pokemon/
 │   │       └── 0065.json
 │   │
 │   ├── mainline/
+│   │   ├── games.json                 # ゲームソフト一覧（単一ファイル）
 │   │   ├── moves/
 │   │   │   └── 0052.json
 │   │   ├── learnsets/
@@ -51,8 +56,8 @@ pokemon/
 │   │       └── 0006.json              # どのソフトで出現するか
 │   │
 │   └── go/
-│       ├── pokemon_stats/
-│       │   └── 0006.json              # GO 独自ステータス
+│       ├── forms/
+│       │   └── 0006.json              # GO フォーム別ステータス・技構成
 │       ├── costumes/
 │       │   └── 0025.json              # GO 限定コスチューム（イベント衣装など）
 │       └── moves/
@@ -64,26 +69,29 @@ pokemon/
 │
 ├── api/
 │   ├── src/
-│   │   ├── index.ts
+│   │   ├── index.ts                   # Hono アプリ・全ルート定義
+│   │   ├── env.ts                     # Cloudflare Bindings 型
 │   │   ├── types/                     # Zod スキーマ・型定義
 │   │   │   ├── pokemon.ts
 │   │   │   ├── form.ts
 │   │   │   ├── move.ts
 │   │   │   ├── game.ts
-│   │   │   └── costume.ts
-│   │   ├── repository/
-│   │   │   ├── interface.ts
-│   │   │   ├── pokemon.repository.ts
-│   │   │   ├── form.repository.ts
-│   │   │   ├── game.repository.ts
-│   │   │   └── go.repository.ts
-│   │   ├── service/
-│   │   │   ├── pokemon.service.ts     # core + mainline を結合
-│   │   │   └── go.service.ts
-│   │   └── routes/
-│   │       ├── pokemon.ts             # 本編（プレフィックスなし）
-│   │       ├── meta.ts                # abilities
-│   │       └── go.ts                  # /go/*
+│   │   │   ├── costume.ts
+│   │   │   └── go.ts
+│   │   ├── repository/                # フラット構成（json/ サブディレクトリなし）
+│   │   │   ├── interface.ts           # Repository インターフェース定義
+│   │   │   ├── data-loader.ts         # DataLoader（ASSETS Fetcher ラッパー）
+│   │   │   ├── pokemon.ts
+│   │   │   ├── form.ts
+│   │   │   ├── ability.ts
+│   │   │   ├── availability.ts
+│   │   │   ├── move.ts
+│   │   │   ├── learnset.ts
+│   │   │   ├── game.ts
+│   │   │   └── go.ts                  # GO pokemon / costume / move
+│   │   └── service/
+│   │       ├── pokemon.ts             # core + mainline を結合
+│   │       └── go.ts
 │   ├── wrangler.toml
 │   └── package.json
 │

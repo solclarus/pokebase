@@ -8,9 +8,8 @@
         "ja": "ヤドラン（お正月）",
         "en": "Slowbro (New Year)"
       },
-      "event": "December 31, 2020",
-      "available_from": "2020-12-31",
-      "available_until": null
+      "released_at": "2020-12-31",
+      "shiny_released_at": null
     }
   ]
 }

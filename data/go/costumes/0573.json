@@ -8,9 +8,8 @@
         "ja": "チラチーノ（ファッショナブル）",
         "en": "Cinccino (Fashionable)"
       },
-      "event": "January 10, 2025",
-      "available_from": "2025-01-10",
-      "available_until": null
+      "released_at": "2025-01-10",
+      "shiny_released_at": null
     }
   ]
 }
