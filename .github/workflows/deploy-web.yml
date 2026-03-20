@@ -24,6 +24,9 @@ jobs:
       - name: Install dependencies
         run: pnpm install
 
+      - name: Build schemas
+        run: pnpm run --filter @pokemon/schemas build
+
       - name: Build & Deploy
         run: pnpm run --filter @pokemon/web deploy
         env:
