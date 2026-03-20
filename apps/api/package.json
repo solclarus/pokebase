@@ -1,6 +1,5 @@
 {
   "name": "@pokemon/api",
-  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "wrangler dev",
@@ -8,13 +7,14 @@
   },
   "dependencies": {
     "@hono/zod-openapi": "^1.2.2",
-    "@pokemon/schemas": "*",
+    "@pokemon/schemas": "workspace:*",
     "@scalar/hono-api-reference": "^0.10.0",
-    "hono": "^4.4.0",
-    "zod": "^4.3.6"
+    "hono": "^4.12.0",
+    "zod": "catalog:"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "^4.20240614.0",
-    "wrangler": "^3.60.0"
+    "@cloudflare/workers-types": "^4.20260301.0",
+    "typescript": "catalog:",
+    "wrangler": "^3.114.0"
   }
 }
