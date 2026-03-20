@@ -2,13 +2,15 @@
   "name": "pokemon-data-api",
   "private": true,
   "workspaces": [
-    "api",
+    "apps/*",
     "scripts"
   ],
   "scripts": {
     "validate": "npm run validate -w scripts",
     "build:index": "npm run build:index -w scripts",
     "dev": "npm run dev -w api",
+    "dev:web": "npm run dev -w web",
+    "build:web": "npm run build -w web",
     "deploy": "npm run deploy -w api"
   },
   "devDependencies": {

@@ -3,5 +3,5 @@ main = "src/index.ts"
 compatibility_date = "2024-06-01"
 
 [assets]
-directory = "../data"
+directory = "../../data"
 binding = "ASSETS"

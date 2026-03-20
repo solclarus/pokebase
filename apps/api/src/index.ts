@@ -1,6 +1,6 @@
 import { OpenAPIHono } from "@hono/zod-openapi";
 import { cors } from "hono/cors";
-import { apiReference } from "@scalar/hono-api-reference";
+import { Scalar } from "@scalar/hono-api-reference";
 import type { AppEnv } from "@/context";
 import { pokemonRoutes } from "@/routes/pokemon";
 import { abilityRoutes } from "@/routes/ability";
@@ -12,6 +12,13 @@ const app = new OpenAPIHono<AppEnv>();
 
 // Middleware
 app.use("*", cors());
+app.use("*", async (c, next) => {
+  await next();
+  const ct = c.res.headers.get("Content-Type");
+  if (ct?.includes("application/json") && !ct.includes("charset")) {
+    c.res.headers.set("Content-Type", "application/json; charset=UTF-8");
+  }
+});
 
 // OpenAPI JSON + Scalar UI (before service middleware to avoid ASSETS dependency)
 app.doc("/openapi.json", {
@@ -19,7 +26,7 @@ app.doc("/openapi.json", {
   info: { title: "Pokemon Data API", version: "0.1.0" },
 });
 
-app.get("/doc", apiReference({ url: "/openapi.json", pageTitle: "Pokemon Data API" }));
+app.get("/doc", Scalar({ url: "/openapi.json", pageTitle: "Pokemon Data API" }));
 
 // Root
 app.get("/", (c) =>
