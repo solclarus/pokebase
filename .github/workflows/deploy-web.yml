@@ -29,7 +29,6 @@ jobs:
           VITE_API_URL: ${{ secrets.VITE_API_URL }}
 
       - name: Deploy to Cloudflare Pages
-        run: pnpm exec wrangler pages deploy dist --project-name=pokemon-web
-        working-directory: apps/web
+        run: pnpm exec wrangler pages deploy apps/web/dist --project-name=pokemon-web
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}

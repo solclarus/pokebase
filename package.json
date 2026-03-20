@@ -11,7 +11,8 @@
     "fmt": "vp fmt"
   },
   "devDependencies": {
-    "vite-plus": "catalog:"
+    "vite-plus": "catalog:",
+    "wrangler": "^3.114.0"
   },
   "engines": {
     "node": ">=22.0.0"
