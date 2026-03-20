@@ -1,23 +1,22 @@
 {
-  "name": "pokemon-data-api",
+  "name": "pokemon",
   "private": true,
   "workspaces": [
     "apps/*",
+    "packages/*",
     "scripts"
   ],
   "scripts": {
-    "validate": "npm run validate -w scripts",
-    "build:index": "npm run build:index -w scripts",
-    "dev": "npm run dev -w api",
-    "dev:web": "npm run dev -w web",
-    "build:web": "npm run build -w web",
-    "deploy": "npm run deploy -w api"
+    "validate": "npm run validate -w @pokemon/scripts",
+    "build:index": "npm run build:index -w @pokemon/scripts",
+    "dev": "npm run dev -w @pokemon/api",
+    "dev:web": "npm run dev -w @pokemon/web",
+    "build:web": "npm run build -w @pokemon/web",
+    "deploy": "npm run deploy -w @pokemon/api"
   },
   "devDependencies": {
     "typescript": "^5.4.0",
-    "zod": "^4.3.6"
-  },
-  "overrides": {
+    "wrangler": "^3.60.0",
     "zod": "^4.3.6"
   }
 }

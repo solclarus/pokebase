@@ -1,5 +1,5 @@
 {
-  "name": "scripts",
+  "name": "@pokemon/scripts",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -8,6 +8,7 @@
     "build:index": "npx tsx build-index.ts"
   },
   "dependencies": {
+    "@pokemon/schemas": "*",
     "zod": "^4.0.0"
   },
   "devDependencies": {
