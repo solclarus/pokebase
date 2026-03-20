@@ -14,7 +14,7 @@ import {
   GamesSchema,
 } from "@pokemon/schemas";
 
-const DATA_DIR = join(import.meta.dirname, "../data");
+const DATA_DIR = join(import.meta.dirname, "../../data");
 
 type ValidationConfig = {
   dir: string;
@@ -85,9 +85,15 @@ async function checkReferentialIntegrity(): Promise<string[]> {
   const errors: string[] = [];
 
   const [coreForms, abilityFiles, goFormsFiles, goMovesFiles] = await Promise.all([
-    loadDir<{ pokemon_id: number; forms: Array<{ id: string; ability_ids: number[]; hidden_ability_id?: number }> }>("core/forms"),
+    loadDir<{
+      pokemon_id: number;
+      forms: Array<{ id: string; ability_ids: number[]; hidden_ability_id?: number }>;
+    }>("core/forms"),
     loadDir<{ id: number }>("core/abilities"),
-    loadDir<{ pokemon_id: number; forms: Array<{ form_id: string; fast_move_ids: number[]; charged_move_ids: number[] }> }>("go/forms"),
+    loadDir<{
+      pokemon_id: number;
+      forms: Array<{ form_id: string; fast_move_ids: number[]; charged_move_ids: number[] }>;
+    }>("go/forms"),
     loadDir<{ id: number }>("go/moves"),
   ]);
 
@@ -104,7 +110,9 @@ async function checkReferentialIntegrity(): Promise<string[]> {
         }
       }
       if (form.hidden_ability_id && !abilityIds.has(form.hidden_ability_id)) {
-        errors.push(`core/forms/${file}: form "${form.id}" references unknown hidden_ability_id ${form.hidden_ability_id}`);
+        errors.push(
+          `core/forms/${file}: form "${form.id}" references unknown hidden_ability_id ${form.hidden_ability_id}`,
+        );
       }
     }
   }
@@ -129,7 +137,9 @@ async function checkReferentialIntegrity(): Promise<string[]> {
     for (const form of goData.forms) {
       for (const id of [...form.fast_move_ids, ...form.charged_move_ids]) {
         if (!goMoveIds.has(id)) {
-          errors.push(`go/forms/${file}: form "${form.form_id}" references unknown go move_id ${id}`);
+          errors.push(
+            `go/forms/${file}: form "${form.form_id}" references unknown go move_id ${id}`,
+          );
         }
       }
     }
@@ -192,4 +202,4 @@ async function main() {
   console.log("\n✓ All validations passed!");
 }
 
-main();
+void main();

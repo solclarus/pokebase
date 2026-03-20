@@ -1,18 +1,13 @@
 {
   "name": "@pokemon/scripts",
-  "version": "0.1.0",
   "private": true,
   "type": "module",
   "scripts": {
-    "validate": "npx tsx validate.ts",
-    "build:index": "npx tsx build-index.ts"
-  },
-  "dependencies": {
-    "@pokemon/schemas": "*",
-    "zod": "^4.0.0"
+    "validate": "bun validate.ts",
+    "build:index": "bun build-index.ts"
   },
   "devDependencies": {
-    "tsx": "^4.15.0",
-    "@types/node": "^20.14.0"
+    "@pokemon/schemas": "workspace:*",
+    "zod": "catalog:"
   }
 }

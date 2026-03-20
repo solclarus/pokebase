@@ -2,7 +2,7 @@ import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
 import { join } from "node:path";
 import type { Ability, FormIndexEntry, GoMove } from "@pokemon/schemas";
 
-const DATA_DIR = join(import.meta.dirname, "../data");
+const DATA_DIR = join(import.meta.dirname, "../../data");
 const INDEX_DIR = join(DATA_DIR, "_index");
 
 type PokemonIndex = {
@@ -182,46 +182,46 @@ async function main() {
   const pokemons = await buildPokemonIndex();
   await writeFile(
     join(INDEX_DIR, "pokemons.json"),
-    JSON.stringify({ pokemons, total: pokemons.length }, null, 2)
+    JSON.stringify({ pokemons, total: pokemons.length }, null, 2),
   );
   console.log(`✓ pokemons.json (${pokemons.length} entries)`);
 
   const forms = await buildFormsIndex();
   await writeFile(
     join(INDEX_DIR, "forms.json"),
-    JSON.stringify({ forms, total: forms.length }, null, 2)
+    JSON.stringify({ forms, total: forms.length }, null, 2),
   );
   console.log(`✓ forms.json (${forms.length} entries)`);
 
   const moves = await buildMoveIndex();
   await writeFile(
     join(INDEX_DIR, "moves.json"),
-    JSON.stringify({ moves, total: moves.length }, null, 2)
+    JSON.stringify({ moves, total: moves.length }, null, 2),
   );
   console.log(`✓ moves.json (${moves.length} entries)`);
 
   const abilities = await buildAbilityIndex();
   await writeFile(
     join(INDEX_DIR, "abilities.json"),
-    JSON.stringify({ abilities, total: abilities.length }, null, 2)
+    JSON.stringify({ abilities, total: abilities.length }, null, 2),
   );
   console.log(`✓ abilities.json (${abilities.length} entries)`);
 
   const goPokemons = await buildGoPokemonIndex();
   await writeFile(
     join(INDEX_DIR, "go-pokemons.json"),
-    JSON.stringify({ pokemons: goPokemons, total: goPokemons.length }, null, 2)
+    JSON.stringify({ pokemons: goPokemons, total: goPokemons.length }, null, 2),
   );
   console.log(`✓ go-pokemons.json (${goPokemons.length} entries)`);
 
   const goMoves = await buildGoMoveIndex();
   await writeFile(
     join(INDEX_DIR, "go-moves.json"),
-    JSON.stringify({ moves: goMoves, total: goMoves.length }, null, 2)
+    JSON.stringify({ moves: goMoves, total: goMoves.length }, null, 2),
   );
   console.log(`✓ go-moves.json (${goMoves.length} entries)`);
 
   console.log("\n✓ Index build complete!");
 }
 
-main();
+void main();
