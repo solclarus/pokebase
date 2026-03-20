@@ -17,3 +17,4 @@ apps/web/next-env.d.ts
 scripts/parse-costumes.cjs
 scripts/fill-costume-ja.cjs
 test.html
+bun.lock
