@@ -2,13 +2,8 @@ import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
 import { DataLoader } from "@/repository";
 import { PokemonService } from "@/service";
-import {
-  PokemonListItemSchema,
-  PokemonDetailSchema,
-  FormIndexEntrySchema,
-  FormTypeSchema,
-  LearnsetFileSchema,
-} from "@/types";
+import { PokemonListItemSchema, PokemonDetailSchema } from "@/types";
+import { FormIndexEntrySchema, FormTypeSchema, PokemonLearnsetSchema } from "@pokemon/schemas";
 
 export const pokemonRoutes = createRouter();
 
@@ -24,7 +19,7 @@ const PokemonListSchema = z.object({
 }).openapi("PokemonList");
 
 const FormIndexSchema = z.object({
-  forms: z.array(FormIndexEntrySchema),
+  forms: z.array(FormIndexEntrySchema.openapi("FormIndexEntry")),
   total: z.number(),
 }).openapi("FormIndex");
 
@@ -79,7 +74,7 @@ pokemonRoutes.openapi(
     tags: ["Pokemon"],
     request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 25 }) }) },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: LearnsetFileSchema } } },
+      200: { description: "OK", content: { "application/json": { schema: PokemonLearnsetSchema.openapi("Learnset") } } },
     },
   }),
   async (c) => {

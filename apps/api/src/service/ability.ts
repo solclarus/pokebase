@@ -1,6 +1,6 @@
 import { AbilityRepository } from "@/repository";
 import type { DataLoader } from "@/repository/data-loader";
-import type { Ability } from "@/types";
+import type { Ability } from "@pokemon/schemas";
 
 export class AbilityService {
   private repo: AbilityRepository;

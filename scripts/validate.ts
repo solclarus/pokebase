@@ -1,167 +1,20 @@
 import { readdir, readFile } from "node:fs/promises";
 import { join } from "node:path";
 import { z } from "zod";
+import {
+  PokemonSchema,
+  PokemonFormsSchema,
+  AbilitySchema,
+  MoveSchema,
+  PokemonLearnsetSchema,
+  PokemonAvailabilitySchema,
+  GoPokemonSchema,
+  GoMoveSchema,
+  PokemonCostumesSchema,
+  GamesSchema,
+} from "@pokemon/schemas";
 
 const DATA_DIR = join(import.meta.dirname, "../data");
-
-// Schemas
-const LocalizedNameSchema = z.object({
-  ja: z.string(),
-  en: z.string(),
-});
-
-const PokemonCategorySchema = z.enum([
-  "normal",
-  "legendary",
-  "mythical",
-  "ultra-beast",
-  "paradox",
-]);
-
-const PokemonSchema = z.object({
-  id: z.number().int().positive(),
-  identifier: z.string(),
-  name: LocalizedNameSchema,
-  generation: z.number().int().min(1).max(10),
-  category: PokemonCategorySchema,
-});
-
-const StatsSchema = z.object({
-  hp: z.number().int().nonnegative(),
-  attack: z.number().int().nonnegative(),
-  defense: z.number().int().nonnegative(),
-  sp_attack: z.number().int().nonnegative(),
-  sp_defense: z.number().int().nonnegative(),
-  speed: z.number().int().nonnegative(),
-});
-
-const FormSchema = z.object({
-  id: z.string(),
-  order: z.number().int().nonnegative(),
-  name: LocalizedNameSchema,
-  form_type: z.enum(["normal", "mega", "gigantamax"]),
-  region: z.string(),
-  types: z.array(z.string()).min(1).max(2),
-  stats: StatsSchema,
-  ability_ids: z.array(z.number().int().positive()),
-  hidden_ability_id: z.number().int().positive().optional(),
-});
-
-const FormsFileSchema = z.object({
-  pokemon_id: z.number().int().positive(),
-  forms: z.array(FormSchema).min(1),
-});
-
-const AbilitySchema = z.object({
-  id: z.number().int().positive(),
-  identifier: z.string(),
-  name: LocalizedNameSchema,
-  description: LocalizedNameSchema,
-  generation: z.number().int().min(1).max(9),
-});
-
-const AvailabilityEntrySchema = z.object({
-  game_id: z.string(),
-  availability_type: z.enum(["wild", "trade", "event", "transfer", "gift", "breed"]),
-  notes: z.string().optional(),
-});
-
-const AvailabilityFileSchema = z.object({
-  pokemon_id: z.number().int().positive(),
-  entries: z.array(AvailabilityEntrySchema),
-});
-
-const GoFormSchema = z.object({
-  form_id: z.string(),
-  base_attack: z.number().int().nonnegative().nullable(),
-  base_defense: z.number().int().nonnegative().nullable(),
-  base_stamina: z.number().int().nonnegative().nullable(),
-  fast_move_ids: z.array(z.number().int().positive()),
-  charged_move_ids: z.array(z.number().int().positive()),
-  elite_fast_move_ids: z.array(z.number().int().positive()),
-  elite_charged_move_ids: z.array(z.number().int().positive()),
-  released_at: z.string().nullable(),
-  shiny_released_at: z.string().nullable(),
-});
-
-const GoFormsFileSchema = z.object({
-  pokemon_id: z.number().int().positive(),
-  forms: z.array(GoFormSchema).min(1),
-});
-
-const GoMoveTypeSchema = z.enum(["fast", "charged"]);
-
-const GoMoveSchema = z.object({
-  id: z.number().int().positive(),
-  identifier: z.string(),
-  name: LocalizedNameSchema,
-  type: z.string(),
-  move_type: GoMoveTypeSchema,
-  power: z.number().int().nonnegative(),
-  energy_delta: z.number().int(),
-  duration_ms: z.number().int().positive(),
-});
-
-const CostumeSchema = z.object({
-  costume_id: z.string(),
-  identifier: z.string(),
-  name: LocalizedNameSchema,
-  released_at: z.string().nullable(),
-  shiny_released_at: z.string().nullable(),
-});
-
-const CostumesFileSchema = z.object({
-  pokemon_id: z.number().int().positive(),
-  costumes: z.array(CostumeSchema),
-});
-
-const MoveSchema = z.object({
-  id: z.number().int().positive(),
-  identifier: z.string(),
-  name: LocalizedNameSchema,
-  type: z.string(),
-  category: z.enum(["physical", "special", "status"]),
-  power: z.number().int().nonnegative().nullable(),
-  accuracy: z.number().int().min(0).max(100).nullable(),
-  pp: z.number().int().positive(),
-  generation: z.number().int().min(1).max(9),
-  description: LocalizedNameSchema,
-});
-
-const LearnsetEntrySchema = z.object({
-  move_id: z.number().int().positive(),
-  learn_method: z.enum(["level", "tm", "tutor", "egg"]),
-  level: z.number().int().nonnegative().optional(),
-  tm_number: z.number().int().positive().optional(),
-});
-
-const LearnsetFileSchema = z.object({
-  pokemon_id: z.number().int().positive(),
-  moves: z.array(LearnsetEntrySchema),
-});
-
-const PlatformSchema = z.enum([
-  "gb",
-  "gbc",
-  "gba",
-  "ds",
-  "3ds",
-  "switch",
-  "switch-2",
-]);
-
-const GameSchema = z.object({
-  id: z.string(),
-  name: LocalizedNameSchema,
-  generation: z.number().int().min(1).max(10),
-  release_date: z.string(),
-  platform: PlatformSchema,
-  dlc_for: z.array(z.string()).optional(),
-});
-
-const GamesFileSchema = z.object({
-  games: z.array(GameSchema),
-});
 
 type ValidationConfig = {
   dir: string;
@@ -170,14 +23,14 @@ type ValidationConfig = {
 
 const validationConfigs: ValidationConfig[] = [
   { dir: "core/pokemons", schema: PokemonSchema },
-  { dir: "core/forms", schema: FormsFileSchema },
+  { dir: "core/forms", schema: PokemonFormsSchema },
   { dir: "core/abilities", schema: AbilitySchema },
   { dir: "mainline/moves", schema: MoveSchema },
-  { dir: "mainline/learnsets", schema: LearnsetFileSchema },
-  { dir: "mainline/availability", schema: AvailabilityFileSchema },
-  { dir: "go/forms", schema: GoFormsFileSchema },
+  { dir: "mainline/learnsets", schema: PokemonLearnsetSchema },
+  { dir: "mainline/availability", schema: PokemonAvailabilitySchema },
+  { dir: "go/forms", schema: GoPokemonSchema },
   { dir: "go/moves", schema: GoMoveSchema },
-  { dir: "go/costumes", schema: CostumesFileSchema },
+  { dir: "go/costumes", schema: PokemonCostumesSchema },
 ];
 
 async function loadDir<T>(dir: string): Promise<Map<string, T>> {
@@ -234,7 +87,7 @@ async function checkReferentialIntegrity(): Promise<string[]> {
   const [coreForms, abilityFiles, goFormsFiles, goMovesFiles] = await Promise.all([
     loadDir<{ pokemon_id: number; forms: Array<{ id: string; ability_ids: number[]; hidden_ability_id?: number }> }>("core/forms"),
     loadDir<{ id: number }>("core/abilities"),
-    loadDir<{ pokemon_id: number; forms: Array<{ form_id: string }> }>("go/forms"),
+    loadDir<{ pokemon_id: number; forms: Array<{ form_id: string; fast_move_ids: number[]; charged_move_ids: number[] }> }>("go/forms"),
     loadDir<{ id: number }>("go/moves"),
   ]);
 
@@ -304,7 +157,7 @@ async function main() {
   try {
     const gamesContent = await readFile(join(DATA_DIR, "mainline/games.json"), "utf-8");
     const gamesData = JSON.parse(gamesContent);
-    const gamesResult = GamesFileSchema.safeParse(gamesData);
+    const gamesResult = GamesSchema.safeParse(gamesData);
     if (!gamesResult.success) {
       totalErrors.push(`mainline/games.json: ${gamesResult.error.message}`);
       console.log("✗ mainline/games.json");

@@ -1,11 +1,11 @@
-import type { FormsFile, FormIndexEntry } from "@/types";
+import type { PokemonForms, FormIndexEntry } from "@pokemon/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
 export class FormRepository {
   constructor(private loader: DataLoader) {}
 
-  async findByPokemonId(pokemonId: number): Promise<FormsFile | null> {
-    return this.loader.loadForms<FormsFile>(pokemonId);
+  async findByPokemonId(pokemonId: number): Promise<PokemonForms | null> {
+    return this.loader.loadForms(pokemonId);
   }
 
   async findAll(formType?: string): Promise<FormIndexEntry[]> {

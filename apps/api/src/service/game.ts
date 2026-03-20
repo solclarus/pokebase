@@ -1,6 +1,6 @@
 import { GameRepository } from "@/repository";
 import type { DataLoader } from "@/repository/data-loader";
-import type { Game } from "@/types";
+import type { Game } from "@pokemon/schemas";
 
 export class GameService {
   private repo: GameRepository;

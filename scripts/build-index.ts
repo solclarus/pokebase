@@ -1,5 +1,6 @@
 import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
 import { join } from "node:path";
+import type { Ability, FormIndexEntry, GoMove } from "@pokemon/schemas";
 
 const DATA_DIR = join(import.meta.dirname, "../data");
 const INDEX_DIR = join(DATA_DIR, "_index");
@@ -11,14 +12,6 @@ type PokemonIndex = {
   generation: number;
 };
 
-type FormIndex = {
-  pokemon_id: number;
-  form_id: string;
-  form_type: "normal" | "mega" | "gigantamax";
-  name: { ja: string; en: string };
-  types: string[];
-};
-
 type MoveIndex = {
   id: number;
   identifier: string;
@@ -26,27 +19,8 @@ type MoveIndex = {
   type: string;
 };
 
-type AbilityIndex = {
-  id: number;
-  identifier: string;
-  name: { ja: string; en: string };
-  description: { ja: string; en: string };
-  generation: number;
-};
-
 type GoPokemonIndex = {
   pokemon_id: number;
-};
-
-type GoMoveIndex = {
-  id: number;
-  identifier: string;
-  name: { ja: string; en: string };
-  type: string;
-  move_type: "fast" | "charged";
-  power: number;
-  energy_delta: number;
-  duration_ms: number;
 };
 
 async function buildPokemonIndex(): Promise<PokemonIndex[]> {
@@ -71,10 +45,10 @@ async function buildPokemonIndex(): Promise<PokemonIndex[]> {
   return pokemons.sort((a, b) => a.id - b.id);
 }
 
-async function buildFormsIndex(): Promise<FormIndex[]> {
+async function buildFormsIndex(): Promise<FormIndexEntry[]> {
   const formsDir = join(DATA_DIR, "core/forms");
   const files = await readdir(formsDir);
-  const result: FormIndex[] = [];
+  const result: FormIndexEntry[] = [];
 
   for (const file of files) {
     if (!file.endsWith(".json")) continue;
@@ -125,7 +99,7 @@ async function buildMoveIndex(): Promise<MoveIndex[]> {
   return moves.sort((a, b) => a.id - b.id);
 }
 
-async function buildAbilityIndex(): Promise<AbilityIndex[]> {
+async function buildAbilityIndex(): Promise<Ability[]> {
   const abilitiesDir = join(DATA_DIR, "core/abilities");
   let files: string[];
   try {
@@ -134,7 +108,7 @@ async function buildAbilityIndex(): Promise<AbilityIndex[]> {
     return [];
   }
 
-  const abilities: AbilityIndex[] = [];
+  const abilities: Ability[] = [];
   for (const file of files) {
     if (!file.endsWith(".json")) continue;
     const content = await readFile(join(abilitiesDir, file), "utf-8");
@@ -171,7 +145,7 @@ async function buildGoPokemonIndex(): Promise<GoPokemonIndex[]> {
   return pokemons.sort((a, b) => a.pokemon_id - b.pokemon_id);
 }
 
-async function buildGoMoveIndex(): Promise<GoMoveIndex[]> {
+async function buildGoMoveIndex(): Promise<GoMove[]> {
   const goMovesDir = join(DATA_DIR, "go/moves");
   let files: string[];
   try {
@@ -180,7 +154,7 @@ async function buildGoMoveIndex(): Promise<GoMoveIndex[]> {
     return [];
   }
 
-  const moves: GoMoveIndex[] = [];
+  const moves: GoMove[] = [];
   for (const file of files) {
     if (!file.endsWith(".json")) continue;
     const content = await readFile(join(goMovesDir, file), "utf-8");

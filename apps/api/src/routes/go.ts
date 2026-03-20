@@ -2,7 +2,8 @@ import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
 import { DataLoader } from "@/repository";
 import { GoService, CostumeService } from "@/service";
-import { GoFormsFileSchema, GoPokemonDetailSchema, GoMoveSchema, CostumesFileSchema } from "@/types";
+import { GoPokemonDetailSchema } from "@/types";
+import { GoPokemonSchema, GoMoveSchema, PokemonCostumesSchema } from "@pokemon/schemas";
 
 export const goRoutes = createRouter();
 
@@ -14,12 +15,12 @@ goRoutes.use("*", async (c, next) => {
 });
 
 const GoPokemonListSchema = z.object({
-  pokemons: z.array(GoFormsFileSchema),
+  pokemons: z.array(GoPokemonSchema.openapi("GoPokemon")),
   total: z.number(),
 }).openapi("GoPokemonList");
 
 const GoMoveListSchema = z.object({
-  moves: z.array(GoMoveSchema),
+  moves: z.array(GoMoveSchema.openapi("GoMove")),
   total: z.number(),
 }).openapi("GoMoveList");
 
@@ -74,7 +75,7 @@ goRoutes.openapi(
     tags: ["Pokémon GO"],
     request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 25 }) }) },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: CostumesFileSchema } } },
+      200: { description: "OK", content: { "application/json": { schema: PokemonCostumesSchema.openapi("CostumeList") } } },
       404: { description: "Not found", content: { "application/json": { schema: ErrorSchema } } },
     },
   }),
@@ -110,7 +111,7 @@ goRoutes.openapi(
     tags: ["Pokémon GO"],
     request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 1 }) }) },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: GoMoveSchema } } },
+      200: { description: "OK", content: { "application/json": { schema: GoMoveSchema.openapi("GoMove") } } },
       404: { description: "Not found", content: { "application/json": { schema: ErrorSchema } } },
     },
   }),

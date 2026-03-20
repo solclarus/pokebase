@@ -1,6 +1,6 @@
 import { CostumeRepository, GoPokemonRepository } from "@/repository";
 import type { DataLoader } from "@/repository/data-loader";
-import type { Costume } from "@/types";
+import type { Costume } from "@pokemon/schemas";
 
 export class CostumeService {
   private costumeRepo: CostumeRepository;

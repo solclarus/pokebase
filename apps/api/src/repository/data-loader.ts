@@ -1,3 +1,16 @@
+import type {
+  Pokemon,
+  PokemonForms,
+  Ability,
+  PokemonAvailability,
+  Move,
+  PokemonLearnset,
+  Game,
+  GoPokemon,
+  PokemonCostumes,
+  GoMove,
+} from "@pokemon/schemas";
+
 /** ポケモン ID を 4 桁ゼロ埋め文字列に変換する（例: 6 → "0006"）。 */
 export function padId(id: number): string {
   return id.toString().padStart(4, "0");
@@ -26,49 +39,49 @@ export class DataLoader {
 
   // --- core/ ---
 
-  async loadPokemon<T>(id: number): Promise<T | null> {
-    return this.loadJson<T>(`core/pokemons/${padId(id)}.json`);
+  async loadPokemon(id: number): Promise<Pokemon | null> {
+    return this.loadJson(`core/pokemons/${padId(id)}.json`);
   }
 
-  async loadForms<T>(pokemonId: number): Promise<T | null> {
-    return this.loadJson<T>(`core/forms/${padId(pokemonId)}.json`);
+  async loadForms(pokemonId: number): Promise<PokemonForms | null> {
+    return this.loadJson(`core/forms/${padId(pokemonId)}.json`);
   }
 
-  async loadAbility<T>(id: number): Promise<T | null> {
-    return this.loadJson<T>(`core/abilities/${padId(id)}.json`);
+  async loadAbility(id: number): Promise<Ability | null> {
+    return this.loadJson(`core/abilities/${padId(id)}.json`);
   }
 
   // --- mainline/ ---
 
-  async loadAvailability<T>(pokemonId: number): Promise<T | null> {
-    return this.loadJson<T>(`mainline/availability/${padId(pokemonId)}.json`);
+  async loadAvailability(pokemonId: number): Promise<PokemonAvailability | null> {
+    return this.loadJson(`mainline/availability/${padId(pokemonId)}.json`);
   }
 
-  async loadMove<T>(id: number): Promise<T | null> {
-    return this.loadJson<T>(`mainline/moves/${padId(id)}.json`);
+  async loadMove(id: number): Promise<Move | null> {
+    return this.loadJson(`mainline/moves/${padId(id)}.json`);
   }
 
-  async loadLearnset<T>(pokemonId: number): Promise<T | null> {
-    return this.loadJson<T>(`mainline/learnsets/${padId(pokemonId)}.json`);
+  async loadLearnset(pokemonId: number): Promise<PokemonLearnset | null> {
+    return this.loadJson(`mainline/learnsets/${padId(pokemonId)}.json`);
   }
 
   /** ゲームソフト一覧は 1 ファイルに集約されている（1 ポケモン 1 ファイル原則の例外）。 */
-  async loadGames<T>(): Promise<{ games: T[] } | null> {
-    return this.loadJson<{ games: T[] }>("mainline/games.json");
+  async loadGames(): Promise<{ games: Game[] } | null> {
+    return this.loadJson("mainline/games.json");
   }
 
   // --- go/ ---
 
-  async loadGoForms<T>(pokemonId: number): Promise<T | null> {
-    return this.loadJson<T>(`go/forms/${padId(pokemonId)}.json`);
+  async loadGoForms(pokemonId: number): Promise<GoPokemon | null> {
+    return this.loadJson(`go/forms/${padId(pokemonId)}.json`);
   }
 
-  async loadCostumes<T>(pokemonId: number): Promise<T | null> {
-    return this.loadJson<T>(`go/costumes/${padId(pokemonId)}.json`);
+  async loadCostumes(pokemonId: number): Promise<PokemonCostumes | null> {
+    return this.loadJson(`go/costumes/${padId(pokemonId)}.json`);
   }
 
-  async loadGoMove<T>(id: number): Promise<T | null> {
-    return this.loadJson<T>(`go/moves/${padId(id)}.json`);
+  async loadGoMove(id: number): Promise<GoMove | null> {
+    return this.loadJson(`go/moves/${padId(id)}.json`);
   }
 
   // --- _index/ ---

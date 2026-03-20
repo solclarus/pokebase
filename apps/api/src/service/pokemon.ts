@@ -5,7 +5,8 @@ import {
   AvailabilityRepository,
   LearnsetRepository,
 } from "@/repository";
-import type { PokemonListItem, PokemonDetail, LearnsetFile, FormIndexEntry } from "@/types";
+import type { PokemonLearnset, FormIndexEntry } from "@pokemon/schemas";
+import type { PokemonListItem, PokemonDetail } from "@/types";
 
 /**
  * 本編ポケモンデータのビジネスロジック層。
@@ -53,7 +54,7 @@ export class PokemonService {
     return { pokemons, total };
   }
 
-  async getLearnsetByPokemonId(pokemonId: number): Promise<LearnsetFile> {
+  async getLearnsetByPokemonId(pokemonId: number): Promise<PokemonLearnset> {
     // ファイルが存在しない場合は空の技リストを返す（404 にしない）
     const learnset = await this.learnsetRepo.findByPokemonId(pokemonId);
     return learnset ?? { pokemon_id: pokemonId, moves: [] };

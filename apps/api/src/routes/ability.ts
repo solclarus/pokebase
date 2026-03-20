@@ -2,7 +2,7 @@ import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
 import { DataLoader } from "@/repository";
 import { AbilityService } from "@/service";
-import { AbilitySchema } from "@/types";
+import { AbilitySchema } from "@pokemon/schemas";
 
 export const abilityRoutes = createRouter();
 
@@ -13,7 +13,7 @@ abilityRoutes.use("*", async (c, next) => {
 });
 
 const AbilityListSchema = z.object({
-  abilities: z.array(AbilitySchema),
+  abilities: z.array(AbilitySchema.openapi("Ability")),
   total: z.number(),
 }).openapi("AbilityList");
 
@@ -41,7 +41,7 @@ abilityRoutes.openapi(
     tags: ["Abilities"],
     request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 65 }) }) },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: AbilitySchema } } },
+      200: { description: "OK", content: { "application/json": { schema: AbilitySchema.openapi("Ability") } } },
       404: { description: "Not found", content: { "application/json": { schema: ErrorSchema } } },
     },
   }),

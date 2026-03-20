@@ -1,11 +1,11 @@
-import type { Move } from "@/types";
+import type { Move } from "@pokemon/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
 export class MoveRepository {
   constructor(private loader: DataLoader) {}
 
   async findById(id: number): Promise<Move | null> {
-    return this.loader.loadMove<Move>(id);
+    return this.loader.loadMove(id);
   }
 
   async findAll(): Promise<Move[]> {

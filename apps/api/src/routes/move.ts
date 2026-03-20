@@ -2,7 +2,7 @@ import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
 import { DataLoader } from "@/repository";
 import { MoveService } from "@/service";
-import { MoveSchema } from "@/types";
+import { MoveSchema } from "@pokemon/schemas";
 
 export const moveRoutes = createRouter();
 
@@ -13,7 +13,7 @@ moveRoutes.use("*", async (c, next) => {
 });
 
 const MoveListSchema = z.object({
-  moves: z.array(MoveSchema),
+  moves: z.array(MoveSchema.openapi("Move")),
   total: z.number(),
 }).openapi("MoveList");
 
@@ -41,7 +41,7 @@ moveRoutes.openapi(
     tags: ["Moves"],
     request: { params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 52 }) }) },
     responses: {
-      200: { description: "OK", content: { "application/json": { schema: MoveSchema } } },
+      200: { description: "OK", content: { "application/json": { schema: MoveSchema.openapi("Move") } } },
       404: { description: "Not found", content: { "application/json": { schema: ErrorSchema } } },
     },
   }),

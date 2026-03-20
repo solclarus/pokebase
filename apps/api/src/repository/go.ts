@@ -1,4 +1,4 @@
-import type { GoFormsFile, GoMove } from "@/types";
+import type { GoPokemon, GoMove } from "@pokemon/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
 type GoPokemonIndex = { pokemons: Array<{ pokemon_id: number }>; total: number };
@@ -17,15 +17,15 @@ export class GoPokemonRepository {
     return this.indexCache ?? { pokemons: [], total: 0 };
   }
 
-  async findById(pokemonId: number): Promise<GoFormsFile | null> {
-    return this.loader.loadGoForms<GoFormsFile>(pokemonId);
+  async findById(pokemonId: number): Promise<GoPokemon | null> {
+    return this.loader.loadGoForms(pokemonId);
   }
 
-  async findAll(limit = 20, offset = 0): Promise<GoFormsFile[]> {
+  async findAll(limit = 20, offset = 0): Promise<GoPokemon[]> {
     const index = await this.getIndex();
     const entries = index.pokemons.slice(offset, offset + limit);
     const results = await Promise.all(entries.map((e) => this.findById(e.pokemon_id)));
-    return results.filter((r): r is GoFormsFile => r !== null);
+    return results.filter((r): r is GoPokemon => r !== null);
   }
 
   async count(): Promise<number> {
@@ -39,7 +39,7 @@ export class GoMoveRepository {
   constructor(private loader: DataLoader) {}
 
   async findById(id: number): Promise<GoMove | null> {
-    return this.loader.loadGoMove<GoMove>(id);
+    return this.loader.loadGoMove(id);
   }
 
   async findAll(): Promise<GoMove[]> {

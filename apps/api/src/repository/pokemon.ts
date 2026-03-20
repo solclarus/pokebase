@@ -1,4 +1,5 @@
-import type { Pokemon, PokemonListItem } from "@/types";
+import type { Pokemon } from "@pokemon/schemas";
+import type { PokemonListItem } from "@/types";
 import type { DataLoader } from "@/repository/data-loader";
 
 type PokemonIndex = {
@@ -20,7 +21,7 @@ export class PokemonRepository {
   }
 
   async findById(id: number): Promise<Pokemon | null> {
-    return this.loader.loadPokemon<Pokemon>(id);
+    return this.loader.loadPokemon(id);
   }
 
   async findByIdentifier(identifier: string): Promise<Pokemon | null> {

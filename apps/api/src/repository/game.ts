@@ -1,4 +1,4 @@
-import type { Game } from "@/types";
+import type { Game } from "@pokemon/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
 export class GameRepository {
@@ -9,7 +9,7 @@ export class GameRepository {
 
   private async getAll(): Promise<Game[]> {
     if (!this.cache) {
-      const data = await this.loader.loadGames<Game>();
+      const data = await this.loader.loadGames();
       this.cache = data?.games ?? [];
     }
     return this.cache;

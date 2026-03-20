@@ -1,5 +1,6 @@
 import { DataLoader, GoPokemonRepository, CostumeRepository, GoMoveRepository } from "@/repository";
-import type { GoFormsFile, GoPokemonDetail, GoMove } from "@/types";
+import type { GoPokemon, GoMove } from "@pokemon/schemas";
+import type { GoPokemonDetail } from "@/types";
 
 /**
  * Pokémon GO データのビジネスロジック層。
@@ -25,7 +26,7 @@ export class GoService {
     return { ...goForms, costumes: costumesFile?.costumes ?? [] };
   }
 
-  async listPokemons(limit = 20, offset = 0): Promise<{ pokemons: GoFormsFile[]; total: number }> {
+  async listPokemons(limit = 20, offset = 0): Promise<{ pokemons: GoPokemon[]; total: number }> {
     const [pokemons, total] = await Promise.all([
       this.goPokemonRepo.findAll(limit, offset),
       this.goPokemonRepo.count(),
