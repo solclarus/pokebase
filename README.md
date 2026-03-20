@@ -7,43 +7,47 @@
 ```
 pokemon/
 ├── apps/
-│   ├── api/      # Cloudflare Workers + Hono による REST API
-│   └── web/      # TanStack Start + React によるダッシュボード
-├── data/         # JSON データファイル（OSS 管理）
-└── scripts/      # データ検証・インデックス生成スクリプト
+│   ├── api/          # Cloudflare Workers + Hono による REST API
+│   └── web/          # Next.js App Router によるダッシュボード
+├── data/             # JSON データファイル（OSS 管理）
+└── packages/
+    ├── schemas/      # Zod スキーマ（API・Web 共通）
+    └── scripts/      # データ検証・インデックス生成スクリプト
 ```
 
 ## セットアップ
 
 ```bash
-npm install
+vp install
 ```
 
 ## 開発
 
 ```bash
 # API（Cloudflare Workers ローカル）
-npm run dev
+vp run dev
 
 # Web（ポート 3000）
-npm run dev:web
+vp run dev:web
 ```
 
 Web の `.env.local` に API URL を設定:
 
 ```
-VITE_API_URL=http://localhost:8787
+NEXT_PUBLIC_API_URL=http://localhost:8787
 ```
 
 ## コマンド一覧
 
-| コマンド              | 内容                     |
-| --------------------- | ------------------------ |
-| `npm run dev`         | API ローカルサーバー起動 |
-| `npm run dev:web`     | Web ローカルサーバー起動 |
-| `npm run validate`    | データ検証（Zod）        |
-| `npm run build:index` | `data/_index/` を再生成  |
-| `npm run build:web`   | Web プロダクションビルド |
+| コマンド             | 内容                         |
+| -------------------- | ---------------------------- |
+| `vp run dev`         | API ローカルサーバー起動     |
+| `vp run dev:web`     | Web ローカルサーバー起動     |
+| `vp run validate`    | データ検証（Zod）            |
+| `vp run build:index` | `data/_index/` を再生成      |
+| `vp run deploy`      | API を Cloudflare にデプロイ |
+| `vp run deploy:web`  | Web を Cloudflare にデプロイ |
+| `vp check`           | format + lint + 型チェック   |
 
 ## データ構造
 
@@ -91,11 +95,11 @@ API ドキュメント（Scalar UI）: `/doc`
 
 ## CI/CD
 
-| ワークフロー     | トリガー                          | 内容                                             |
-| ---------------- | --------------------------------- | ------------------------------------------------ |
-| `validate.yml`   | PR（`data/`, `scripts/` 変更時）  | データ検証 + インデックス差分チェック            |
-| `deploy-api.yml` | `main` push                       | インデックス再生成 → Cloudflare Workers デプロイ |
-| `deploy-web.yml` | `main` push（`apps/web/` 変更時） | Web ビルド → Cloudflare Pages デプロイ           |
+| ワークフロー     | トリガー                                               | 内容                                                    |
+| ---------------- | ------------------------------------------------------ | ------------------------------------------------------- |
+| `validate.yml`   | PR（`data/`, `packages/scripts/` 変更時）              | データ検証 + インデックス差分チェック                   |
+| `deploy-api.yml` | `main` push                                            | インデックス再生成 → Cloudflare Workers デプロイ        |
+| `deploy-web.yml` | `main` push（`apps/web/`, `packages/schemas/` 変更時） | スキーマビルド → Web ビルド → Cloudflare Pages デプロイ |
 
 ## デプロイ
 
@@ -104,7 +108,7 @@ API ドキュメント（Scalar UI）: `/doc`
 | シークレット           | 内容                                      |
 | ---------------------- | ----------------------------------------- |
 | `CLOUDFLARE_API_TOKEN` | Cloudflare API トークン                   |
-| `VITE_API_URL`         | 本番 API の URL（Web ビルド時に埋め込み） |
+| `NEXT_PUBLIC_API_URL`  | 本番 API の URL（Web ビルド時に埋め込み） |
 
 Cloudflare Workers の環境変数（Dashboard で設定）:
 

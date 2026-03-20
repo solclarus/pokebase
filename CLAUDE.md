@@ -74,9 +74,24 @@ pokemon/
 │       └── moves/
 │           └── 0001.json
 │
-├── scripts/
-│   ├── validate.ts                    # データ検証（Zod）
-│   └── build-index.ts                 # _index 自動生成
+├── packages/
+│   ├── schemas/                       # Zod スキーマ（API・Web 共通）
+│   │   ├── src/
+│   │   │   ├── index.ts
+│   │   │   ├── pokemon.ts
+│   │   │   ├── form.ts
+│   │   │   ├── move.ts
+│   │   │   ├── ability.ts
+│   │   │   ├── availability.ts
+│   │   │   ├── learnset.ts
+│   │   │   ├── game.ts
+│   │   │   ├── costume.ts
+│   │   │   └── go.ts
+│   │   ├── vite.config.ts
+│   │   └── package.json
+│   └── scripts/
+│       ├── validate.ts                # データ検証（Zod）
+│       └── build-index.ts             # _index 自動生成
 │
 ├── apps/
 │   ├── api/                           # Cloudflare Workers + Hono
@@ -84,15 +99,6 @@ pokemon/
 │   │   │   ├── index.ts               # Hono アプリ・ルート登録
 │   │   │   ├── env.ts                 # Cloudflare Bindings 型
 │   │   │   ├── context.ts             # Hono コンテキスト型
-│   │   │   ├── types/                 # Zod スキーマ・型定義
-│   │   │   │   ├── pokemon.ts
-│   │   │   │   ├── form.ts
-│   │   │   │   ├── move.ts
-│   │   │   │   ├── game.ts
-│   │   │   │   ├── costume.ts
-│   │   │   │   ├── learnset.ts
-│   │   │   │   ├── availability.ts
-│   │   │   │   └── go.ts
 │   │   │   ├── repository/
 │   │   │   │   ├── data-loader.ts     # DataLoader（ASSETS Fetcher ラッパー）
 │   │   │   │   ├── pokemon.ts
@@ -115,22 +121,33 @@ pokemon/
 │   │   ├── wrangler.toml
 │   │   └── package.json
 │   │
-│   └── web/                           # TanStack Start + React
+│   └── web/                           # Next.js App Router
 │       ├── src/
-│       │   ├── routes/
-│   │   │   ├── __root.tsx
-│       │   │   └── pokemon.tsx
+│       │   ├── app/
+│       │   │   ├── layout.tsx
+│       │   │   ├── page.tsx
+│       │   │   └── pokemon/
+│       │   │       ├── page.tsx
+│       │   │       ├── pokemon-table.tsx
+│       │   │       └── [id]/page.tsx
 │       │   ├── components/
+│       │   │   └── ui/                # shadcn/ui コンポーネント
 │       │   └── lib/
-│       │       └── api.ts             # getApiUrl()（SSR/クライアント両対応）
-│       ├── vite.config.ts
+│       │       ├── api.ts             # getApiUrl()（SSR/クライアント両対応）
+│       │       └── utils.ts
+│       ├── next.config.ts
+│       ├── open-next.config.ts
 │       └── package.json
+│
+├── .vite-hooks/                       # Git フック（vp config で管理）
+│   ├── pre-commit                     # vp staged（ステージ済みファイルを lint）
+│   └── pre-push                       # vp check（format + lint + 型チェック）
 │
 └── .github/
     └── workflows/
         ├── validate.yml               # PR 時にデータ検証
         ├── deploy-api.yml             # main push 時に API デプロイ
-        └── deploy-web.yml             # apps/web/ 変更時に Web デプロイ
+        └── deploy-web.yml             # apps/web/ または packages/schemas/ 変更時に Web デプロイ
 ```
 
 ---
@@ -308,7 +325,7 @@ data/ ディレクトリ（Cloudflare ASSETS binding）
 
 ## CI/CD
 
-### validate.yml（PR トリガー: `data/`, `scripts/` 変更時）
+### validate.yml（PR トリガー: `data/`, `packages/scripts/` 変更時）
 
 ```
 scripts/validate.ts で全 JSON を Zod 検証
@@ -324,9 +341,11 @@ scripts/build-index.ts で _index 再生成
 wrangler deploy で Cloudflare Workers にデプロイ
 ```
 
-### deploy-web.yml（main push トリガー: `apps/web/` 変更時）
+### deploy-web.yml（main push トリガー: `apps/web/`, `packages/schemas/` 変更時）
 
 ```
+pnpm run --filter @pokemon/schemas build（スキーマパッケージをビルド）
+  ↓
 pnpm run --filter @pokemon/web build（opennextjs-cloudflare build）
   ↓
 wrangler pages deploy apps/web/.open-next で Cloudflare Pages にデプロイ
