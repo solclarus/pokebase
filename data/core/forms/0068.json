@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "fighting"
-      ],
+      "types": ["fighting"],
       "stats": {
         "hp": 90,
         "attack": 130,
@@ -21,10 +19,7 @@
         "sp_defense": 85,
         "speed": 55
       },
-      "ability_ids": [
-        62,
-        99
-      ],
+      "ability_ids": [62, 99],
       "hidden_ability_id": 80
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "gigantamax",
       "region": "kanto",
-      "types": [
-        "fighting"
-      ],
+      "types": ["fighting"],
       "stats": {
         "hp": 90,
         "attack": 130,
@@ -47,10 +40,7 @@
         "sp_defense": 85,
         "speed": 55
       },
-      "ability_ids": [
-        62,
-        99
-      ],
+      "ability_ids": [62, 99],
       "hidden_ability_id": 80
     }
   ]

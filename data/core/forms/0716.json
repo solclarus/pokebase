@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 126,
         "attack": 131,
@@ -21,9 +19,7 @@
         "sp_defense": 98,
         "speed": 99
       },
-      "ability_ids": [
-        187
-      ]
+      "ability_ids": [187]
     },
     {
       "id": "active",
@@ -34,9 +30,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 126,
         "attack": 131,
@@ -45,9 +39,7 @@
         "sp_defense": 98,
         "speed": 99
       },
-      "ability_ids": [
-        187
-      ]
+      "ability_ids": [187]
     }
   ]
 }

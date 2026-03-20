@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "electric"
-      ],
+      "types": ["electric"],
       "stats": {
         "hp": 40,
         "attack": 45,
@@ -21,10 +19,7 @@
         "sp_defense": 40,
         "speed": 65
       },
-      "ability_ids": [
-        9,
-        31
-      ],
+      "ability_ids": [9, 31],
       "hidden_ability_id": 58
     }
   ]

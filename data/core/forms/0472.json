@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "ground",
-        "flying"
-      ],
+      "types": ["ground", "flying"],
       "stats": {
         "hp": 75,
         "attack": 95,
@@ -22,10 +19,7 @@
         "sp_defense": 75,
         "speed": 95
       },
-      "ability_ids": [
-        52,
-        8
-      ],
+      "ability_ids": [52, 8],
       "hidden_ability_id": 90
     }
   ]

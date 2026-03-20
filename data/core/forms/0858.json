@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
+      "types": ["psychic", "fairy"],
       "stats": {
         "hp": 57,
         "attack": 90,
@@ -22,10 +19,7 @@
         "sp_defense": 103,
         "speed": 29
       },
-      "ability_ids": [
-        131,
-        107
-      ],
+      "ability_ids": [131, 107],
       "hidden_ability_id": 156
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
+      "types": ["psychic", "fairy"],
       "stats": {
         "hp": 57,
         "attack": 90,
@@ -49,10 +40,7 @@
         "sp_defense": 103,
         "speed": 29
       },
-      "ability_ids": [
-        131,
-        107
-      ],
+      "ability_ids": [131, 107],
       "hidden_ability_id": 156
     }
   ]

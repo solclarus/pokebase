@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "grass"
-      ],
+      "types": ["grass"],
       "stats": {
         "hp": 70,
         "attack": 105,
@@ -21,9 +19,7 @@
         "sp_defense": 90,
         "speed": 45
       },
-      "ability_ids": [
-        102
-      ],
+      "ability_ids": [102],
       "hidden_ability_id": 126
     },
     {
@@ -35,9 +31,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "grass"
-      ],
+      "types": ["grass"],
       "stats": {
         "hp": 70,
         "attack": 105,
@@ -46,9 +40,7 @@
         "sp_defense": 90,
         "speed": 45
       },
-      "ability_ids": [
-        102
-      ],
+      "ability_ids": [102],
       "hidden_ability_id": 126
     }
   ]

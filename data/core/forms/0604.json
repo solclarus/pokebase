@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "electric"
-      ],
+      "types": ["electric"],
       "stats": {
         "hp": 85,
         "attack": 115,
@@ -21,9 +19,7 @@
         "sp_defense": 80,
         "speed": 50
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "mega",
@@ -34,9 +30,7 @@
       },
       "form_type": "mega",
       "region": "unova",
-      "types": [
-        "electric"
-      ],
+      "types": ["electric"],
       "stats": {
         "hp": 85,
         "attack": 145,

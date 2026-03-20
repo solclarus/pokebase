@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "rock",
-        "poison"
-      ],
+      "types": ["rock", "poison"],
       "stats": {
         "hp": 48,
         "attack": 35,
@@ -22,9 +19,7 @@
         "sp_defense": 60,
         "speed": 60
       },
-      "ability_ids": [
-        295
-      ],
+      "ability_ids": [295],
       "hidden_ability_id": 212
     }
   ]

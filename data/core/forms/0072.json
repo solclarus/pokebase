@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "water",
-        "poison"
-      ],
+      "types": ["water", "poison"],
       "stats": {
         "hp": 40,
         "attack": 40,
@@ -22,10 +19,7 @@
         "sp_defense": 100,
         "speed": 70
       },
-      "ability_ids": [
-        29,
-        64
-      ],
+      "ability_ids": [29, 64],
       "hidden_ability_id": 44
     }
   ]

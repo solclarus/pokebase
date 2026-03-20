@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "poison"
-      ],
+      "types": ["rock", "poison"],
       "stats": {
         "hp": 109,
         "attack": 53,
@@ -22,9 +19,7 @@
         "sp_defense": 131,
         "speed": 103
       },
-      "ability_ids": [
-        224
-      ]
+      "ability_ids": [224]
     }
   ]
 }

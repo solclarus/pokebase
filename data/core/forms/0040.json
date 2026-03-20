@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "normal",
-        "fairy"
-      ],
+      "types": ["normal", "fairy"],
       "stats": {
         "hp": 140,
         "attack": 70,
@@ -22,10 +19,7 @@
         "sp_defense": 50,
         "speed": 45
       },
-      "ability_ids": [
-        56,
-        172
-      ],
+      "ability_ids": [56, 172],
       "hidden_ability_id": 119
     }
   ]

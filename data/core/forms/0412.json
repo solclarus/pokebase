@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "bug"
-      ],
+      "types": ["bug"],
       "stats": {
         "hp": 40,
         "attack": 29,
@@ -21,9 +19,7 @@
         "sp_defense": 45,
         "speed": 36
       },
-      "ability_ids": [
-        61
-      ],
+      "ability_ids": [61],
       "hidden_ability_id": 142
     },
     {
@@ -35,9 +31,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "bug"
-      ],
+      "types": ["bug"],
       "stats": {
         "hp": 40,
         "attack": 29,
@@ -46,9 +40,7 @@
         "sp_defense": 45,
         "speed": 36
       },
-      "ability_ids": [
-        61
-      ],
+      "ability_ids": [61],
       "hidden_ability_id": 142
     },
     {
@@ -60,9 +52,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "bug"
-      ],
+      "types": ["bug"],
       "stats": {
         "hp": 40,
         "attack": 29,
@@ -71,9 +61,7 @@
         "sp_defense": 45,
         "speed": 36
       },
-      "ability_ids": [
-        61
-      ],
+      "ability_ids": [61],
       "hidden_ability_id": 142
     },
     {
@@ -85,9 +73,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "bug"
-      ],
+      "types": ["bug"],
       "stats": {
         "hp": 40,
         "attack": 29,
@@ -96,9 +82,7 @@
         "sp_defense": 45,
         "speed": 36
       },
-      "ability_ids": [
-        61
-      ],
+      "ability_ids": [61],
       "hidden_ability_id": 142
     }
   ]

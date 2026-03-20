@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "bug",
-        "rock"
-      ],
+      "types": ["bug", "rock"],
       "stats": {
         "hp": 20,
         "attack": 10,
@@ -22,10 +19,7 @@
         "sp_defense": 230,
         "speed": 5
       },
-      "ability_ids": [
-        5,
-        82
-      ],
+      "ability_ids": [5, 82],
       "hidden_ability_id": 126
     }
   ]

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "fire"
-      ],
+      "types": ["fire"],
       "stats": {
         "hp": 50,
         "attack": 85,
@@ -21,10 +19,7 @@
         "sp_defense": 65,
         "speed": 90
       },
-      "ability_ids": [
-        50,
-        18
-      ],
+      "ability_ids": [50, 18],
       "hidden_ability_id": 49
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 50,
         "attack": 85,
@@ -47,10 +40,7 @@
         "sp_defense": 65,
         "speed": 90
       },
-      "ability_ids": [
-        50,
-        257
-      ],
+      "ability_ids": [50, 257],
       "hidden_ability_id": 107
     }
   ]

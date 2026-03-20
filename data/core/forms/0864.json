@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "ghost"
-      ],
+      "types": ["ghost"],
       "stats": {
         "hp": 60,
         "attack": 95,
@@ -21,9 +19,7 @@
         "sp_defense": 130,
         "speed": 30
       },
-      "ability_ids": [
-        133
-      ],
+      "ability_ids": [133],
       "hidden_ability_id": 253
     }
   ]

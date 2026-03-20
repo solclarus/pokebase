@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "dragon"
-      ],
+      "types": ["dragon"],
       "stats": {
         "hp": 68,
         "attack": 75,
@@ -21,10 +19,7 @@
         "sp_defense": 113,
         "speed": 60
       },
-      "ability_ids": [
-        157,
-        93
-      ],
+      "ability_ids": [157, 93],
       "hidden_ability_id": 183
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "hisui",
-      "types": [
-        "steel",
-        "dragon"
-      ],
+      "types": ["steel", "dragon"],
       "stats": {
         "hp": 58,
         "attack": 75,
@@ -48,10 +40,7 @@
         "sp_defense": 113,
         "speed": 40
       },
-      "ability_ids": [
-        157,
-        75
-      ],
+      "ability_ids": [157, 75],
       "hidden_ability_id": 183
     }
   ]

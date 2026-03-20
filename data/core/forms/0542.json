@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "bug",
-        "grass"
-      ],
+      "types": ["bug", "grass"],
       "stats": {
         "hp": 75,
         "attack": 103,
@@ -22,10 +19,7 @@
         "sp_defense": 80,
         "speed": 92
       },
-      "ability_ids": [
-        68,
-        34
-      ],
+      "ability_ids": [68, 34],
       "hidden_ability_id": 142
     }
   ]

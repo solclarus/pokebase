@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "electric"
-      ],
+      "types": ["electric"],
       "stats": {
         "hp": 60,
         "attack": 85,
@@ -21,10 +19,7 @@
         "sp_defense": 49,
         "speed": 60
       },
-      "ability_ids": [
-        79,
-        22
-      ],
+      "ability_ids": [79, 22],
       "hidden_ability_id": 62
     }
   ]

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "bug",
-        "fairy"
-      ],
+      "types": ["bug", "fairy"],
       "stats": {
         "hp": 40,
         "attack": 45,
@@ -22,10 +19,7 @@
         "sp_defense": 40,
         "speed": 84
       },
-      "ability_ids": [
-        118,
-        19
-      ],
+      "ability_ids": [118, 19],
       "hidden_ability_id": 175
     }
   ]

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "water",
-        "ghost"
-      ],
+      "types": ["water", "ghost"],
       "stats": {
         "hp": 120,
         "attack": 112,
@@ -22,10 +19,7 @@
         "sp_defense": 75,
         "speed": 78
       },
-      "ability_ids": [
-        33,
-        91
-      ],
+      "ability_ids": [33, 91],
       "hidden_ability_id": 104
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "water",
-        "ghost"
-      ],
+      "types": ["water", "ghost"],
       "stats": {
         "hp": 120,
         "attack": 92,
@@ -49,10 +40,7 @@
         "sp_defense": 75,
         "speed": 78
       },
-      "ability_ids": [
-        33,
-        91
-      ],
+      "ability_ids": [33, 91],
       "hidden_ability_id": 104
     }
   ]

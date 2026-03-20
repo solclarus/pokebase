@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "bug",
-        "grass"
-      ],
+      "types": ["bug", "grass"],
       "stats": {
         "hp": 60,
         "attack": 59,
@@ -22,9 +19,7 @@
         "sp_defense": 105,
         "speed": 36
       },
-      "ability_ids": [
-        107
-      ],
+      "ability_ids": [107],
       "hidden_ability_id": 142
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "bug",
-        "ground"
-      ],
+      "types": ["bug", "ground"],
       "stats": {
         "hp": 60,
         "attack": 79,
@@ -48,9 +40,7 @@
         "sp_defense": 85,
         "speed": 36
       },
-      "ability_ids": [
-        107
-      ],
+      "ability_ids": [107],
       "hidden_ability_id": 142
     },
     {
@@ -62,10 +52,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "bug",
-        "steel"
-      ],
+      "types": ["bug", "steel"],
       "stats": {
         "hp": 60,
         "attack": 69,
@@ -74,9 +61,7 @@
         "sp_defense": 95,
         "speed": 36
       },
-      "ability_ids": [
-        107
-      ],
+      "ability_ids": [107],
       "hidden_ability_id": 142
     }
   ]

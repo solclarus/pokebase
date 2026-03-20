@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 55,
         "attack": 69,
@@ -21,10 +19,7 @@
         "sp_defense": 35,
         "speed": 28
       },
-      "ability_ids": [
-        20,
-        115
-      ],
+      "ability_ids": [20, 115],
       "hidden_ability_id": 5
     }
   ]

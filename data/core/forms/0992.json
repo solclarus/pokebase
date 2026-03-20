@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "fighting",
-        "electric"
-      ],
+      "types": ["fighting", "electric"],
       "stats": {
         "hp": 154,
         "attack": 140,
@@ -22,9 +19,7 @@
         "sp_defense": 68,
         "speed": 50
       },
-      "ability_ids": [
-        282
-      ]
+      "ability_ids": [282]
     }
   ]
 }

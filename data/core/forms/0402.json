@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "bug"
-      ],
+      "types": ["bug"],
       "stats": {
         "hp": 77,
         "attack": 85,
@@ -21,9 +19,7 @@
         "sp_defense": 51,
         "speed": 65
       },
-      "ability_ids": [
-        68
-      ],
+      "ability_ids": [68],
       "hidden_ability_id": 101
     }
   ]

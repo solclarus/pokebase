@@ -6,24 +6,12 @@
       "base_attack": 243,
       "base_defense": 181,
       "base_stamina": 277,
-      "fast_move_ids": [
-        221,
-        241
-      ],
-      "charged_move_ids": [
-        115,
-        77,
-        45,
-        33,
-        392,
-        125
-      ],
+      "fast_move_ids": [221, 241],
+      "charged_move_ids": [115, 77, 45, 33, 392, 125],
       "released_at": "2022-11-12",
       "shiny_released_at": "2022-11-12",
       "elite_fast_move_ids": [],
-      "elite_charged_move_ids": [
-        377
-      ]
+      "elite_charged_move_ids": [377]
     },
     {
       "form_id": "bloodmoon",

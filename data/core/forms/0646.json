@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "dragon",
-        "ice"
-      ],
+      "types": ["dragon", "ice"],
       "stats": {
         "hp": 125,
         "attack": 130,
@@ -22,9 +19,7 @@
         "sp_defense": 90,
         "speed": 95
       },
-      "ability_ids": [
-        46
-      ]
+      "ability_ids": [46]
     },
     {
       "id": "black",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "dragon",
-        "ice"
-      ],
+      "types": ["dragon", "ice"],
       "stats": {
         "hp": 125,
         "attack": 170,
@@ -47,9 +39,7 @@
         "sp_defense": 90,
         "speed": 95
       },
-      "ability_ids": [
-        164
-      ]
+      "ability_ids": [164]
     },
     {
       "id": "white",
@@ -60,10 +50,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "dragon",
-        "ice"
-      ],
+      "types": ["dragon", "ice"],
       "stats": {
         "hp": 125,
         "attack": 120,
@@ -72,9 +59,7 @@
         "sp_defense": 100,
         "speed": 95
       },
-      "ability_ids": [
-        163
-      ]
+      "ability_ids": [163]
     }
   ]
 }

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "rock",
-        "ice"
-      ],
+      "types": ["rock", "ice"],
       "stats": {
         "hp": 123,
         "attack": 77,
@@ -22,9 +19,7 @@
         "sp_defense": 92,
         "speed": 58
       },
-      "ability_ids": [
-        174
-      ],
+      "ability_ids": [174],
       "hidden_ability_id": 117
     }
   ]

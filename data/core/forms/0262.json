@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "dark"
-      ],
+      "types": ["dark"],
       "stats": {
         "hp": 70,
         "attack": 90,
@@ -21,10 +19,7 @@
         "sp_defense": 60,
         "speed": 70
       },
-      "ability_ids": [
-        22,
-        95
-      ],
+      "ability_ids": [22, 95],
       "hidden_ability_id": 153
     }
   ]

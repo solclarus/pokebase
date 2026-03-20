@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "bug",
-        "grass"
-      ],
+      "types": ["bug", "grass"],
       "stats": {
         "hp": 35,
         "attack": 70,
@@ -22,10 +19,7 @@
         "sp_defense": 55,
         "speed": 25
       },
-      "ability_ids": [
-        27,
-        87
-      ],
+      "ability_ids": [27, 87],
       "hidden_ability_id": 6
     }
   ]

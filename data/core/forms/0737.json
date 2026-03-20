@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "bug",
-        "electric"
-      ],
+      "types": ["bug", "electric"],
       "stats": {
         "hp": 57,
         "attack": 82,
@@ -22,9 +19,7 @@
         "sp_defense": 75,
         "speed": 36
       },
-      "ability_ids": [
-        217
-      ]
+      "ability_ids": [217]
     }
   ]
 }

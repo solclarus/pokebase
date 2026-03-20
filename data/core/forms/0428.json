@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 65,
         "attack": 76,
@@ -21,10 +19,7 @@
         "sp_defense": 96,
         "speed": 105
       },
-      "ability_ids": [
-        56,
-        103
-      ],
+      "ability_ids": [56, 103],
       "hidden_ability_id": 7
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "sinnoh",
-      "types": [
-        "normal",
-        "fighting"
-      ],
+      "types": ["normal", "fighting"],
       "stats": {
         "hp": 65,
         "attack": 136,
@@ -48,9 +40,7 @@
         "sp_defense": 96,
         "speed": 135
       },
-      "ability_ids": [
-        113
-      ]
+      "ability_ids": [113]
     }
   ]
 }

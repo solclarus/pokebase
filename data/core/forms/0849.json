@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "electric",
-        "poison"
-      ],
+      "types": ["electric", "poison"],
       "stats": {
         "hp": 75,
         "attack": 98,
@@ -22,10 +19,7 @@
         "sp_defense": 70,
         "speed": 75
       },
-      "ability_ids": [
-        244,
-        57
-      ],
+      "ability_ids": [244, 57],
       "hidden_ability_id": 101
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "electric",
-        "poison"
-      ],
+      "types": ["electric", "poison"],
       "stats": {
         "hp": 75,
         "attack": 98,
@@ -49,10 +40,7 @@
         "sp_defense": 70,
         "speed": 75
       },
-      "ability_ids": [
-        244,
-        58
-      ],
+      "ability_ids": [244, 58],
       "hidden_ability_id": 101
     },
     {
@@ -64,10 +52,7 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": [
-        "electric",
-        "poison"
-      ],
+      "types": ["electric", "poison"],
       "stats": {
         "hp": 75,
         "attack": 98,
@@ -76,10 +61,7 @@
         "sp_defense": 70,
         "speed": 75
       },
-      "ability_ids": [
-        244,
-        57
-      ],
+      "ability_ids": [244, 57],
       "hidden_ability_id": 101
     },
     {
@@ -91,10 +73,7 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": [
-        "electric",
-        "poison"
-      ],
+      "types": ["electric", "poison"],
       "stats": {
         "hp": 75,
         "attack": 98,
@@ -103,10 +82,7 @@
         "sp_defense": 70,
         "speed": 75
       },
-      "ability_ids": [
-        244,
-        58
-      ],
+      "ability_ids": [244, 58],
       "hidden_ability_id": 101
     }
   ]

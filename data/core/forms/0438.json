@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "rock"
-      ],
+      "types": ["rock"],
       "stats": {
         "hp": 50,
         "attack": 80,
@@ -21,10 +19,7 @@
         "sp_defense": 45,
         "speed": 10
       },
-      "ability_ids": [
-        5,
-        69
-      ],
+      "ability_ids": [5, 69],
       "hidden_ability_id": 155
     }
   ]

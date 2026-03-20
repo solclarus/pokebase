@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "ghost",
-        "grass"
-      ],
+      "types": ["ghost", "grass"],
       "stats": {
         "hp": 43,
         "attack": 70,
@@ -22,10 +19,7 @@
         "sp_defense": 60,
         "speed": 38
       },
-      "ability_ids": [
-        30,
-        119
-      ],
+      "ability_ids": [30, 119],
       "hidden_ability_id": 139
     }
   ]

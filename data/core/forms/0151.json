@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 100,
         "attack": 100,
@@ -21,9 +19,7 @@
         "sp_defense": 100,
         "speed": 100
       },
-      "ability_ids": [
-        28
-      ]
+      "ability_ids": [28]
     }
   ]
 }

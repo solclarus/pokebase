@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "ghost"
-      ],
+      "types": ["ghost"],
       "stats": {
         "hp": 45,
         "attack": 30,
@@ -21,9 +19,7 @@
         "sp_defense": 70,
         "speed": 10
       },
-      "ability_ids": [
-        155
-      ]
+      "ability_ids": [155]
     },
     {
       "id": "roaming",
@@ -34,9 +30,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "ghost"
-      ],
+      "types": ["ghost"],
       "stats": {
         "hp": 45,
         "attack": 30,
@@ -45,9 +39,7 @@
         "sp_defense": 45,
         "speed": 80
       },
-      "ability_ids": [
-        50
-      ]
+      "ability_ids": [50]
     }
   ]
 }

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "ground"
-      ],
+      "types": ["ground"],
       "stats": {
         "hp": 100,
         "attack": 150,
@@ -21,9 +19,7 @@
         "sp_defense": 90,
         "speed": 90
       },
-      "ability_ids": [
-        70
-      ]
+      "ability_ids": [70]
     },
     {
       "id": "primal",
@@ -34,10 +30,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "ground",
-        "fire"
-      ],
+      "types": ["ground", "fire"],
       "stats": {
         "hp": 100,
         "attack": 180,
@@ -46,9 +39,7 @@
         "sp_defense": 90,
         "speed": 90
       },
-      "ability_ids": [
-        190
-      ]
+      "ability_ids": [190]
     }
   ]
 }

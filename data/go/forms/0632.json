@@ -6,15 +6,8 @@
       "base_attack": 217,
       "base_defense": 188,
       "base_stamina": 151,
-      "fast_move_ids": [
-        201,
-        228
-      ],
-      "charged_move_ids": [
-        100,
-        74,
-        32
-      ],
+      "fast_move_ids": [201, 228],
+      "charged_move_ids": [100, 74, 32],
       "released_at": "2019-09-16",
       "shiny_released_at": "2020-07-25",
       "elite_fast_move_ids": [],

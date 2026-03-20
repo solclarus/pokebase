@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 55,
         "attack": 50,
@@ -21,10 +19,7 @@
         "sp_defense": 95,
         "speed": 120
       },
-      "ability_ids": [
-        28,
-        39
-      ],
+      "ability_ids": [28, 39],
       "hidden_ability_id": 98
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "mega",
       "region": "kanto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 55,
         "attack": 50,
@@ -47,9 +40,7 @@
         "sp_defense": 105,
         "speed": 150
       },
-      "ability_ids": [
-        140
-      ]
+      "ability_ids": [140]
     }
   ]
 }

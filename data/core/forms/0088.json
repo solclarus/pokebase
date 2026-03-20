@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "poison"
-      ],
+      "types": ["poison"],
       "stats": {
         "hp": 80,
         "attack": 80,
@@ -21,10 +19,7 @@
         "sp_defense": 50,
         "speed": 25
       },
-      "ability_ids": [
-        1,
-        60
-      ],
+      "ability_ids": [1, 60],
       "hidden_ability_id": 143
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "poison",
-        "dark"
-      ],
+      "types": ["poison", "dark"],
       "stats": {
         "hp": 80,
         "attack": 80,
@@ -48,10 +40,7 @@
         "sp_defense": 50,
         "speed": 25
       },
-      "ability_ids": [
-        143,
-        82
-      ],
+      "ability_ids": [143, 82],
       "hidden_ability_id": 223
     }
   ]

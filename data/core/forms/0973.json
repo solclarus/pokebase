@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "flying",
-        "fighting"
-      ],
+      "types": ["flying", "fighting"],
       "stats": {
         "hp": 82,
         "attack": 115,
@@ -22,10 +19,7 @@
         "sp_defense": 64,
         "speed": 90
       },
-      "ability_ids": [
-        113,
-        77
-      ],
+      "ability_ids": [113, 77],
       "hidden_ability_id": 294
     }
   ]

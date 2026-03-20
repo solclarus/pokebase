@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "grass",
-        "dragon"
-      ],
+      "types": ["grass", "dragon"],
       "stats": {
         "hp": 40,
         "attack": 40,
@@ -22,10 +19,7 @@
         "sp_defense": 40,
         "speed": 20
       },
-      "ability_ids": [
-        247,
-        82
-      ],
+      "ability_ids": [247, 82],
       "hidden_ability_id": 171
     }
   ]

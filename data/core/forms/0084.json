@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "normal",
-        "flying"
-      ],
+      "types": ["normal", "flying"],
       "stats": {
         "hp": 35,
         "attack": 85,
@@ -22,10 +19,7 @@
         "sp_defense": 35,
         "speed": 75
       },
-      "ability_ids": [
-        50,
-        48
-      ],
+      "ability_ids": [50, 48],
       "hidden_ability_id": 77
     }
   ]

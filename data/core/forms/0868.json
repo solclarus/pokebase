@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 45,
         "attack": 40,
@@ -21,9 +19,7 @@
         "sp_defense": 61,
         "speed": 34
       },
-      "ability_ids": [
-        175
-      ],
+      "ability_ids": [175],
       "hidden_ability_id": 165
     }
   ]

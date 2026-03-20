@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
+      "types": ["psychic", "fairy"],
       "stats": {
         "hp": 70,
         "attack": 85,
@@ -22,9 +19,7 @@
         "sp_defense": 115,
         "speed": 95
       },
-      "ability_ids": [
-        227
-      ],
+      "ability_ids": [227],
       "hidden_ability_id": 140
     }
   ]

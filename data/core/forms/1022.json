@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "rock",
-        "psychic"
-      ],
+      "types": ["rock", "psychic"],
       "stats": {
         "hp": 90,
         "attack": 120,
@@ -22,9 +19,7 @@
         "sp_defense": 108,
         "speed": 124
       },
-      "ability_ids": [
-        282
-      ]
+      "ability_ids": [282]
     }
   ]
 }

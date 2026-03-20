@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "ice",
-        "psychic"
-      ],
+      "types": ["ice", "psychic"],
       "stats": {
         "hp": 80,
         "attack": 85,
@@ -22,10 +19,7 @@
         "sp_defense": 100,
         "speed": 70
       },
-      "ability_ids": [
-        77,
-        251
-      ],
+      "ability_ids": [77, 251],
       "hidden_ability_id": 115
     }
   ]

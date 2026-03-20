@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "dark",
-        "flying"
-      ],
+      "types": ["dark", "flying"],
       "stats": {
         "hp": 100,
         "attack": 125,
@@ -22,10 +19,7 @@
         "sp_defense": 52,
         "speed": 71
       },
-      "ability_ids": [
-        15,
-        105
-      ],
+      "ability_ids": [15, 105],
       "hidden_ability_id": 153
     }
   ]

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "fighting"
-      ],
+      "types": ["fighting"],
       "stats": {
         "hp": 40,
         "attack": 70,
@@ -21,10 +19,7 @@
         "sp_defense": 40,
         "speed": 60
       },
-      "ability_ids": [
-        80,
-        39
-      ],
+      "ability_ids": [80, 39],
       "hidden_ability_id": 158
     }
   ]

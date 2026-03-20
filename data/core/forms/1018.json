@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "steel",
-        "dragon"
-      ],
+      "types": ["steel", "dragon"],
       "stats": {
         "hp": 90,
         "attack": 105,
@@ -22,10 +19,7 @@
         "sp_defense": 65,
         "speed": 85
       },
-      "ability_ids": [
-        192,
-        5
-      ],
+      "ability_ids": [192, 5],
       "hidden_ability_id": 242
     }
   ]

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fairy",
-        "flying"
-      ],
+      "types": ["fairy", "flying"],
       "stats": {
         "hp": 74,
         "attack": 115,
@@ -22,9 +19,7 @@
         "sp_defense": 80,
         "speed": 106
       },
-      "ability_ids": [
-        56
-      ],
+      "ability_ids": [56],
       "hidden_ability_id": 126
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fairy",
-        "flying"
-      ],
+      "types": ["fairy", "flying"],
       "stats": {
         "hp": 74,
         "attack": 115,
@@ -48,9 +40,7 @@
         "sp_defense": 100,
         "speed": 46
       },
-      "ability_ids": [
-        142
-      ]
+      "ability_ids": [142]
     }
   ]
 }

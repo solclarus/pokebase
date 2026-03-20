@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "grass"
-      ],
+      "types": ["grass"],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -21,9 +19,7 @@
         "sp_defense": 96,
         "speed": 110
       },
-      "ability_ids": [
-        128
-      ]
+      "ability_ids": [128]
     },
     {
       "id": "wellspring-mask",
@@ -34,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "grass",
-        "water"
-      ],
+      "types": ["grass", "water"],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -46,9 +39,7 @@
         "sp_defense": 96,
         "speed": 110
       },
-      "ability_ids": [
-        11
-      ]
+      "ability_ids": [11]
     },
     {
       "id": "hearthflame-mask",
@@ -59,10 +50,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "grass",
-        "fire"
-      ],
+      "types": ["grass", "fire"],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -71,9 +59,7 @@
         "sp_defense": 96,
         "speed": 110
       },
-      "ability_ids": [
-        104
-      ]
+      "ability_ids": [104]
     },
     {
       "id": "cornerstone-mask",
@@ -84,10 +70,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "grass",
-        "rock"
-      ],
+      "types": ["grass", "rock"],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -96,9 +79,7 @@
         "sp_defense": 96,
         "speed": 110
       },
-      "ability_ids": [
-        5
-      ]
+      "ability_ids": [5]
     }
   ]
 }

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "fire",
-        "fighting"
-      ],
+      "types": ["fire", "fighting"],
       "stats": {
         "hp": 60,
         "attack": 85,
@@ -22,9 +19,7 @@
         "sp_defense": 60,
         "speed": 55
       },
-      "ability_ids": [
-        66
-      ],
+      "ability_ids": [66],
       "hidden_ability_id": 3
     }
   ]

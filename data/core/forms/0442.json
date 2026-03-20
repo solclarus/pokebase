@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "ghost",
-        "dark"
-      ],
+      "types": ["ghost", "dark"],
       "stats": {
         "hp": 50,
         "attack": 92,
@@ -22,9 +19,7 @@
         "sp_defense": 108,
         "speed": 35
       },
-      "ability_ids": [
-        46
-      ],
+      "ability_ids": [46],
       "hidden_ability_id": 151
     }
   ]

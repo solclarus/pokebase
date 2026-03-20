@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fire",
-        "bug"
-      ],
+      "types": ["fire", "bug"],
       "stats": {
         "hp": 100,
         "attack": 115,
@@ -22,10 +19,7 @@
         "sp_defense": 90,
         "speed": 65
       },
-      "ability_ids": [
-        18,
-        73
-      ],
+      "ability_ids": [18, 73],
       "hidden_ability_id": 49
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": [
-        "fire",
-        "bug"
-      ],
+      "types": ["fire", "bug"],
       "stats": {
         "hp": 100,
         "attack": 115,
@@ -49,10 +40,7 @@
         "sp_defense": 90,
         "speed": 65
       },
-      "ability_ids": [
-        18,
-        73
-      ],
+      "ability_ids": [18, 73],
       "hidden_ability_id": 49
     }
   ]

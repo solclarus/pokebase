@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "ice",
-        "water"
-      ],
+      "types": ["ice", "water"],
       "stats": {
         "hp": 56,
         "attack": 80,
@@ -22,9 +19,7 @@
         "sp_defense": 60,
         "speed": 136
       },
-      "ability_ids": [
-        282
-      ]
+      "ability_ids": [282]
     }
   ]
 }

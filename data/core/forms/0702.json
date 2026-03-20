@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "electric",
-        "fairy"
-      ],
+      "types": ["electric", "fairy"],
       "stats": {
         "hp": 67,
         "attack": 58,
@@ -22,10 +19,7 @@
         "sp_defense": 67,
         "speed": 101
       },
-      "ability_ids": [
-        167,
-        53
-      ],
+      "ability_ids": [167, 53],
       "hidden_ability_id": 57
     }
   ]

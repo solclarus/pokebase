@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "fire"
-      ],
+      "types": ["fire"],
       "stats": {
         "hp": 105,
         "attack": 140,
@@ -21,9 +19,7 @@
         "sp_defense": 55,
         "speed": 95
       },
-      "ability_ids": [
-        125
-      ],
+      "ability_ids": [125],
       "hidden_ability_id": 161
     },
     {
@@ -35,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "fire",
-        "psychic"
-      ],
+      "types": ["fire", "psychic"],
       "stats": {
         "hp": 105,
         "attack": 30,
@@ -47,9 +40,7 @@
         "sp_defense": 105,
         "speed": 55
       },
-      "ability_ids": [
-        125
-      ],
+      "ability_ids": [125],
       "hidden_ability_id": 161
     },
     {
@@ -61,9 +52,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 105,
         "attack": 140,
@@ -72,9 +61,7 @@
         "sp_defense": 55,
         "speed": 95
       },
-      "ability_ids": [
-        255
-      ],
+      "ability_ids": [255],
       "hidden_ability_id": 161
     },
     {
@@ -86,10 +73,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "ice",
-        "fire"
-      ],
+      "types": ["ice", "fire"],
       "stats": {
         "hp": 105,
         "attack": 160,
@@ -98,9 +82,7 @@
         "sp_defense": 55,
         "speed": 135
       },
-      "ability_ids": [
-        255
-      ],
+      "ability_ids": [255],
       "hidden_ability_id": 161
     }
   ]

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "ground"
-      ],
+      "types": ["ground"],
       "stats": {
         "hp": 70,
         "attack": 100,
@@ -21,10 +19,7 @@
         "sp_defense": 55,
         "speed": 45
       },
-      "ability_ids": [
-        20,
-        192
-      ],
+      "ability_ids": [20, 192],
       "hidden_ability_id": 39
     }
   ]

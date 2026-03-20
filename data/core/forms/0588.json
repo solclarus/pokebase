@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "bug"
-      ],
+      "types": ["bug"],
       "stats": {
         "hp": 50,
         "attack": 75,
@@ -21,10 +19,7 @@
         "sp_defense": 45,
         "speed": 60
       },
-      "ability_ids": [
-        68,
-        61
-      ],
+      "ability_ids": [68, 61],
       "hidden_ability_id": 99
     }
   ]

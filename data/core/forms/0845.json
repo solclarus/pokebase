@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "flying",
-        "water"
-      ],
+      "types": ["flying", "water"],
       "stats": {
         "hp": 70,
         "attack": 85,
@@ -22,9 +19,7 @@
         "sp_defense": 95,
         "speed": 85
       },
-      "ability_ids": [
-        241
-      ]
+      "ability_ids": [241]
     },
     {
       "id": "gulping",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "flying",
-        "water"
-      ],
+      "types": ["flying", "water"],
       "stats": {
         "hp": 70,
         "attack": 85,
@@ -47,9 +39,7 @@
         "sp_defense": 95,
         "speed": 85
       },
-      "ability_ids": [
-        241
-      ]
+      "ability_ids": [241]
     },
     {
       "id": "gorging",
@@ -60,10 +50,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "flying",
-        "water"
-      ],
+      "types": ["flying", "water"],
       "stats": {
         "hp": 70,
         "attack": 85,
@@ -72,9 +59,7 @@
         "sp_defense": 95,
         "speed": 85
       },
-      "ability_ids": [
-        241
-      ]
+      "ability_ids": [241]
     }
   ]
 }

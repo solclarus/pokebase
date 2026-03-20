@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "grass",
-        "dragon"
-      ],
+      "types": ["grass", "dragon"],
       "stats": {
         "hp": 70,
         "attack": 110,
@@ -22,10 +19,7 @@
         "sp_defense": 60,
         "speed": 70
       },
-      "ability_ids": [
-        247,
-        82
-      ],
+      "ability_ids": [247, 82],
       "hidden_ability_id": 55
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": [
-        "grass",
-        "dragon"
-      ],
+      "types": ["grass", "dragon"],
       "stats": {
         "hp": 70,
         "attack": 110,
@@ -49,10 +40,7 @@
         "sp_defense": 60,
         "speed": 70
       },
-      "ability_ids": [
-        247,
-        82
-      ],
+      "ability_ids": [247, 82],
       "hidden_ability_id": 55
     }
   ]

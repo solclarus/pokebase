@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "dragon"
-      ],
+      "types": ["dragon"],
       "stats": {
         "hp": 77,
         "attack": 120,
@@ -21,10 +19,7 @@
         "sp_defense": 90,
         "speed": 48
       },
-      "ability_ids": [
-        24,
-        125
-      ],
+      "ability_ids": [24, 125],
       "hidden_ability_id": 104
     }
   ]

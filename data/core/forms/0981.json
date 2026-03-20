@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "normal",
-        "psychic"
-      ],
+      "types": ["normal", "psychic"],
       "stats": {
         "hp": 120,
         "attack": 90,
@@ -22,10 +19,7 @@
         "sp_defense": 70,
         "speed": 60
       },
-      "ability_ids": [
-        291,
-        296
-      ],
+      "ability_ids": [291, 296],
       "hidden_ability_id": 157
     }
   ]

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "dragon",
-        "psychic"
-      ],
+      "types": ["dragon", "psychic"],
       "stats": {
         "hp": 80,
         "attack": 80,
@@ -22,9 +19,7 @@
         "sp_defense": 130,
         "speed": 110
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "mega",
@@ -35,10 +30,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "dragon",
-        "psychic"
-      ],
+      "types": ["dragon", "psychic"],
       "stats": {
         "hp": 80,
         "attack": 100,
@@ -47,9 +39,7 @@
         "sp_defense": 150,
         "speed": 110
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     }
   ]
 }

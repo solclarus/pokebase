@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "grass",
-        "dragon"
-      ],
+      "types": ["grass", "dragon"],
       "stats": {
         "hp": 80,
         "attack": 80,
@@ -22,10 +19,7 @@
         "sp_defense": 80,
         "speed": 40
       },
-      "ability_ids": [
-        300,
-        82
-      ],
+      "ability_ids": [300, 82],
       "hidden_ability_id": 60
     }
   ]

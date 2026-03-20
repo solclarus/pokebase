@@ -6,26 +6,12 @@
       "base_attack": 207,
       "base_defense": 162,
       "base_stamina": 163,
-      "fast_move_ids": [
-        207,
-        269,
-        346
-      ],
-      "charged_move_ids": [
-        103,
-        46,
-        42,
-        101,
-        393
-      ],
+      "fast_move_ids": [207, 269, 346],
+      "charged_move_ids": [103, 46, 42, 101, 393],
       "released_at": "2016-07-06",
       "shiny_released_at": "2018-11-05",
-      "elite_fast_move_ids": [
-        209
-      ],
-      "elite_charged_move_ids": [
-        251
-      ]
+      "elite_fast_move_ids": [209],
+      "elite_charged_move_ids": [251]
     },
     {
       "form_id": "galar",

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "ice",
-        "flying"
-      ],
+      "types": ["ice", "flying"],
       "stats": {
         "hp": 90,
         "attack": 85,
@@ -22,9 +19,7 @@
         "sp_defense": 125,
         "speed": 85
       },
-      "ability_ids": [
-        46
-      ],
+      "ability_ids": [46],
       "hidden_ability_id": 81
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "psychic",
-        "flying"
-      ],
+      "types": ["psychic", "flying"],
       "stats": {
         "hp": 90,
         "attack": 85,
@@ -48,9 +40,7 @@
         "sp_defense": 100,
         "speed": 95
       },
-      "ability_ids": [
-        172
-      ]
+      "ability_ids": [172]
     }
   ]
 }

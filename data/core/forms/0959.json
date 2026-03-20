@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "fairy",
-        "steel"
-      ],
+      "types": ["fairy", "steel"],
       "stats": {
         "hp": 85,
         "attack": 75,
@@ -22,10 +19,7 @@
         "sp_defense": 105,
         "speed": 94
       },
-      "ability_ids": [
-        104,
-        20
-      ],
+      "ability_ids": [104, 20],
       "hidden_ability_id": 124
     }
   ]

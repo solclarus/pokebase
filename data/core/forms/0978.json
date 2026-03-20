@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "dragon",
-        "water"
-      ],
+      "types": ["dragon", "water"],
       "stats": {
         "hp": 68,
         "attack": 50,
@@ -22,9 +19,7 @@
         "sp_defense": 95,
         "speed": 82
       },
-      "ability_ids": [
-        279
-      ],
+      "ability_ids": [279],
       "hidden_ability_id": 114
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "dragon",
-        "water"
-      ],
+      "types": ["dragon", "water"],
       "stats": {
         "hp": 68,
         "attack": 50,
@@ -48,9 +40,7 @@
         "sp_defense": 95,
         "speed": 82
       },
-      "ability_ids": [
-        279
-      ],
+      "ability_ids": [279],
       "hidden_ability_id": 114
     },
     {
@@ -62,10 +52,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "dragon",
-        "water"
-      ],
+      "types": ["dragon", "water"],
       "stats": {
         "hp": 68,
         "attack": 50,
@@ -74,9 +61,7 @@
         "sp_defense": 95,
         "speed": 82
       },
-      "ability_ids": [
-        279
-      ],
+      "ability_ids": [279],
       "hidden_ability_id": 114
     },
     {
@@ -88,10 +73,7 @@
       },
       "form_type": "mega",
       "region": "paldea",
-      "types": [
-        "dragon",
-        "water"
-      ],
+      "types": ["dragon", "water"],
       "stats": {
         "hp": 68,
         "attack": 65,
@@ -111,10 +93,7 @@
       },
       "form_type": "mega",
       "region": "paldea",
-      "types": [
-        "dragon",
-        "water"
-      ],
+      "types": ["dragon", "water"],
       "stats": {
         "hp": 68,
         "attack": 65,
@@ -134,10 +113,7 @@
       },
       "form_type": "mega",
       "region": "paldea",
-      "types": [
-        "dragon",
-        "water"
-      ],
+      "types": ["dragon", "water"],
       "stats": {
         "hp": 68,
         "attack": 65,

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "ground",
-        "steel"
-      ],
+      "types": ["ground", "steel"],
       "stats": {
         "hp": 110,
         "attack": 135,
@@ -22,10 +19,7 @@
         "sp_defense": 65,
         "speed": 88
       },
-      "ability_ids": [
-        146,
-        159
-      ],
+      "ability_ids": [146, 159],
       "hidden_ability_id": 104
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "unova",
-      "types": [
-        "ground",
-        "steel"
-      ],
+      "types": ["ground", "steel"],
       "stats": {
         "hp": 110,
         "attack": 165,

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "grass",
-        "poison"
-      ],
+      "types": ["grass", "poison"],
       "stats": {
         "hp": 50,
         "attack": 60,
@@ -22,10 +19,7 @@
         "sp_defense": 80,
         "speed": 65
       },
-      "ability_ids": [
-        30,
-        38
-      ],
+      "ability_ids": [30, 38],
       "hidden_ability_id": 102
     }
   ]

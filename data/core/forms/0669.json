@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 44,
         "attack": 38,
@@ -21,9 +19,7 @@
         "sp_defense": 79,
         "speed": 42
       },
-      "ability_ids": [
-        166
-      ],
+      "ability_ids": [166],
       "hidden_ability_id": 180
     },
     {
@@ -35,9 +31,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 44,
         "attack": 38,
@@ -46,9 +40,7 @@
         "sp_defense": 79,
         "speed": 42
       },
-      "ability_ids": [
-        166
-      ],
+      "ability_ids": [166],
       "hidden_ability_id": 180
     },
     {
@@ -60,9 +52,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 44,
         "attack": 38,
@@ -71,9 +61,7 @@
         "sp_defense": 79,
         "speed": 42
       },
-      "ability_ids": [
-        166
-      ],
+      "ability_ids": [166],
       "hidden_ability_id": 180
     },
     {
@@ -85,9 +73,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 44,
         "attack": 38,
@@ -96,9 +82,7 @@
         "sp_defense": 79,
         "speed": 42
       },
-      "ability_ids": [
-        166
-      ],
+      "ability_ids": [166],
       "hidden_ability_id": 180
     },
     {
@@ -110,9 +94,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 44,
         "attack": 38,
@@ -121,9 +103,7 @@
         "sp_defense": 79,
         "speed": 42
       },
-      "ability_ids": [
-        166
-      ],
+      "ability_ids": [166],
       "hidden_ability_id": 180
     },
     {
@@ -135,9 +115,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 44,
         "attack": 38,
@@ -146,9 +124,7 @@
         "sp_defense": 79,
         "speed": 42
       },
-      "ability_ids": [
-        166
-      ],
+      "ability_ids": [166],
       "hidden_ability_id": 180
     }
   ]

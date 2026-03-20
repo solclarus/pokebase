@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "steel",
-        "fairy"
-      ],
+      "types": ["steel", "fairy"],
       "stats": {
         "hp": 80,
         "attack": 95,
@@ -22,9 +19,7 @@
         "sp_defense": 115,
         "speed": 65
       },
-      "ability_ids": [
-        220
-      ]
+      "ability_ids": [220]
     },
     {
       "id": "original",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "steel",
-        "fairy"
-      ],
+      "types": ["steel", "fairy"],
       "stats": {
         "hp": 80,
         "attack": 95,
@@ -47,9 +39,7 @@
         "sp_defense": 115,
         "speed": 65
       },
-      "ability_ids": [
-        220
-      ]
+      "ability_ids": [220]
     },
     {
       "id": "mega",
@@ -60,10 +50,7 @@
       },
       "form_type": "mega",
       "region": "alola",
-      "types": [
-        "steel",
-        "fairy"
-      ],
+      "types": ["steel", "fairy"],
       "stats": {
         "hp": 80,
         "attack": 125,
@@ -83,10 +70,7 @@
       },
       "form_type": "mega",
       "region": "alola",
-      "types": [
-        "steel",
-        "fairy"
-      ],
+      "types": ["steel", "fairy"],
       "stats": {
         "hp": 80,
         "attack": 125,

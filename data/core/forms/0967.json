@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "dragon",
-        "normal"
-      ],
+      "types": ["dragon", "normal"],
       "stats": {
         "hp": 70,
         "attack": 95,
@@ -22,9 +19,7 @@
         "sp_defense": 65,
         "speed": 121
       },
-      "ability_ids": [
-        61
-      ],
+      "ability_ids": [61],
       "hidden_ability_id": 144
     }
   ]

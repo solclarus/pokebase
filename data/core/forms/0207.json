@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "ground",
-        "flying"
-      ],
+      "types": ["ground", "flying"],
       "stats": {
         "hp": 65,
         "attack": 75,
@@ -22,10 +19,7 @@
         "sp_defense": 65,
         "speed": 85
       },
-      "ability_ids": [
-        52,
-        8
-      ],
+      "ability_ids": [52, 8],
       "hidden_ability_id": 17
     }
   ]

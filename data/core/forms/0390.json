@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "fire"
-      ],
+      "types": ["fire"],
       "stats": {
         "hp": 44,
         "attack": 58,
@@ -21,9 +19,7 @@
         "sp_defense": 44,
         "speed": 61
       },
-      "ability_ids": [
-        66
-      ],
+      "ability_ids": [66],
       "hidden_ability_id": 89
     }
   ]

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "fighting"
-      ],
+      "types": ["fighting"],
       "stats": {
         "hp": 47,
         "attack": 82,
@@ -21,10 +19,7 @@
         "sp_defense": 47,
         "speed": 63
       },
-      "ability_ids": [
-        52,
-        89
-      ],
+      "ability_ids": [52, 89],
       "hidden_ability_id": 83
     }
   ]

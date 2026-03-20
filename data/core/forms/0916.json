@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 110,
         "attack": 100,
@@ -21,10 +19,7 @@
         "sp_defense": 80,
         "speed": 65
       },
-      "ability_ids": [
-        268,
-        82
-      ],
+      "ability_ids": [268, 82],
       "hidden_ability_id": 47
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 115,
         "attack": 90,
@@ -47,10 +40,7 @@
         "sp_defense": 90,
         "speed": 65
       },
-      "ability_ids": [
-        165,
-        82
-      ],
+      "ability_ids": [165, 82],
       "hidden_ability_id": 47
     }
   ]

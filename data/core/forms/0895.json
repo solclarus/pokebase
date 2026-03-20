@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "dragon"
-      ],
+      "types": ["dragon"],
       "stats": {
         "hp": 200,
         "attack": 100,
@@ -21,9 +19,7 @@
         "sp_defense": 50,
         "speed": 80
       },
-      "ability_ids": [
-        263
-      ]
+      "ability_ids": [263]
     }
   ]
 }

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "fire",
-        "rock"
-      ],
+      "types": ["fire", "rock"],
       "stats": {
         "hp": 60,
         "attack": 50,
@@ -22,10 +19,7 @@
         "sp_defense": 80,
         "speed": 30
       },
-      "ability_ids": [
-        40,
-        49
-      ],
+      "ability_ids": [40, 49],
       "hidden_ability_id": 113
     }
   ]

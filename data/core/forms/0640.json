@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "grass",
-        "fighting"
-      ],
+      "types": ["grass", "fighting"],
       "stats": {
         "hp": 91,
         "attack": 90,
@@ -22,9 +19,7 @@
         "sp_defense": 129,
         "speed": 108
       },
-      "ability_ids": [
-        154
-      ]
+      "ability_ids": [154]
     }
   ]
 }

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "electric",
-        "ice"
-      ],
+      "types": ["electric", "ice"],
       "stats": {
         "hp": 90,
         "attack": 100,
@@ -22,10 +19,7 @@
         "sp_defense": 80,
         "speed": 55
       },
-      "ability_ids": [
-        10,
-        9
-      ],
+      "ability_ids": [10, 9],
       "hidden_ability_id": 202
     }
   ]

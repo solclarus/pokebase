@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "steel",
-        "fairy"
-      ],
+      "types": ["steel", "fairy"],
       "stats": {
         "hp": 57,
         "attack": 80,
@@ -22,9 +19,7 @@
         "sp_defense": 87,
         "speed": 75
       },
-      "ability_ids": [
-        158
-      ],
+      "ability_ids": [158],
       "hidden_ability_id": 170
     }
   ]

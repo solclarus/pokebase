@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 80,
         "attack": 50,
@@ -21,9 +19,7 @@
         "sp_defense": 135,
         "speed": 105
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     }
   ]
 }

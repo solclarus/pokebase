@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "electric",
-        "steel"
-      ],
+      "types": ["electric", "steel"],
       "stats": {
         "hp": 65,
         "attack": 98,
@@ -22,10 +19,7 @@
         "sp_defense": 73,
         "speed": 96
       },
-      "ability_ids": [
-        160,
-        31
-      ],
+      "ability_ids": [160, 31],
       "hidden_ability_id": 5
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "electric",
-        "steel"
-      ],
+      "types": ["electric", "steel"],
       "stats": {
         "hp": 65,
         "attack": 98,
@@ -49,10 +40,7 @@
         "sp_defense": 73,
         "speed": 96
       },
-      "ability_ids": [
-        160,
-        31
-      ],
+      "ability_ids": [160, 31],
       "hidden_ability_id": 5
     }
   ]

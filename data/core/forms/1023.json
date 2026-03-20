@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "steel",
-        "psychic"
-      ],
+      "types": ["steel", "psychic"],
       "stats": {
         "hp": 90,
         "attack": 72,
@@ -22,9 +19,7 @@
         "sp_defense": 108,
         "speed": 98
       },
-      "ability_ids": [
-        282
-      ]
+      "ability_ids": [282]
     }
   ]
 }

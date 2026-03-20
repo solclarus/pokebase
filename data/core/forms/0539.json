@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "fighting"
-      ],
+      "types": ["fighting"],
       "stats": {
         "hp": 75,
         "attack": 125,
@@ -21,10 +19,7 @@
         "sp_defense": 75,
         "speed": 85
       },
-      "ability_ids": [
-        5,
-        39
-      ],
+      "ability_ids": [5, 39],
       "hidden_ability_id": 104
     }
   ]

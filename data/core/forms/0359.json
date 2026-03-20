@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "dark"
-      ],
+      "types": ["dark"],
       "stats": {
         "hp": 65,
         "attack": 130,
@@ -21,10 +19,7 @@
         "sp_defense": 60,
         "speed": 75
       },
-      "ability_ids": [
-        46,
-        105
-      ],
+      "ability_ids": [46, 105],
       "hidden_ability_id": 154
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "dark"
-      ],
+      "types": ["dark"],
       "stats": {
         "hp": 65,
         "attack": 150,
@@ -47,9 +40,7 @@
         "sp_defense": 60,
         "speed": 115
       },
-      "ability_ids": [
-        156
-      ]
+      "ability_ids": [156]
     },
     {
       "id": "mega-z",
@@ -60,10 +51,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "dark",
-        "ghost"
-      ],
+      "types": ["dark", "ghost"],
       "stats": {
         "hp": 65,
         "attack": 154,

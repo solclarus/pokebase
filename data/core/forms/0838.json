@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "rock",
-        "fire"
-      ],
+      "types": ["rock", "fire"],
       "stats": {
         "hp": 80,
         "attack": 60,
@@ -22,10 +19,7 @@
         "sp_defense": 70,
         "speed": 50
       },
-      "ability_ids": [
-        243,
-        49
-      ],
+      "ability_ids": [243, 49],
       "hidden_ability_id": 18
     }
   ]

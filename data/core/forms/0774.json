@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -22,9 +19,7 @@
         "sp_defense": 100,
         "speed": 60
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "orange-meteor",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -47,9 +39,7 @@
         "sp_defense": 100,
         "speed": 60
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "yellow-meteor",
@@ -60,10 +50,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -72,9 +59,7 @@
         "sp_defense": 100,
         "speed": 60
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "green-meteor",
@@ -85,10 +70,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -97,9 +79,7 @@
         "sp_defense": 100,
         "speed": 60
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "blue-meteor",
@@ -110,10 +90,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -122,9 +99,7 @@
         "sp_defense": 100,
         "speed": 60
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "indigo-meteor",
@@ -135,10 +110,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -147,9 +119,7 @@
         "sp_defense": 100,
         "speed": 60
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "violet-meteor",
@@ -160,10 +130,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -172,9 +139,7 @@
         "sp_defense": 100,
         "speed": 60
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "red",
@@ -185,10 +150,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -197,9 +159,7 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "orange",
@@ -210,10 +170,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -222,9 +179,7 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "yellow",
@@ -235,10 +190,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -247,9 +199,7 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "green",
@@ -260,10 +210,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -272,9 +219,7 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "blue",
@@ -285,10 +230,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -297,9 +239,7 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "indigo",
@@ -310,10 +250,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -322,9 +259,7 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     },
     {
       "id": "violet",
@@ -335,10 +270,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -347,9 +279,7 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [
-        197
-      ]
+      "ability_ids": [197]
     }
   ]
 }

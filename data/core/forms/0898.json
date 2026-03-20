@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "psychic",
-        "grass"
-      ],
+      "types": ["psychic", "grass"],
       "stats": {
         "hp": 100,
         "attack": 80,
@@ -22,9 +19,7 @@
         "sp_defense": 80,
         "speed": 80
       },
-      "ability_ids": [
-        127
-      ]
+      "ability_ids": [127]
     },
     {
       "id": "ice",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "psychic",
-        "ice"
-      ],
+      "types": ["psychic", "ice"],
       "stats": {
         "hp": 100,
         "attack": 165,
@@ -47,9 +39,7 @@
         "sp_defense": 130,
         "speed": 50
       },
-      "ability_ids": [
-        266
-      ]
+      "ability_ids": [266]
     },
     {
       "id": "shadow",
@@ -60,10 +50,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "psychic",
-        "ghost"
-      ],
+      "types": ["psychic", "ghost"],
       "stats": {
         "hp": 100,
         "attack": 85,
@@ -72,9 +59,7 @@
         "sp_defense": 100,
         "speed": 150
       },
-      "ability_ids": [
-        267
-      ]
+      "ability_ids": [267]
     }
   ]
 }

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fire",
-        "bug"
-      ],
+      "types": ["fire", "bug"],
       "stats": {
         "hp": 50,
         "attack": 65,
@@ -22,10 +19,7 @@
         "sp_defense": 50,
         "speed": 45
       },
-      "ability_ids": [
-        18,
-        73
-      ],
+      "ability_ids": [18, 73],
       "hidden_ability_id": 49
     }
   ]

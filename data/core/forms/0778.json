@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "ghost",
-        "fairy"
-      ],
+      "types": ["ghost", "fairy"],
       "stats": {
         "hp": 55,
         "attack": 90,
@@ -22,9 +19,7 @@
         "sp_defense": 105,
         "speed": 96
       },
-      "ability_ids": [
-        209
-      ]
+      "ability_ids": [209]
     },
     {
       "id": "busted",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "ghost",
-        "fairy"
-      ],
+      "types": ["ghost", "fairy"],
       "stats": {
         "hp": 55,
         "attack": 90,
@@ -47,9 +39,7 @@
         "sp_defense": 105,
         "speed": 96
       },
-      "ability_ids": [
-        209
-      ]
+      "ability_ids": [209]
     },
     {
       "id": "totem-disguised",
@@ -60,10 +50,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "ghost",
-        "fairy"
-      ],
+      "types": ["ghost", "fairy"],
       "stats": {
         "hp": 55,
         "attack": 90,
@@ -72,9 +59,7 @@
         "sp_defense": 105,
         "speed": 96
       },
-      "ability_ids": [
-        209
-      ]
+      "ability_ids": [209]
     },
     {
       "id": "totem-busted",
@@ -85,10 +70,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "ghost",
-        "fairy"
-      ],
+      "types": ["ghost", "fairy"],
       "stats": {
         "hp": 55,
         "attack": 90,
@@ -97,9 +79,7 @@
         "sp_defense": 105,
         "speed": 96
       },
-      "ability_ids": [
-        209
-      ]
+      "ability_ids": [209]
     }
   ]
 }

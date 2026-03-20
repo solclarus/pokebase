@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock"
-      ],
+      "types": ["rock"],
       "stats": {
         "hp": 75,
         "attack": 115,
@@ -21,10 +19,7 @@
         "sp_defense": 65,
         "speed": 112
       },
-      "ability_ids": [
-        51,
-        146
-      ],
+      "ability_ids": [51, 146],
       "hidden_ability_id": 80
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock"
-      ],
+      "types": ["rock"],
       "stats": {
         "hp": 85,
         "attack": 115,
@@ -47,10 +40,7 @@
         "sp_defense": 75,
         "speed": 82
       },
-      "ability_ids": [
-        51,
-        72
-      ],
+      "ability_ids": [51, 72],
       "hidden_ability_id": 99
     },
     {
@@ -62,9 +52,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "rock"
-      ],
+      "types": ["rock"],
       "stats": {
         "hp": 75,
         "attack": 117,
@@ -73,9 +61,7 @@
         "sp_defense": 65,
         "speed": 110
       },
-      "ability_ids": [
-        181
-      ]
+      "ability_ids": [181]
     }
   ]
 }

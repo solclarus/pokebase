@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "fire",
-        "ghost"
-      ],
+      "types": ["fire", "ghost"],
       "stats": {
         "hp": 53,
         "attack": 127,
@@ -22,9 +19,7 @@
         "sp_defense": 79,
         "speed": 107
       },
-      "ability_ids": [
-        224
-      ]
+      "ability_ids": [224]
     }
   ]
 }

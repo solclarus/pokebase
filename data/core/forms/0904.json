@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "dark",
-        "poison"
-      ],
+      "types": ["dark", "poison"],
       "stats": {
         "hp": 85,
         "attack": 115,
@@ -22,10 +19,7 @@
         "sp_defense": 65,
         "speed": 85
       },
-      "ability_ids": [
-        38,
-        33
-      ],
+      "ability_ids": [38, 33],
       "hidden_ability_id": 22
     }
   ]

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "poison",
-        "fighting"
-      ],
+      "types": ["poison", "fighting"],
       "stats": {
         "hp": 48,
         "attack": 61,
@@ -22,10 +19,7 @@
         "sp_defense": 40,
         "speed": 50
       },
-      "ability_ids": [
-        107,
-        87
-      ],
+      "ability_ids": [107, 87],
       "hidden_ability_id": 143
     }
   ]

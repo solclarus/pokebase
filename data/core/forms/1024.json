@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 90,
         "attack": 65,
@@ -21,9 +19,7 @@
         "sp_defense": 85,
         "speed": 60
       },
-      "ability_ids": [
-        304
-      ]
+      "ability_ids": [304]
     },
     {
       "id": "terastal",
@@ -34,9 +30,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 95,
         "attack": 95,
@@ -45,9 +39,7 @@
         "sp_defense": 110,
         "speed": 85
       },
-      "ability_ids": [
-        305
-      ]
+      "ability_ids": [305]
     },
     {
       "id": "stellar",
@@ -58,9 +50,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 160,
         "attack": 105,
@@ -69,9 +59,7 @@
         "sp_defense": 110,
         "speed": 85
       },
-      "ability_ids": [
-        306
-      ]
+      "ability_ids": [306]
     }
   ]
 }

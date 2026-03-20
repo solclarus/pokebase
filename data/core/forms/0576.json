@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 70,
         "attack": 55,
@@ -21,10 +19,7 @@
         "sp_defense": 110,
         "speed": 65
       },
-      "ability_ids": [
-        119,
-        172
-      ],
+      "ability_ids": [119, 172],
       "hidden_ability_id": 23
     }
   ]

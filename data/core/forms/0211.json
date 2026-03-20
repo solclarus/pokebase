@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "water",
-        "poison"
-      ],
+      "types": ["water", "poison"],
       "stats": {
         "hp": 65,
         "attack": 95,
@@ -22,10 +19,7 @@
         "sp_defense": 55,
         "speed": 85
       },
-      "ability_ids": [
-        38,
-        33
-      ],
+      "ability_ids": [38, 33],
       "hidden_ability_id": 22
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "hisui",
-      "types": [
-        "dark",
-        "poison"
-      ],
+      "types": ["dark", "poison"],
       "stats": {
         "hp": 65,
         "attack": 95,
@@ -49,10 +40,7 @@
         "sp_defense": 55,
         "speed": 85
       },
-      "ability_ids": [
-        38,
-        33
-      ],
+      "ability_ids": [38, 33],
       "hidden_ability_id": 22
     }
   ]

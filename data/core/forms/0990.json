@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "ground",
-        "steel"
-      ],
+      "types": ["ground", "steel"],
       "stats": {
         "hp": 90,
         "attack": 112,
@@ -22,9 +19,7 @@
         "sp_defense": 70,
         "speed": 106
       },
-      "ability_ids": [
-        282
-      ]
+      "ability_ids": [282]
     }
   ]
 }

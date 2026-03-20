@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "grass",
-        "steel"
-      ],
+      "types": ["grass", "steel"],
       "stats": {
         "hp": 59,
         "attack": 181,
@@ -22,9 +19,7 @@
         "sp_defense": 31,
         "speed": 109
       },
-      "ability_ids": [
-        224
-      ]
+      "ability_ids": [224]
     }
   ]
 }

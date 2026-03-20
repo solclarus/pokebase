@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "normal",
-        "water"
-      ],
+      "types": ["normal", "water"],
       "stats": {
         "hp": 79,
         "attack": 85,
@@ -22,10 +19,7 @@
         "sp_defense": 60,
         "speed": 71
       },
-      "ability_ids": [
-        86,
-        109
-      ],
+      "ability_ids": [86, 109],
       "hidden_ability_id": 141
     }
   ]

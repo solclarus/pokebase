@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 95,
         "attack": 117,
@@ -21,10 +19,7 @@
         "sp_defense": 46,
         "speed": 28
       },
-      "ability_ids": [
-        20,
-        115
-      ],
+      "ability_ids": [20, 115],
       "hidden_ability_id": 5
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "hisui",
-      "types": [
-        "ice",
-        "rock"
-      ],
+      "types": ["ice", "rock"],
       "stats": {
         "hp": 95,
         "attack": 127,
@@ -48,10 +40,7 @@
         "sp_defense": 36,
         "speed": 38
       },
-      "ability_ids": [
-        173,
-        115
-      ],
+      "ability_ids": [173, 115],
       "hidden_ability_id": 5
     }
   ]

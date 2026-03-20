@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "bug",
-        "electric"
-      ],
+      "types": ["bug", "electric"],
       "stats": {
         "hp": 50,
         "attack": 47,
@@ -22,10 +19,7 @@
         "sp_defense": 50,
         "speed": 65
       },
-      "ability_ids": [
-        14,
-        127
-      ],
+      "ability_ids": [14, 127],
       "hidden_ability_id": 68
     }
   ]

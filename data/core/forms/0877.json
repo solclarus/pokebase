@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "electric",
-        "dark"
-      ],
+      "types": ["electric", "dark"],
       "stats": {
         "hp": 58,
         "attack": 95,
@@ -22,9 +19,7 @@
         "sp_defense": 58,
         "speed": 97
       },
-      "ability_ids": [
-        258
-      ]
+      "ability_ids": [258]
     },
     {
       "id": "hangry",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "electric",
-        "dark"
-      ],
+      "types": ["electric", "dark"],
       "stats": {
         "hp": 58,
         "attack": 95,
@@ -47,9 +39,7 @@
         "sp_defense": 58,
         "speed": 97
       },
-      "ability_ids": [
-        258
-      ]
+      "ability_ids": [258]
     }
   ]
 }

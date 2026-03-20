@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "dark",
-        "grass"
-      ],
+      "types": ["dark", "grass"],
       "stats": {
         "hp": 85,
         "attack": 85,
@@ -22,9 +19,7 @@
         "sp_defense": 135,
         "speed": 70
       },
-      "ability_ids": [
-        286
-      ]
+      "ability_ids": [286]
     }
   ]
 }

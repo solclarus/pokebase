@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "electric",
-        "poison"
-      ],
+      "types": ["electric", "poison"],
       "stats": {
         "hp": 40,
         "attack": 38,
@@ -22,10 +19,7 @@
         "sp_defense": 35,
         "speed": 40
       },
-      "ability_ids": [
-        155,
-        9
-      ],
+      "ability_ids": [155, 9],
       "hidden_ability_id": 103
     }
   ]

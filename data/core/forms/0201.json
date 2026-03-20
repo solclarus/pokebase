@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -21,9 +19,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "b",
@@ -34,9 +30,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -45,9 +39,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "c",
@@ -58,9 +50,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -69,9 +59,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "d",
@@ -82,9 +70,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -93,9 +79,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "e",
@@ -106,9 +90,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -117,9 +99,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "f",
@@ -130,9 +110,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -141,9 +119,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "g",
@@ -154,9 +130,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -165,9 +139,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "h",
@@ -178,9 +150,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -189,9 +159,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "i",
@@ -202,9 +170,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -213,9 +179,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "j",
@@ -226,9 +190,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -237,9 +199,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "k",
@@ -250,9 +210,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -261,9 +219,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "l",
@@ -274,9 +230,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -285,9 +239,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "m",
@@ -298,9 +250,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -309,9 +259,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "n",
@@ -322,9 +270,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -333,9 +279,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "o",
@@ -346,9 +290,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -357,9 +299,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "p",
@@ -370,9 +310,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -381,9 +319,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "q",
@@ -394,9 +330,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -405,9 +339,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "r",
@@ -418,9 +350,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -429,9 +359,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "s",
@@ -442,9 +370,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -453,9 +379,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "t",
@@ -466,9 +390,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -477,9 +399,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "u",
@@ -490,9 +410,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -501,9 +419,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "v",
@@ -514,9 +430,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -525,9 +439,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "w",
@@ -538,9 +450,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -549,9 +459,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "x",
@@ -562,9 +470,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -573,9 +479,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "y",
@@ -586,9 +490,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -597,9 +499,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "z",
@@ -610,9 +510,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -621,9 +519,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "exclamation",
@@ -634,9 +530,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -645,9 +539,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "question",
@@ -658,9 +550,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 48,
         "attack": 72,
@@ -669,9 +559,7 @@
         "sp_defense": 48,
         "speed": 48
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     }
   ]
 }

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "grass",
-        "ghost"
-      ],
+      "types": ["grass", "ghost"],
       "stats": {
         "hp": 71,
         "attack": 60,
@@ -22,9 +19,7 @@
         "sp_defense": 80,
         "speed": 70
       },
-      "ability_ids": [
-        301
-      ],
+      "ability_ids": [301],
       "hidden_ability_id": 85
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "grass",
-        "ghost"
-      ],
+      "types": ["grass", "ghost"],
       "stats": {
         "hp": 71,
         "attack": 60,
@@ -48,9 +40,7 @@
         "sp_defense": 80,
         "speed": 70
       },
-      "ability_ids": [
-        301
-      ],
+      "ability_ids": [301],
       "hidden_ability_id": 85
     },
     {
@@ -62,10 +52,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "grass",
-        "ghost"
-      ],
+      "types": ["grass", "ghost"],
       "stats": {
         "hp": 71,
         "attack": 60,
@@ -74,9 +61,7 @@
         "sp_defense": 80,
         "speed": 70
       },
-      "ability_ids": [
-        301
-      ],
+      "ability_ids": [301],
       "hidden_ability_id": 85
     }
   ]

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "ghost"
-      ],
+      "types": ["ghost"],
       "stats": {
         "hp": 58,
         "attack": 50,
@@ -21,9 +19,7 @@
         "sp_defense": 105,
         "speed": 30
       },
-      "ability_ids": [
-        152
-      ]
+      "ability_ids": [152]
     }
   ]
 }

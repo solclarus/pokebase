@@ -6,25 +6,12 @@
       "base_attack": 300,
       "base_defense": 182,
       "base_stamina": 214,
-      "fast_move_ids": [
-        226,
-        235
-      ],
-      "charged_move_ids": [
-        108,
-        79,
-        39,
-        247,
-        24
-      ],
+      "fast_move_ids": [226, 235],
+      "charged_move_ids": [108, 79, 39, 247, 24],
       "released_at": "2017-08-14",
       "shiny_released_at": "2019-09-16",
       "elite_fast_move_ids": [],
-      "elite_charged_move_ids": [
-        109,
-        70,
-        14
-      ]
+      "elite_charged_move_ids": [109, 70, 14]
     },
     {
       "form_id": "mega-x",

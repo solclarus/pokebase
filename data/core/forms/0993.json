@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "dark",
-        "flying"
-      ],
+      "types": ["dark", "flying"],
       "stats": {
         "hp": 94,
         "attack": 80,
@@ -22,9 +19,7 @@
         "sp_defense": 80,
         "speed": 108
       },
-      "ability_ids": [
-        282
-      ]
+      "ability_ids": [282]
     }
   ]
 }

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "water"
-      ],
+      "types": ["water"],
       "stats": {
         "hp": 35,
         "attack": 65,
@@ -21,10 +19,7 @@
         "sp_defense": 35,
         "speed": 65
       },
-      "ability_ids": [
-        55,
-        97
-      ],
+      "ability_ids": [55, 97],
       "hidden_ability_id": 81
     }
   ]

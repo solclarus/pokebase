@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 85,
         "attack": 80,
@@ -21,10 +19,7 @@
         "sp_defense": 95,
         "speed": 60
       },
-      "ability_ids": [
-        36,
-        88
-      ],
+      "ability_ids": [36, 88],
       "hidden_ability_id": 148
     }
   ]

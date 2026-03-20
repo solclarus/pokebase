@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "bug",
-        "fighting"
-      ],
+      "types": ["bug", "fighting"],
       "stats": {
         "hp": 71,
         "attack": 137,
@@ -22,9 +19,7 @@
         "sp_defense": 37,
         "speed": 151
       },
-      "ability_ids": [
-        224
-      ]
+      "ability_ids": [224]
     }
   ]
 }

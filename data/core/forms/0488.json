@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 120,
         "attack": 70,
@@ -21,9 +19,7 @@
         "sp_defense": 120,
         "speed": 85
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     }
   ]
 }

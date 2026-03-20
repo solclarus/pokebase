@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "grass"
-      ],
+      "types": ["grass"],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -21,9 +19,7 @@
         "sp_defense": 100,
         "speed": 50
       },
-      "ability_ids": [
-        34
-      ],
+      "ability_ids": [34],
       "hidden_ability_id": 131
     }
   ]

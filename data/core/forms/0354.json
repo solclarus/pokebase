@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "ghost"
-      ],
+      "types": ["ghost"],
       "stats": {
         "hp": 64,
         "attack": 115,
@@ -21,10 +19,7 @@
         "sp_defense": 63,
         "speed": 65
       },
-      "ability_ids": [
-        15,
-        119
-      ],
+      "ability_ids": [15, 119],
       "hidden_ability_id": 130
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "ghost"
-      ],
+      "types": ["ghost"],
       "stats": {
         "hp": 64,
         "attack": 165,
@@ -47,9 +40,7 @@
         "sp_defense": 83,
         "speed": 75
       },
-      "ability_ids": [
-        158
-      ]
+      "ability_ids": [158]
     }
   ]
 }

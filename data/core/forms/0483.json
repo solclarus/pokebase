@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "steel",
-        "dragon"
-      ],
+      "types": ["steel", "dragon"],
       "stats": {
         "hp": 100,
         "attack": 120,
@@ -22,9 +19,7 @@
         "sp_defense": 100,
         "speed": 90
       },
-      "ability_ids": [
-        46
-      ],
+      "ability_ids": [46],
       "hidden_ability_id": 140
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "steel",
-        "dragon"
-      ],
+      "types": ["steel", "dragon"],
       "stats": {
         "hp": 100,
         "attack": 100,
@@ -48,9 +40,7 @@
         "sp_defense": 120,
         "speed": 90
       },
-      "ability_ids": [
-        46
-      ],
+      "ability_ids": [46],
       "hidden_ability_id": 140
     }
   ]

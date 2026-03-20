@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "dragon",
-        "flying"
-      ],
+      "types": ["dragon", "flying"],
       "stats": {
         "hp": 75,
         "attack": 70,
@@ -22,9 +19,7 @@
         "sp_defense": 105,
         "speed": 80
       },
-      "ability_ids": [
-        30
-      ],
+      "ability_ids": [30],
       "hidden_ability_id": 13
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "dragon",
-        "fairy"
-      ],
+      "types": ["dragon", "fairy"],
       "stats": {
         "hp": 75,
         "attack": 110,
@@ -48,9 +40,7 @@
         "sp_defense": 105,
         "speed": 80
       },
-      "ability_ids": [
-        182
-      ]
+      "ability_ids": [182]
     }
   ]
 }

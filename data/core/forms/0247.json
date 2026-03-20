@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "rock",
-        "ground"
-      ],
+      "types": ["rock", "ground"],
       "stats": {
         "hp": 70,
         "attack": 84,
@@ -22,9 +19,7 @@
         "sp_defense": 70,
         "speed": 51
       },
-      "ability_ids": [
-        61
-      ]
+      "ability_ids": [61]
     }
   ]
 }

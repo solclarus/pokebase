@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 70,
         "attack": 55,
@@ -21,9 +19,7 @@
         "sp_defense": 35,
         "speed": 25
       },
-      "ability_ids": [
-        167
-      ],
+      "ability_ids": [167],
       "hidden_ability_id": 82
     }
   ]

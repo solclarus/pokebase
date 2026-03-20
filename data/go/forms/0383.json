@@ -6,22 +6,12 @@
       "base_attack": 270,
       "base_defense": 228,
       "base_stamina": 205,
-      "fast_move_ids": [
-        216,
-        253
-      ],
-      "charged_move_ids": [
-        31,
-        103,
-        116
-      ],
+      "fast_move_ids": [216, 253],
+      "charged_move_ids": [31, 103, 116],
       "released_at": "2017-12-15",
       "shiny_released_at": "2019-01-15",
       "elite_fast_move_ids": [],
-      "elite_charged_move_ids": [
-        115,
-        290
-      ]
+      "elite_charged_move_ids": [115, 290]
     },
     {
       "form_id": "primal",

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "dark",
-        "dragon"
-      ],
+      "types": ["dark", "dragon"],
       "stats": {
         "hp": 223,
         "attack": 101,
@@ -22,9 +19,7 @@
         "sp_defense": 53,
         "speed": 43
       },
-      "ability_ids": [
-        224
-      ]
+      "ability_ids": [224]
     }
   ]
 }

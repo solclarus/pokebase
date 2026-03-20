@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -21,9 +19,7 @@
         "sp_defense": 90,
         "speed": 50
       },
-      "ability_ids": [
-        248
-      ]
+      "ability_ids": [248]
     },
     {
       "id": "noice",
@@ -34,9 +30,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -45,9 +39,7 @@
         "sp_defense": 50,
         "speed": 130
       },
-      "ability_ids": [
-        248
-      ]
+      "ability_ids": [248]
     }
   ]
 }

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 75,
         "attack": 50,
@@ -21,9 +19,7 @@
         "sp_defense": 90,
         "speed": 65
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "mega",
@@ -34,10 +30,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "psychic",
-        "steel"
-      ],
+      "types": ["psychic", "steel"],
       "stats": {
         "hp": 75,
         "attack": 50,

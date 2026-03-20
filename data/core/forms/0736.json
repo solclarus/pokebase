@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "bug"
-      ],
+      "types": ["bug"],
       "stats": {
         "hp": 47,
         "attack": 62,
@@ -21,9 +19,7 @@
         "sp_defense": 45,
         "speed": 46
       },
-      "ability_ids": [
-        68
-      ]
+      "ability_ids": [68]
     }
   ]
 }

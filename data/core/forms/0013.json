@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "bug",
-        "poison"
-      ],
+      "types": ["bug", "poison"],
       "stats": {
         "hp": 40,
         "attack": 35,
@@ -22,9 +19,7 @@
         "sp_defense": 20,
         "speed": 50
       },
-      "ability_ids": [
-        19
-      ],
+      "ability_ids": [19],
       "hidden_ability_id": 50
     }
   ]

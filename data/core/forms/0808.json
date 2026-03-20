@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "steel"
-      ],
+      "types": ["steel"],
       "stats": {
         "hp": 46,
         "attack": 65,
@@ -21,9 +19,7 @@
         "sp_defense": 35,
         "speed": 34
       },
-      "ability_ids": [
-        42
-      ]
+      "ability_ids": [42]
     }
   ]
 }

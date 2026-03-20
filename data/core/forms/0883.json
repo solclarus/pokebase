@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "water",
-        "ice"
-      ],
+      "types": ["water", "ice"],
       "stats": {
         "hp": 90,
         "attack": 90,
@@ -22,10 +19,7 @@
         "sp_defense": 90,
         "speed": 55
       },
-      "ability_ids": [
-        11,
-        115
-      ],
+      "ability_ids": [11, 115],
       "hidden_ability_id": 202
     }
   ]

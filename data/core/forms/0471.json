@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 65,
         "attack": 60,
@@ -21,9 +19,7 @@
         "sp_defense": 95,
         "speed": 65
       },
-      "ability_ids": [
-        81
-      ],
+      "ability_ids": [81],
       "hidden_ability_id": 115
     }
   ]

@@ -6,23 +6,12 @@
       "base_attack": 208,
       "base_defense": 175,
       "base_stamina": 225,
-      "fast_move_ids": [
-        216,
-        230
-      ],
-      "charged_move_ids": [
-        31,
-        91,
-        284,
-        316,
-        18
-      ],
+      "fast_move_ids": [216, 230],
+      "charged_move_ids": [31, 91, 284, 316, 18],
       "released_at": "2017-12-08",
       "shiny_released_at": "2019-07-21",
       "elite_fast_move_ids": [],
-      "elite_charged_move_ids": [
-        299
-      ]
+      "elite_charged_move_ids": [299]
     },
     {
       "form_id": "mega",

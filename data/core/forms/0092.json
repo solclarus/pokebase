@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "ghost",
-        "poison"
-      ],
+      "types": ["ghost", "poison"],
       "stats": {
         "hp": 30,
         "attack": 35,
@@ -22,9 +19,7 @@
         "sp_defense": 35,
         "speed": 80
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     }
   ]
 }

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "rock",
-        "flying"
-      ],
+      "types": ["rock", "flying"],
       "stats": {
         "hp": 75,
         "attack": 140,
@@ -22,9 +19,7 @@
         "sp_defense": 65,
         "speed": 110
       },
-      "ability_ids": [
-        129
-      ]
+      "ability_ids": [129]
     }
   ]
 }

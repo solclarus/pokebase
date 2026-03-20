@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fighting",
-        "flying"
-      ],
+      "types": ["fighting", "flying"],
       "stats": {
         "hp": 78,
         "attack": 92,
@@ -22,10 +19,7 @@
         "sp_defense": 63,
         "speed": 118
       },
-      "ability_ids": [
-        7,
-        84
-      ],
+      "ability_ids": [7, 84],
       "hidden_ability_id": 104
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": [
-        "fighting",
-        "flying"
-      ],
+      "types": ["fighting", "flying"],
       "stats": {
         "hp": 78,
         "attack": 137,

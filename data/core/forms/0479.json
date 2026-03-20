@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "electric",
-        "ghost"
-      ],
+      "types": ["electric", "ghost"],
       "stats": {
         "hp": 50,
         "attack": 50,
@@ -22,9 +19,7 @@
         "sp_defense": 77,
         "speed": 91
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "heat",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "electric",
-        "fire"
-      ],
+      "types": ["electric", "fire"],
       "stats": {
         "hp": 50,
         "attack": 65,
@@ -47,9 +39,7 @@
         "sp_defense": 107,
         "speed": 86
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "wash",
@@ -60,10 +50,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "electric",
-        "water"
-      ],
+      "types": ["electric", "water"],
       "stats": {
         "hp": 50,
         "attack": 65,
@@ -72,9 +59,7 @@
         "sp_defense": 107,
         "speed": 86
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "frost",
@@ -85,10 +70,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "electric",
-        "ice"
-      ],
+      "types": ["electric", "ice"],
       "stats": {
         "hp": 50,
         "attack": 65,
@@ -97,9 +79,7 @@
         "sp_defense": 107,
         "speed": 86
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "fan",
@@ -110,10 +90,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "electric",
-        "flying"
-      ],
+      "types": ["electric", "flying"],
       "stats": {
         "hp": 50,
         "attack": 65,
@@ -122,9 +99,7 @@
         "sp_defense": 107,
         "speed": 86
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     },
     {
       "id": "mow",
@@ -135,10 +110,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "electric",
-        "grass"
-      ],
+      "types": ["electric", "grass"],
       "stats": {
         "hp": 50,
         "attack": 65,
@@ -147,9 +119,7 @@
         "sp_defense": 107,
         "speed": 86
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     }
   ]
 }

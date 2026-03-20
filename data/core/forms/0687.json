@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "dark",
-        "psychic"
-      ],
+      "types": ["dark", "psychic"],
       "stats": {
         "hp": 86,
         "attack": 92,
@@ -22,10 +19,7 @@
         "sp_defense": 75,
         "speed": 73
       },
-      "ability_ids": [
-        126,
-        21
-      ],
+      "ability_ids": [126, 21],
       "hidden_ability_id": 151
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": [
-        "dark",
-        "psychic"
-      ],
+      "types": ["dark", "psychic"],
       "stats": {
         "hp": 86,
         "attack": 102,

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "water"
-      ],
+      "types": ["water"],
       "stats": {
         "hp": 71,
         "attack": 73,
@@ -21,9 +19,7 @@
         "sp_defense": 89,
         "speed": 59
       },
-      "ability_ids": [
-        178
-      ]
+      "ability_ids": [178]
     }
   ]
 }

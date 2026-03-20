@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "steel",
-        "fighting"
-      ],
+      "types": ["steel", "fighting"],
       "stats": {
         "hp": 91,
         "attack": 90,
@@ -22,9 +19,7 @@
         "sp_defense": 72,
         "speed": 108
       },
-      "ability_ids": [
-        154
-      ]
+      "ability_ids": [154]
     }
   ]
 }

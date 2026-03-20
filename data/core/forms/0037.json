@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "fire"
-      ],
+      "types": ["fire"],
       "stats": {
         "hp": 38,
         "attack": 41,
@@ -21,9 +19,7 @@
         "sp_defense": 65,
         "speed": 65
       },
-      "ability_ids": [
-        18
-      ],
+      "ability_ids": [18],
       "hidden_ability_id": 70
     },
     {
@@ -35,9 +31,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 38,
         "attack": 41,
@@ -46,9 +40,7 @@
         "sp_defense": 65,
         "speed": 65
       },
-      "ability_ids": [
-        81
-      ],
+      "ability_ids": [81],
       "hidden_ability_id": 117
     }
   ]

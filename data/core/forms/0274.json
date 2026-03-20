@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "grass",
-        "dark"
-      ],
+      "types": ["grass", "dark"],
       "stats": {
         "hp": 70,
         "attack": 70,
@@ -22,10 +19,7 @@
         "sp_defense": 40,
         "speed": 60
       },
-      "ability_ids": [
-        34,
-        48
-      ],
+      "ability_ids": [34, 48],
       "hidden_ability_id": 124
     }
   ]

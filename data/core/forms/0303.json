@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "steel",
-        "fairy"
-      ],
+      "types": ["steel", "fairy"],
       "stats": {
         "hp": 50,
         "attack": 85,
@@ -22,10 +19,7 @@
         "sp_defense": 55,
         "speed": 50
       },
-      "ability_ids": [
-        52,
-        22
-      ],
+      "ability_ids": [52, 22],
       "hidden_ability_id": 125
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "steel",
-        "fairy"
-      ],
+      "types": ["steel", "fairy"],
       "stats": {
         "hp": 50,
         "attack": 105,
@@ -49,9 +40,7 @@
         "sp_defense": 95,
         "speed": 50
       },
-      "ability_ids": [
-        37
-      ]
+      "ability_ids": [37]
     }
   ]
 }

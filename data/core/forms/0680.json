@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "steel",
-        "ghost"
-      ],
+      "types": ["steel", "ghost"],
       "stats": {
         "hp": 59,
         "attack": 110,
@@ -22,9 +19,7 @@
         "sp_defense": 49,
         "speed": 35
       },
-      "ability_ids": [
-        99
-      ]
+      "ability_ids": [99]
     }
   ]
 }

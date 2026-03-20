@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "grass"
-      ],
+      "types": ["grass"],
       "stats": {
         "hp": 70,
         "attack": 85,
@@ -21,9 +19,7 @@
         "sp_defense": 85,
         "speed": 120
       },
-      "ability_ids": [
-        65
-      ],
+      "ability_ids": [65],
       "hidden_ability_id": 84
     },
     {
@@ -35,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "grass",
-        "dragon"
-      ],
+      "types": ["grass", "dragon"],
       "stats": {
         "hp": 70,
         "attack": 110,
@@ -47,9 +40,7 @@
         "sp_defense": 85,
         "speed": 145
       },
-      "ability_ids": [
-        31
-      ]
+      "ability_ids": [31]
     }
   ]
 }

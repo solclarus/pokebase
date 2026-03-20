@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "flying"
-      ],
+      "types": ["flying"],
       "stats": {
         "hp": 38,
         "attack": 47,
@@ -21,10 +19,7 @@
         "sp_defense": 35,
         "speed": 57
       },
-      "ability_ids": [
-        51,
-        127
-      ],
+      "ability_ids": [51, 127],
       "hidden_ability_id": 145
     }
   ]

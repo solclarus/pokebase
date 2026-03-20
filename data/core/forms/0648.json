@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "normal",
-        "psychic"
-      ],
+      "types": ["normal", "psychic"],
       "stats": {
         "hp": 100,
         "attack": 77,
@@ -22,9 +19,7 @@
         "sp_defense": 128,
         "speed": 90
       },
-      "ability_ids": [
-        32
-      ]
+      "ability_ids": [32]
     },
     {
       "id": "pirouette",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "normal",
-        "fighting"
-      ],
+      "types": ["normal", "fighting"],
       "stats": {
         "hp": 100,
         "attack": 128,
@@ -47,9 +39,7 @@
         "sp_defense": 77,
         "speed": 128
       },
-      "ability_ids": [
-        32
-      ]
+      "ability_ids": [32]
     }
   ]
 }

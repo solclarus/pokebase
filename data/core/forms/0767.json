@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "bug",
-        "water"
-      ],
+      "types": ["bug", "water"],
       "stats": {
         "hp": 25,
         "attack": 35,
@@ -22,9 +19,7 @@
         "sp_defense": 30,
         "speed": 80
       },
-      "ability_ids": [
-        193
-      ]
+      "ability_ids": [193]
     }
   ]
 }

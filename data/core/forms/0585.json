@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "normal",
-        "grass"
-      ],
+      "types": ["normal", "grass"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -22,10 +19,7 @@
         "sp_defense": 50,
         "speed": 75
       },
-      "ability_ids": [
-        34,
-        157
-      ],
+      "ability_ids": [34, 157],
       "hidden_ability_id": 32
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "normal",
-        "grass"
-      ],
+      "types": ["normal", "grass"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -49,10 +40,7 @@
         "sp_defense": 50,
         "speed": 75
       },
-      "ability_ids": [
-        34,
-        157
-      ],
+      "ability_ids": [34, 157],
       "hidden_ability_id": 32
     },
     {
@@ -64,10 +52,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "normal",
-        "grass"
-      ],
+      "types": ["normal", "grass"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -76,10 +61,7 @@
         "sp_defense": 50,
         "speed": 75
       },
-      "ability_ids": [
-        34,
-        157
-      ],
+      "ability_ids": [34, 157],
       "hidden_ability_id": 32
     },
     {
@@ -91,10 +73,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "normal",
-        "grass"
-      ],
+      "types": ["normal", "grass"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -103,10 +82,7 @@
         "sp_defense": 50,
         "speed": 75
       },
-      "ability_ids": [
-        34,
-        157
-      ],
+      "ability_ids": [34, 157],
       "hidden_ability_id": 32
     },
     {
@@ -118,10 +94,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "normal",
-        "grass"
-      ],
+      "types": ["normal", "grass"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -130,10 +103,7 @@
         "sp_defense": 50,
         "speed": 75
       },
-      "ability_ids": [
-        34,
-        157
-      ],
+      "ability_ids": [34, 157],
       "hidden_ability_id": 32
     }
   ]

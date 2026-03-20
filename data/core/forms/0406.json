@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "grass",
-        "poison"
-      ],
+      "types": ["grass", "poison"],
       "stats": {
         "hp": 40,
         "attack": 30,
@@ -22,10 +19,7 @@
         "sp_defense": 70,
         "speed": 55
       },
-      "ability_ids": [
-        30,
-        38
-      ],
+      "ability_ids": [30, 38],
       "hidden_ability_id": 102
     }
   ]

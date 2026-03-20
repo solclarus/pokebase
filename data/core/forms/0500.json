@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "fire",
-        "fighting"
-      ],
+      "types": ["fire", "fighting"],
       "stats": {
         "hp": 110,
         "attack": 123,
@@ -22,9 +19,7 @@
         "sp_defense": 65,
         "speed": 65
       },
-      "ability_ids": [
-        66
-      ],
+      "ability_ids": [66],
       "hidden_ability_id": 120
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "unova",
-      "types": [
-        "fire",
-        "fighting"
-      ],
+      "types": ["fire", "fighting"],
       "stats": {
         "hp": 110,
         "attack": 148,

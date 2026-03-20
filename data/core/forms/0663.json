@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fire",
-        "flying"
-      ],
+      "types": ["fire", "flying"],
       "stats": {
         "hp": 78,
         "attack": 81,
@@ -22,9 +19,7 @@
         "sp_defense": 69,
         "speed": 126
       },
-      "ability_ids": [
-        49
-      ],
+      "ability_ids": [49],
       "hidden_ability_id": 177
     }
   ]

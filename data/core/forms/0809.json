@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "steel"
-      ],
+      "types": ["steel"],
       "stats": {
         "hp": 135,
         "attack": 143,
@@ -21,9 +19,7 @@
         "sp_defense": 65,
         "speed": 34
       },
-      "ability_ids": [
-        89
-      ]
+      "ability_ids": [89]
     },
     {
       "id": "gigantamax",
@@ -34,9 +30,7 @@
       },
       "form_type": "gigantamax",
       "region": "alola",
-      "types": [
-        "steel"
-      ],
+      "types": ["steel"],
       "stats": {
         "hp": 135,
         "attack": 143,
@@ -45,9 +39,7 @@
         "sp_defense": 65,
         "speed": 34
       },
-      "ability_ids": [
-        89
-      ]
+      "ability_ids": [89]
     }
   ]
 }

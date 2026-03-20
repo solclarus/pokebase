@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "dragon",
-        "ground"
-      ],
+      "types": ["dragon", "ground"],
       "stats": {
         "hp": 68,
         "attack": 90,
@@ -22,9 +19,7 @@
         "sp_defense": 55,
         "speed": 82
       },
-      "ability_ids": [
-        8
-      ],
+      "ability_ids": [8],
       "hidden_ability_id": 24
     }
   ]

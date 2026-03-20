@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "steel",
-        "flying"
-      ],
+      "types": ["steel", "flying"],
       "stats": {
         "hp": 65,
         "attack": 80,
@@ -22,10 +19,7 @@
         "sp_defense": 70,
         "speed": 70
       },
-      "ability_ids": [
-        51,
-        5
-      ],
+      "ability_ids": [51, 5],
       "hidden_ability_id": 133
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": [
-        "steel",
-        "flying"
-      ],
+      "types": ["steel", "flying"],
       "stats": {
         "hp": 65,
         "attack": 140,

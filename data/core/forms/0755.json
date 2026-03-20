@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "grass",
-        "fairy"
-      ],
+      "types": ["grass", "fairy"],
       "stats": {
         "hp": 40,
         "attack": 35,
@@ -22,10 +19,7 @@
         "sp_defense": 75,
         "speed": 15
       },
-      "ability_ids": [
-        35,
-        27
-      ],
+      "ability_ids": [35, 27],
       "hidden_ability_id": 44
     }
   ]

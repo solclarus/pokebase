@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "fighting"
-      ],
+      "types": ["fighting"],
       "stats": {
         "hp": 35,
         "attack": 35,
@@ -21,10 +19,7 @@
         "sp_defense": 35,
         "speed": 35
       },
-      "ability_ids": [
-        62,
-        80
-      ],
+      "ability_ids": [62, 80],
       "hidden_ability_id": 72
     }
   ]

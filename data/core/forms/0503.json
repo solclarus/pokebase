@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "water"
-      ],
+      "types": ["water"],
       "stats": {
         "hp": 95,
         "attack": 100,
@@ -21,9 +19,7 @@
         "sp_defense": 70,
         "speed": 70
       },
-      "ability_ids": [
-        67
-      ],
+      "ability_ids": [67],
       "hidden_ability_id": 75
     },
     {
@@ -35,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "hisui",
-      "types": [
-        "water",
-        "dark"
-      ],
+      "types": ["water", "dark"],
       "stats": {
         "hp": 90,
         "attack": 108,
@@ -47,9 +40,7 @@
         "sp_defense": 65,
         "speed": 85
       },
-      "ability_ids": [
-        67
-      ],
+      "ability_ids": [67],
       "hidden_ability_id": 292
     }
   ]

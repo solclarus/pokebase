@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "water",
-        "dark"
-      ],
+      "types": ["water", "dark"],
       "stats": {
         "hp": 70,
         "attack": 120,
@@ -22,9 +19,7 @@
         "sp_defense": 40,
         "speed": 95
       },
-      "ability_ids": [
-        24
-      ],
+      "ability_ids": [24],
       "hidden_ability_id": 3
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "water",
-        "dark"
-      ],
+      "types": ["water", "dark"],
       "stats": {
         "hp": 70,
         "attack": 140,
@@ -48,9 +40,7 @@
         "sp_defense": 65,
         "speed": 105
       },
-      "ability_ids": [
-        173
-      ]
+      "ability_ids": [173]
     }
   ]
 }

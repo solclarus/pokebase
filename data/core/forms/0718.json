@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "dragon",
-        "ground"
-      ],
+      "types": ["dragon", "ground"],
       "stats": {
         "hp": 108,
         "attack": 100,
@@ -22,9 +19,7 @@
         "sp_defense": 95,
         "speed": 95
       },
-      "ability_ids": [
-        188
-      ]
+      "ability_ids": [188]
     },
     {
       "id": "10-power-construct",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "dragon",
-        "ground"
-      ],
+      "types": ["dragon", "ground"],
       "stats": {
         "hp": 54,
         "attack": 100,
@@ -47,9 +39,7 @@
         "sp_defense": 85,
         "speed": 115
       },
-      "ability_ids": [
-        211
-      ]
+      "ability_ids": [211]
     },
     {
       "id": "50-power-construct",
@@ -60,10 +50,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "dragon",
-        "ground"
-      ],
+      "types": ["dragon", "ground"],
       "stats": {
         "hp": 108,
         "attack": 100,
@@ -72,9 +59,7 @@
         "sp_defense": 95,
         "speed": 95
       },
-      "ability_ids": [
-        211
-      ]
+      "ability_ids": [211]
     },
     {
       "id": "complete",
@@ -85,10 +70,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "dragon",
-        "ground"
-      ],
+      "types": ["dragon", "ground"],
       "stats": {
         "hp": 216,
         "attack": 100,
@@ -97,9 +79,7 @@
         "sp_defense": 95,
         "speed": 85
       },
-      "ability_ids": [
-        211
-      ]
+      "ability_ids": [211]
     },
     {
       "id": "10",
@@ -110,10 +90,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "dragon",
-        "ground"
-      ],
+      "types": ["dragon", "ground"],
       "stats": {
         "hp": 54,
         "attack": 100,
@@ -122,9 +99,7 @@
         "sp_defense": 85,
         "speed": 115
       },
-      "ability_ids": [
-        188
-      ]
+      "ability_ids": [188]
     },
     {
       "id": "mega",
@@ -135,10 +110,7 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": [
-        "dragon",
-        "ground"
-      ],
+      "types": ["dragon", "ground"],
       "stats": {
         "hp": 216,
         "attack": 70,

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "fire",
-        "flying"
-      ],
+      "types": ["fire", "flying"],
       "stats": {
         "hp": 90,
         "attack": 100,
@@ -22,9 +19,7 @@
         "sp_defense": 85,
         "speed": 90
       },
-      "ability_ids": [
-        46
-      ],
+      "ability_ids": [46],
       "hidden_ability_id": 49
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "dark",
-        "flying"
-      ],
+      "types": ["dark", "flying"],
       "stats": {
         "hp": 90,
         "attack": 85,
@@ -48,9 +40,7 @@
         "sp_defense": 125,
         "speed": 90
       },
-      "ability_ids": [
-        201
-      ]
+      "ability_ids": [201]
     }
   ]
 }

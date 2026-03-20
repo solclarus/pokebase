@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "water"
-      ],
+      "types": ["water"],
       "stats": {
         "hp": 45,
         "attack": 67,
@@ -21,10 +19,7 @@
         "sp_defense": 50,
         "speed": 63
       },
-      "ability_ids": [
-        33,
-        41
-      ],
+      "ability_ids": [33, 41],
       "hidden_ability_id": 31
     }
   ]

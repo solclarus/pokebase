@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "water",
-        "ice"
-      ],
+      "types": ["water", "ice"],
       "stats": {
         "hp": 130,
         "attack": 85,
@@ -22,10 +19,7 @@
         "sp_defense": 95,
         "speed": 60
       },
-      "ability_ids": [
-        11,
-        75
-      ],
+      "ability_ids": [11, 75],
       "hidden_ability_id": 93
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "gigantamax",
       "region": "kanto",
-      "types": [
-        "water",
-        "ice"
-      ],
+      "types": ["water", "ice"],
       "stats": {
         "hp": 130,
         "attack": 85,
@@ -49,10 +40,7 @@
         "sp_defense": 95,
         "speed": 60
       },
-      "ability_ids": [
-        11,
-        75
-      ],
+      "ability_ids": [11, 75],
       "hidden_ability_id": 93
     }
   ]

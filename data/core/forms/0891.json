@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fighting"
-      ],
+      "types": ["fighting"],
       "stats": {
         "hp": 60,
         "attack": 90,
@@ -21,9 +19,7 @@
         "sp_defense": 50,
         "speed": 72
       },
-      "ability_ids": [
-        39
-      ]
+      "ability_ids": [39]
     }
   ]
 }

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "normal",
-        "flying"
-      ],
+      "types": ["normal", "flying"],
       "stats": {
         "hp": 60,
         "attack": 85,
@@ -22,9 +19,7 @@
         "sp_defense": 50,
         "speed": 125
       },
-      "ability_ids": [
-        62
-      ],
+      "ability_ids": [62],
       "hidden_ability_id": 113
     }
   ]

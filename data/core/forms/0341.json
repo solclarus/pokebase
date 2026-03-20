@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "water"
-      ],
+      "types": ["water"],
       "stats": {
         "hp": 43,
         "attack": 80,
@@ -21,10 +19,7 @@
         "sp_defense": 35,
         "speed": 35
       },
-      "ability_ids": [
-        52,
-        75
-      ],
+      "ability_ids": [52, 75],
       "hidden_ability_id": 91
     }
   ]

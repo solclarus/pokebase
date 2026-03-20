@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "steel",
-        "rock"
-      ],
+      "types": ["steel", "rock"],
       "stats": {
         "hp": 70,
         "attack": 110,
@@ -22,10 +19,7 @@
         "sp_defense": 60,
         "speed": 50
       },
-      "ability_ids": [
-        5,
-        69
-      ],
+      "ability_ids": [5, 69],
       "hidden_ability_id": 134
     },
     {
@@ -37,9 +31,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "steel"
-      ],
+      "types": ["steel"],
       "stats": {
         "hp": 70,
         "attack": 140,
@@ -48,9 +40,7 @@
         "sp_defense": 80,
         "speed": 50
       },
-      "ability_ids": [
-        111
-      ]
+      "ability_ids": [111]
     }
   ]
 }

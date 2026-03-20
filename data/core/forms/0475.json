@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "psychic",
-        "fighting"
-      ],
+      "types": ["psychic", "fighting"],
       "stats": {
         "hp": 68,
         "attack": 125,
@@ -22,10 +19,7 @@
         "sp_defense": 115,
         "speed": 80
       },
-      "ability_ids": [
-        80,
-        292
-      ],
+      "ability_ids": [80, 292],
       "hidden_ability_id": 154
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "sinnoh",
-      "types": [
-        "psychic",
-        "fighting"
-      ],
+      "types": ["psychic", "fighting"],
       "stats": {
         "hp": 68,
         "attack": 165,
@@ -49,9 +40,7 @@
         "sp_defense": 115,
         "speed": 110
       },
-      "ability_ids": [
-        39
-      ]
+      "ability_ids": [39]
     }
   ]
 }

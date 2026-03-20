@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 105,
         "attack": 95,
@@ -21,10 +19,7 @@
         "sp_defense": 80,
         "speed": 90
       },
-      "ability_ids": [
-        48,
-        113
-      ],
+      "ability_ids": [48, 113],
       "hidden_ability_id": 39
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "mega",
       "region": "kanto",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 105,
         "attack": 125,
@@ -47,9 +40,7 @@
         "sp_defense": 100,
         "speed": 100
       },
-      "ability_ids": [
-        184
-      ]
+      "ability_ids": [184]
     }
   ]
 }

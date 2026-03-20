@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "dark",
-        "dragon"
-      ],
+      "types": ["dark", "dragon"],
       "stats": {
         "hp": 92,
         "attack": 105,
@@ -22,9 +19,7 @@
         "sp_defense": 90,
         "speed": 98
       },
-      "ability_ids": [
-        26
-      ]
+      "ability_ids": [26]
     }
   ]
 }

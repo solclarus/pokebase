@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 74,
         "attack": 48,
@@ -21,10 +19,7 @@
         "sp_defense": 81,
         "speed": 104
       },
-      "ability_ids": [
-        51,
-        151
-      ],
+      "ability_ids": [51, 151],
       "hidden_ability_id": 158
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 74,
         "attack": 48,
@@ -47,10 +40,7 @@
         "sp_defense": 81,
         "speed": 104
       },
-      "ability_ids": [
-        51,
-        151
-      ],
+      "ability_ids": [51, 151],
       "hidden_ability_id": 172
     },
     {
@@ -62,9 +52,7 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": [
-        "psychic"
-      ],
+      "types": ["psychic"],
       "stats": {
         "hp": 74,
         "attack": 48,

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "fire"
-      ],
+      "types": ["fire"],
       "stats": {
         "hp": 65,
         "attack": 130,
@@ -21,9 +19,7 @@
         "sp_defense": 110,
         "speed": 65
       },
-      "ability_ids": [
-        18
-      ],
+      "ability_ids": [18],
       "hidden_ability_id": 62
     }
   ]

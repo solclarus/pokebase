@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 70,
         "attack": 70,
@@ -21,9 +19,7 @@
         "sp_defense": 70,
         "speed": 70
       },
-      "ability_ids": [
-        59
-      ]
+      "ability_ids": [59]
     },
     {
       "id": "sunny",
@@ -34,9 +30,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "fire"
-      ],
+      "types": ["fire"],
       "stats": {
         "hp": 70,
         "attack": 70,
@@ -45,9 +39,7 @@
         "sp_defense": 70,
         "speed": 70
       },
-      "ability_ids": [
-        59
-      ]
+      "ability_ids": [59]
     },
     {
       "id": "rainy",
@@ -58,9 +50,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "water"
-      ],
+      "types": ["water"],
       "stats": {
         "hp": 70,
         "attack": 70,
@@ -69,9 +59,7 @@
         "sp_defense": 70,
         "speed": 70
       },
-      "ability_ids": [
-        59
-      ]
+      "ability_ids": [59]
     },
     {
       "id": "snowy",
@@ -82,9 +70,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 70,
         "attack": 70,
@@ -93,9 +79,7 @@
         "sp_defense": 70,
         "speed": 70
       },
-      "ability_ids": [
-        59
-      ]
+      "ability_ids": [59]
     }
   ]
 }

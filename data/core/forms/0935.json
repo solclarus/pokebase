@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "fire"
-      ],
+      "types": ["fire"],
       "stats": {
         "hp": 40,
         "attack": 50,
@@ -21,9 +19,7 @@
         "sp_defense": 40,
         "speed": 35
       },
-      "ability_ids": [
-        18
-      ],
+      "ability_ids": [18],
       "hidden_ability_id": 49
     }
   ]

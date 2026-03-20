@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "fighting"
-      ],
+      "types": ["fighting"],
       "stats": {
         "hp": 80,
         "attack": 100,
@@ -21,10 +19,7 @@
         "sp_defense": 60,
         "speed": 45
       },
-      "ability_ids": [
-        62,
-        99
-      ],
+      "ability_ids": [62, 99],
       "hidden_ability_id": 80
     }
   ]

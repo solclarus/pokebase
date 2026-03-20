@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fighting",
-        "poison"
-      ],
+      "types": ["fighting", "poison"],
       "stats": {
         "hp": 80,
         "attack": 130,
@@ -22,10 +19,7 @@
         "sp_defense": 80,
         "speed": 120
       },
-      "ability_ids": [
-        46,
-        84
-      ],
+      "ability_ids": [46, 84],
       "hidden_ability_id": 143
     }
   ]

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "dragon",
-        "ground"
-      ],
+      "types": ["dragon", "ground"],
       "stats": {
         "hp": 108,
         "attack": 130,
@@ -22,9 +19,7 @@
         "sp_defense": 85,
         "speed": 102
       },
-      "ability_ids": [
-        8
-      ],
+      "ability_ids": [8],
       "hidden_ability_id": 24
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "sinnoh",
-      "types": [
-        "dragon",
-        "ground"
-      ],
+      "types": ["dragon", "ground"],
       "stats": {
         "hp": 108,
         "attack": 170,
@@ -48,9 +40,7 @@
         "sp_defense": 95,
         "speed": 92
       },
-      "ability_ids": [
-        159
-      ]
+      "ability_ids": [159]
     },
     {
       "id": "mega-z",
@@ -61,9 +51,7 @@
       },
       "form_type": "mega",
       "region": "sinnoh",
-      "types": [
-        "dragon"
-      ],
+      "types": ["dragon"],
       "stats": {
         "hp": 108,
         "attack": 130,

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": [
-        "steel",
-        "ground"
-      ],
+      "types": ["steel", "ground"],
       "stats": {
         "hp": 75,
         "attack": 85,
@@ -22,10 +19,7 @@
         "sp_defense": 65,
         "speed": 30
       },
-      "ability_ids": [
-        69,
-        5
-      ],
+      "ability_ids": [69, 5],
       "hidden_ability_id": 125
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "johto",
-      "types": [
-        "steel",
-        "ground"
-      ],
+      "types": ["steel", "ground"],
       "stats": {
         "hp": 75,
         "attack": 125,
@@ -49,9 +40,7 @@
         "sp_defense": 95,
         "speed": 30
       },
-      "ability_ids": [
-        159
-      ]
+      "ability_ids": [159]
     }
   ]
 }

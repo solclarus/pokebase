@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "rock"
-      ],
+      "types": ["rock"],
       "stats": {
         "hp": 80,
         "attack": 100,
@@ -21,9 +19,7 @@
         "sp_defense": 100,
         "speed": 50
       },
-      "ability_ids": [
-        29
-      ],
+      "ability_ids": [29],
       "hidden_ability_id": 5
     }
   ]

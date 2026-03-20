@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "ground"
-      ],
+      "types": ["ground"],
       "stats": {
         "hp": 60,
         "attack": 80,
@@ -21,10 +19,7 @@
         "sp_defense": 80,
         "speed": 45
       },
-      "ability_ids": [
-        69,
-        31
-      ],
+      "ability_ids": [69, 31],
       "hidden_ability_id": 4
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "fire",
-        "ghost"
-      ],
+      "types": ["fire", "ghost"],
       "stats": {
         "hp": 60,
         "attack": 80,
@@ -48,10 +40,7 @@
         "sp_defense": 80,
         "speed": 45
       },
-      "ability_ids": [
-        130,
-        31
-      ],
+      "ability_ids": [130, 31],
       "hidden_ability_id": 69
     }
   ]

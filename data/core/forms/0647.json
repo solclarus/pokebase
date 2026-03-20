@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "water",
-        "fighting"
-      ],
+      "types": ["water", "fighting"],
       "stats": {
         "hp": 91,
         "attack": 72,
@@ -22,9 +19,7 @@
         "sp_defense": 90,
         "speed": 108
       },
-      "ability_ids": [
-        154
-      ]
+      "ability_ids": [154]
     },
     {
       "id": "resolute",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "water",
-        "fighting"
-      ],
+      "types": ["water", "fighting"],
       "stats": {
         "hp": 91,
         "attack": 72,
@@ -47,9 +39,7 @@
         "sp_defense": 90,
         "speed": 108
       },
-      "ability_ids": [
-        154
-      ]
+      "ability_ids": [154]
     }
   ]
 }

@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "grass"
-      ],
+      "types": ["grass"],
       "stats": {
         "hp": 70,
         "attack": 60,
@@ -21,9 +19,7 @@
         "sp_defense": 78,
         "speed": 85
       },
-      "ability_ids": [
-        122
-      ]
+      "ability_ids": [122]
     },
     {
       "id": "overcast",
@@ -34,9 +30,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "grass"
-      ],
+      "types": ["grass"],
       "stats": {
         "hp": 70,
         "attack": 60,
@@ -45,9 +39,7 @@
         "sp_defense": 78,
         "speed": 85
       },
-      "ability_ids": [
-        122
-      ]
+      "ability_ids": [122]
     },
     {
       "id": "sunshine",
@@ -58,9 +50,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "grass"
-      ],
+      "types": ["grass"],
       "stats": {
         "hp": 70,
         "attack": 60,
@@ -69,9 +59,7 @@
         "sp_defense": 78,
         "speed": 85
       },
-      "ability_ids": [
-        122
-      ]
+      "ability_ids": [122]
     }
   ]
 }

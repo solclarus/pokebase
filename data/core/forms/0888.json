@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fairy"
-      ],
+      "types": ["fairy"],
       "stats": {
         "hp": 92,
         "attack": 120,
@@ -21,9 +19,7 @@
         "sp_defense": 115,
         "speed": 138
       },
-      "ability_ids": [
-        234
-      ]
+      "ability_ids": [234]
     },
     {
       "id": "crowned",
@@ -34,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fairy",
-        "steel"
-      ],
+      "types": ["fairy", "steel"],
       "stats": {
         "hp": 92,
         "attack": 150,
@@ -46,9 +39,7 @@
         "sp_defense": 115,
         "speed": 148
       },
-      "ability_ids": [
-        234
-      ]
+      "ability_ids": [234]
     }
   ]
 }

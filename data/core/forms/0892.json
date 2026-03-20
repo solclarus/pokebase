@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fighting",
-        "dark"
-      ],
+      "types": ["fighting", "dark"],
       "stats": {
         "hp": 100,
         "attack": 130,
@@ -22,9 +19,7 @@
         "sp_defense": 60,
         "speed": 97
       },
-      "ability_ids": [
-        260
-      ]
+      "ability_ids": [260]
     },
     {
       "id": "rapid-strike",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "fighting",
-        "water"
-      ],
+      "types": ["fighting", "water"],
       "stats": {
         "hp": 100,
         "attack": 130,
@@ -47,9 +39,7 @@
         "sp_defense": 60,
         "speed": 97
       },
-      "ability_ids": [
-        260
-      ]
+      "ability_ids": [260]
     },
     {
       "id": "single-strike-gmax",
@@ -60,10 +50,7 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": [
-        "fighting",
-        "dark"
-      ],
+      "types": ["fighting", "dark"],
       "stats": {
         "hp": 100,
         "attack": 130,
@@ -72,9 +59,7 @@
         "sp_defense": 60,
         "speed": 97
       },
-      "ability_ids": [
-        260
-      ]
+      "ability_ids": [260]
     },
     {
       "id": "rapid-strike-gmax",
@@ -85,10 +70,7 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": [
-        "fighting",
-        "water"
-      ],
+      "types": ["fighting", "water"],
       "stats": {
         "hp": 100,
         "attack": 130,
@@ -97,9 +79,7 @@
         "sp_defense": 60,
         "speed": 97
       },
-      "ability_ids": [
-        260
-      ]
+      "ability_ids": [260]
     }
   ]
 }

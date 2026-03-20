@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
+      "types": ["psychic", "fairy"],
       "stats": {
         "hp": 38,
         "attack": 35,
@@ -22,10 +19,7 @@
         "sp_defense": 55,
         "speed": 50
       },
-      "ability_ids": [
-        28,
-        36
-      ],
+      "ability_ids": [28, 36],
       "hidden_ability_id": 140
     }
   ]

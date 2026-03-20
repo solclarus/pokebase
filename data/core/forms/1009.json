@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "water",
-        "dragon"
-      ],
+      "types": ["water", "dragon"],
       "stats": {
         "hp": 99,
         "attack": 83,
@@ -22,9 +19,7 @@
         "sp_defense": 83,
         "speed": 109
       },
-      "ability_ids": [
-        281
-      ]
+      "ability_ids": [281]
     }
   ]
 }

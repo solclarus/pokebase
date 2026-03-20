@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "electric"
-      ],
+      "types": ["electric"],
       "stats": {
         "hp": 80,
         "attack": 100,
@@ -21,9 +19,7 @@
         "sp_defense": 50,
         "speed": 200
       },
-      "ability_ids": [
-        262
-      ]
+      "ability_ids": [262]
     }
   ]
 }

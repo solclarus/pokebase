@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "ghost",
-        "poison"
-      ],
+      "types": ["ghost", "poison"],
       "stats": {
         "hp": 60,
         "attack": 65,
@@ -22,9 +19,7 @@
         "sp_defense": 75,
         "speed": 110
       },
-      "ability_ids": [
-        130
-      ]
+      "ability_ids": [130]
     },
     {
       "id": "mega",
@@ -35,10 +30,7 @@
       },
       "form_type": "mega",
       "region": "kanto",
-      "types": [
-        "ghost",
-        "poison"
-      ],
+      "types": ["ghost", "poison"],
       "stats": {
         "hp": 60,
         "attack": 65,
@@ -47,9 +39,7 @@
         "sp_defense": 95,
         "speed": 130
       },
-      "ability_ids": [
-        23
-      ]
+      "ability_ids": [23]
     },
     {
       "id": "gigantamax",
@@ -60,10 +50,7 @@
       },
       "form_type": "gigantamax",
       "region": "kanto",
-      "types": [
-        "ghost",
-        "poison"
-      ],
+      "types": ["ghost", "poison"],
       "stats": {
         "hp": 60,
         "attack": 65,
@@ -72,9 +59,7 @@
         "sp_defense": 75,
         "speed": 110
       },
-      "ability_ids": [
-        130
-      ]
+      "ability_ids": [130]
     }
   ]
 }

@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "fire",
-        "poison"
-      ],
+      "types": ["fire", "poison"],
       "stats": {
         "hp": 80,
         "attack": 70,
@@ -22,9 +19,7 @@
         "sp_defense": 110,
         "speed": 110
       },
-      "ability_ids": [
-        282
-      ]
+      "ability_ids": [282]
     }
   ]
 }

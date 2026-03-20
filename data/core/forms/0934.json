@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "rock"
-      ],
+      "types": ["rock"],
       "stats": {
         "hp": 100,
         "attack": 100,
@@ -21,10 +19,7 @@
         "sp_defense": 90,
         "speed": 35
       },
-      "ability_ids": [
-        272,
-        5
-      ],
+      "ability_ids": [272, 5],
       "hidden_ability_id": 29
     }
   ]

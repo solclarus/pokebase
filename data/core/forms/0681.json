@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "steel",
-        "ghost"
-      ],
+      "types": ["steel", "ghost"],
       "stats": {
         "hp": 60,
         "attack": 50,
@@ -22,9 +19,7 @@
         "sp_defense": 140,
         "speed": 60
       },
-      "ability_ids": [
-        176
-      ]
+      "ability_ids": [176]
     },
     {
       "id": "blade",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "steel",
-        "ghost"
-      ],
+      "types": ["steel", "ghost"],
       "stats": {
         "hp": 60,
         "attack": 140,
@@ -47,9 +39,7 @@
         "sp_defense": 50,
         "speed": 60
       },
-      "ability_ids": [
-        176
-      ]
+      "ability_ids": [176]
     }
   ]
 }

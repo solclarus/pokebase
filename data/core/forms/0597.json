@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "grass",
-        "steel"
-      ],
+      "types": ["grass", "steel"],
       "stats": {
         "hp": 44,
         "attack": 50,
@@ -22,9 +19,7 @@
         "sp_defense": 86,
         "speed": 10
       },
-      "ability_ids": [
-        160
-      ]
+      "ability_ids": [160]
     }
   ]
 }

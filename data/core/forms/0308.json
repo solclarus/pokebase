@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "fighting",
-        "psychic"
-      ],
+      "types": ["fighting", "psychic"],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -22,9 +19,7 @@
         "sp_defense": 75,
         "speed": 80
       },
-      "ability_ids": [
-        74
-      ],
+      "ability_ids": [74],
       "hidden_ability_id": 140
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "fighting",
-        "psychic"
-      ],
+      "types": ["fighting", "psychic"],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -48,9 +40,7 @@
         "sp_defense": 85,
         "speed": 100
       },
-      "ability_ids": [
-        74
-      ]
+      "ability_ids": [74]
     }
   ]
 }

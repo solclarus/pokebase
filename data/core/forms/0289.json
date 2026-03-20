@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "normal"
-      ],
+      "types": ["normal"],
       "stats": {
         "hp": 150,
         "attack": 160,
@@ -21,9 +19,7 @@
         "sp_defense": 65,
         "speed": 100
       },
-      "ability_ids": [
-        54
-      ]
+      "ability_ids": [54]
     }
   ]
 }

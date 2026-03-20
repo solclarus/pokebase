@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "poison",
-        "dragon"
-      ],
+      "types": ["poison", "dragon"],
       "stats": {
         "hp": 140,
         "attack": 85,
@@ -22,9 +19,7 @@
         "sp_defense": 95,
         "speed": 130
       },
-      "ability_ids": [
-        46
-      ]
+      "ability_ids": [46]
     },
     {
       "id": "eternamax",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": [
-        "poison",
-        "dragon"
-      ],
+      "types": ["poison", "dragon"],
       "stats": {
         "hp": 255,
         "attack": 115,
@@ -47,9 +39,7 @@
         "sp_defense": 250,
         "speed": 130
       },
-      "ability_ids": [
-        46
-      ]
+      "ability_ids": [46]
     }
   ]
 }

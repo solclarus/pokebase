@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 80,
         "attack": 80,
@@ -21,10 +19,7 @@
         "sp_defense": 80,
         "speed": 80
       },
-      "ability_ids": [
-        39,
-        115
-      ],
+      "ability_ids": [39, 115],
       "hidden_ability_id": 141
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "mega",
       "region": "hoenn",
-      "types": [
-        "ice"
-      ],
+      "types": ["ice"],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -47,9 +40,7 @@
         "sp_defense": 80,
         "speed": 100
       },
-      "ability_ids": [
-        174
-      ]
+      "ability_ids": [174]
     }
   ]
 }

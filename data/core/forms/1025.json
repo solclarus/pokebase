@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "poison",
-        "ghost"
-      ],
+      "types": ["poison", "ghost"],
       "stats": {
         "hp": 88,
         "attack": 88,
@@ -22,9 +19,7 @@
         "sp_defense": 88,
         "speed": 88
       },
-      "ability_ids": [
-        307
-      ]
+      "ability_ids": [307]
     }
   ]
 }

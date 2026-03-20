@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "water",
-        "ghost"
-      ],
+      "types": ["water", "ghost"],
       "stats": {
         "hp": 100,
         "attack": 60,
@@ -22,10 +19,7 @@
         "sp_defense": 105,
         "speed": 60
       },
-      "ability_ids": [
-        11,
-        130
-      ],
+      "ability_ids": [11, 130],
       "hidden_ability_id": 6
     }
   ]

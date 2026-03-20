@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "fire",
-        "psychic"
-      ],
+      "types": ["fire", "psychic"],
       "stats": {
         "hp": 75,
         "attack": 69,
@@ -22,9 +19,7 @@
         "sp_defense": 100,
         "speed": 104
       },
-      "ability_ids": [
-        66
-      ],
+      "ability_ids": [66],
       "hidden_ability_id": 170
     },
     {
@@ -36,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": [
-        "fire",
-        "psychic"
-      ],
+      "types": ["fire", "psychic"],
       "stats": {
         "hp": 75,
         "attack": 69,

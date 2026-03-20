@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": [
-        "normal",
-        "dragon"
-      ],
+      "types": ["normal", "dragon"],
       "stats": {
         "hp": 78,
         "attack": 60,
@@ -22,10 +19,7 @@
         "sp_defense": 91,
         "speed": 36
       },
-      "ability_ids": [
-        201,
-        157
-      ],
+      "ability_ids": [201, 157],
       "hidden_ability_id": 13
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "alola",
-      "types": [
-        "normal",
-        "dragon"
-      ],
+      "types": ["normal", "dragon"],
       "stats": {
         "hp": 78,
         "attack": 85,

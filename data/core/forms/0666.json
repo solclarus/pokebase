@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -22,10 +19,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -49,10 +40,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -64,10 +52,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -76,10 +61,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -91,10 +73,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -103,10 +82,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -118,10 +94,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -130,10 +103,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -145,10 +115,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -157,10 +124,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -172,10 +136,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -184,10 +145,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -199,10 +157,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -211,10 +166,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -226,10 +178,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -238,10 +187,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -253,10 +199,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -265,10 +208,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -280,10 +220,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -292,10 +229,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -307,10 +241,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -319,10 +250,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -334,10 +262,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -346,10 +271,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -361,10 +283,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -373,10 +292,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -388,10 +304,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -400,10 +313,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -415,10 +325,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -427,10 +334,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -442,10 +346,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -454,10 +355,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -469,10 +367,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -481,10 +376,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -496,10 +388,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -508,10 +397,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -523,10 +409,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -535,10 +418,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     },
     {
@@ -550,10 +430,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "bug",
-        "flying"
-      ],
+      "types": ["bug", "flying"],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -562,10 +439,7 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [
-        19,
-        14
-      ],
+      "ability_ids": [19, 14],
       "hidden_ability_id": 132
     }
   ]

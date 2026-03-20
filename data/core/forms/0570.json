@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "dark"
-      ],
+      "types": ["dark"],
       "stats": {
         "hp": 40,
         "attack": 65,
@@ -21,9 +19,7 @@
         "sp_defense": 40,
         "speed": 65
       },
-      "ability_ids": [
-        149
-      ]
+      "ability_ids": [149]
     },
     {
       "id": "hisui",
@@ -34,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "hisui",
-      "types": [
-        "normal",
-        "ghost"
-      ],
+      "types": ["normal", "ghost"],
       "stats": {
         "hp": 35,
         "attack": 60,
@@ -46,9 +39,7 @@
         "sp_defense": 40,
         "speed": 70
       },
-      "ability_ids": [
-        149
-      ]
+      "ability_ids": [149]
     }
   ]
 }

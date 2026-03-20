@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "bug",
-        "steel"
-      ],
+      "types": ["bug", "steel"],
       "stats": {
         "hp": 71,
         "attack": 120,
@@ -22,9 +19,7 @@
         "sp_defense": 95,
         "speed": 99
       },
-      "ability_ids": [
-        88
-      ]
+      "ability_ids": [88]
     },
     {
       "id": "douse",
@@ -35,10 +30,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "bug",
-        "steel"
-      ],
+      "types": ["bug", "steel"],
       "stats": {
         "hp": 71,
         "attack": 120,
@@ -47,9 +39,7 @@
         "sp_defense": 95,
         "speed": 99
       },
-      "ability_ids": [
-        88
-      ]
+      "ability_ids": [88]
     },
     {
       "id": "shock",
@@ -60,10 +50,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "bug",
-        "steel"
-      ],
+      "types": ["bug", "steel"],
       "stats": {
         "hp": 71,
         "attack": 120,
@@ -72,9 +59,7 @@
         "sp_defense": 95,
         "speed": 99
       },
-      "ability_ids": [
-        88
-      ]
+      "ability_ids": [88]
     },
     {
       "id": "burn",
@@ -85,10 +70,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "bug",
-        "steel"
-      ],
+      "types": ["bug", "steel"],
       "stats": {
         "hp": 71,
         "attack": 120,
@@ -97,9 +79,7 @@
         "sp_defense": 95,
         "speed": 99
       },
-      "ability_ids": [
-        88
-      ]
+      "ability_ids": [88]
     },
     {
       "id": "chill",
@@ -110,10 +90,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "bug",
-        "steel"
-      ],
+      "types": ["bug", "steel"],
       "stats": {
         "hp": 71,
         "attack": 120,
@@ -122,9 +99,7 @@
         "sp_defense": 95,
         "speed": 99
       },
-      "ability_ids": [
-        88
-      ]
+      "ability_ids": [88]
     }
   ]
 }

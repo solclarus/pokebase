@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": [
-        "fairy",
-        "psychic"
-      ],
+      "types": ["fairy", "psychic"],
       "stats": {
         "hp": 115,
         "attack": 65,
@@ -22,9 +19,7 @@
         "sp_defense": 115,
         "speed": 111
       },
-      "ability_ids": [
-        281
-      ]
+      "ability_ids": [281]
     }
   ]
 }

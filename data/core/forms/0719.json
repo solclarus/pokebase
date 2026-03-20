@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "rock",
-        "fairy"
-      ],
+      "types": ["rock", "fairy"],
       "stats": {
         "hp": 50,
         "attack": 100,
@@ -22,9 +19,7 @@
         "sp_defense": 150,
         "speed": 50
       },
-      "ability_ids": [
-        29
-      ]
+      "ability_ids": [29]
     },
     {
       "id": "mega",
@@ -35,10 +30,7 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": [
-        "rock",
-        "fairy"
-      ],
+      "types": ["rock", "fairy"],
       "stats": {
         "hp": 50,
         "attack": 160,
@@ -47,9 +39,7 @@
         "sp_defense": 110,
         "speed": 110
       },
-      "ability_ids": [
-        156
-      ]
+      "ability_ids": [156]
     }
   ]
 }

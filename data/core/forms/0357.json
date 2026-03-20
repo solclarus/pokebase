@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "hoenn",
-      "types": [
-        "grass",
-        "flying"
-      ],
+      "types": ["grass", "flying"],
       "stats": {
         "hp": 99,
         "attack": 68,
@@ -22,10 +19,7 @@
         "sp_defense": 87,
         "speed": 51
       },
-      "ability_ids": [
-        34,
-        94
-      ],
+      "ability_ids": [34, 94],
       "hidden_ability_id": 139
     }
   ]

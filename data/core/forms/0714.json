@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": [
-        "flying",
-        "dragon"
-      ],
+      "types": ["flying", "dragon"],
       "stats": {
         "hp": 40,
         "attack": 30,
@@ -22,10 +19,7 @@
         "sp_defense": 40,
         "speed": 55
       },
-      "ability_ids": [
-        119,
-        151
-      ],
+      "ability_ids": [119, 151],
       "hidden_ability_id": 140
     }
   ]

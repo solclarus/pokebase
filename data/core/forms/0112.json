@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": [
-        "ground",
-        "rock"
-      ],
+      "types": ["ground", "rock"],
       "stats": {
         "hp": 105,
         "attack": 130,
@@ -22,10 +19,7 @@
         "sp_defense": 45,
         "speed": 40
       },
-      "ability_ids": [
-        31,
-        69
-      ],
+      "ability_ids": [31, 69],
       "hidden_ability_id": 120
     }
   ]

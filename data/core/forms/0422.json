@@ -10,9 +10,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "water"
-      ],
+      "types": ["water"],
       "stats": {
         "hp": 76,
         "attack": 48,
@@ -21,10 +19,7 @@
         "sp_defense": 62,
         "speed": 34
       },
-      "ability_ids": [
-        60,
-        114
-      ],
+      "ability_ids": [60, 114],
       "hidden_ability_id": 159
     },
     {
@@ -36,9 +31,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "water"
-      ],
+      "types": ["water"],
       "stats": {
         "hp": 76,
         "attack": 48,
@@ -47,10 +40,7 @@
         "sp_defense": 62,
         "speed": 34
       },
-      "ability_ids": [
-        60,
-        114
-      ],
+      "ability_ids": [60, 114],
       "hidden_ability_id": 159
     },
     {
@@ -62,9 +52,7 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": [
-        "water"
-      ],
+      "types": ["water"],
       "stats": {
         "hp": 76,
         "attack": 48,
@@ -73,10 +61,7 @@
         "sp_defense": 62,
         "speed": 34
       },
-      "ability_ids": [
-        60,
-        114
-      ],
+      "ability_ids": [60, 114],
       "hidden_ability_id": 159
     }
   ]

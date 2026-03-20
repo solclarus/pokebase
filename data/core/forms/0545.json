@@ -10,10 +10,7 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": [
-        "bug",
-        "poison"
-      ],
+      "types": ["bug", "poison"],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -22,10 +19,7 @@
         "sp_defense": 69,
         "speed": 112
       },
-      "ability_ids": [
-        38,
-        68
-      ],
+      "ability_ids": [38, 68],
       "hidden_ability_id": 3
     },
     {
@@ -37,10 +31,7 @@
       },
       "form_type": "mega",
       "region": "unova",
-      "types": [
-        "bug",
-        "poison"
-      ],
+      "types": ["bug", "poison"],
       "stats": {
         "hp": 60,
         "attack": 140,
