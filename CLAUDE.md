@@ -12,6 +12,14 @@
 
 ---
 
+## Web UI 規約
+
+- コンポーネントは **shadcn/ui** を使用する（`npx shadcn add <component>`）
+- 既存コンポーネント: `button`, `table`, `badge`（`apps/web/src/components/ui/`）
+- shadcn で提供されていないものは `@base-ui/react` または Tailwind CSS で実装
+
+---
+
 ## アーキテクチャ方針
 
 - `core` / `mainline` / `go` の 3 レイヤーでデータを分離
