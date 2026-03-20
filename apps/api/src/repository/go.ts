@@ -12,9 +12,11 @@ export class GoPokemonRepository {
 
   private async getIndex(): Promise<GoPokemonIndex> {
     if (!this.indexCache) {
-      this.indexCache = await this.loader.loadIndex<GoPokemonIndex>("go-pokemons");
+      const index = await this.loader.loadIndex<GoPokemonIndex>("go-pokemons");
+      if (!index) throw new Error("Failed to load go-pokemon index");
+      this.indexCache = index;
     }
-    return this.indexCache ?? { pokemons: [], total: 0 };
+    return this.indexCache;
   }
 
   async findById(pokemonId: number): Promise<GoPokemon | null> {
@@ -44,6 +46,7 @@ export class GoMoveRepository {
 
   async findAll(): Promise<GoMove[]> {
     const index = await this.loader.loadIndex<{ moves: GoMove[] }>("go-moves");
-    return index?.moves ?? [];
+    if (!index) throw new Error("Failed to load go-move index");
+    return index.moves;
   }
 }

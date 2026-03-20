@@ -1,7 +1,10 @@
 import { OpenAPIHono } from "@hono/zod-openapi";
 import { cors } from "hono/cors";
+import { HTTPException } from "hono/http-exception";
 import { Scalar } from "@scalar/hono-api-reference";
 import type { AppEnv } from "@/context";
+import { DataLoader } from "@/repository";
+import { PokemonService, AbilityService, MoveService, GameService, GoService, CostumeService } from "@/service";
 import { pokemonRoutes } from "@/routes/pokemon";
 import { abilityRoutes } from "@/routes/ability";
 import { moveRoutes } from "@/routes/move";
@@ -11,7 +14,28 @@ import { goRoutes } from "@/routes/go";
 const app = new OpenAPIHono<AppEnv>();
 
 // Middleware
+app.use("*", async (c, next) => {
+  if (!c.env.ALLOWED_ORIGIN) {
+    return c.json({ error: "Server misconfiguration: ALLOWED_ORIGIN is not set" }, 500);
+  }
+  await next();
+});
 app.use("*", (c, next) => cors({ origin: c.env.ALLOWED_ORIGIN })(c, next));
+// Service DI — / /openapi.json /doc を除くすべてのルートに適用
+app.use("*", async (c, next) => {
+  const { pathname } = new URL(c.req.url);
+  if (pathname === "/" || pathname === "/openapi.json" || pathname === "/doc") {
+    return next();
+  }
+  const loader = new DataLoader(c.env.ASSETS, "https://assets.local");
+  c.set("pokemonService", new PokemonService(loader));
+  c.set("abilityService", new AbilityService(loader));
+  c.set("moveService", new MoveService(loader));
+  c.set("gameService", new GameService(loader));
+  c.set("goService", new GoService(loader));
+  c.set("costumeService", new CostumeService(loader));
+  await next();
+});
 app.use("*", async (c, next) => {
   await next();
   const ct = c.res.headers.get("Content-Type");
@@ -53,7 +77,15 @@ app.route("/go", goRoutes);
 // Error handlers
 app.notFound((c) => c.json({ error: "Not found" }, 404));
 app.onError((err, c) => {
-  console.error(err);
+  if (err instanceof HTTPException) return err.getResponse();
+  const url = new URL(c.req.url);
+  console.error(JSON.stringify({
+    name: err.name,
+    message: err.message,
+    stack: err.stack,
+    method: c.req.method,
+    path: url.pathname,
+  }));
   return c.json({ error: "Internal server error" }, 500);
 });
 

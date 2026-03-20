@@ -10,6 +10,7 @@ export class MoveRepository {
 
   async findAll(): Promise<Move[]> {
     const index = await this.loader.loadIndex<{ moves: Move[] }>("moves");
-    return index?.moves ?? [];
+    if (!index) throw new Error("Failed to load move index");
+    return index.moves;
   }
 }

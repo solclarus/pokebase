@@ -1,16 +1,8 @@
 import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
-import { DataLoader } from "@/repository";
-import { AbilityService } from "@/service";
 import { AbilitySchema } from "@pokemon/schemas";
 
 export const abilityRoutes = createRouter();
-
-abilityRoutes.use("*", async (c, next) => {
-  const loader = new DataLoader(c.env.ASSETS, "https://assets.local");
-  c.set("abilityService", new AbilityService(loader));
-  await next();
-});
 
 const AbilityListSchema = z
   .object({

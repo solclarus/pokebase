@@ -1,17 +1,9 @@
 import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
-import { DataLoader } from "@/repository";
-import { PokemonService } from "@/service";
 import { PokemonListItemSchema, PokemonDetailSchema } from "@/types";
 import { FormIndexEntrySchema, FormTypeSchema, PokemonLearnsetSchema } from "@pokemon/schemas";
 
 export const pokemonRoutes = createRouter();
-
-pokemonRoutes.use("*", async (c, next) => {
-  const loader = new DataLoader(c.env.ASSETS, "https://assets.local");
-  c.set("pokemonService", new PokemonService(loader));
-  await next();
-});
 
 const PokemonListSchema = z
   .object({
@@ -35,7 +27,7 @@ pokemonRoutes.openapi(
     tags: ["Pokemon"],
     request: {
       query: z.object({
-        limit: z.coerce.number().int().positive().default(20).optional(),
+        limit: z.coerce.number().int().positive().max(100).default(20).optional(),
         offset: z.coerce.number().int().nonnegative().default(0).optional(),
       }),
     },

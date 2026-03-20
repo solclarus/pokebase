@@ -1,16 +1,8 @@
 import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
-import { DataLoader } from "@/repository";
-import { GameService } from "@/service";
 import { GameSchema } from "@pokemon/schemas";
 
 export const gameRoutes = createRouter();
-
-gameRoutes.use("*", async (c, next) => {
-  const loader = new DataLoader(c.env.ASSETS, "https://assets.local");
-  c.set("gameService", new GameService(loader));
-  await next();
-});
 
 const GameListSchema = z.object({ games: z.array(GameSchema.openapi("Game")) }).openapi("GameList");
 

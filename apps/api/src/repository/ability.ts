@@ -10,6 +10,7 @@ export class AbilityRepository {
 
   async findAll(): Promise<Ability[]> {
     const index = await this.loader.loadIndex<{ abilities: Ability[] }>("abilities");
-    return index?.abilities ?? [];
+    if (!index) throw new Error("Failed to load ability index");
+    return index.abilities;
   }
 }

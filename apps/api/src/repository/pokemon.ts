@@ -20,9 +20,11 @@ export class PokemonRepository {
 
   private async getIndex(): Promise<PokemonIndex> {
     if (!this.indexCache) {
-      this.indexCache = await this.loader.loadIndex<PokemonIndex>("pokemons");
+      const index = await this.loader.loadIndex<PokemonIndex>("pokemons");
+      if (!index) throw new Error("Failed to load pokemon index");
+      this.indexCache = index;
     }
-    return this.indexCache ?? { pokemons: [], total: 0 };
+    return this.indexCache;
   }
 
   async findById(id: number): Promise<Pokemon | null> {

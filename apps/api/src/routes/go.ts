@@ -1,18 +1,9 @@
 import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
-import { DataLoader } from "@/repository";
-import { GoService, CostumeService } from "@/service";
 import { GoPokemonDetailSchema } from "@/types";
 import { GoPokemonSchema, GoMoveSchema, PokemonCostumesSchema } from "@pokemon/schemas";
 
 export const goRoutes = createRouter();
-
-goRoutes.use("*", async (c, next) => {
-  const loader = new DataLoader(c.env.ASSETS, "https://assets.local");
-  c.set("goService", new GoService(loader));
-  c.set("costumeService", new CostumeService(loader));
-  await next();
-});
 
 const GoPokemonListSchema = z
   .object({
@@ -36,7 +27,7 @@ goRoutes.openapi(
     tags: ["Pokémon GO"],
     request: {
       query: z.object({
-        limit: z.coerce.number().int().positive().default(20).optional(),
+        limit: z.coerce.number().int().positive().max(100).default(20).optional(),
         offset: z.coerce.number().int().nonnegative().default(0).optional(),
       }),
     },

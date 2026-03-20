@@ -10,7 +10,7 @@ export class FormRepository {
 
   async findAll(formType?: string): Promise<FormIndexEntry[]> {
     const index = await this.loader.loadIndex<{ forms: FormIndexEntry[] }>("forms");
-    const all = index?.forms ?? [];
-    return formType ? all.filter((f) => f.form_type === formType) : all;
+    if (!index) throw new Error("Failed to load form index");
+    return formType ? index.forms.filter((f) => f.form_type === formType) : index.forms;
   }
 }

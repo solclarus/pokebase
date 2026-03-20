@@ -1,16 +1,8 @@
 import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
-import { DataLoader } from "@/repository";
-import { MoveService } from "@/service";
 import { MoveSchema } from "@pokemon/schemas";
 
 export const moveRoutes = createRouter();
-
-moveRoutes.use("*", async (c, next) => {
-  const loader = new DataLoader(c.env.ASSETS, "https://assets.local");
-  c.set("moveService", new MoveService(loader));
-  await next();
-});
 
 const MoveListSchema = z
   .object({
