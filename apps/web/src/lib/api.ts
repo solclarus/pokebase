@@ -6,7 +6,7 @@
  */
 export function getApiUrl(): string {
   if (typeof window === "undefined") {
-    return process.env.API_URL ?? process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8787";
+    return process.env.API_URL || process.env.NEXT_PUBLIC_API_URL || "http://localhost:8787";
   }
-  return process.env.NEXT_PUBLIC_API_URL ?? "http://localhost:8787";
+  return process.env.NEXT_PUBLIC_API_URL || "http://localhost:8787";
 }

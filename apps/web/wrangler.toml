@@ -8,3 +8,4 @@ binding = "ASSETS"
 
 [vars]
 NEXT_PUBLIC_API_URL = "https://api.pokemon.solclarus.me"
+API_URL = "https://api.pokemon.solclarus.me"
