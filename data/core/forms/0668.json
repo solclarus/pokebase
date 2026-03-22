@@ -2,7 +2,7 @@
   "pokemon_id": 668,
   "forms": [
     {
-      "id": "male",
+      "id": "default",
       "order": 0,
       "name": {
         "ja": "カエンジシ",
@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["fire", "normal"],
+      "types": [
+        "fire",
+        "normal"
+      ],
       "stats": {
         "hp": 86,
         "attack": 68,
@@ -19,7 +22,10 @@
         "sp_defense": 66,
         "speed": 106
       },
-      "ability_ids": [79, 127],
+      "ability_ids": [
+        79,
+        127
+      ],
       "hidden_ability_id": 153
     },
     {
@@ -31,7 +37,10 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": ["fire", "normal"],
+      "types": [
+        "fire",
+        "normal"
+      ],
       "stats": {
         "hp": 86,
         "attack": 88,

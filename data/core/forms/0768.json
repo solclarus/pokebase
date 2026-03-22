@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["bug", "water"],
+      "types": [
+        "bug",
+        "water"
+      ],
       "stats": {
         "hp": 75,
         "attack": 125,
@@ -19,7 +22,9 @@
         "sp_defense": 90,
         "speed": 40
       },
-      "ability_ids": [194]
+      "ability_ids": [
+        194
+      ]
     },
     {
       "id": "mega",
@@ -30,7 +35,10 @@
       },
       "form_type": "mega",
       "region": "alola",
-      "types": ["bug", "steel"],
+      "types": [
+        "bug",
+        "steel"
+      ],
       "stats": {
         "hp": 75,
         "attack": 150,

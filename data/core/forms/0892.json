@@ -2,7 +2,7 @@
   "pokemon_id": 892,
   "forms": [
     {
-      "id": "single-strike",
+      "id": "single",
       "order": 0,
       "name": {
         "ja": "ウーラオス",
@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["fighting", "dark"],
+      "types": [
+        "fighting",
+        "dark"
+      ],
       "stats": {
         "hp": 100,
         "attack": 130,
@@ -19,10 +22,12 @@
         "sp_defense": 60,
         "speed": 97
       },
-      "ability_ids": [260]
+      "ability_ids": [
+        260
+      ]
     },
     {
-      "id": "rapid-strike",
+      "id": "rapid",
       "order": 1,
       "name": {
         "ja": "れんげきのかた",
@@ -30,7 +35,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["fighting", "water"],
+      "types": [
+        "fighting",
+        "water"
+      ],
       "stats": {
         "hp": 100,
         "attack": 130,
@@ -39,10 +47,12 @@
         "sp_defense": 60,
         "speed": 97
       },
-      "ability_ids": [260]
+      "ability_ids": [
+        260
+      ]
     },
     {
-      "id": "single-strike-gmax",
+      "id": "gmax-single",
       "order": 2,
       "name": {
         "ja": "キョダイマックスウーラオス（いちげきのかた）",
@@ -50,7 +60,10 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["fighting", "dark"],
+      "types": [
+        "fighting",
+        "dark"
+      ],
       "stats": {
         "hp": 100,
         "attack": 130,
@@ -59,10 +72,12 @@
         "sp_defense": 60,
         "speed": 97
       },
-      "ability_ids": [260]
+      "ability_ids": [
+        260
+      ]
     },
     {
-      "id": "rapid-strike-gmax",
+      "id": "gmax-rapid",
       "order": 3,
       "name": {
         "ja": "キョダイマックスウーラオス（れんげきのかた）",
@@ -70,7 +85,10 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["fighting", "water"],
+      "types": [
+        "fighting",
+        "water"
+      ],
       "stats": {
         "hp": 100,
         "attack": 130,
@@ -79,7 +97,9 @@
         "sp_defense": 60,
         "speed": 97
       },
-      "ability_ids": [260]
+      "ability_ids": [
+        260
+      ]
     }
   ]
 }

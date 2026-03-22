@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["dark", "grass"],
+      "types": [
+        "dark",
+        "grass"
+      ],
       "stats": {
         "hp": 105,
         "attack": 120,
@@ -19,10 +22,12 @@
         "sp_defense": 95,
         "speed": 105
       },
-      "ability_ids": [102]
+      "ability_ids": [
+        102
+      ]
     },
     {
-      "id": "dada",
+      "id": "default",
       "order": 1,
       "name": {
         "ja": "とうちゃん",
@@ -30,7 +35,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["dark", "grass"],
+      "types": [
+        "dark",
+        "grass"
+      ],
       "stats": {
         "hp": 105,
         "attack": 120,
@@ -39,7 +47,9 @@
         "sp_defense": 95,
         "speed": 105
       },
-      "ability_ids": [102]
+      "ability_ids": [
+        102
+      ]
     }
   ]
 }

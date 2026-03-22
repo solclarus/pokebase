@@ -2,7 +2,7 @@
   "pokemon_id": 555,
   "forms": [
     {
-      "id": "standard",
+      "id": "default",
       "order": 0,
       "name": {
         "ja": "ヒヒダルマ",
@@ -53,7 +53,7 @@
       "hidden_ability_id": 161
     },
     {
-      "id": "galarian-standard",
+      "id": "galarian",
       "order": 2,
       "name": {
         "ja": "ガラルのすがた",

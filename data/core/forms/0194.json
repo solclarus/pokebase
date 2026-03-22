@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": ["water", "ground"],
+      "types": [
+        "water",
+        "ground"
+      ],
       "stats": {
         "hp": 55,
         "attack": 45,
@@ -19,11 +22,14 @@
         "sp_defense": 25,
         "speed": 15
       },
-      "ability_ids": [6, 11],
+      "ability_ids": [
+        6,
+        11
+      ],
       "hidden_ability_id": 109
     },
     {
-      "id": "paldea",
+      "id": "paldean",
       "order": 1,
       "name": {
         "ja": "ウパー（パルデアのすがた）",
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["poison", "ground"],
+      "types": [
+        "poison",
+        "ground"
+      ],
       "stats": {
         "hp": 55,
         "attack": 45,
@@ -40,7 +49,10 @@
         "sp_defense": 25,
         "speed": 15
       },
-      "ability_ids": [38, 11],
+      "ability_ids": [
+        38,
+        11
+      ],
       "hidden_ability_id": 109
     }
   ]

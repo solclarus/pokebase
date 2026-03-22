@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["bug", "electric"],
+      "types": [
+        "bug",
+        "electric"
+      ],
       "stats": {
         "hp": 77,
         "attack": 70,
@@ -19,27 +22,9 @@
         "sp_defense": 75,
         "speed": 43
       },
-      "ability_ids": [26]
-    },
-    {
-      "id": "totem",
-      "order": 1,
-      "name": {
-        "ja": "vikavolt-totem",
-        "en": "Totem Vikavolt"
-      },
-      "form_type": "normal",
-      "region": "alola",
-      "types": ["bug", "electric"],
-      "stats": {
-        "hp": 77,
-        "attack": 70,
-        "defense": 90,
-        "sp_attack": 145,
-        "sp_defense": 75,
-        "speed": 43
-      },
-      "ability_ids": [26]
+      "ability_ids": [
+        26
+      ]
     }
   ]
 }

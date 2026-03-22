@@ -2,7 +2,7 @@
   "pokemon_id": 550,
   "forms": [
     {
-      "id": "red-striped",
+      "id": "red",
       "order": 0,
       "name": {
         "ja": "バスラオ",
@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 70,
         "attack": 92,
@@ -19,11 +21,14 @@
         "sp_defense": 55,
         "speed": 98
       },
-      "ability_ids": [120, 91],
+      "ability_ids": [
+        120,
+        91
+      ],
       "hidden_ability_id": 104
     },
     {
-      "id": "blue-striped",
+      "id": "blue",
       "order": 1,
       "name": {
         "ja": "あおすじのすがた",
@@ -31,7 +36,9 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 70,
         "attack": 92,
@@ -40,11 +47,14 @@
         "sp_defense": 55,
         "speed": 98
       },
-      "ability_ids": [69, 91],
+      "ability_ids": [
+        69,
+        91
+      ],
       "hidden_ability_id": 104
     },
     {
-      "id": "white-striped",
+      "id": "white",
       "order": 2,
       "name": {
         "ja": "しろすじのすがた",
@@ -52,7 +62,9 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 70,
         "attack": 92,
@@ -61,7 +73,10 @@
         "sp_defense": 55,
         "speed": 98
       },
-      "ability_ids": [155, 91],
+      "ability_ids": [
+        155,
+        91
+      ],
       "hidden_ability_id": 104
     }
   ]

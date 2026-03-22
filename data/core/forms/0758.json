@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["poison", "fire"],
+      "types": [
+        "poison",
+        "fire"
+      ],
       "stats": {
         "hp": 68,
         "attack": 64,
@@ -19,28 +22,9 @@
         "sp_defense": 60,
         "speed": 117
       },
-      "ability_ids": [212],
-      "hidden_ability_id": 12
-    },
-    {
-      "id": "totem",
-      "order": 1,
-      "name": {
-        "ja": "salazzle-totem",
-        "en": "Totem Salazzle"
-      },
-      "form_type": "normal",
-      "region": "alola",
-      "types": ["poison", "fire"],
-      "stats": {
-        "hp": 68,
-        "attack": 64,
-        "defense": 60,
-        "sp_attack": 111,
-        "sp_defense": 60,
-        "speed": 117
-      },
-      "ability_ids": [212],
+      "ability_ids": [
+        212
+      ],
       "hidden_ability_id": 12
     }
   ]

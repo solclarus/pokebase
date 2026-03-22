@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["dragon", "ground"],
+      "types": [
+        "dragon",
+        "ground"
+      ],
       "stats": {
         "hp": 108,
         "attack": 100,
@@ -19,58 +22,23 @@
         "sp_defense": 95,
         "speed": 95
       },
-      "ability_ids": [188]
-    },
-    {
-      "id": "10-power-construct",
-      "order": 1,
-      "name": {
-        "ja": "１０％フォルム",
-        "en": "10% Forme"
-      },
-      "form_type": "normal",
-      "region": "kalos",
-      "types": ["dragon", "ground"],
-      "stats": {
-        "hp": 54,
-        "attack": 100,
-        "defense": 71,
-        "sp_attack": 61,
-        "sp_defense": 85,
-        "speed": 115
-      },
-      "ability_ids": [211]
-    },
-    {
-      "id": "50-power-construct",
-      "order": 2,
-      "name": {
-        "ja": "５０％フォルム",
-        "en": "50% Forme"
-      },
-      "form_type": "normal",
-      "region": "kalos",
-      "types": ["dragon", "ground"],
-      "stats": {
-        "hp": 108,
-        "attack": 100,
-        "defense": 121,
-        "sp_attack": 81,
-        "sp_defense": 95,
-        "speed": 95
-      },
-      "ability_ids": [211]
+      "ability_ids": [
+        188
+      ]
     },
     {
       "id": "complete",
-      "order": 3,
+      "order": 1,
       "name": {
         "ja": "パーフェクトフォルム",
         "en": "Complete Forme"
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["dragon", "ground"],
+      "types": [
+        "dragon",
+        "ground"
+      ],
       "stats": {
         "hp": 216,
         "attack": 100,
@@ -79,18 +47,23 @@
         "sp_defense": 95,
         "speed": 85
       },
-      "ability_ids": [211]
+      "ability_ids": [
+        211
+      ]
     },
     {
       "id": "10",
-      "order": 4,
+      "order": 2,
       "name": {
         "ja": "１０％フォルム",
         "en": "10% Forme"
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["dragon", "ground"],
+      "types": [
+        "dragon",
+        "ground"
+      ],
       "stats": {
         "hp": 54,
         "attack": 100,
@@ -99,18 +72,23 @@
         "sp_defense": 85,
         "speed": 115
       },
-      "ability_ids": [188]
+      "ability_ids": [
+        188
+      ]
     },
     {
       "id": "mega",
-      "order": 5,
+      "order": 3,
       "name": {
         "ja": "メガジガルデ",
         "en": "Mega Zygarde"
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": ["dragon", "ground"],
+      "types": [
+        "dragon",
+        "ground"
+      ],
       "stats": {
         "hp": 216,
         "attack": 70,

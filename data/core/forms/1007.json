@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["fighting", "dragon"],
+      "types": [
+        "fighting",
+        "dragon"
+      ],
       "stats": {
         "hp": 100,
         "attack": 135,
@@ -19,87 +22,9 @@
         "sp_defense": 100,
         "speed": 135
       },
-      "ability_ids": [288]
-    },
-    {
-      "id": "limited-build",
-      "order": 1,
-      "name": {
-        "ja": "せいげんけいたい",
-        "en": "Limited Build"
-      },
-      "form_type": "normal",
-      "region": "paldea",
-      "types": ["fighting", "dragon"],
-      "stats": {
-        "hp": 100,
-        "attack": 135,
-        "defense": 115,
-        "sp_attack": 85,
-        "sp_defense": 100,
-        "speed": 135
-      },
-      "ability_ids": [288]
-    },
-    {
-      "id": "sprinting-build",
-      "order": 2,
-      "name": {
-        "ja": "しっそうけいたい",
-        "en": "Sprinting Build"
-      },
-      "form_type": "normal",
-      "region": "paldea",
-      "types": ["fighting", "dragon"],
-      "stats": {
-        "hp": 100,
-        "attack": 135,
-        "defense": 115,
-        "sp_attack": 85,
-        "sp_defense": 100,
-        "speed": 135
-      },
-      "ability_ids": [288]
-    },
-    {
-      "id": "swimming-build",
-      "order": 3,
-      "name": {
-        "ja": "ゆうえいけいたい",
-        "en": "Swimming Build"
-      },
-      "form_type": "normal",
-      "region": "paldea",
-      "types": ["fighting", "dragon"],
-      "stats": {
-        "hp": 100,
-        "attack": 135,
-        "defense": 115,
-        "sp_attack": 85,
-        "sp_defense": 100,
-        "speed": 135
-      },
-      "ability_ids": [288]
-    },
-    {
-      "id": "gliding-build",
-      "order": 4,
-      "name": {
-        "ja": "かっくうけいたい",
-        "en": "Gliding Build"
-      },
-      "form_type": "normal",
-      "region": "paldea",
-      "types": ["fighting", "dragon"],
-      "stats": {
-        "hp": 100,
-        "attack": 135,
-        "defense": 115,
-        "sp_attack": 85,
-        "sp_defense": 100,
-        "speed": 135
-      },
-      "ability_ids": [288]
+      "ability_ids": [
+        288
+      ]
     }
   ]
 }

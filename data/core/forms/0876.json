@@ -2,7 +2,7 @@
   "pokemon_id": 876,
   "forms": [
     {
-      "id": "male",
+      "id": "default",
       "order": 0,
       "name": {
         "ja": "イエッサン",
@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["psychic", "normal"],
+      "types": [
+        "psychic",
+        "normal"
+      ],
       "stats": {
         "hp": 60,
         "attack": 65,
@@ -19,7 +22,10 @@
         "sp_defense": 95,
         "speed": 95
       },
-      "ability_ids": [39, 28],
+      "ability_ids": [
+        39,
+        28
+      ],
       "hidden_ability_id": 227
     },
     {
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["psychic", "normal"],
+      "types": [
+        "psychic",
+        "normal"
+      ],
       "stats": {
         "hp": 70,
         "attack": 55,
@@ -40,7 +49,10 @@
         "sp_defense": 105,
         "speed": 85
       },
-      "ability_ids": [20, 28],
+      "ability_ids": [
+        20,
+        28
+      ],
       "hidden_ability_id": 227
     }
   ]

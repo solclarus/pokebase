@@ -2,15 +2,18 @@
   "pokemon_id": 774,
   "forms": [
     {
-      "id": "red-meteor",
+      "id": "meteor",
       "order": 0,
       "name": {
-        "ja": "メテノ",
-        "en": "Minior"
+        "ja": "メテノ（隕石コア）",
+        "en": "Minior (Meteor)"
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["rock", "flying"],
+      "types": [
+        "rock",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 60,
@@ -19,138 +22,23 @@
         "sp_defense": 100,
         "speed": 60
       },
-      "ability_ids": [197]
-    },
-    {
-      "id": "orange-meteor",
-      "order": 1,
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
-      },
-      "form_type": "normal",
-      "region": "alola",
-      "types": ["rock", "flying"],
-      "stats": {
-        "hp": 60,
-        "attack": 60,
-        "defense": 100,
-        "sp_attack": 60,
-        "sp_defense": 100,
-        "speed": 60
-      },
-      "ability_ids": [197]
-    },
-    {
-      "id": "yellow-meteor",
-      "order": 2,
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
-      },
-      "form_type": "normal",
-      "region": "alola",
-      "types": ["rock", "flying"],
-      "stats": {
-        "hp": 60,
-        "attack": 60,
-        "defense": 100,
-        "sp_attack": 60,
-        "sp_defense": 100,
-        "speed": 60
-      },
-      "ability_ids": [197]
-    },
-    {
-      "id": "green-meteor",
-      "order": 3,
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
-      },
-      "form_type": "normal",
-      "region": "alola",
-      "types": ["rock", "flying"],
-      "stats": {
-        "hp": 60,
-        "attack": 60,
-        "defense": 100,
-        "sp_attack": 60,
-        "sp_defense": 100,
-        "speed": 60
-      },
-      "ability_ids": [197]
-    },
-    {
-      "id": "blue-meteor",
-      "order": 4,
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
-      },
-      "form_type": "normal",
-      "region": "alola",
-      "types": ["rock", "flying"],
-      "stats": {
-        "hp": 60,
-        "attack": 60,
-        "defense": 100,
-        "sp_attack": 60,
-        "sp_defense": 100,
-        "speed": 60
-      },
-      "ability_ids": [197]
-    },
-    {
-      "id": "indigo-meteor",
-      "order": 5,
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
-      },
-      "form_type": "normal",
-      "region": "alola",
-      "types": ["rock", "flying"],
-      "stats": {
-        "hp": 60,
-        "attack": 60,
-        "defense": 100,
-        "sp_attack": 60,
-        "sp_defense": 100,
-        "speed": 60
-      },
-      "ability_ids": [197]
-    },
-    {
-      "id": "violet-meteor",
-      "order": 6,
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
-      },
-      "form_type": "normal",
-      "region": "alola",
-      "types": ["rock", "flying"],
-      "stats": {
-        "hp": 60,
-        "attack": 60,
-        "defense": 100,
-        "sp_attack": 60,
-        "sp_defense": 100,
-        "speed": 60
-      },
-      "ability_ids": [197]
+      "ability_ids": [
+        197
+      ]
     },
     {
       "id": "red",
-      "order": 7,
+      "order": 1,
       "name": {
         "ja": "あかいろのコア",
         "en": "Red Core"
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["rock", "flying"],
+      "types": [
+        "rock",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -159,18 +47,23 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [197]
+      "ability_ids": [
+        197
+      ]
     },
     {
       "id": "orange",
-      "order": 8,
+      "order": 2,
       "name": {
         "ja": "だいだいいろのコア",
         "en": "Orange Core"
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["rock", "flying"],
+      "types": [
+        "rock",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -179,18 +72,23 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [197]
+      "ability_ids": [
+        197
+      ]
     },
     {
       "id": "yellow",
-      "order": 9,
+      "order": 3,
       "name": {
         "ja": "きいろのコア",
         "en": "Yellow Core"
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["rock", "flying"],
+      "types": [
+        "rock",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -199,18 +97,23 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [197]
+      "ability_ids": [
+        197
+      ]
     },
     {
       "id": "green",
-      "order": 10,
+      "order": 4,
       "name": {
         "ja": "みどりいろのコア",
         "en": "Green Core"
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["rock", "flying"],
+      "types": [
+        "rock",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -219,18 +122,23 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [197]
+      "ability_ids": [
+        197
+      ]
     },
     {
       "id": "blue",
-      "order": 11,
+      "order": 5,
       "name": {
         "ja": "みずいろのコア",
         "en": "Blue Core"
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["rock", "flying"],
+      "types": [
+        "rock",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -239,18 +147,23 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [197]
+      "ability_ids": [
+        197
+      ]
     },
     {
       "id": "indigo",
-      "order": 12,
+      "order": 6,
       "name": {
         "ja": "あおいろのコア",
         "en": "Indigo Core"
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["rock", "flying"],
+      "types": [
+        "rock",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -259,18 +172,23 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [197]
+      "ability_ids": [
+        197
+      ]
     },
     {
       "id": "violet",
-      "order": 13,
+      "order": 7,
       "name": {
         "ja": "むらさきいろのコア",
         "en": "Violet Core"
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["rock", "flying"],
+      "types": [
+        "rock",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 100,
@@ -279,7 +197,9 @@
         "sp_defense": 60,
         "speed": 120
       },
-      "ability_ids": [197]
+      "ability_ids": [
+        197
+      ]
     }
   ]
 }

@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["electric", "poison"],
+      "types": [
+        "electric",
+        "poison"
+      ],
       "stats": {
         "hp": 75,
         "attack": 98,
@@ -19,11 +22,14 @@
         "sp_defense": 70,
         "speed": 75
       },
-      "ability_ids": [244, 57],
+      "ability_ids": [
+        244,
+        57
+      ],
       "hidden_ability_id": 101
     },
     {
-      "id": "low-key",
+      "id": "low",
       "order": 1,
       "name": {
         "ja": "ローなすがた",
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["electric", "poison"],
+      "types": [
+        "electric",
+        "poison"
+      ],
       "stats": {
         "hp": 75,
         "attack": 98,
@@ -40,11 +49,14 @@
         "sp_defense": 70,
         "speed": 75
       },
-      "ability_ids": [244, 58],
+      "ability_ids": [
+        244,
+        58
+      ],
       "hidden_ability_id": 101
     },
     {
-      "id": "amped-gmax",
+      "id": "gmax",
       "order": 2,
       "name": {
         "ja": "キョダイマックスストリンダー（ハイのすがた）",
@@ -52,7 +64,10 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["electric", "poison"],
+      "types": [
+        "electric",
+        "poison"
+      ],
       "stats": {
         "hp": 75,
         "attack": 98,
@@ -61,28 +76,10 @@
         "sp_defense": 70,
         "speed": 75
       },
-      "ability_ids": [244, 57],
-      "hidden_ability_id": 101
-    },
-    {
-      "id": "low-key-gmax",
-      "order": 3,
-      "name": {
-        "ja": "キョダイマックスストリンダー（ローのすがた）",
-        "en": "Gigantamax Toxtricity (Low Key)"
-      },
-      "form_type": "gigantamax",
-      "region": "galar",
-      "types": ["electric", "poison"],
-      "stats": {
-        "hp": 75,
-        "attack": 98,
-        "defense": 70,
-        "sp_attack": 114,
-        "sp_defense": 70,
-        "speed": 75
-      },
-      "ability_ids": [244, 58],
+      "ability_ids": [
+        244,
+        57
+      ],
       "hidden_ability_id": 101
     }
   ]

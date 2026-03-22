@@ -2,7 +2,7 @@
   "pokemon_id": 931,
   "forms": [
     {
-      "id": "green-plumage",
+      "id": "green",
       "order": 0,
       "name": {
         "ja": "イキリンコ",
@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "stats": {
         "hp": 82,
         "attack": 96,
@@ -19,11 +22,14 @@
         "sp_defense": 51,
         "speed": 92
       },
-      "ability_ids": [22, 55],
+      "ability_ids": [
+        22,
+        55
+      ],
       "hidden_ability_id": 62
     },
     {
-      "id": "blue-plumage",
+      "id": "blue",
       "order": 1,
       "name": {
         "ja": "ブルーフェザー",
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "stats": {
         "hp": 82,
         "attack": 96,
@@ -40,11 +49,14 @@
         "sp_defense": 51,
         "speed": 92
       },
-      "ability_ids": [22, 55],
+      "ability_ids": [
+        22,
+        55
+      ],
       "hidden_ability_id": 62
     },
     {
-      "id": "yellow-plumage",
+      "id": "yellow",
       "order": 2,
       "name": {
         "ja": "イエローフェザー",
@@ -52,7 +64,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "stats": {
         "hp": 82,
         "attack": 96,
@@ -61,11 +76,14 @@
         "sp_defense": 51,
         "speed": 92
       },
-      "ability_ids": [22, 55],
+      "ability_ids": [
+        22,
+        55
+      ],
       "hidden_ability_id": 125
     },
     {
-      "id": "white-plumage",
+      "id": "white",
       "order": 3,
       "name": {
         "ja": "ホワイトフェザー",
@@ -73,7 +91,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["normal", "flying"],
+      "types": [
+        "normal",
+        "flying"
+      ],
       "stats": {
         "hp": 82,
         "attack": 96,
@@ -82,7 +103,10 @@
         "sp_defense": 51,
         "speed": 92
       },
-      "ability_ids": [22, 55],
+      "ability_ids": [
+        22,
+        55
+      ],
       "hidden_ability_id": 125
     }
   ]

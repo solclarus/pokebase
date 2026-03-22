@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["water", "bug"],
+      "types": [
+        "water",
+        "bug"
+      ],
       "stats": {
         "hp": 68,
         "attack": 70,
@@ -19,28 +22,9 @@
         "sp_defense": 132,
         "speed": 42
       },
-      "ability_ids": [199],
-      "hidden_ability_id": 11
-    },
-    {
-      "id": "totem",
-      "order": 1,
-      "name": {
-        "ja": "araquanid-totem",
-        "en": "Totem Araquanid"
-      },
-      "form_type": "normal",
-      "region": "alola",
-      "types": ["water", "bug"],
-      "stats": {
-        "hp": 68,
-        "attack": 70,
-        "defense": 92,
-        "sp_attack": 50,
-        "sp_defense": 132,
-        "speed": 42
-      },
-      "ability_ids": [199],
+      "ability_ids": [
+        199
+      ],
       "hidden_ability_id": 11
     }
   ]
