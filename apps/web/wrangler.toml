@@ -2,10 +2,6 @@ name = "pokemon-web"
 compatibility_date = "2025-01-01"
 compatibility_flags = ["nodejs_compat"]
 main = ".open-next/worker.js"
-routes = [
-  { pattern = "pokemon.solclarus.me", custom_domain = true, override_existing_dns_record = true },
-]
-
 [assets]
 directory = ".open-next/assets"
 binding = "ASSETS"
