@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 55,
         "attack": 130,
@@ -19,11 +21,14 @@
         "sp_defense": 50,
         "speed": 75
       },
-      "ability_ids": [52, 75],
+      "ability_ids": [
+        52,
+        75
+      ],
       "hidden_ability_id": 125
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスキングラー",
@@ -31,7 +36,9 @@
       },
       "form_type": "gigantamax",
       "region": "kanto",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 55,
         "attack": 130,
@@ -40,7 +47,10 @@
         "sp_defense": 50,
         "speed": 75
       },
-      "ability_ids": [52, 75],
+      "ability_ids": [
+        52,
+        75
+      ],
       "hidden_ability_id": 125
     }
   ]

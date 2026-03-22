@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["psychic", "fairy"],
+      "types": [
+        "psychic",
+        "fairy"
+      ],
       "stats": {
         "hp": 40,
         "attack": 45,
@@ -19,11 +22,14 @@
         "sp_defense": 120,
         "speed": 90
       },
-      "ability_ids": [43, 111],
+      "ability_ids": [
+        43,
+        111
+      ],
       "hidden_ability_id": 101
     },
     {
-      "id": "galar",
+      "id": "galarian",
       "order": 1,
       "name": {
         "ja": "バリヤード（ガラルのすがた）",
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["ice", "psychic"],
+      "types": [
+        "ice",
+        "psychic"
+      ],
       "stats": {
         "hp": 50,
         "attack": 65,
@@ -40,7 +49,10 @@
         "sp_defense": 90,
         "speed": 100
       },
-      "ability_ids": [72, 252],
+      "ability_ids": [
+        72,
+        252
+      ],
       "hidden_ability_id": 115
     }
   ]

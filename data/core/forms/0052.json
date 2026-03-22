@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 40,
         "attack": 45,
@@ -19,11 +21,14 @@
         "sp_defense": 40,
         "speed": 90
       },
-      "ability_ids": [53, 101],
+      "ability_ids": [
+        53,
+        101
+      ],
       "hidden_ability_id": 127
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスニャース",
@@ -31,7 +36,9 @@
       },
       "form_type": "gigantamax",
       "region": "kanto",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 40,
         "attack": 45,
@@ -40,11 +47,14 @@
         "sp_defense": 40,
         "speed": 90
       },
-      "ability_ids": [53, 101],
+      "ability_ids": [
+        53,
+        101
+      ],
       "hidden_ability_id": 127
     },
     {
-      "id": "alola",
+      "id": "alolan",
       "order": 2,
       "name": {
         "ja": "ニャース（アローラのすがた）",
@@ -52,7 +62,9 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["dark"],
+      "types": [
+        "dark"
+      ],
       "stats": {
         "hp": 40,
         "attack": 35,
@@ -61,11 +73,14 @@
         "sp_defense": 40,
         "speed": 90
       },
-      "ability_ids": [53, 101],
+      "ability_ids": [
+        53,
+        101
+      ],
       "hidden_ability_id": 155
     },
     {
-      "id": "galar",
+      "id": "galarian",
       "order": 3,
       "name": {
         "ja": "ニャース（ガラルのすがた）",
@@ -73,7 +88,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["steel"],
+      "types": [
+        "steel"
+      ],
       "stats": {
         "hp": 50,
         "attack": 65,
@@ -82,7 +99,9 @@
         "sp_defense": 40,
         "speed": 40
       },
-      "ability_ids": [181],
+      "ability_ids": [
+        181
+      ],
       "hidden_ability_id": 127
     }
   ]

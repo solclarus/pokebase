@@ -52,6 +52,7 @@ export default async function PokemonPage({ searchParams }: Props) {
           variant="outline"
           size="sm"
           disabled={offset === 0}
+          nativeButton={offset === 0}
           render={offset > 0 ? <Link href={`/pokemon?offset=${prevOffset}`} /> : undefined}
         >
           前へ
@@ -63,6 +64,7 @@ export default async function PokemonPage({ searchParams }: Props) {
           variant="outline"
           size="sm"
           disabled={nextOffset >= total}
+          nativeButton={nextOffset >= total}
           render={nextOffset < total ? <Link href={`/pokemon?offset=${nextOffset}`} /> : undefined}
         >
           次へ

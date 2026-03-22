@@ -6,8 +6,16 @@
       "base_attack": 243,
       "base_defense": 202,
       "base_stamina": 233,
-      "fast_move_ids": [221, 327],
-      "charged_move_ids": [270, 254, 310, 33],
+      "fast_move_ids": [
+        221,
+        327
+      ],
+      "charged_move_ids": [
+        270,
+        254,
+        310,
+        33
+      ],
       "released_at": "2020-01-24",
       "shiny_released_at": "2021-07-06",
       "elite_fast_move_ids": [],
@@ -26,7 +34,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "galar-standard",
+      "form_id": "galarian-standard",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -38,7 +46,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "galar-zen",
+      "form_id": "galarian-zen",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "stats": {
         "hp": 105,
         "attack": 105,
@@ -19,11 +21,14 @@
         "sp_defense": 100,
         "speed": 50
       },
-      "ability_ids": [1, 60],
+      "ability_ids": [
+        1,
+        60
+      ],
       "hidden_ability_id": 143
     },
     {
-      "id": "alola",
+      "id": "alolan",
       "order": 1,
       "name": {
         "ja": "ベトベトン（アローラのすがた）",
@@ -31,7 +36,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["poison", "dark"],
+      "types": [
+        "poison",
+        "dark"
+      ],
       "stats": {
         "hp": 105,
         "attack": 105,
@@ -40,7 +48,10 @@
         "sp_defense": 100,
         "speed": 50
       },
-      "ability_ids": [143, 82],
+      "ability_ids": [
+        143,
+        82
+      ],
       "hidden_ability_id": 223
     }
   ]

@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["grass", "ghost"],
+      "types": [
+        "grass",
+        "ghost"
+      ],
       "stats": {
         "hp": 78,
         "attack": 107,
@@ -19,11 +22,13 @@
         "sp_defense": 100,
         "speed": 70
       },
-      "ability_ids": [65],
+      "ability_ids": [
+        65
+      ],
       "hidden_ability_id": 203
     },
     {
-      "id": "hisui",
+      "id": "hisuian",
       "order": 1,
       "name": {
         "ja": "ヒスイのすがた",
@@ -31,7 +36,10 @@
       },
       "form_type": "normal",
       "region": "hisui",
-      "types": ["grass", "fighting"],
+      "types": [
+        "grass",
+        "fighting"
+      ],
       "stats": {
         "hp": 88,
         "attack": 112,
@@ -40,7 +48,9 @@
         "sp_defense": 95,
         "speed": 60
       },
-      "ability_ids": [65],
+      "ability_ids": [
+        65
+      ],
       "hidden_ability_id": 113
     }
   ]

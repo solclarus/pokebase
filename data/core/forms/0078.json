@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "stats": {
         "hp": 65,
         "attack": 100,
@@ -19,11 +21,14 @@
         "sp_defense": 80,
         "speed": 105
       },
-      "ability_ids": [50, 18],
+      "ability_ids": [
+        50,
+        18
+      ],
       "hidden_ability_id": 49
     },
     {
-      "id": "galar",
+      "id": "galarian",
       "order": 1,
       "name": {
         "ja": "ギャロップ（ガラルのすがた）",
@@ -31,7 +36,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["psychic", "fairy"],
+      "types": [
+        "psychic",
+        "fairy"
+      ],
       "stats": {
         "hp": 65,
         "attack": 100,
@@ -40,7 +48,10 @@
         "sp_defense": 80,
         "speed": 105
       },
-      "ability_ids": [50, 257],
+      "ability_ids": [
+        50,
+        257
+      ],
       "hidden_ability_id": 107
     }
   ]

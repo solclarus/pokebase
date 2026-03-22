@@ -6,15 +6,24 @@
       "base_attack": 92,
       "base_defense": 78,
       "base_stamina": 120,
-      "fast_move_ids": [220, 202],
-      "charged_move_ids": [51, 16, 280],
+      "fast_move_ids": [
+        220,
+        202
+      ],
+      "charged_move_ids": [
+        51,
+        16,
+        280
+      ],
       "released_at": "2016-07-06",
       "shiny_released_at": "2019-11-07",
       "elite_fast_move_ids": [],
-      "elite_charged_move_ids": [131]
+      "elite_charged_move_ids": [
+        131
+      ]
     },
     {
-      "form_id": "gigantamax",
+      "form_id": "gmax",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -26,7 +35,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "alola",
+      "form_id": "alolan",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -38,7 +47,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "galar",
+      "form_id": "galarian",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

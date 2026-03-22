@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["ground", "electric"],
+      "types": [
+        "ground",
+        "electric"
+      ],
       "stats": {
         "hp": 109,
         "attack": 66,
@@ -19,11 +22,14 @@
         "sp_defense": 99,
         "speed": 32
       },
-      "ability_ids": [9, 7],
+      "ability_ids": [
+        9,
+        7
+      ],
       "hidden_ability_id": 8
     },
     {
-      "id": "galar",
+      "id": "galarian",
       "order": 1,
       "name": {
         "ja": "ガラルのすがた",
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["ground", "steel"],
+      "types": [
+        "ground",
+        "steel"
+      ],
       "stats": {
         "hp": 109,
         "attack": 81,
@@ -40,7 +49,9 @@
         "sp_defense": 84,
         "speed": 32
       },
-      "ability_ids": [250]
+      "ability_ids": [
+        250
+      ]
     }
   ]
 }

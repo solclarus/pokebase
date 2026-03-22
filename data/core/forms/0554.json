@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "stats": {
         "hp": 70,
         "attack": 90,
@@ -19,11 +21,13 @@
         "sp_defense": 45,
         "speed": 50
       },
-      "ability_ids": [55],
+      "ability_ids": [
+        55
+      ],
       "hidden_ability_id": 39
     },
     {
-      "id": "galar",
+      "id": "galarian",
       "order": 1,
       "name": {
         "ja": "ガラルのすがた",
@@ -31,7 +35,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["ice"],
+      "types": [
+        "ice"
+      ],
       "stats": {
         "hp": 70,
         "attack": 90,
@@ -40,7 +46,9 @@
         "sp_defense": 45,
         "speed": 50
       },
-      "ability_ids": [55],
+      "ability_ids": [
+        55
+      ],
       "hidden_ability_id": 39
     }
   ]

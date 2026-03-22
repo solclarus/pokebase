@@ -1,5 +1,13 @@
 # Pokemon Data API 設計仕様書
 
+## コミット規約
+
+- Conventional Commits（`type(scope): description`）
+- 英語・簡潔に1行で
+- Co-Authored-By 署名なし
+
+---
+
 ## 目的
 
 本編シリーズおよび Pokémon GO のデータを管理・提供する個人用 Web API 基盤。

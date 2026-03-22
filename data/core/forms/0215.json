@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": ["dark", "ice"],
+      "types": [
+        "dark",
+        "ice"
+      ],
       "stats": {
         "hp": 55,
         "attack": 95,
@@ -19,11 +22,14 @@
         "sp_defense": 75,
         "speed": 115
       },
-      "ability_ids": [39, 51],
+      "ability_ids": [
+        39,
+        51
+      ],
       "hidden_ability_id": 124
     },
     {
-      "id": "hisui",
+      "id": "hisuian",
       "order": 1,
       "name": {
         "ja": "ニューラ（ヒスイのすがた）",
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "hisui",
-      "types": ["fighting", "poison"],
+      "types": [
+        "fighting",
+        "poison"
+      ],
       "stats": {
         "hp": 55,
         "attack": 95,
@@ -40,7 +49,10 @@
         "sp_defense": 75,
         "speed": 115
       },
-      "ability_ids": [39, 51],
+      "ability_ids": [
+        39,
+        51
+      ],
       "hidden_ability_id": 186
     }
   ]

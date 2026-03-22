@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 70,
         "attack": 85,
@@ -19,11 +21,13 @@
         "sp_defense": 65,
         "speed": 120
       },
-      "ability_ids": [67],
+      "ability_ids": [
+        67
+      ],
       "hidden_ability_id": 97
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスインテレオン",
@@ -31,7 +35,9 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 70,
         "attack": 85,
@@ -40,7 +46,9 @@
         "sp_defense": 65,
         "speed": 120
       },
-      "ability_ids": [67],
+      "ability_ids": [
+        67
+      ],
       "hidden_ability_id": 97
     }
   ]

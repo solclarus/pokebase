@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["flying", "steel"],
+      "types": [
+        "flying",
+        "steel"
+      ],
       "stats": {
         "hp": 98,
         "attack": 87,
@@ -19,11 +22,14 @@
         "sp_defense": 85,
         "speed": 67
       },
-      "ability_ids": [46, 127],
+      "ability_ids": [
+        46,
+        127
+      ],
       "hidden_ability_id": 240
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスアーマーガア",
@@ -31,7 +37,10 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["flying", "steel"],
+      "types": [
+        "flying",
+        "steel"
+      ],
       "stats": {
         "hp": 98,
         "attack": 87,
@@ -40,7 +49,10 @@
         "sp_defense": 85,
         "speed": 67
       },
-      "ability_ids": [46, 127],
+      "ability_ids": [
+        46,
+        127
+      ],
       "hidden_ability_id": 240
     }
   ]

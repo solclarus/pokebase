@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["ghost"],
+      "types": [
+        "ghost"
+      ],
       "stats": {
         "hp": 38,
         "attack": 30,
@@ -19,10 +21,12 @@
         "sp_defense": 65,
         "speed": 30
       },
-      "ability_ids": [152]
+      "ability_ids": [
+        152
+      ]
     },
     {
-      "id": "galar",
+      "id": "galarian",
       "order": 1,
       "name": {
         "ja": "ガラルのすがた",
@@ -30,7 +34,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["ground", "ghost"],
+      "types": [
+        "ground",
+        "ghost"
+      ],
       "stats": {
         "hp": 38,
         "attack": 55,
@@ -39,7 +46,9 @@
         "sp_defense": 65,
         "speed": 30
       },
-      "ability_ids": [254]
+      "ability_ids": [
+        254
+      ]
     }
   ]
 }

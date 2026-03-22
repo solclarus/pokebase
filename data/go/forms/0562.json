@@ -6,15 +6,22 @@
       "base_attack": 95,
       "base_defense": 141,
       "base_stamina": 116,
-      "fast_move_ids": [263, 234],
-      "charged_move_ids": [70, 16, 69],
+      "fast_move_ids": [
+        263,
+        234
+      ],
+      "charged_move_ids": [
+        70,
+        16,
+        69
+      ],
       "released_at": "2019-10-17",
       "shiny_released_at": "2019-10-17",
       "elite_fast_move_ids": [],
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "galar",
+      "form_id": "galarian",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

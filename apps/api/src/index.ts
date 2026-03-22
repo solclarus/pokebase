@@ -35,11 +35,12 @@ app.use("*", async (c, next) => {
     return next();
   }
   const loader = new DataLoader(c.env.ASSETS, "https://assets.local");
-  c.set("pokemonService", new PokemonService(loader));
+  const imagesBaseUrl = c.env.IMAGES_BASE_URL;
+  c.set("pokemonService", new PokemonService(loader, imagesBaseUrl));
   c.set("abilityService", new AbilityService(loader));
   c.set("moveService", new MoveService(loader));
   c.set("gameService", new GameService(loader));
-  c.set("goService", new GoService(loader));
+  c.set("goService", new GoService(loader, imagesBaseUrl));
   c.set("costumeService", new CostumeService(loader));
   await next();
 });

@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "stats": {
         "hp": 80,
         "attack": 116,
@@ -19,11 +21,13 @@
         "sp_defense": 75,
         "speed": 119
       },
-      "ability_ids": [66],
+      "ability_ids": [
+        66
+      ],
       "hidden_ability_id": 236
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスエースバーン",
@@ -31,7 +35,9 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "stats": {
         "hp": 80,
         "attack": 116,
@@ -40,7 +46,9 @@
         "sp_defense": 75,
         "speed": 119
       },
-      "ability_ids": [66],
+      "ability_ids": [
+        66
+      ],
       "hidden_ability_id": 236
     }
   ]

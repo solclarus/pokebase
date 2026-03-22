@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["steel", "dragon"],
+      "types": [
+        "steel",
+        "dragon"
+      ],
       "stats": {
         "hp": 70,
         "attack": 95,
@@ -19,11 +22,14 @@
         "sp_defense": 50,
         "speed": 85
       },
-      "ability_ids": [135, 134],
+      "ability_ids": [
+        135,
+        134
+      ],
       "hidden_ability_id": 242
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスジュラルドン",
@@ -31,7 +37,10 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["steel", "dragon"],
+      "types": [
+        "steel",
+        "dragon"
+      ],
       "stats": {
         "hp": 70,
         "attack": 95,
@@ -40,7 +49,10 @@
         "sp_defense": 50,
         "speed": 85
       },
-      "ability_ids": [135, 134],
+      "ability_ids": [
+        135,
+        134
+      ],
       "hidden_ability_id": 242
     }
   ]

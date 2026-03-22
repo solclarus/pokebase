@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["grass", "dragon"],
+      "types": [
+        "grass",
+        "dragon"
+      ],
       "stats": {
         "hp": 110,
         "attack": 85,
@@ -19,11 +22,14 @@
         "sp_defense": 80,
         "speed": 30
       },
-      "ability_ids": [247, 82],
+      "ability_ids": [
+        247,
+        82
+      ],
       "hidden_ability_id": 47
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスタルップル",
@@ -31,7 +37,10 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["grass", "dragon"],
+      "types": [
+        "grass",
+        "dragon"
+      ],
       "stats": {
         "hp": 110,
         "attack": 85,
@@ -40,7 +49,10 @@
         "sp_defense": 80,
         "speed": 30
       },
-      "ability_ids": [247, 82],
+      "ability_ids": [
+        247,
+        82
+      ],
       "hidden_ability_id": 47
     }
   ]

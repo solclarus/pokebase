@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["ground"],
+      "types": [
+        "ground"
+      ],
       "stats": {
         "hp": 72,
         "attack": 107,
@@ -19,11 +21,14 @@
         "sp_defense": 70,
         "speed": 71
       },
-      "ability_ids": [245, 61],
+      "ability_ids": [
+        245,
+        61
+      ],
       "hidden_ability_id": 8
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスサダイジャ",
@@ -31,7 +36,9 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["ground"],
+      "types": [
+        "ground"
+      ],
       "stats": {
         "hp": 72,
         "attack": 107,
@@ -40,7 +47,10 @@
         "sp_defense": 70,
         "speed": 71
       },
-      "ability_ids": [245, 61],
+      "ability_ids": [
+        245,
+        61
+      ],
       "hidden_ability_id": 8
     }
   ]

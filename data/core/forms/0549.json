@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["grass"],
+      "types": [
+        "grass"
+      ],
       "stats": {
         "hp": 70,
         "attack": 60,
@@ -19,11 +21,14 @@
         "sp_defense": 75,
         "speed": 90
       },
-      "ability_ids": [34, 20],
+      "ability_ids": [
+        34,
+        20
+      ],
       "hidden_ability_id": 102
     },
     {
-      "id": "hisui",
+      "id": "hisuian",
       "order": 1,
       "name": {
         "ja": "ヒスイのすがた",
@@ -31,7 +36,10 @@
       },
       "form_type": "normal",
       "region": "hisui",
-      "types": ["grass", "fighting"],
+      "types": [
+        "grass",
+        "fighting"
+      ],
       "stats": {
         "hp": 70,
         "attack": 105,
@@ -40,7 +48,10 @@
         "sp_defense": 75,
         "speed": 105
       },
-      "ability_ids": [34, 55],
+      "ability_ids": [
+        34,
+        55
+      ],
       "hidden_ability_id": 102
     }
   ]

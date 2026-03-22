@@ -8,3 +8,4 @@ binding = "ASSETS"
 
 [vars]
 ALLOWED_ORIGIN = "http://localhost:3000"
+IMAGES_BASE_URL = "https://images.pokemon.solclarus.me"

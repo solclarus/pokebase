@@ -6,15 +6,29 @@
       "base_attack": 193,
       "base_defense": 151,
       "base_stamina": 155,
-      "fast_move_ids": [250, 206, 320, 205],
-      "charged_move_ids": [123, 77, 251, 302, 392, 284],
+      "fast_move_ids": [
+        250,
+        206,
+        320,
+        205
+      ],
+      "charged_move_ids": [
+        123,
+        77,
+        251,
+        302,
+        392,
+        284
+      ],
       "released_at": "2016-07-06",
       "shiny_released_at": "2017-08-09",
       "elite_fast_move_ids": [],
-      "elite_charged_move_ids": [78]
+      "elite_charged_move_ids": [
+        78
+      ]
     },
     {
-      "form_id": "alola",
+      "form_id": "alolan",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

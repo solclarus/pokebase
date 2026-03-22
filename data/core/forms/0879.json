@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["steel"],
+      "types": [
+        "steel"
+      ],
       "stats": {
         "hp": 122,
         "attack": 130,
@@ -19,11 +21,13 @@
         "sp_defense": 69,
         "speed": 30
       },
-      "ability_ids": [125],
+      "ability_ids": [
+        125
+      ],
       "hidden_ability_id": 134
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスダイオウドウ",
@@ -31,7 +35,9 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["steel"],
+      "types": [
+        "steel"
+      ],
       "stats": {
         "hp": 122,
         "attack": 130,
@@ -40,7 +46,9 @@
         "sp_defense": 69,
         "speed": 30
       },
-      "ability_ids": [125],
+      "ability_ids": [
+        125
+      ],
       "hidden_ability_id": 134
     }
   ]

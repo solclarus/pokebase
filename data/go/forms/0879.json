@@ -6,15 +6,23 @@
       "base_attack": 226,
       "base_defense": 126,
       "base_stamina": 263,
-      "fast_move_ids": [221, 241],
-      "charged_move_ids": [74, 26, 88, 268],
+      "fast_move_ids": [
+        221,
+        241
+      ],
+      "charged_move_ids": [
+        74,
+        26,
+        88,
+        268
+      ],
       "released_at": null,
       "shiny_released_at": null,
       "elite_fast_move_ids": [],
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "gigantamax",
+      "form_id": "gmax",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

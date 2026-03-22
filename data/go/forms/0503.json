@@ -6,15 +6,26 @@
       "base_attack": 212,
       "base_defense": 157,
       "base_stamina": 216,
-      "fast_move_ids": [200, 283],
-      "charged_move_ids": [107, 40, 22, 318, 383],
+      "fast_move_ids": [
+        200,
+        283
+      ],
+      "charged_move_ids": [
+        107,
+        40,
+        22,
+        318,
+        383
+      ],
       "released_at": "2019-09-16",
       "shiny_released_at": "2021-09-19",
       "elite_fast_move_ids": [],
-      "elite_charged_move_ids": [299]
+      "elite_charged_move_ids": [
+        299
+      ]
     },
     {
-      "form_id": "hisui",
+      "form_id": "hisuian",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "stats": {
         "hp": 35,
         "attack": 55,
@@ -19,11 +21,13 @@
         "sp_defense": 50,
         "speed": 90
       },
-      "ability_ids": [9],
+      "ability_ids": [
+        9
+      ],
       "hidden_ability_id": 31
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスピカチュウ",
@@ -31,7 +35,9 @@
       },
       "form_type": "gigantamax",
       "region": "kanto",
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "stats": {
         "hp": 35,
         "attack": 55,
@@ -40,7 +46,9 @@
         "sp_defense": 50,
         "speed": 90
       },
-      "ability_ids": [9],
+      "ability_ids": [
+        9
+      ],
       "hidden_ability_id": 31
     }
   ]

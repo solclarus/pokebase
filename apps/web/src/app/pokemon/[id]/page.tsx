@@ -1,13 +1,17 @@
+import Image from "next/image";
 import Link from "next/link";
 import { z } from "zod";
 import { PokemonSchema, FormSchema, AvailabilityEntrySchema } from "@pokemon/schemas";
 import { getApiUrl } from "@/lib/api";
 import { padId } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
-import type { Stats, Form } from "@pokemon/schemas";
+import type { Stats } from "@pokemon/schemas";
+
+const FormWithImageSchema = FormSchema.extend({ image_url: z.string().url() });
+type FormWithImage = z.infer<typeof FormWithImageSchema>;
 
 const PokemonDetailSchema = PokemonSchema.extend({
-  forms: z.array(FormSchema),
+  forms: z.array(FormWithImageSchema),
   availability: z.array(AvailabilityEntrySchema),
 });
 
@@ -96,14 +100,23 @@ function StatBar({ statKey, value }: { statKey: keyof Stats; value: number }) {
   );
 }
 
-function FormCard({ form }: { form: Form }) {
+function FormCard({ form }: { form: FormWithImage }) {
   const total = Object.values(form.stats).reduce((a, b) => a + b, 0);
   return (
     <div className="space-y-4 rounded-xl border bg-card p-5">
       <div className="flex items-start justify-between gap-2">
-        <div>
-          <p className="font-semibold">{form.name.ja}</p>
-          <p className="text-sm text-muted-foreground">{form.name.en}</p>
+        <div className="flex items-center gap-3">
+          <Image
+            src={form.image_url}
+            alt={form.name.en}
+            width={64}
+            height={64}
+            className="object-contain"
+          />
+          <div>
+            <p className="font-semibold">{form.name.ja}</p>
+            <p className="text-sm text-muted-foreground">{form.name.en}</p>
+          </div>
         </div>
         <div className="flex flex-wrap justify-end gap-1.5">
           {form.types.map((t) => (

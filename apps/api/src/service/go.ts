@@ -1,4 +1,10 @@
-import { DataLoader, GoPokemonRepository, CostumeRepository, GoMoveRepository } from "@/repository";
+import {
+  DataLoader,
+  GoPokemonRepository,
+  CostumeRepository,
+  GoMoveRepository,
+  padId,
+} from "@/repository";
 import type { GoPokemon, GoMove } from "@pokemon/schemas";
 import type { GoPokemonDetail } from "@/types";
 
@@ -10,11 +16,13 @@ export class GoService {
   private goPokemonRepo: GoPokemonRepository;
   private costumeRepo: CostumeRepository;
   private goMoveRepo: GoMoveRepository;
+  private imagesBaseUrl: string;
 
-  constructor(loader: DataLoader) {
+  constructor(loader: DataLoader, imagesBaseUrl: string) {
     this.goPokemonRepo = new GoPokemonRepository(loader);
     this.costumeRepo = new CostumeRepository(loader);
     this.goMoveRepo = new GoMoveRepository(loader);
+    this.imagesBaseUrl = imagesBaseUrl;
   }
 
   async getPokemonById(id: number): Promise<GoPokemonDetail | null> {
@@ -23,7 +31,14 @@ export class GoService {
       this.costumeRepo.findByPokemonId(id),
     ]);
     if (!goForms) return null;
-    return { ...goForms, costumes: costumesFile?.costumes ?? [] };
+    const forms = goForms.forms.map((form) => ({
+      ...form,
+      image_url:
+        form.form_id === "default"
+          ? `${this.imagesBaseUrl}/normal/${padId(id)}.png`
+          : `${this.imagesBaseUrl}/normal/${padId(id)}-${form.form_id}.png`,
+    }));
+    return { ...goForms, forms, costumes: costumesFile?.costumes ?? [] };
   }
 
   async listPokemons(limit = 20, offset = 0): Promise<{ pokemons: GoPokemon[]; total: number }> {

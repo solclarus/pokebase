@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["fairy"],
+      "types": [
+        "fairy"
+      ],
       "stats": {
         "hp": 65,
         "attack": 60,
@@ -19,11 +21,13 @@
         "sp_defense": 121,
         "speed": 64
       },
-      "ability_ids": [175],
+      "ability_ids": [
+        175
+      ],
       "hidden_ability_id": 165
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスマホイップ",
@@ -31,7 +35,9 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["fairy"],
+      "types": [
+        "fairy"
+      ],
       "stats": {
         "hp": 65,
         "attack": 60,
@@ -40,7 +46,9 @@
         "sp_defense": 121,
         "speed": 64
       },
-      "ability_ids": [175],
+      "ability_ids": [
+        175
+      ],
       "hidden_ability_id": 165
     }
   ]

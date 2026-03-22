@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["bug", "psychic"],
+      "types": [
+        "bug",
+        "psychic"
+      ],
       "stats": {
         "hp": 60,
         "attack": 45,
@@ -19,11 +22,14 @@
         "sp_defense": 120,
         "speed": 90
       },
-      "ability_ids": [68, 119],
+      "ability_ids": [
+        68,
+        119
+      ],
       "hidden_ability_id": 140
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスイオルブ",
@@ -31,7 +37,10 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["bug", "psychic"],
+      "types": [
+        "bug",
+        "psychic"
+      ],
       "stats": {
         "hp": 60,
         "attack": 45,
@@ -40,7 +49,10 @@
         "sp_defense": 120,
         "speed": 90
       },
-      "ability_ids": [68, 119],
+      "ability_ids": [
+        68,
+        119
+      ],
       "hidden_ability_id": 140
     }
   ]

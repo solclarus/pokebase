@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 45,
@@ -19,11 +22,13 @@
         "sp_defense": 80,
         "speed": 70
       },
-      "ability_ids": [14],
+      "ability_ids": [
+        14
+      ],
       "hidden_ability_id": 110
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスバタフリー",
@@ -31,7 +36,10 @@
       },
       "form_type": "gigantamax",
       "region": "kanto",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 60,
         "attack": 45,
@@ -40,7 +48,9 @@
         "sp_defense": 80,
         "speed": 70
       },
-      "ability_ids": [14],
+      "ability_ids": [
+        14
+      ],
       "hidden_ability_id": 110
     }
   ]

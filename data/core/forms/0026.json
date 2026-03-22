@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "stats": {
         "hp": 60,
         "attack": 90,
@@ -19,11 +21,13 @@
         "sp_defense": 80,
         "speed": 110
       },
-      "ability_ids": [9],
+      "ability_ids": [
+        9
+      ],
       "hidden_ability_id": 31
     },
     {
-      "id": "alola",
+      "id": "alolan",
       "order": 1,
       "name": {
         "ja": "ライチュウ（アローラのすがた）",
@@ -31,7 +35,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["electric", "psychic"],
+      "types": [
+        "electric",
+        "psychic"
+      ],
       "stats": {
         "hp": 60,
         "attack": 85,
@@ -40,7 +47,9 @@
         "sp_defense": 85,
         "speed": 110
       },
-      "ability_ids": [207]
+      "ability_ids": [
+        207
+      ]
     },
     {
       "id": "mega-x",
@@ -51,7 +60,9 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "stats": {
         "hp": 60,
         "attack": 135,
@@ -71,7 +82,9 @@
       },
       "form_type": "mega",
       "region": "kalos",
-      "types": ["electric"],
+      "types": [
+        "electric"
+      ],
       "stats": {
         "hp": 60,
         "attack": 100,

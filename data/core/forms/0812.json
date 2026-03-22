@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["grass"],
+      "types": [
+        "grass"
+      ],
       "stats": {
         "hp": 100,
         "attack": 125,
@@ -19,11 +21,13 @@
         "sp_defense": 70,
         "speed": 85
       },
-      "ability_ids": [65],
+      "ability_ids": [
+        65
+      ],
       "hidden_ability_id": 229
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスゴリランダー",
@@ -31,7 +35,9 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["grass"],
+      "types": [
+        "grass"
+      ],
       "stats": {
         "hp": 100,
         "attack": 125,
@@ -40,7 +46,9 @@
         "sp_defense": 70,
         "speed": 85
       },
-      "ability_ids": [65],
+      "ability_ids": [
+        65
+      ],
       "hidden_ability_id": 229
     }
   ]

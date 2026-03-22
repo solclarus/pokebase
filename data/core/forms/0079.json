@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["water", "psychic"],
+      "types": [
+        "water",
+        "psychic"
+      ],
       "stats": {
         "hp": 90,
         "attack": 65,
@@ -19,11 +22,14 @@
         "sp_defense": 40,
         "speed": 15
       },
-      "ability_ids": [12, 20],
+      "ability_ids": [
+        12,
+        20
+      ],
       "hidden_ability_id": 144
     },
     {
-      "id": "galar",
+      "id": "galarian",
       "order": 1,
       "name": {
         "ja": "ヤドン（ガラルのすがた）",
@@ -31,7 +37,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["psychic"],
+      "types": [
+        "psychic"
+      ],
       "stats": {
         "hp": 90,
         "attack": 65,
@@ -40,7 +48,10 @@
         "sp_defense": 40,
         "speed": 15
       },
-      "ability_ids": [82, 20],
+      "ability_ids": [
+        82,
+        20
+      ],
       "hidden_ability_id": 144
     }
   ]

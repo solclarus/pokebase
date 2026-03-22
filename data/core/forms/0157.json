@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "johto",
-      "types": ["fire"],
+      "types": [
+        "fire"
+      ],
       "stats": {
         "hp": 78,
         "attack": 84,
@@ -19,11 +21,13 @@
         "sp_defense": 85,
         "speed": 100
       },
-      "ability_ids": [66],
+      "ability_ids": [
+        66
+      ],
       "hidden_ability_id": 18
     },
     {
-      "id": "hisui",
+      "id": "hisuian",
       "order": 1,
       "name": {
         "ja": "バクフーン（ヒスイのすがた）",
@@ -31,7 +35,10 @@
       },
       "form_type": "normal",
       "region": "hisui",
-      "types": ["fire", "ghost"],
+      "types": [
+        "fire",
+        "ghost"
+      ],
       "stats": {
         "hp": 73,
         "attack": 84,
@@ -40,7 +47,9 @@
         "sp_defense": 85,
         "speed": 95
       },
-      "ability_ids": [66],
+      "ability_ids": [
+        66
+      ],
       "hidden_ability_id": 18
     }
   ]

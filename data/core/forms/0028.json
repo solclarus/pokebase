@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["ground"],
+      "types": [
+        "ground"
+      ],
       "stats": {
         "hp": 75,
         "attack": 100,
@@ -19,11 +21,13 @@
         "sp_defense": 55,
         "speed": 65
       },
-      "ability_ids": [8],
+      "ability_ids": [
+        8
+      ],
       "hidden_ability_id": 146
     },
     {
-      "id": "alola",
+      "id": "alolan",
       "order": 1,
       "name": {
         "ja": "サンドパン（アローラのすがた）",
@@ -31,7 +35,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["ice", "steel"],
+      "types": [
+        "ice",
+        "steel"
+      ],
       "stats": {
         "hp": 75,
         "attack": 100,
@@ -40,7 +47,9 @@
         "sp_defense": 65,
         "speed": 65
       },
-      "ability_ids": [81],
+      "ability_ids": [
+        81
+      ],
       "hidden_ability_id": 212
     }
   ]

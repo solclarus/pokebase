@@ -6,12 +6,22 @@
       "base_attack": 198,
       "base_defense": 189,
       "base_stamina": 190,
-      "fast_move_ids": [215, 214],
-      "charged_move_ids": [90, 47, 116, 18],
+      "fast_move_ids": [
+        215,
+        214
+      ],
+      "charged_move_ids": [
+        90,
+        47,
+        116,
+        18
+      ],
       "released_at": "2016-07-06",
       "shiny_released_at": "2018-03-25",
       "elite_fast_move_ids": [],
-      "elite_charged_move_ids": [296]
+      "elite_charged_move_ids": [
+        296
+      ]
     },
     {
       "form_id": "mega",
@@ -26,7 +36,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "gigantamax",
+      "form_id": "gmax",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

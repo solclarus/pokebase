@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["water", "rock"],
+      "types": [
+        "water",
+        "rock"
+      ],
       "stats": {
         "hp": 90,
         "attack": 115,
@@ -19,11 +22,14 @@
         "sp_defense": 68,
         "speed": 74
       },
-      "ability_ids": [173, 75],
+      "ability_ids": [
+        173,
+        75
+      ],
       "hidden_ability_id": 33
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスカジリガメ",
@@ -31,7 +37,10 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["water", "rock"],
+      "types": [
+        "water",
+        "rock"
+      ],
       "stats": {
         "hp": 90,
         "attack": 115,
@@ -40,7 +49,10 @@
         "sp_defense": 68,
         "speed": 74
       },
-      "ability_ids": [173, 75],
+      "ability_ids": [
+        173,
+        75
+      ],
       "hidden_ability_id": 33
     }
   ]

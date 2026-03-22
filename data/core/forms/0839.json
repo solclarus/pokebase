@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["rock", "fire"],
+      "types": [
+        "rock",
+        "fire"
+      ],
       "stats": {
         "hp": 110,
         "attack": 80,
@@ -19,11 +22,14 @@
         "sp_defense": 90,
         "speed": 30
       },
-      "ability_ids": [243, 49],
+      "ability_ids": [
+        243,
+        49
+      ],
       "hidden_ability_id": 18
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスセキタンザン",
@@ -31,7 +37,10 @@
       },
       "form_type": "gigantamax",
       "region": "galar",
-      "types": ["rock", "fire"],
+      "types": [
+        "rock",
+        "fire"
+      ],
       "stats": {
         "hp": 110,
         "attack": 80,
@@ -40,7 +49,10 @@
         "sp_defense": 90,
         "speed": 30
       },
-      "ability_ids": [243, 49],
+      "ability_ids": [
+        243,
+        49
+      ],
       "hidden_ability_id": 18
     }
   ]

@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "stats": {
         "hp": 80,
         "attack": 95,
@@ -19,11 +21,14 @@
         "sp_defense": 82,
         "speed": 75
       },
-      "ability_ids": [1, 133],
+      "ability_ids": [
+        1,
+        133
+      ],
       "hidden_ability_id": 106
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 1,
       "name": {
         "ja": "キョダイマックスダストダス",
@@ -31,7 +36,9 @@
       },
       "form_type": "gigantamax",
       "region": "unova",
-      "types": ["poison"],
+      "types": [
+        "poison"
+      ],
       "stats": {
         "hp": 80,
         "attack": 95,
@@ -40,7 +47,10 @@
         "sp_defense": 82,
         "speed": 75
       },
-      "ability_ids": [1, 133],
+      "ability_ids": [
+        1,
+        133
+      ],
       "hidden_ability_id": 106
     }
   ]

@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 79,
         "attack": 83,
@@ -19,7 +21,9 @@
         "sp_defense": 105,
         "speed": 78
       },
-      "ability_ids": [67],
+      "ability_ids": [
+        67
+      ],
       "hidden_ability_id": 44
     },
     {
@@ -31,7 +35,9 @@
       },
       "form_type": "mega",
       "region": "kanto",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 79,
         "attack": 103,
@@ -40,10 +46,12 @@
         "sp_defense": 115,
         "speed": 78
       },
-      "ability_ids": [178]
+      "ability_ids": [
+        178
+      ]
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 2,
       "name": {
         "ja": "キョダイマックスカメックス",
@@ -51,7 +59,9 @@
       },
       "form_type": "gigantamax",
       "region": "kanto",
-      "types": ["water"],
+      "types": [
+        "water"
+      ],
       "stats": {
         "hp": 79,
         "attack": 83,
@@ -60,7 +70,9 @@
         "sp_defense": 105,
         "speed": 78
       },
-      "ability_ids": [67],
+      "ability_ids": [
+        67
+      ],
       "hidden_ability_id": 44
     }
   ]

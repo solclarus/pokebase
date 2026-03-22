@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "stats": {
         "hp": 80,
         "attack": 82,
@@ -19,7 +22,9 @@
         "sp_defense": 100,
         "speed": 80
       },
-      "ability_ids": [65],
+      "ability_ids": [
+        65
+      ],
       "hidden_ability_id": 34
     },
     {
@@ -31,7 +36,10 @@
       },
       "form_type": "mega",
       "region": "kanto",
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "stats": {
         "hp": 80,
         "attack": 100,
@@ -40,10 +48,12 @@
         "sp_defense": 120,
         "speed": 80
       },
-      "ability_ids": [47]
+      "ability_ids": [
+        47
+      ]
     },
     {
-      "id": "gigantamax",
+      "id": "gmax",
       "order": 2,
       "name": {
         "ja": "キョダイマックスフシギバナ",
@@ -51,7 +61,10 @@
       },
       "form_type": "gigantamax",
       "region": "kanto",
-      "types": ["grass", "poison"],
+      "types": [
+        "grass",
+        "poison"
+      ],
       "stats": {
         "hp": 80,
         "attack": 82,
@@ -60,7 +73,9 @@
         "sp_defense": 100,
         "speed": 80
       },
-      "ability_ids": [65],
+      "ability_ids": [
+        65
+      ],
       "hidden_ability_id": 34
     }
   ]

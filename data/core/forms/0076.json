@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["rock", "ground"],
+      "types": [
+        "rock",
+        "ground"
+      ],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -19,11 +22,14 @@
         "sp_defense": 65,
         "speed": 45
       },
-      "ability_ids": [69, 5],
+      "ability_ids": [
+        69,
+        5
+      ],
       "hidden_ability_id": 8
     },
     {
-      "id": "alola",
+      "id": "alolan",
       "order": 1,
       "name": {
         "ja": "ゴローニャ（アローラのすがた）",
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["rock", "electric"],
+      "types": [
+        "rock",
+        "electric"
+      ],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -40,7 +49,10 @@
         "sp_defense": 65,
         "speed": 45
       },
-      "ability_ids": [42, 5],
+      "ability_ids": [
+        42,
+        5
+      ],
       "hidden_ability_id": 206
     }
   ]

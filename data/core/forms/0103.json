@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kanto",
-      "types": ["grass", "psychic"],
+      "types": [
+        "grass",
+        "psychic"
+      ],
       "stats": {
         "hp": 95,
         "attack": 95,
@@ -19,11 +22,13 @@
         "sp_defense": 75,
         "speed": 55
       },
-      "ability_ids": [34],
+      "ability_ids": [
+        34
+      ],
       "hidden_ability_id": 139
     },
     {
-      "id": "alola",
+      "id": "alolan",
       "order": 1,
       "name": {
         "ja": "ナッシー（アローラのすがた）",
@@ -31,7 +36,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["grass", "dragon"],
+      "types": [
+        "grass",
+        "dragon"
+      ],
       "stats": {
         "hp": 95,
         "attack": 105,
@@ -40,7 +48,9 @@
         "sp_defense": 75,
         "speed": 45
       },
-      "ability_ids": [119],
+      "ability_ids": [
+        119
+      ],
       "hidden_ability_id": 139
     }
   ]
