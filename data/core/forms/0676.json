@@ -2,7 +2,7 @@
   "pokemon_id": 676,
   "forms": [
     {
-      "id": "default",
+      "id": "heart",
       "order": 0,
       "name": {
         "ja": "トリミアン",
@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -19,10 +21,12 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     },
     {
-      "id": "heart",
+      "id": "star",
       "order": 1,
       "name": {
         "ja": "トリミアン",
@@ -30,7 +34,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -39,10 +45,12 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     },
     {
-      "id": "star",
+      "id": "diamond",
       "order": 2,
       "name": {
         "ja": "トリミアン",
@@ -50,7 +58,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -59,10 +69,12 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     },
     {
-      "id": "diamond",
+      "id": "debutante",
       "order": 3,
       "name": {
         "ja": "トリミアン",
@@ -70,7 +82,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -79,10 +93,12 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     },
     {
-      "id": "debutante",
+      "id": "matron",
       "order": 4,
       "name": {
         "ja": "トリミアン",
@@ -90,7 +106,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -99,10 +117,12 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     },
     {
-      "id": "matron",
+      "id": "dandy",
       "order": 5,
       "name": {
         "ja": "トリミアン",
@@ -110,7 +130,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -119,10 +141,12 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     },
     {
-      "id": "dandy",
+      "id": "la-reine",
       "order": 6,
       "name": {
         "ja": "トリミアン",
@@ -130,7 +154,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -139,10 +165,12 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     },
     {
-      "id": "la-reine",
+      "id": "kabuki",
       "order": 7,
       "name": {
         "ja": "トリミアン",
@@ -150,7 +178,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -159,10 +189,12 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     },
     {
-      "id": "kabuki",
+      "id": "pharaoh",
       "order": 8,
       "name": {
         "ja": "トリミアン",
@@ -170,7 +202,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -179,10 +213,12 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     },
     {
-      "id": "pharaoh",
+      "id": "natural",
       "order": 9,
       "name": {
         "ja": "トリミアン",
@@ -190,7 +226,9 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["normal"],
+      "types": [
+        "normal"
+      ],
       "stats": {
         "hp": 75,
         "attack": 80,
@@ -199,27 +237,9 @@
         "sp_defense": 90,
         "speed": 102
       },
-      "ability_ids": [169]
-    },
-    {
-      "id": "natural",
-      "order": 10,
-      "name": {
-        "ja": "トリミアン",
-        "en": "Furfrou"
-      },
-      "form_type": "normal",
-      "region": "kalos",
-      "types": ["normal"],
-      "stats": {
-        "hp": 75,
-        "attack": 80,
-        "defense": 60,
-        "sp_attack": 65,
-        "sp_defense": 90,
-        "speed": 102
-      },
-      "ability_ids": [169]
+      "ability_ids": [
+        169
+      ]
     }
   ]
 }

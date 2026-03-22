@@ -2,7 +2,7 @@
   "pokemon_id": 586,
   "forms": [
     {
-      "id": "default",
+      "id": "spring",
       "order": 0,
       "name": {
         "ja": "メブキジカ",
@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["normal", "grass"],
+      "types": [
+        "normal",
+        "grass"
+      ],
       "stats": {
         "hp": 80,
         "attack": 100,
@@ -19,11 +22,14 @@
         "sp_defense": 70,
         "speed": 95
       },
-      "ability_ids": [34, 157],
+      "ability_ids": [
+        34,
+        157
+      ],
       "hidden_ability_id": 32
     },
     {
-      "id": "spring",
+      "id": "summer",
       "order": 1,
       "name": {
         "ja": "メブキジカ",
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["normal", "grass"],
+      "types": [
+        "normal",
+        "grass"
+      ],
       "stats": {
         "hp": 80,
         "attack": 100,
@@ -40,11 +49,14 @@
         "sp_defense": 70,
         "speed": 95
       },
-      "ability_ids": [34, 157],
+      "ability_ids": [
+        34,
+        157
+      ],
       "hidden_ability_id": 32
     },
     {
-      "id": "summer",
+      "id": "autumn",
       "order": 2,
       "name": {
         "ja": "メブキジカ",
@@ -52,7 +64,10 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["normal", "grass"],
+      "types": [
+        "normal",
+        "grass"
+      ],
       "stats": {
         "hp": 80,
         "attack": 100,
@@ -61,11 +76,14 @@
         "sp_defense": 70,
         "speed": 95
       },
-      "ability_ids": [34, 157],
+      "ability_ids": [
+        34,
+        157
+      ],
       "hidden_ability_id": 32
     },
     {
-      "id": "autumn",
+      "id": "winter",
       "order": 3,
       "name": {
         "ja": "メブキジカ",
@@ -73,7 +91,10 @@
       },
       "form_type": "normal",
       "region": "unova",
-      "types": ["normal", "grass"],
+      "types": [
+        "normal",
+        "grass"
+      ],
       "stats": {
         "hp": 80,
         "attack": 100,
@@ -82,28 +103,10 @@
         "sp_defense": 70,
         "speed": 95
       },
-      "ability_ids": [34, 157],
-      "hidden_ability_id": 32
-    },
-    {
-      "id": "winter",
-      "order": 4,
-      "name": {
-        "ja": "メブキジカ",
-        "en": "Sawsbuck"
-      },
-      "form_type": "normal",
-      "region": "unova",
-      "types": ["normal", "grass"],
-      "stats": {
-        "hp": 80,
-        "attack": 100,
-        "defense": 70,
-        "sp_attack": 60,
-        "sp_defense": 70,
-        "speed": 95
-      },
-      "ability_ids": [34, 157],
+      "ability_ids": [
+        34,
+        157
+      ],
       "hidden_ability_id": 32
     }
   ]

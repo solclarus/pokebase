@@ -2,7 +2,7 @@
   "pokemon_id": 889,
   "forms": [
     {
-      "id": "default",
+      "id": "hero",
       "order": 0,
       "name": {
         "ja": "ザマゼンタ",
@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["fighting"],
+      "types": [
+        "fighting"
+      ],
       "stats": {
         "hp": 92,
         "attack": 120,
@@ -19,10 +21,12 @@
         "sp_defense": 115,
         "speed": 138
       },
-      "ability_ids": [235]
+      "ability_ids": [
+        235
+      ]
     },
     {
-      "id": "crowned",
+      "id": "crown",
       "order": 1,
       "name": {
         "ja": "たてのおう",
@@ -30,7 +34,10 @@
       },
       "form_type": "normal",
       "region": "galar",
-      "types": ["fighting", "steel"],
+      "types": [
+        "fighting",
+        "steel"
+      ],
       "stats": {
         "hp": 92,
         "attack": 120,
@@ -39,7 +46,9 @@
         "sp_defense": 140,
         "speed": 128
       },
-      "ability_ids": [235]
+      "ability_ids": [
+        235
+      ]
     }
   ]
 }

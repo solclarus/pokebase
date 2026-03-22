@@ -2,7 +2,7 @@
   "pokemon_id": 1017,
   "forms": [
     {
-      "id": "default",
+      "id": "teal",
       "order": 0,
       "name": {
         "ja": "オーガポン",
@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["grass"],
+      "types": [
+        "grass"
+      ],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -19,10 +21,12 @@
         "sp_defense": 96,
         "speed": 110
       },
-      "ability_ids": [128]
+      "ability_ids": [
+        128
+      ]
     },
     {
-      "id": "wellspring-mask",
+      "id": "wellspring",
       "order": 1,
       "name": {
         "ja": "いどのめん",
@@ -30,7 +34,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["grass", "water"],
+      "types": [
+        "grass",
+        "water"
+      ],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -39,10 +46,12 @@
         "sp_defense": 96,
         "speed": 110
       },
-      "ability_ids": [11]
+      "ability_ids": [
+        11
+      ]
     },
     {
-      "id": "hearthflame-mask",
+      "id": "hearthflame",
       "order": 2,
       "name": {
         "ja": "かまどのめん",
@@ -50,7 +59,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["grass", "fire"],
+      "types": [
+        "grass",
+        "fire"
+      ],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -59,10 +71,12 @@
         "sp_defense": 96,
         "speed": 110
       },
-      "ability_ids": [104]
+      "ability_ids": [
+        104
+      ]
     },
     {
-      "id": "cornerstone-mask",
+      "id": "cornerstone",
       "order": 3,
       "name": {
         "ja": "いしずえのめん",
@@ -70,7 +84,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["grass", "rock"],
+      "types": [
+        "grass",
+        "rock"
+      ],
       "stats": {
         "hp": 80,
         "attack": 120,
@@ -79,7 +96,9 @@
         "sp_defense": 96,
         "speed": 110
       },
-      "ability_ids": [5]
+      "ability_ids": [
+        5
+      ]
     }
   ]
 }

@@ -2,7 +2,7 @@
   "pokemon_id": 720,
   "forms": [
     {
-      "id": "default",
+      "id": "confined",
       "order": 0,
       "name": {
         "ja": "フーパ",
@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["psychic", "ghost"],
+      "types": [
+        "psychic",
+        "ghost"
+      ],
       "stats": {
         "hp": 80,
         "attack": 110,
@@ -19,7 +22,9 @@
         "sp_defense": 130,
         "speed": 70
       },
-      "ability_ids": [170]
+      "ability_ids": [
+        170
+      ]
     },
     {
       "id": "unbound",
@@ -30,7 +35,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["psychic", "dark"],
+      "types": [
+        "psychic",
+        "dark"
+      ],
       "stats": {
         "hp": 80,
         "attack": 160,
@@ -39,7 +47,9 @@
         "sp_defense": 130,
         "speed": 80
       },
-      "ability_ids": [170]
+      "ability_ids": [
+        170
+      ]
     }
   ]
 }

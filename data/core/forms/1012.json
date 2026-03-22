@@ -2,7 +2,7 @@
   "pokemon_id": 1012,
   "forms": [
     {
-      "id": "default",
+      "id": "counterfeit",
       "order": 0,
       "name": {
         "ja": "チャデス",
@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["grass", "ghost"],
+      "types": [
+        "grass",
+        "ghost"
+      ],
       "stats": {
         "hp": 40,
         "attack": 45,
@@ -19,11 +22,13 @@
         "sp_defense": 54,
         "speed": 50
       },
-      "ability_ids": [301],
+      "ability_ids": [
+        301
+      ],
       "hidden_ability_id": 85
     },
     {
-      "id": "counterfeit",
+      "id": "artisan",
       "order": 1,
       "name": {
         "ja": "チャデス",
@@ -31,7 +36,10 @@
       },
       "form_type": "normal",
       "region": "paldea",
-      "types": ["grass", "ghost"],
+      "types": [
+        "grass",
+        "ghost"
+      ],
       "stats": {
         "hp": 40,
         "attack": 45,
@@ -40,28 +48,9 @@
         "sp_defense": 54,
         "speed": 50
       },
-      "ability_ids": [301],
-      "hidden_ability_id": 85
-    },
-    {
-      "id": "artisan",
-      "order": 2,
-      "name": {
-        "ja": "チャデス",
-        "en": "Poltchageist"
-      },
-      "form_type": "normal",
-      "region": "paldea",
-      "types": ["grass", "ghost"],
-      "stats": {
-        "hp": 40,
-        "attack": 45,
-        "defense": 45,
-        "sp_attack": 74,
-        "sp_defense": 54,
-        "speed": 50
-      },
-      "ability_ids": [301],
+      "ability_ids": [
+        301
+      ],
       "hidden_ability_id": 85
     }
   ]

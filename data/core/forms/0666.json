@@ -2,7 +2,7 @@
   "pokemon_id": 666,
   "forms": [
     {
-      "id": "default",
+      "id": "icy-snow",
       "order": 0,
       "name": {
         "ja": "ビビヨン",
@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -19,11 +22,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "icy-snow",
+      "id": "polar",
       "order": 1,
       "name": {
         "ja": "ビビヨン",
@@ -31,7 +37,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -40,11 +49,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "polar",
+      "id": "tundra",
       "order": 2,
       "name": {
         "ja": "ビビヨン",
@@ -52,7 +64,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -61,11 +76,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "tundra",
+      "id": "continental",
       "order": 3,
       "name": {
         "ja": "ビビヨン",
@@ -73,7 +91,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -82,11 +103,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "continental",
+      "id": "garden",
       "order": 4,
       "name": {
         "ja": "ビビヨン",
@@ -94,7 +118,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -103,11 +130,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "garden",
+      "id": "elegant",
       "order": 5,
       "name": {
         "ja": "ビビヨン",
@@ -115,7 +145,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -124,11 +157,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "elegant",
+      "id": "meadow",
       "order": 6,
       "name": {
         "ja": "ビビヨン",
@@ -136,7 +172,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -145,11 +184,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "meadow",
+      "id": "modern",
       "order": 7,
       "name": {
         "ja": "ビビヨン",
@@ -157,7 +199,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -166,11 +211,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "modern",
+      "id": "marine",
       "order": 8,
       "name": {
         "ja": "ビビヨン",
@@ -178,7 +226,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -187,11 +238,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "marine",
+      "id": "archipelago",
       "order": 9,
       "name": {
         "ja": "ビビヨン",
@@ -199,7 +253,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -208,11 +265,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "archipelago",
+      "id": "high-plains",
       "order": 10,
       "name": {
         "ja": "ビビヨン",
@@ -220,7 +280,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -229,11 +292,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "high-plains",
+      "id": "sandstorm",
       "order": 11,
       "name": {
         "ja": "ビビヨン",
@@ -241,7 +307,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -250,11 +319,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "sandstorm",
+      "id": "river",
       "order": 12,
       "name": {
         "ja": "ビビヨン",
@@ -262,7 +334,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -271,11 +346,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "river",
+      "id": "monsoon",
       "order": 13,
       "name": {
         "ja": "ビビヨン",
@@ -283,7 +361,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -292,11 +373,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "monsoon",
+      "id": "savanna",
       "order": 14,
       "name": {
         "ja": "ビビヨン",
@@ -304,7 +388,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -313,11 +400,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "savanna",
+      "id": "sun",
       "order": 15,
       "name": {
         "ja": "ビビヨン",
@@ -325,7 +415,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -334,11 +427,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "sun",
+      "id": "ocean",
       "order": 16,
       "name": {
         "ja": "ビビヨン",
@@ -346,7 +442,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -355,11 +454,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "ocean",
+      "id": "jungle",
       "order": 17,
       "name": {
         "ja": "ビビヨン",
@@ -367,7 +469,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -376,11 +481,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "jungle",
+      "id": "fancy",
       "order": 18,
       "name": {
         "ja": "ビビヨン",
@@ -388,7 +496,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -397,11 +508,14 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     },
     {
-      "id": "fancy",
+      "id": "poke-ball",
       "order": 19,
       "name": {
         "ja": "ビビヨン",
@@ -409,7 +523,10 @@
       },
       "form_type": "normal",
       "region": "kalos",
-      "types": ["bug", "flying"],
+      "types": [
+        "bug",
+        "flying"
+      ],
       "stats": {
         "hp": 80,
         "attack": 52,
@@ -418,28 +535,10 @@
         "sp_defense": 50,
         "speed": 89
       },
-      "ability_ids": [19, 14],
-      "hidden_ability_id": 132
-    },
-    {
-      "id": "poke-ball",
-      "order": 20,
-      "name": {
-        "ja": "ビビヨン",
-        "en": "Vivillon"
-      },
-      "form_type": "normal",
-      "region": "kalos",
-      "types": ["bug", "flying"],
-      "stats": {
-        "hp": 80,
-        "attack": 52,
-        "defense": 50,
-        "sp_attack": 90,
-        "sp_defense": 50,
-        "speed": 89
-      },
-      "ability_ids": [19, 14],
+      "ability_ids": [
+        19,
+        14
+      ],
       "hidden_ability_id": 132
     }
   ]
