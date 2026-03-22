@@ -36,7 +36,7 @@ app.use("*", async (c, next) => {
   }
   const loader = new DataLoader(c.env.ASSETS, "https://assets.local");
   const imagesBaseUrl = c.env.IMAGES_BASE_URL;
-  c.set("pokemonService", new PokemonService(loader, imagesBaseUrl));
+  c.set("pokemonService", new PokemonService(loader));
   c.set("abilityService", new AbilityService(loader));
   c.set("moveService", new MoveService(loader));
   c.set("gameService", new GameService(loader));

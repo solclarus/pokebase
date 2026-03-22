@@ -4,13 +4,19 @@ import { PokemonSchema, FormSchema, AvailabilityEntrySchema } from "@pokemon/sch
 import { getApiUrl } from "@/lib/api";
 import { padId } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
-import type { Stats } from "@pokemon/schemas";
+import type { Stats, Form } from "@pokemon/schemas";
 
-const FormWithImageSchema = FormSchema.extend({ image_url: z.string().url() });
-type FormWithImage = z.infer<typeof FormWithImageSchema>;
+const IMAGES_BASE_URL = "https://images.pokemon.solclarus.me";
+
+function getFormImageUrl(pokemonId: number, formId: string): string {
+  const paddedId = padId(pokemonId);
+  return formId === "default"
+    ? `${IMAGES_BASE_URL}/normal/${paddedId}.png`
+    : `${IMAGES_BASE_URL}/normal/${paddedId}-${formId}.png`;
+}
 
 const PokemonDetailSchema = PokemonSchema.extend({
-  forms: z.array(FormWithImageSchema),
+  forms: z.array(FormSchema),
   availability: z.array(AvailabilityEntrySchema),
 });
 
@@ -99,7 +105,7 @@ function StatBar({ statKey, value }: { statKey: keyof Stats; value: number }) {
   );
 }
 
-function FormCard({ form }: { form: FormWithImage }) {
+function FormCard({ form, pokemonId }: { form: Form; pokemonId: number }) {
   const total = Object.values(form.stats).reduce((a, b) => a + b, 0);
   return (
     <div className="space-y-4 rounded-xl border bg-card p-5">
@@ -107,7 +113,7 @@ function FormCard({ form }: { form: FormWithImage }) {
         <div className="flex items-center gap-3">
           {/* eslint-disable-next-line @next/next/no-img-element */}
           <img
-            src={form.image_url}
+            src={getFormImageUrl(pokemonId, form.id)}
             alt={form.name.en}
             width={64}
             height={64}
@@ -179,7 +185,7 @@ export default async function PokemonDetailPage({ params }: Props) {
         <h2 className="mb-3 text-lg font-semibold">フォーム</h2>
         <div className="grid gap-4 sm:grid-cols-2">
           {pokemon.forms.map((form) => (
-            <FormCard key={form.id} form={form} />
+            <FormCard key={form.id} form={form} pokemonId={pokemon.id} />
           ))}
         </div>
       </section>

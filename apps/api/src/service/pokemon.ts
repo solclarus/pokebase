@@ -4,7 +4,6 @@ import {
   FormRepository,
   AvailabilityRepository,
   LearnsetRepository,
-  padId,
 } from "@/repository";
 import type { PokemonLearnset, FormIndexEntry } from "@pokemon/schemas";
 import type { PokemonListItem, PokemonDetail } from "@/types";
@@ -19,14 +18,12 @@ export class PokemonService {
   private formRepo: FormRepository;
   private availabilityRepo: AvailabilityRepository;
   private learnsetRepo: LearnsetRepository;
-  private imagesBaseUrl: string;
 
-  constructor(loader: DataLoader, imagesBaseUrl: string) {
+  constructor(loader: DataLoader) {
     this.pokemonRepo = new PokemonRepository(loader);
     this.formRepo = new FormRepository(loader);
     this.availabilityRepo = new AvailabilityRepository(loader);
     this.learnsetRepo = new LearnsetRepository(loader);
-    this.imagesBaseUrl = imagesBaseUrl;
   }
 
   async getPokemon(id: string): Promise<PokemonDetail | null> {
@@ -42,13 +39,7 @@ export class PokemonService {
       this.availabilityRepo.findByPokemonId(pokemon.id),
     ]);
 
-    const forms = (formsFile?.forms ?? []).map((form) => ({
-      ...form,
-      image_url:
-        form.id === "default"
-          ? `${this.imagesBaseUrl}/normal/${padId(pokemon.id)}.png`
-          : `${this.imagesBaseUrl}/normal/${padId(pokemon.id)}-${form.id}.png`,
-    }));
+    const forms = formsFile?.forms ?? [];
 
     return {
       ...pokemon,

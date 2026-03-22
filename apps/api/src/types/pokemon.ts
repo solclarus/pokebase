@@ -9,12 +9,8 @@ export const PokemonListItemSchema = PokemonSchema.pick({
 }).openapi("PokemonListItem");
 export type PokemonListItem = z.infer<typeof PokemonListItemSchema>;
 
-const FormWithImageSchema = FormSchema.extend({
-  image_url: z.string().url(),
-});
-
 export const PokemonDetailSchema = PokemonSchema.extend({
-  forms: z.array(FormWithImageSchema),
+  forms: z.array(FormSchema),
   availability: z.array(AvailabilityEntrySchema),
 }).openapi("PokemonDetail");
 export type PokemonDetail = z.infer<typeof PokemonDetailSchema>;
