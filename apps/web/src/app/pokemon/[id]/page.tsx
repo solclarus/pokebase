@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 import { z } from "zod";
 import { PokemonSchema, FormSchema, AvailabilityEntrySchema } from "@pokemon/schemas";
@@ -106,7 +105,8 @@ function FormCard({ form }: { form: FormWithImage }) {
     <div className="space-y-4 rounded-xl border bg-card p-5">
       <div className="flex items-start justify-between gap-2">
         <div className="flex items-center gap-3">
-          <Image
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <img
             src={form.image_url}
             alt={form.name.en}
             width={64}
