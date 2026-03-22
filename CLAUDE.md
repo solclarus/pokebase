@@ -27,7 +27,7 @@
 - コンポーネントは **shadcn/ui** を使用する（`vp dlx shadcn@latest add <component>`）
 - 既存コンポーネント: `button`, `table`, `badge`（`apps/web/src/components/ui/`）
 - shadcn で提供されていないものは `@base-ui/react` または Tailwind CSS で実装
-- 環境変数: `NEXT_PUBLIC_API_URL`（クライアント側 API URL）
+- 環境変数: `API_URL`（SSR API URL）
 
 ---
 
@@ -373,16 +373,16 @@ wrangler pages deploy apps/web/.open-next で Cloudflare Pages にデプロイ
 
 ### GitHub Actions Secrets
 
-| シークレット           | 内容                                      |
-| ---------------------- | ----------------------------------------- |
-| `CLOUDFLARE_API_TOKEN` | Cloudflare API トークン                   |
-| `NEXT_PUBLIC_API_URL`  | 本番 API の URL（Web ビルド時に埋め込み） |
+| シークレット           | 内容                    |
+| ---------------------- | ----------------------- |
+| `CLOUDFLARE_API_TOKEN` | Cloudflare API トークン |
 
-### Cloudflare Pages（任意）
+### Cloudflare Workers（`apps/web/` wrangler.toml [vars]）
 
-| 変数      | 内容                                                 |
-| --------- | ---------------------------------------------------- |
-| `API_URL` | SSR 時の API URL（設定するとリビルド不要で変更可能） |
+| 変数              | 内容                      |
+| ----------------- | ------------------------- |
+| `API_URL`         | 本番 API の URL（SSR 用） |
+| `IMAGES_BASE_URL` | 画像配信 URL              |
 
 ---
 

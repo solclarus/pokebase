@@ -30,5 +30,4 @@ jobs:
       - name: Build & Deploy
         run: pnpm run --filter @pokemon/web deploy
         env:
-          NEXT_PUBLIC_API_URL: ${{ secrets.NEXT_PUBLIC_API_URL }}
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}

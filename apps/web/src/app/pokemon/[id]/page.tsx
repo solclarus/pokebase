@@ -6,7 +6,7 @@ import { padId } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
 import type { Stats, Form } from "@pokemon/schemas";
 
-const IMAGES_BASE_URL = "https://images.pokemon.solclarus.me";
+const IMAGES_BASE_URL = process.env.IMAGES_BASE_URL || "https://images.pokemon.solclarus.me";
 
 function getFormImageUrl(pokemonId: number, formId: string): string {
   const paddedId = padId(pokemonId);

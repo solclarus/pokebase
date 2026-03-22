@@ -34,7 +34,7 @@ vp run dev:web
 Add the API URL to `apps/web/.env.local`:
 
 ```
-NEXT_PUBLIC_API_URL=http://localhost:8787
+API_URL=http://localhost:8787
 ```
 
 ## Commands
@@ -105,19 +105,14 @@ API docs (Scalar UI): `/doc`
 
 Required secrets (GitHub Actions):
 
-| Secret                 | Description                                 |
-| ---------------------- | ------------------------------------------- |
-| `CLOUDFLARE_API_TOKEN` | Cloudflare API token                        |
-| `NEXT_PUBLIC_API_URL`  | Production API URL (embedded at build time) |
+| Secret                 | Description          |
+| ---------------------- | -------------------- |
+| `CLOUDFLARE_API_TOKEN` | Cloudflare API token |
 
-Cloudflare Workers environment variables (set in Dashboard):
+Cloudflare Workers environment variables (`wrangler.toml` [vars]):
 
-| Variable         | Description                      |
-| ---------------- | -------------------------------- |
-| `ALLOWED_ORIGIN` | Allowed CORS origin (Web domain) |
-
-Cloudflare Pages environment variables (optional):
-
-| Variable  | Description                                         |
-| --------- | --------------------------------------------------- |
-| `API_URL` | API URL for SSR (can be changed without rebuilding) |
+| Variable          | Description                      |
+| ----------------- | -------------------------------- |
+| `ALLOWED_ORIGIN`  | Allowed CORS origin (Web domain) |
+| `API_URL`         | Production API URL (SSR)         |
+| `IMAGES_BASE_URL` | Image CDN base URL               |
