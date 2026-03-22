@@ -2,7 +2,7 @@
   "pokemon_id": 876,
   "forms": [
     {
-      "id": "default",
+      "id": "male",
       "order": 0,
       "name": {
         "ja": "イエッサン",

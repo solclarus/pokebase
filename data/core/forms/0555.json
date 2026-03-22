@@ -2,7 +2,7 @@
   "pokemon_id": 555,
   "forms": [
     {
-      "id": "default",
+      "id": "standard",
       "order": 0,
       "name": {
         "ja": "ヒヒダルマ",

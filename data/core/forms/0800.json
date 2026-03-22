@@ -2,7 +2,7 @@
   "pokemon_id": 800,
   "forms": [
     {
-      "id": "default",
+      "id": "normal",
       "order": 0,
       "name": {
         "ja": "ネクロズマ",
@@ -10,7 +10,9 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["psychic"],
+      "types": [
+        "psychic"
+      ],
       "stats": {
         "hp": 97,
         "attack": 107,
@@ -19,7 +21,9 @@
         "sp_defense": 89,
         "speed": 79
       },
-      "ability_ids": [232]
+      "ability_ids": [
+        232
+      ]
     },
     {
       "id": "dusk",
@@ -30,7 +34,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["psychic", "steel"],
+      "types": [
+        "psychic",
+        "steel"
+      ],
       "stats": {
         "hp": 97,
         "attack": 157,
@@ -39,7 +46,9 @@
         "sp_defense": 109,
         "speed": 77
       },
-      "ability_ids": [232]
+      "ability_ids": [
+        232
+      ]
     },
     {
       "id": "dawn",
@@ -50,7 +59,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["psychic", "ghost"],
+      "types": [
+        "psychic",
+        "ghost"
+      ],
       "stats": {
         "hp": 97,
         "attack": 113,
@@ -59,7 +71,9 @@
         "sp_defense": 127,
         "speed": 77
       },
-      "ability_ids": [232]
+      "ability_ids": [
+        232
+      ]
     },
     {
       "id": "ultra",
@@ -70,7 +84,10 @@
       },
       "form_type": "normal",
       "region": "alola",
-      "types": ["psychic", "dragon"],
+      "types": [
+        "psychic",
+        "dragon"
+      ],
       "stats": {
         "hp": 97,
         "attack": 167,
@@ -79,7 +96,9 @@
         "sp_defense": 97,
         "speed": 129
       },
-      "ability_ids": [233]
+      "ability_ids": [
+        233
+      ]
     }
   ]
 }

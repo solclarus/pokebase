@@ -2,7 +2,7 @@
   "pokemon_id": 484,
   "forms": [
     {
-      "id": "default",
+      "id": "altered",
       "order": 0,
       "name": {
         "ja": "パルキア",
@@ -10,7 +10,10 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": ["water", "dragon"],
+      "types": [
+        "water",
+        "dragon"
+      ],
       "stats": {
         "hp": 90,
         "attack": 120,
@@ -19,7 +22,9 @@
         "sp_defense": 120,
         "speed": 100
       },
-      "ability_ids": [46],
+      "ability_ids": [
+        46
+      ],
       "hidden_ability_id": 140
     },
     {
@@ -31,7 +36,10 @@
       },
       "form_type": "normal",
       "region": "sinnoh",
-      "types": ["water", "dragon"],
+      "types": [
+        "water",
+        "dragon"
+      ],
       "stats": {
         "hp": 90,
         "attack": 100,
@@ -40,7 +48,9 @@
         "sp_defense": 120,
         "speed": 120
       },
-      "ability_ids": [46],
+      "ability_ids": [
+        46
+      ],
       "hidden_ability_id": 140
     }
   ]

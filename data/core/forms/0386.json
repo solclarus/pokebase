@@ -2,7 +2,7 @@
   "pokemon_id": 386,
   "forms": [
     {
-      "id": "default",
+      "id": "normal",
       "order": 0,
       "name": {
         "ja": "デオキシス",
