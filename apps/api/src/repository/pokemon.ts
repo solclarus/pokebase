@@ -38,13 +38,8 @@ export class PokemonRepository {
     return this.findById(entry.id);
   }
 
-  async findAll(limit = 20, offset = 0): Promise<PokemonListItem[]> {
+  async findAll(): Promise<PokemonListItem[]> {
     const index = await this.getIndex();
-    return index.pokemons.slice(offset, offset + limit);
-  }
-
-  async count(): Promise<number> {
-    const index = await this.getIndex();
-    return index.total;
+    return index.pokemons;
   }
 }

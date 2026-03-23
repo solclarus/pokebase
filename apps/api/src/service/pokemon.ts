@@ -30,15 +30,9 @@ export class PokemonService {
     return { ...pokemon, forms };
   }
 
-  async listPokemons(
-    limit = 20,
-    offset = 0,
-  ): Promise<{ pokemons: PokemonListItem[]; total: number }> {
-    const [pokemons, total] = await Promise.all([
-      this.pokemonRepo.findAll(limit, offset),
-      this.pokemonRepo.count(),
-    ]);
-    return { pokemons, total };
+  async listPokemons(): Promise<{ pokemons: PokemonListItem[]; total: number }> {
+    const pokemons = await this.pokemonRepo.findAll();
+    return { pokemons, total: pokemons.length };
   }
 
   async listForms(formType?: string): Promise<{ forms: FormIndexEntry[]; total: number }> {

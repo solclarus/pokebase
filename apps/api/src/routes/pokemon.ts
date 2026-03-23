@@ -25,19 +25,12 @@ pokemonRoutes.openapi(
     path: "/pokemon",
     summary: "List Pokemon",
     tags: ["Pokemon"],
-    request: {
-      query: z.object({
-        limit: z.coerce.number().int().positive().max(100).default(20).optional(),
-        offset: z.coerce.number().int().nonnegative().default(0).optional(),
-      }),
-    },
     responses: {
       200: { description: "OK", content: { "application/json": { schema: PokemonListSchema } } },
     },
   }),
   async (c) => {
-    const { limit = 20, offset = 0 } = c.req.valid("query");
-    const result = await c.get("pokemonService").listPokemons(limit, offset);
+    const result = await c.get("pokemonService").listPokemons();
     return c.json(result);
   },
 );
