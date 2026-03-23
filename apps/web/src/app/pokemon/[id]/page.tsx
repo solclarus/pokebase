@@ -19,27 +19,6 @@ const PokemonDetailSchema = PokemonSchema.extend({
   forms: z.array(FormSchema),
 });
 
-const TYPE_COLORS: Record<string, string> = {
-  normal: "bg-gray-100 text-gray-700 dark:bg-gray-800 dark:text-gray-300",
-  fire: "bg-orange-100 text-orange-700 dark:bg-orange-900/30 dark:text-orange-300",
-  water: "bg-blue-100 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300",
-  grass: "bg-green-100 text-green-700 dark:bg-green-900/30 dark:text-green-300",
-  electric: "bg-yellow-100 text-yellow-700 dark:bg-yellow-900/30 dark:text-yellow-300",
-  ice: "bg-cyan-100 text-cyan-700 dark:bg-cyan-900/30 dark:text-cyan-300",
-  fighting: "bg-red-100 text-red-700 dark:bg-red-900/30 dark:text-red-300",
-  poison: "bg-purple-100 text-purple-700 dark:bg-purple-900/30 dark:text-purple-300",
-  ground: "bg-amber-100 text-amber-700 dark:bg-amber-900/30 dark:text-amber-300",
-  flying: "bg-sky-100 text-sky-700 dark:bg-sky-900/30 dark:text-sky-300",
-  psychic: "bg-pink-100 text-pink-700 dark:bg-pink-900/30 dark:text-pink-300",
-  bug: "bg-lime-100 text-lime-700 dark:bg-lime-900/30 dark:text-lime-300",
-  rock: "bg-stone-100 text-stone-700 dark:bg-stone-900/30 dark:text-stone-300",
-  ghost: "bg-violet-100 text-violet-700 dark:bg-violet-900/30 dark:text-violet-300",
-  dragon: "bg-indigo-100 text-indigo-700 dark:bg-indigo-900/30 dark:text-indigo-300",
-  dark: "bg-zinc-200 text-zinc-700 dark:bg-zinc-800 dark:text-zinc-300",
-  steel: "bg-slate-100 text-slate-700 dark:bg-slate-800 dark:text-slate-300",
-  fairy: "bg-rose-100 text-rose-700 dark:bg-rose-900/30 dark:text-rose-300",
-};
-
 const CATEGORY_LABELS: Record<string, string> = {
   normal: "ノーマル",
   legendary: "伝説",
@@ -70,11 +49,14 @@ const STAT_COLORS: Record<keyof Stats, string> = {
 
 function TypeBadge({ type }: { type: string }) {
   return (
-    <span
-      className={`inline-flex items-center rounded-full px-2.5 py-0.5 text-xs font-medium ${TYPE_COLORS[type] ?? "bg-gray-100 text-gray-700"}`}
-    >
-      {type}
-    </span>
+    // eslint-disable-next-line @next/next/no-img-element
+    <img
+      src={`${IMAGES_BASE_URL}/types/${type}.png`}
+      alt={type}
+      width={32}
+      height={14}
+      className="object-contain"
+    />
   );
 }
 
