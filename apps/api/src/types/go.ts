@@ -1,5 +1,5 @@
 import { z } from "@hono/zod-openapi";
-import { GoFormSchema, GoPokemonSchema, CostumeSchema } from "@pokemon/schemas";
+import { GoFormSchema, GoPokemonSchema, CostumeSchema } from "@pokebase/schemas";
 
 const GoFormWithImageSchema = GoFormSchema.extend({
   image_url: z.string().url(),

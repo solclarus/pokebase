@@ -5,7 +5,7 @@ import {
   GoMoveRepository,
   padId,
 } from "@/repository";
-import type { GoPokemon, GoMove } from "@pokemon/schemas";
+import type { GoPokemon, GoMove } from "@pokebase/schemas";
 import type { GoPokemonDetail } from "@/types";
 
 /**

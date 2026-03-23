@@ -1,7 +1,7 @@
 import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
 import { PokemonListItemSchema, PokemonDetailSchema } from "@/types";
-import { FormIndexEntrySchema, FormTypeSchema, PokemonLearnsetSchema } from "@pokemon/schemas";
+import { FormIndexEntrySchema, FormTypeSchema } from "@pokebase/schemas";
 
 export const pokemonRoutes = createRouter();
 
@@ -59,29 +59,6 @@ pokemonRoutes.openapi(
     const pokemon = await c.get("pokemonService").getPokemon(id);
     if (!pokemon) return c.json({ error: "Pokemon not found" }, 404);
     return c.json(pokemon, 200);
-  },
-);
-
-pokemonRoutes.openapi(
-  createRoute({
-    method: "get",
-    path: "/pokemon/{id}/moves",
-    summary: "Get learnset for a Pokemon",
-    tags: ["Pokemon"],
-    request: {
-      params: z.object({ id: z.coerce.number().int().positive().openapi({ example: 25 }) }),
-    },
-    responses: {
-      200: {
-        description: "OK",
-        content: { "application/json": { schema: PokemonLearnsetSchema.openapi("Learnset") } },
-      },
-    },
-  }),
-  async (c) => {
-    const { id } = c.req.valid("param");
-    const learnset = await c.get("pokemonService").getLearnsetByPokemonId(id);
-    return c.json(learnset);
   },
 );
 

@@ -24,15 +24,15 @@ jobs:
         run: pnpm install
 
       - name: Validate data
-        run: pnpm run --filter @pokemon/scripts validate
+        run: pnpm run --filter @pokebase/scripts validate
 
       - name: Build index
-        run: pnpm run --filter @pokemon/scripts build:index
+        run: pnpm run --filter @pokebase/scripts build:index
 
       - name: Check for uncommitted changes
         run: |
           if [[ -n $(git status --porcelain data/_index/) ]]; then
-            echo "Index files are out of date. Please run 'pnpm run --filter @pokemon/scripts build:index' and commit the changes."
+            echo "Index files are out of date. Please run 'pnpm run --filter @pokebase/scripts build:index' and commit the changes."
             git diff data/_index/
             exit 1
           fi

@@ -1,6 +1,6 @@
 import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
-import { MoveSchema } from "@pokemon/schemas";
+import { MoveSchema } from "@pokebase/schemas";
 
 export const moveRoutes = createRouter();
 

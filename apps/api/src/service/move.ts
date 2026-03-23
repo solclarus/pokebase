@@ -1,6 +1,6 @@
 import { MoveRepository } from "@/repository";
 import type { DataLoader } from "@/repository/data-loader";
-import type { Move } from "@pokemon/schemas";
+import type { Move } from "@pokebase/schemas";
 
 export class MoveService {
   private repo: MoveRepository;

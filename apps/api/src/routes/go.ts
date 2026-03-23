@@ -1,7 +1,7 @@
 import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
 import { GoPokemonDetailSchema } from "@/types";
-import { GoPokemonSchema, GoMoveSchema, PokemonCostumesSchema } from "@pokemon/schemas";
+import { GoPokemonSchema, GoMoveSchema, PokemonCostumesSchema } from "@pokebase/schemas";
 
 export const goRoutes = createRouter();
 

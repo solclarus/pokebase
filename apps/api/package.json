@@ -1,5 +1,5 @@
 {
-  "name": "@pokemon/api",
+  "name": "@pokebase/api",
   "private": true,
   "scripts": {
     "dev": "wrangler dev",
@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@hono/zod-openapi": "^1.2.2",
-    "@pokemon/schemas": "workspace:*",
+    "@pokebase/schemas": "workspace:*",
     "@scalar/hono-api-reference": "^0.10.0",
     "hono": "^4.12.0",
     "zod": "catalog:"

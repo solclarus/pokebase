@@ -1,4 +1,4 @@
-import type { GoPokemon, GoMove } from "@pokemon/schemas";
+import type { GoPokemon, GoMove } from "@pokebase/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
 type GoPokemonIndex = { pokemons: Array<{ pokemon_id: number }>; total: number };

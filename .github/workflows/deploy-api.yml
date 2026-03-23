@@ -26,7 +26,7 @@ jobs:
         run: pnpm install
 
       - name: Build schemas
-        run: pnpm run --filter @pokemon/schemas build
+        run: pnpm run --filter @pokebase/schemas build
 
       - name: Deploy to Cloudflare Workers
         run: pnpm exec wrangler deploy

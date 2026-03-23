@@ -1,4 +1,4 @@
-import type { PokemonForms, FormIndexEntry } from "@pokemon/schemas";
+import type { PokemonForms, FormIndexEntry } from "@pokebase/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
 export class FormRepository {

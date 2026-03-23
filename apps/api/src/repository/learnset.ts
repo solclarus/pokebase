@@ -1,4 +1,4 @@
-import type { PokemonLearnset } from "@pokemon/schemas";
+import type { PokemonLearnset } from "@pokebase/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
 export class LearnsetRepository {

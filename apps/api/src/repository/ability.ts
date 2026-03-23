@@ -1,4 +1,4 @@
-import type { Ability } from "@pokemon/schemas";
+import type { Ability } from "@pokebase/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
 export class AbilityRepository {

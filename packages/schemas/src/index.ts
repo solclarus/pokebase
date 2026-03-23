@@ -2,8 +2,6 @@ export * from "./pokemon";
 export * from "./form";
 export * from "./ability";
 export * from "./move";
-export * from "./learnset";
 export * from "./game";
-export * from "./availability";
 export * from "./costume";
 export * from "./go";

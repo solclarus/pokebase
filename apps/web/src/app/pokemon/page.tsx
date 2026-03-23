@@ -1,7 +1,6 @@
 import Link from "next/link";
 import { z } from "zod";
-import { PokemonSchema } from "@pokemon/schemas";
-import { getApiUrl } from "@/lib/api";
+import { PokemonSchema } from "@pokebase/schemas";
 import { Button } from "@/components/ui/button";
 import { PokemonTable } from "./pokemon-table";
 
@@ -12,6 +11,7 @@ const PokemonListSchema = z.object({
   total: z.number(),
 });
 
+const API_URL = process.env.API_URL || "http://localhost:8787";
 const PAGE_SIZE = 50;
 
 type Props = {
@@ -22,7 +22,7 @@ export default async function PokemonPage({ searchParams }: Props) {
   const { offset: offsetStr } = await searchParams;
   const offset = Math.max(0, parseInt(offsetStr ?? "0", 10) || 0);
 
-  const res = await fetch(`${getApiUrl()}/pokemon?limit=${PAGE_SIZE}&offset=${offset}`, {
+  const res = await fetch(`${API_URL}/pokemon?limit=${PAGE_SIZE}&offset=${offset}`, {
     cache: "no-store",
   });
   if (!res.ok) throw new Error(`API error: ${res.status}`);

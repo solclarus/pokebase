@@ -1,6 +1,6 @@
 import { readdir, readFile, writeFile, mkdir } from "node:fs/promises";
 import { join } from "node:path";
-import type { Ability, FormIndexEntry, GoMove } from "@pokemon/schemas";
+import type { Ability, FormIndexEntry, GoMove } from "@pokebase/schemas";
 
 const DATA_DIR = join(import.meta.dirname, "../../data");
 const INDEX_DIR = join(DATA_DIR, "_index");

@@ -9,7 +9,7 @@ import type {
   GoPokemon,
   PokemonCostumes,
   GoMove,
-} from "@pokemon/schemas";
+} from "@pokebase/schemas";
 
 /** ポケモン ID を 4 桁ゼロ埋め文字列に変換する（例: 6 → "0006"）。 */
 export function padId(id: number): string {

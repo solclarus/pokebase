@@ -1,11 +1,5 @@
-import {
-  DataLoader,
-  PokemonRepository,
-  FormRepository,
-  AvailabilityRepository,
-  LearnsetRepository,
-} from "@/repository";
-import type { PokemonLearnset, FormIndexEntry } from "@pokemon/schemas";
+import { DataLoader, PokemonRepository, FormRepository } from "@/repository";
+import type { FormIndexEntry } from "@pokebase/schemas";
 import type { PokemonListItem, PokemonDetail } from "@/types";
 
 /**
@@ -16,14 +10,10 @@ import type { PokemonListItem, PokemonDetail } from "@/types";
 export class PokemonService {
   private pokemonRepo: PokemonRepository;
   private formRepo: FormRepository;
-  private availabilityRepo: AvailabilityRepository;
-  private learnsetRepo: LearnsetRepository;
 
   constructor(loader: DataLoader) {
     this.pokemonRepo = new PokemonRepository(loader);
     this.formRepo = new FormRepository(loader);
-    this.availabilityRepo = new AvailabilityRepository(loader);
-    this.learnsetRepo = new LearnsetRepository(loader);
   }
 
   async getPokemon(id: string): Promise<PokemonDetail | null> {
@@ -34,18 +24,10 @@ export class PokemonService {
       : await this.pokemonRepo.findById(numId);
     if (!pokemon) return null;
 
-    const [formsFile, availabilityFile] = await Promise.all([
-      this.formRepo.findByPokemonId(pokemon.id),
-      this.availabilityRepo.findByPokemonId(pokemon.id),
-    ]);
-
+    const formsFile = await this.formRepo.findByPokemonId(pokemon.id);
     const forms = formsFile?.forms ?? [];
 
-    return {
-      ...pokemon,
-      forms,
-      availability: availabilityFile?.entries ?? [],
-    };
+    return { ...pokemon, forms };
   }
 
   async listPokemons(
@@ -57,12 +39,6 @@ export class PokemonService {
       this.pokemonRepo.count(),
     ]);
     return { pokemons, total };
-  }
-
-  async getLearnsetByPokemonId(pokemonId: number): Promise<PokemonLearnset> {
-    // ファイルが存在しない場合は空の技リストを返す（404 にしない）
-    const learnset = await this.learnsetRepo.findByPokemonId(pokemonId);
-    return learnset ?? { pokemon_id: pokemonId, moves: [] };
   }
 
   async listForms(formType?: string): Promise<{ forms: FormIndexEntry[]; total: number }> {

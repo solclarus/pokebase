@@ -1,4 +1,4 @@
-import type { Pokemon } from "@pokemon/schemas";
+import type { Pokemon } from "@pokebase/schemas";
 import type { PokemonListItem } from "@/types";
 import type { DataLoader } from "@/repository/data-loader";
 

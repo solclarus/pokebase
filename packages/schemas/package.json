@@ -1,5 +1,5 @@
 {
-  "name": "@pokemon/schemas",
+  "name": "@pokebase/schemas",
   "private": true,
   "type": "module",
   "types": "./dist/index.d.mts",

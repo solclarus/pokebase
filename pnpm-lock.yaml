@@ -32,7 +32,7 @@ importers:
       '@hono/zod-openapi':
         specifier: ^1.2.2
         version: 1.2.2(hono@4.12.8)(zod@4.3.6)
-      '@pokemon/schemas':
+      '@pokebase/schemas':
         specifier: workspace:*
         version: link:../../packages/schemas
       '@scalar/hono-api-reference':
@@ -63,7 +63,7 @@ importers:
       '@opennextjs/cloudflare':
         specifier: ^1.17.1
         version: 1.17.1(next@15.2.9(@babel/core@7.29.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4))(wrangler@4.76.0(@cloudflare/workers-types@4.20260317.1))
-      '@pokemon/schemas':
+      '@pokebase/schemas':
         specifier: workspace:*
         version: link:../../packages/schemas
       class-variance-authority:
@@ -131,9 +131,12 @@ importers:
 
   packages/scripts:
     devDependencies:
-      '@pokemon/schemas':
+      '@pokebase/schemas':
         specifier: workspace:*
         version: link:../schemas
+      '@types/node':
+        specifier: ^20.19.37
+        version: 20.19.37
       zod:
         specifier: 'catalog:'
         version: 4.3.6

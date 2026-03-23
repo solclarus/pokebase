@@ -1,11 +1,11 @@
 import Link from "next/link";
 import { z } from "zod";
-import { PokemonSchema, FormSchema, AvailabilityEntrySchema } from "@pokemon/schemas";
-import { getApiUrl } from "@/lib/api";
+import { PokemonSchema, FormSchema } from "@pokebase/schemas";
 import { padId } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
-import type { Stats, Form } from "@pokemon/schemas";
+import type { Stats, Form } from "@pokebase/schemas";
 
+const API_URL = process.env.API_URL || "http://localhost:8787";
 const IMAGES_BASE_URL = process.env.IMAGES_BASE_URL || "https://images.pokemon.solclarus.me";
 
 function getFormImageUrl(pokemonId: number, formId: string): string {
@@ -17,7 +17,6 @@ function getFormImageUrl(pokemonId: number, formId: string): string {
 
 const PokemonDetailSchema = PokemonSchema.extend({
   forms: z.array(FormSchema),
-  availability: z.array(AvailabilityEntrySchema),
 });
 
 const TYPE_COLORS: Record<string, string> = {
@@ -67,15 +66,6 @@ const STAT_COLORS: Record<keyof Stats, string> = {
   sp_attack: "bg-blue-400",
   sp_defense: "bg-green-400",
   speed: "bg-pink-400",
-};
-
-const AVAILABILITY_LABELS: Record<string, string> = {
-  wild: "野生",
-  trade: "トレード",
-  event: "イベント",
-  transfer: "転送",
-  gift: "贈り物",
-  breed: "育て屋",
 };
 
 function TypeBadge({ type }: { type: string }) {
@@ -151,7 +141,7 @@ type Props = {
 export default async function PokemonDetailPage({ params }: Props) {
   const { id } = await params;
 
-  const res = await fetch(`${getApiUrl()}/pokemon/${id}`, { cache: "no-store" });
+  const res = await fetch(`${API_URL}/pokemon/${id}`, { cache: "no-store" });
   if (!res.ok) throw new Error(`API error: ${res.status}`);
   const pokemon = PokemonDetailSchema.parse(await res.json());
 
@@ -189,27 +179,6 @@ export default async function PokemonDetailPage({ params }: Props) {
           ))}
         </div>
       </section>
-
-      {pokemon.availability.length > 0 && (
-        <section>
-          <h2 className="mb-3 text-lg font-semibold">出現ゲーム</h2>
-          <div className="divide-y rounded-xl border bg-card">
-            {pokemon.availability.map((entry) => (
-              <div key={entry.game_id} className="flex items-center justify-between px-4 py-3">
-                <span className="font-mono text-sm">{entry.game_id}</span>
-                <div className="flex items-center gap-3">
-                  {entry.notes && (
-                    <span className="text-sm text-muted-foreground">{entry.notes}</span>
-                  )}
-                  <Badge variant="outline">
-                    {AVAILABILITY_LABELS[entry.availability_type] ?? entry.availability_type}
-                  </Badge>
-                </div>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
     </main>
   );
 }

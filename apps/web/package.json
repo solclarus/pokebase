@@ -1,5 +1,5 @@
 {
-  "name": "@pokemon/web",
+  "name": "@pokebase/web",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,7 +11,7 @@
   "dependencies": {
     "@base-ui/react": "^1.3.0",
     "@opennextjs/cloudflare": "^1.17.1",
-    "@pokemon/schemas": "workspace:*",
+    "@pokebase/schemas": "workspace:*",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "lucide-react": "^0.577.0",

@@ -1,4 +1,4 @@
-import type { PokemonAvailability } from "@pokemon/schemas";
+import type { PokemonAvailability } from "@pokebase/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
 export class AvailabilityRepository {

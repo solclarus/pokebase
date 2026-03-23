@@ -12,7 +12,7 @@ import {
   GoMoveSchema,
   PokemonCostumesSchema,
   GamesSchema,
-} from "@pokemon/schemas";
+} from "@pokebase/schemas";
 
 const DATA_DIR = join(import.meta.dirname, "../../data");
 

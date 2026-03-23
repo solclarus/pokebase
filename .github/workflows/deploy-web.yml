@@ -25,9 +25,9 @@ jobs:
         run: pnpm install
 
       - name: Build schemas
-        run: pnpm run --filter @pokemon/schemas build
+        run: pnpm run --filter @pokebase/schemas build
 
       - name: Build & Deploy
-        run: pnpm run --filter @pokemon/web deploy
+        run: pnpm run --filter @pokebase/web deploy
         env:
           CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}

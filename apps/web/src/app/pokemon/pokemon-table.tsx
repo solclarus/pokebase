@@ -9,7 +9,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import type { Pokemon } from "@pokemon/schemas";
+import type { Pokemon } from "@pokebase/schemas";
 import { padId } from "@/lib/utils";
 
 const GENERATION_COLORS: Record<number, string> = {
