@@ -7,5 +7,5 @@ directory = ".open-next/assets"
 binding = "ASSETS"
 
 [vars]
-API_URL = "https://api.pokemon.solclarus.me"
-IMAGES_BASE_URL = "https://images.pokemon.solclarus.me"
+API_URL = "https://api.pokebase.solclarus.me"
+IMAGES_BASE_URL = "https://images.pokebase.solclarus.me"

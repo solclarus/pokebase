@@ -6,7 +6,7 @@ import { Badge } from "@/components/ui/badge";
 import type { Stats, Form } from "@pokebase/schemas";
 
 const API_URL = process.env.API_URL || "http://localhost:8787";
-const IMAGES_BASE_URL = process.env.IMAGES_BASE_URL || "https://images.pokemon.solclarus.me";
+const IMAGES_BASE_URL = process.env.IMAGES_BASE_URL || "https://images.pokebase.solclarus.me";
 
 function getFormImageUrl(pokemonId: number, formId: string): string {
   const paddedId = padId(pokemonId);
