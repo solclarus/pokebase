@@ -2,7 +2,7 @@
   "pokemon_id": 925,
   "forms": [
     {
-      "form_id": "family-of-four",
+      "form_id": "four",
       "base_attack": 159,
       "base_defense": 157,
       "base_stamina": 179,
@@ -14,7 +14,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "family-of-three",
+      "form_id": "three",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

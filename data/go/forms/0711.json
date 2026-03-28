@@ -2,7 +2,7 @@
   "pokemon_id": 711,
   "forms": [
     {
-      "form_id": "average",
+      "form_id": "medium",
       "base_attack": 182,
       "base_defense": 200,
       "base_stamina": 198,
@@ -38,7 +38,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "super",
+      "form_id": "jumbo",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

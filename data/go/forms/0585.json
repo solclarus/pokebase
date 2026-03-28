@@ -2,24 +2,12 @@
   "pokemon_id": 585,
   "forms": [
     {
-      "form_id": "default",
+      "form_id": "spring",
       "base_attack": 115,
       "base_defense": 100,
       "base_stamina": 155,
       "fast_move_ids": [221, 282],
       "charged_move_ids": [273, 59, 251, 392],
-      "released_at": null,
-      "shiny_released_at": null,
-      "elite_fast_move_ids": [],
-      "elite_charged_move_ids": []
-    },
-    {
-      "form_id": "spring",
-      "base_attack": null,
-      "base_defense": null,
-      "base_stamina": null,
-      "fast_move_ids": [],
-      "charged_move_ids": [],
       "elite_fast_move_ids": [],
       "elite_charged_move_ids": [],
       "released_at": "2021-03-01",

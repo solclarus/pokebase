@@ -2,7 +2,7 @@
   "pokemon_id": 999,
   "forms": [
     {
-      "form_id": "default",
+      "form_id": "chest",
       "base_attack": 140,
       "base_defense": 76,
       "base_stamina": 128,

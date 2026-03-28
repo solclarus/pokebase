@@ -2,7 +2,7 @@
   "pokemon_id": 646,
   "forms": [
     {
-      "form_id": "default",
+      "form_id": "normal",
       "base_attack": 310,
       "base_defense": 183,
       "base_stamina": 245,

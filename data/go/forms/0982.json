@@ -2,7 +2,7 @@
   "pokemon_id": 982,
   "forms": [
     {
-      "form_id": "two-segment",
+      "form_id": "two",
       "base_attack": 188,
       "base_defense": 150,
       "base_stamina": 268,
@@ -14,7 +14,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "three-segment",
+      "form_id": "three",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

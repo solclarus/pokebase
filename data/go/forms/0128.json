@@ -14,7 +14,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "paldea-combat",
+      "form_id": "paldean-combat",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -23,10 +23,10 @@
       "elite_fast_move_ids": [],
       "elite_charged_move_ids": [],
       "released_at": "2025-04-03",
-      "shiny_released_at": null
+      "shiny_released_at": "2026-06-12"
     },
     {
-      "form_id": "paldea-blaze",
+      "form_id": "paldean-blaze",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -35,10 +35,10 @@
       "elite_fast_move_ids": [],
       "elite_charged_move_ids": [],
       "released_at": "2025-04-03",
-      "shiny_released_at": null
+      "shiny_released_at": "2026-06-05"
     },
     {
-      "form_id": "paldea-aqua",
+      "form_id": "paldean-aqua",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -47,7 +47,7 @@
       "elite_fast_move_ids": [],
       "elite_charged_move_ids": [],
       "released_at": "2025-04-03",
-      "shiny_released_at": null
+      "shiny_released_at": "2026-05-29"
     }
   ]
 }

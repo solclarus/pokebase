@@ -2,7 +2,7 @@
   "pokemon_id": 550,
   "forms": [
     {
-      "form_id": "red-striped",
+      "form_id": "red",
       "base_attack": 189,
       "base_defense": 129,
       "base_stamina": 172,
@@ -14,7 +14,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "blue-striped",
+      "form_id": "blue",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -26,7 +26,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "white-striped",
+      "form_id": "white",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

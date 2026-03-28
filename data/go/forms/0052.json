@@ -29,8 +29,8 @@
       "base_stamina": null,
       "fast_move_ids": [],
       "charged_move_ids": [],
-      "released_at": null,
-      "shiny_released_at": null,
+      "released_at": "2026-02-15",
+      "shiny_released_at": "2026-02-15",
       "elite_fast_move_ids": [],
       "elite_charged_move_ids": []
     },

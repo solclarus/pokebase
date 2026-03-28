@@ -2,7 +2,7 @@
   "pokemon_id": 855,
   "forms": [
     {
-      "form_id": "default",
+      "form_id": "phony",
       "base_attack": 248,
       "base_defense": 189,
       "base_stamina": 155,

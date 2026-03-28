@@ -3,14 +3,7 @@ import { z } from "zod";
 import { PokemonSchema, FormSchema } from "@pokebase/schemas";
 import { padId } from "@/lib/utils";
 import { Badge } from "@/components/ui/badge";
-import type { Form } from "@pokebase/schemas";
-
-function getFormImageUrl(pokemonId: number, formId: string): string {
-  const paddedId = padId(pokemonId);
-  return formId === "default"
-    ? `${process.env.IMAGES_BASE_URL}/normal/${paddedId}.png`
-    : `${process.env.IMAGES_BASE_URL}/normal/${paddedId}-${formId}.png`;
-}
+import { FormCard } from "@/components/form-card";
 
 const PokemonDetailSchema = PokemonSchema.extend({
   forms: z.array(FormSchema),
@@ -26,30 +19,6 @@ function TypeBadge({ type }: { type: string }) {
       height={14}
       className="object-contain"
     />
-  );
-}
-
-function FormCard({ form, pokemonId }: { form: Form; pokemonId: number }) {
-  return (
-    <div className="flex flex-col items-center gap-2 rounded-xl border bg-card p-4">
-      {/* eslint-disable-next-line @next/next/no-img-element */}
-      <img
-        src={getFormImageUrl(pokemonId, form.id)}
-        alt={form.name.en}
-        width={80}
-        height={80}
-        className="object-contain"
-      />
-      <div className="text-center">
-        <p className="text-sm font-semibold">{form.name.ja}</p>
-        <p className="text-xs text-muted-foreground">{form.name.en}</p>
-      </div>
-      <div className="flex gap-1">
-        {form.types.map((t) => (
-          <TypeBadge key={t} type={t} />
-        ))}
-      </div>
-    </div>
   );
 }
 
@@ -91,7 +60,13 @@ export default async function PokemonDetailPage({ params }: Props) {
         <h2 className="mb-3 text-lg font-semibold">フォーム</h2>
         <div className="flex flex-wrap gap-3">
           {pokemon.forms.map((form) => (
-            <FormCard key={form.id} form={form} pokemonId={pokemon.id} />
+            <FormCard key={form.id} pokemonId={pokemon.id} formId={form.id} name={form.name}>
+              <div className="flex gap-1">
+                {form.types.map((t) => (
+                  <TypeBadge key={t} type={t} />
+                ))}
+              </div>
+            </FormCard>
           ))}
         </div>
       </section>

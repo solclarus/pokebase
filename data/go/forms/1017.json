@@ -14,7 +14,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "wellspring-mask",
+      "form_id": "wellspring",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -26,7 +26,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "hearthflame-mask",
+      "form_id": "hearthflame",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -38,7 +38,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "cornerstone-mask",
+      "form_id": "cornerstone",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,

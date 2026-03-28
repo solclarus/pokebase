@@ -2,18 +2,6 @@
   "pokemon_id": 666,
   "forms": [
     {
-      "form_id": "default",
-      "base_attack": 176,
-      "base_defense": 103,
-      "base_stamina": 190,
-      "fast_move_ids": [345, 261],
-      "charged_move_ids": [49, 45, 273, 122],
-      "released_at": null,
-      "shiny_released_at": null,
-      "elite_fast_move_ids": [],
-      "elite_charged_move_ids": []
-    },
-    {
       "form_id": "icy-snow",
       "base_attack": null,
       "base_defense": null,
@@ -87,11 +75,11 @@
     },
     {
       "form_id": "meadow",
-      "base_attack": null,
-      "base_defense": null,
-      "base_stamina": null,
-      "fast_move_ids": [],
-      "charged_move_ids": [],
+      "base_attack": 176,
+      "base_defense": 103,
+      "base_stamina": 190,
+      "fast_move_ids": [345, 261],
+      "charged_move_ids": [49, 45, 273, 122],
       "elite_fast_move_ids": [],
       "elite_charged_move_ids": [],
       "released_at": "2022-12-15",

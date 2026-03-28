@@ -2,7 +2,7 @@
   "pokemon_id": 931,
   "forms": [
     {
-      "form_id": "green-plumage",
+      "form_id": "green",
       "base_attack": 185,
       "base_defense": 105,
       "base_stamina": 193,
@@ -14,7 +14,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "blue-plumage",
+      "form_id": "blue",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -26,7 +26,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "yellow-plumage",
+      "form_id": "yellow",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
@@ -38,7 +38,7 @@
       "elite_charged_move_ids": []
     },
     {
-      "form_id": "white-plumage",
+      "form_id": "white",
       "base_attack": null,
       "base_defense": null,
       "base_stamina": null,
