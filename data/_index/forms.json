@@ -2292,7 +2292,7 @@
     },
     {
       "pokemon_id": 128,
-      "form_id": "paldea-aqua",
+      "form_id": "paldean-aqua",
       "form_type": "normal",
       "name": {
         "ja": "ケンタロス",
@@ -2305,7 +2305,7 @@
     },
     {
       "pokemon_id": 128,
-      "form_id": "paldea-blaze",
+      "form_id": "paldean-blaze",
       "form_type": "normal",
       "name": {
         "ja": "ケンタロス",
@@ -2318,7 +2318,7 @@
     },
     {
       "pokemon_id": 128,
-      "form_id": "paldea-combat",
+      "form_id": "paldean-combat",
       "form_type": "normal",
       "name": {
         "ja": "ケンタロス",
@@ -3345,7 +3345,7 @@
     },
     {
       "pokemon_id": 194,
-      "form_id": "paldea",
+      "form_id": "paldean",
       "form_type": "normal",
       "name": {
         "ja": "ウパー（パルデアのすがた）",
@@ -5945,7 +5945,7 @@
     },
     {
       "pokemon_id": 351,
-      "form_id": "default",
+      "form_id": "normal",
       "form_type": "normal",
       "name": {
         "ja": "ポワルン",
@@ -6939,18 +6939,6 @@
     },
     {
       "pokemon_id": 412,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "ミノムッチ",
-        "en": "Burmy"
-      },
-      "types": [
-        "bug"
-      ]
-    },
-    {
-      "pokemon_id": 412,
       "form_id": "plant",
       "form_type": "normal",
       "name": {
@@ -7113,18 +7101,6 @@
     },
     {
       "pokemon_id": 421,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "チェリム",
-        "en": "Cherrim"
-      },
-      "types": [
-        "grass"
-      ]
-    },
-    {
-      "pokemon_id": 421,
       "form_id": "overcast",
       "form_type": "normal",
       "name": {
@@ -7149,18 +7125,6 @@
     },
     {
       "pokemon_id": 422,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "カラナクシ",
-        "en": "Shellos"
-      },
-      "types": [
-        "water"
-      ]
-    },
-    {
-      "pokemon_id": 422,
       "form_id": "east",
       "form_type": "normal",
       "name": {
@@ -7181,19 +7145,6 @@
       },
       "types": [
         "water"
-      ]
-    },
-    {
-      "pokemon_id": 423,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "トリトドン",
-        "en": "Gastrodon"
-      },
-      "types": [
-        "water",
-        "ground"
       ]
     },
     {
@@ -8018,19 +7969,6 @@
     },
     {
       "pokemon_id": 479,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "ロトム",
-        "en": "Rotom"
-      },
-      "types": [
-        "electric",
-        "ghost"
-      ]
-    },
-    {
-      "pokemon_id": 479,
       "form_id": "fan",
       "form_type": "normal",
       "name": {
@@ -8079,6 +8017,19 @@
       "types": [
         "electric",
         "grass"
+      ]
+    },
+    {
+      "pokemon_id": 479,
+      "form_id": "normal",
+      "form_type": "normal",
+      "name": {
+        "ja": "ロトム",
+        "en": "Rotom"
+      },
+      "types": [
+        "electric",
+        "ghost"
       ]
     },
     {
@@ -8132,7 +8083,7 @@
     },
     {
       "pokemon_id": 483,
-      "form_id": "default",
+      "form_id": "altered",
       "form_type": "normal",
       "name": {
         "ja": "ディアルガ",
@@ -8158,7 +8109,7 @@
     },
     {
       "pokemon_id": 484,
-      "form_id": "default",
+      "form_id": "altered",
       "form_type": "normal",
       "name": {
         "ja": "パルキア",
@@ -9114,7 +9065,7 @@
     },
     {
       "pokemon_id": 550,
-      "form_id": "blue-striped",
+      "form_id": "blue",
       "form_type": "normal",
       "name": {
         "ja": "あおすじのすがた",
@@ -9126,7 +9077,7 @@
     },
     {
       "pokemon_id": 550,
-      "form_id": "red-striped",
+      "form_id": "red",
       "form_type": "normal",
       "name": {
         "ja": "バスラオ",
@@ -9138,7 +9089,7 @@
     },
     {
       "pokemon_id": 550,
-      "form_id": "white-striped",
+      "form_id": "white",
       "form_type": "normal",
       "name": {
         "ja": "しろすじのすがた",
@@ -9213,7 +9164,7 @@
     },
     {
       "pokemon_id": 555,
-      "form_id": "galarian-standard",
+      "form_id": "galarian",
       "form_type": "normal",
       "name": {
         "ja": "ガラルのすがた",
@@ -9699,19 +9650,6 @@
     },
     {
       "pokemon_id": 585,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "シキジカ",
-        "en": "Deerling"
-      },
-      "types": [
-        "normal",
-        "grass"
-      ]
-    },
-    {
-      "pokemon_id": 585,
       "form_id": "spring",
       "form_type": "normal",
       "name": {
@@ -9752,19 +9690,6 @@
     {
       "pokemon_id": 586,
       "form_id": "autumn",
-      "form_type": "normal",
-      "name": {
-        "ja": "メブキジカ",
-        "en": "Sawsbuck"
-      },
-      "types": [
-        "normal",
-        "grass"
-      ]
-    },
-    {
-      "pokemon_id": 586,
-      "form_id": "default",
       "form_type": "normal",
       "name": {
         "ja": "メブキジカ",
@@ -9880,7 +9805,7 @@
     },
     {
       "pokemon_id": 592,
-      "form_id": "male",
+      "form_id": "default",
       "form_type": "normal",
       "name": {
         "ja": "プルリル",
@@ -9893,7 +9818,7 @@
     },
     {
       "pokemon_id": 593,
-      "form_id": "male",
+      "form_id": "default",
       "form_type": "normal",
       "name": {
         "ja": "ブルンゲル",
@@ -10674,7 +10599,7 @@
     },
     {
       "pokemon_id": 646,
-      "form_id": "default",
+      "form_id": "normal",
       "form_type": "normal",
       "name": {
         "ja": "キュレム",
@@ -10941,32 +10866,6 @@
     },
     {
       "pokemon_id": 658,
-      "form_id": "ash",
-      "form_type": "normal",
-      "name": {
-        "ja": "サトシゲッコウガ",
-        "en": "Ash-Greninja"
-      },
-      "types": [
-        "water",
-        "dark"
-      ]
-    },
-    {
-      "pokemon_id": 658,
-      "form_id": "battle-bond",
-      "form_type": "normal",
-      "name": {
-        "ja": "greninja-battle-bond",
-        "en": "Battle Bond Greninja"
-      },
-      "types": [
-        "water",
-        "dark"
-      ]
-    },
-    {
-      "pokemon_id": 658,
       "form_id": "default",
       "form_type": "normal",
       "name": {
@@ -11095,19 +10994,6 @@
     {
       "pokemon_id": 666,
       "form_id": "continental",
-      "form_type": "normal",
-      "name": {
-        "ja": "ビビヨン",
-        "en": "Vivillon"
-      },
-      "types": [
-        "bug",
-        "flying"
-      ]
-    },
-    {
-      "pokemon_id": 666,
-      "form_id": "default",
       "form_type": "normal",
       "name": {
         "ja": "ビビヨン",
@@ -11405,18 +11291,6 @@
     },
     {
       "pokemon_id": 669,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "フラベベ",
-        "en": "Flabébé"
-      },
-      "types": [
-        "fairy"
-      ]
-    },
-    {
-      "pokemon_id": 669,
       "form_id": "orange",
       "form_type": "normal",
       "name": {
@@ -11466,18 +11340,6 @@
     {
       "pokemon_id": 670,
       "form_id": "blue",
-      "form_type": "normal",
-      "name": {
-        "ja": "フラエッテ",
-        "en": "Floette"
-      },
-      "types": [
-        "fairy"
-      ]
-    },
-    {
-      "pokemon_id": 670,
-      "form_id": "default",
       "form_type": "normal",
       "name": {
         "ja": "フラエッテ",
@@ -11562,18 +11424,6 @@
     {
       "pokemon_id": 671,
       "form_id": "blue",
-      "form_type": "normal",
-      "name": {
-        "ja": "フラージェス",
-        "en": "Florges"
-      },
-      "types": [
-        "fairy"
-      ]
-    },
-    {
-      "pokemon_id": 671,
-      "form_id": "default",
       "form_type": "normal",
       "name": {
         "ja": "フラージェス",
@@ -11695,18 +11545,6 @@
     {
       "pokemon_id": 676,
       "form_id": "debutante",
-      "form_type": "normal",
-      "name": {
-        "ja": "トリミアン",
-        "en": "Furfrou"
-      },
-      "types": [
-        "normal"
-      ]
-    },
-    {
-      "pokemon_id": 676,
-      "form_id": "default",
       "form_type": "normal",
       "name": {
         "ja": "トリミアン",
@@ -12346,7 +12184,33 @@
     },
     {
       "pokemon_id": 710,
-      "form_id": "average",
+      "form_id": "jumbo",
+      "form_type": "normal",
+      "name": {
+        "ja": "とくだいサイズ",
+        "en": "Super Size"
+      },
+      "types": [
+        "ghost",
+        "grass"
+      ]
+    },
+    {
+      "pokemon_id": 710,
+      "form_id": "large",
+      "form_type": "normal",
+      "name": {
+        "ja": "おおきいサイズ",
+        "en": "Large Size"
+      },
+      "types": [
+        "ghost",
+        "grass"
+      ]
+    },
+    {
+      "pokemon_id": 710,
+      "form_id": "medium",
       "form_type": "normal",
       "name": {
         "ja": "バケッチャ",
@@ -12359,19 +12223,6 @@
     },
     {
       "pokemon_id": 710,
-      "form_id": "large",
-      "form_type": "normal",
-      "name": {
-        "ja": "おおきいサイズ",
-        "en": "Large Size"
-      },
-      "types": [
-        "ghost",
-        "grass"
-      ]
-    },
-    {
-      "pokemon_id": 710,
       "form_id": "small",
       "form_type": "normal",
       "name": {
@@ -12384,8 +12235,8 @@
       ]
     },
     {
-      "pokemon_id": 710,
-      "form_id": "super",
+      "pokemon_id": 711,
+      "form_id": "jumbo",
       "form_type": "normal",
       "name": {
         "ja": "とくだいサイズ",
@@ -12398,7 +12249,20 @@
     },
     {
       "pokemon_id": 711,
-      "form_id": "average",
+      "form_id": "large",
+      "form_type": "normal",
+      "name": {
+        "ja": "おおきいサイズ",
+        "en": "Large Size"
+      },
+      "types": [
+        "ghost",
+        "grass"
+      ]
+    },
+    {
+      "pokemon_id": 711,
+      "form_id": "medium",
       "form_type": "normal",
       "name": {
         "ja": "パンプジン",
@@ -12411,37 +12275,11 @@
     },
     {
       "pokemon_id": 711,
-      "form_id": "large",
-      "form_type": "normal",
-      "name": {
-        "ja": "おおきいサイズ",
-        "en": "Large Size"
-      },
-      "types": [
-        "ghost",
-        "grass"
-      ]
-    },
-    {
-      "pokemon_id": 711,
       "form_id": "small",
       "form_type": "normal",
       "name": {
         "ja": "ちいさいサイズ",
         "en": "Small Size"
-      },
-      "types": [
-        "ghost",
-        "grass"
-      ]
-    },
-    {
-      "pokemon_id": 711,
-      "form_id": "super",
-      "form_type": "normal",
-      "name": {
-        "ja": "とくだいサイズ",
-        "en": "Super Size"
       },
       "types": [
         "ghost",
@@ -12525,7 +12363,7 @@
     },
     {
       "pokemon_id": 716,
-      "form_id": "default",
+      "form_id": "neutral",
       "form_type": "normal",
       "name": {
         "ja": "ゼルネアス",
@@ -12563,37 +12401,11 @@
     },
     {
       "pokemon_id": 718,
-      "form_id": "10-power-construct",
-      "form_type": "normal",
-      "name": {
-        "ja": "１０％フォルム",
-        "en": "10% Forme"
-      },
-      "types": [
-        "dragon",
-        "ground"
-      ]
-    },
-    {
-      "pokemon_id": 718,
       "form_id": "50",
       "form_type": "normal",
       "name": {
         "ja": "ジガルデ",
         "en": "Zygarde"
-      },
-      "types": [
-        "dragon",
-        "ground"
-      ]
-    },
-    {
-      "pokemon_id": 718,
-      "form_id": "50-power-construct",
-      "form_type": "normal",
-      "name": {
-        "ja": "５０％フォルム",
-        "en": "50% Forme"
       },
       "types": [
         "dragon",
@@ -12654,7 +12466,7 @@
     },
     {
       "pokemon_id": 720,
-      "form_id": "default",
+      "form_id": "confined",
       "form_type": "normal",
       "name": {
         "ja": "フーパ",
@@ -12881,18 +12693,6 @@
       ]
     },
     {
-      "pokemon_id": 735,
-      "form_id": "totem",
-      "form_type": "normal",
-      "name": {
-        "ja": "gumshoos-totem",
-        "en": "Totem Gumshoos"
-      },
-      "types": [
-        "normal"
-      ]
-    },
-    {
       "pokemon_id": 736,
       "form_id": "default",
       "form_type": "normal",
@@ -12924,19 +12724,6 @@
       "name": {
         "ja": "クワガノン",
         "en": "Vikavolt"
-      },
-      "types": [
-        "bug",
-        "electric"
-      ]
-    },
-    {
-      "pokemon_id": 738,
-      "form_id": "totem",
-      "form_type": "normal",
-      "name": {
-        "ja": "vikavolt-totem",
-        "en": "Totem Vikavolt"
       },
       "types": [
         "bug",
@@ -13060,37 +12847,12 @@
       ]
     },
     {
-      "pokemon_id": 743,
-      "form_id": "totem",
-      "form_type": "normal",
-      "name": {
-        "ja": "ribombee-totem",
-        "en": "Totem Ribombee"
-      },
-      "types": [
-        "bug",
-        "fairy"
-      ]
-    },
-    {
       "pokemon_id": 744,
       "form_id": "default",
       "form_type": "normal",
       "name": {
         "ja": "イワンコ",
         "en": "Rockruff"
-      },
-      "types": [
-        "rock"
-      ]
-    },
-    {
-      "pokemon_id": 744,
-      "form_id": "own-tempo",
-      "form_type": "normal",
-      "name": {
-        "ja": "イワンコ（マイペース）",
-        "en": "Own Tempo Rockruff"
       },
       "types": [
         "rock"
@@ -13233,19 +12995,6 @@
       ]
     },
     {
-      "pokemon_id": 752,
-      "form_id": "totem",
-      "form_type": "normal",
-      "name": {
-        "ja": "araquanid-totem",
-        "en": "Totem Araquanid"
-      },
-      "types": [
-        "water",
-        "bug"
-      ]
-    },
-    {
       "pokemon_id": 753,
       "form_id": "default",
       "form_type": "normal",
@@ -13264,18 +13013,6 @@
       "name": {
         "ja": "ラランテス",
         "en": "Lurantis"
-      },
-      "types": [
-        "grass"
-      ]
-    },
-    {
-      "pokemon_id": 754,
-      "form_id": "totem",
-      "form_type": "normal",
-      "name": {
-        "ja": "lurantis-totem",
-        "en": "Totem Lurantis"
       },
       "types": [
         "grass"
@@ -13327,19 +13064,6 @@
       "name": {
         "ja": "エンニュート",
         "en": "Salazzle"
-      },
-      "types": [
-        "poison",
-        "fire"
-      ]
-    },
-    {
-      "pokemon_id": 758,
-      "form_id": "totem",
-      "form_type": "normal",
-      "name": {
-        "ja": "salazzle-totem",
-        "en": "Totem Salazzle"
       },
       "types": [
         "poison",
@@ -13561,37 +13285,11 @@
     },
     {
       "pokemon_id": 774,
-      "form_id": "blue-meteor",
-      "form_type": "normal",
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
-      },
-      "types": [
-        "rock",
-        "flying"
-      ]
-    },
-    {
-      "pokemon_id": 774,
       "form_id": "green",
       "form_type": "normal",
       "name": {
         "ja": "みどりいろのコア",
         "en": "Green Core"
-      },
-      "types": [
-        "rock",
-        "flying"
-      ]
-    },
-    {
-      "pokemon_id": 774,
-      "form_id": "green-meteor",
-      "form_type": "normal",
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
       },
       "types": [
         "rock",
@@ -13613,11 +13311,11 @@
     },
     {
       "pokemon_id": 774,
-      "form_id": "indigo-meteor",
+      "form_id": "meteor",
       "form_type": "normal",
       "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
+        "ja": "メテノ（隕石コア）",
+        "en": "Minior (Meteor)"
       },
       "types": [
         "rock",
@@ -13639,37 +13337,11 @@
     },
     {
       "pokemon_id": 774,
-      "form_id": "orange-meteor",
-      "form_type": "normal",
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
-      },
-      "types": [
-        "rock",
-        "flying"
-      ]
-    },
-    {
-      "pokemon_id": 774,
       "form_id": "red",
       "form_type": "normal",
       "name": {
         "ja": "あかいろのコア",
         "en": "Red Core"
-      },
-      "types": [
-        "rock",
-        "flying"
-      ]
-    },
-    {
-      "pokemon_id": 774,
-      "form_id": "red-meteor",
-      "form_type": "normal",
-      "name": {
-        "ja": "メテノ",
-        "en": "Minior"
       },
       "types": [
         "rock",
@@ -13691,37 +13363,11 @@
     },
     {
       "pokemon_id": 774,
-      "form_id": "violet-meteor",
-      "form_type": "normal",
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
-      },
-      "types": [
-        "rock",
-        "flying"
-      ]
-    },
-    {
-      "pokemon_id": 774,
       "form_id": "yellow",
       "form_type": "normal",
       "name": {
         "ja": "きいろのコア",
         "en": "Yellow Core"
-      },
-      "types": [
-        "rock",
-        "flying"
-      ]
-    },
-    {
-      "pokemon_id": 774,
-      "form_id": "yellow-meteor",
-      "form_type": "normal",
-      "name": {
-        "ja": "りゅうせいのすがた",
-        "en": "Meteor Form"
       },
       "types": [
         "rock",
@@ -13767,19 +13413,6 @@
       ]
     },
     {
-      "pokemon_id": 777,
-      "form_id": "totem",
-      "form_type": "normal",
-      "name": {
-        "ja": "togedemaru-totem",
-        "en": "Totem Togedemaru"
-      },
-      "types": [
-        "electric",
-        "steel"
-      ]
-    },
-    {
       "pokemon_id": 778,
       "form_id": "busted",
       "form_type": "normal",
@@ -13799,32 +13432,6 @@
       "name": {
         "ja": "ミミッキュ",
         "en": "Mimikyu"
-      },
-      "types": [
-        "ghost",
-        "fairy"
-      ]
-    },
-    {
-      "pokemon_id": 778,
-      "form_id": "totem-busted",
-      "form_type": "normal",
-      "name": {
-        "ja": "mimikyu-totem-busted",
-        "en": "Totem Busted Mimikyu"
-      },
-      "types": [
-        "ghost",
-        "fairy"
-      ]
-    },
-    {
-      "pokemon_id": 778,
-      "form_id": "totem-disguised",
-      "form_type": "normal",
-      "name": {
-        "ja": "mimikyu-totem-disguised",
-        "en": "Totem Disguised Mimikyu"
       },
       "types": [
         "ghost",
@@ -13915,19 +13522,6 @@
       "name": {
         "ja": "ジャラランガ",
         "en": "Kommo-o"
-      },
-      "types": [
-        "dragon",
-        "fighting"
-      ]
-    },
-    {
-      "pokemon_id": 784,
-      "form_id": "totem",
-      "form_type": "normal",
-      "name": {
-        "ja": "kommo-o-totem",
-        "en": "Totem Kommo-o"
       },
       "types": [
         "dragon",
@@ -14141,18 +13735,6 @@
     },
     {
       "pokemon_id": 800,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "ネクロズマ",
-        "en": "Necrozma"
-      },
-      "types": [
-        "psychic"
-      ]
-    },
-    {
-      "pokemon_id": 800,
       "form_id": "dusk",
       "form_type": "normal",
       "name": {
@@ -14162,6 +13744,18 @@
       "types": [
         "psychic",
         "steel"
+      ]
+    },
+    {
+      "pokemon_id": 800,
+      "form_id": "normal",
+      "form_type": "normal",
+      "name": {
+        "ja": "ネクロズマ",
+        "en": "Necrozma"
+      },
+      "types": [
+        "psychic"
       ]
     },
     {
@@ -14999,7 +14593,7 @@
     },
     {
       "pokemon_id": 849,
-      "form_id": "amped-gmax",
+      "form_id": "gmax",
       "form_type": "gigantamax",
       "name": {
         "ja": "キョダイマックスストリンダー（ハイのすがた）",
@@ -15012,24 +14606,11 @@
     },
     {
       "pokemon_id": 849,
-      "form_id": "low-key",
+      "form_id": "low",
       "form_type": "normal",
       "name": {
         "ja": "ローなすがた",
         "en": "Low Key Form"
-      },
-      "types": [
-        "electric",
-        "poison"
-      ]
-    },
-    {
-      "pokemon_id": 849,
-      "form_id": "low-key-gmax",
-      "form_type": "gigantamax",
-      "name": {
-        "ja": "キョダイマックスストリンダー（ローのすがた）",
-        "en": "Gigantamax Toxtricity (Low Key)"
       },
       "types": [
         "electric",
@@ -15113,7 +14694,7 @@
     },
     {
       "pokemon_id": 854,
-      "form_id": "default",
+      "form_id": "phony",
       "form_type": "normal",
       "name": {
         "ja": "ヤバチャ",
@@ -15137,7 +14718,7 @@
     },
     {
       "pokemon_id": 855,
-      "form_id": "default",
+      "form_id": "phony",
       "form_type": "normal",
       "name": {
         "ja": "ポットデス",
@@ -15665,7 +15246,7 @@
     },
     {
       "pokemon_id": 888,
-      "form_id": "crowned",
+      "form_id": "crown",
       "form_type": "normal",
       "name": {
         "ja": "けんのおう",
@@ -15678,7 +15259,7 @@
     },
     {
       "pokemon_id": 888,
-      "form_id": "default",
+      "form_id": "hero",
       "form_type": "normal",
       "name": {
         "ja": "ザシアン",
@@ -15690,7 +15271,7 @@
     },
     {
       "pokemon_id": 889,
-      "form_id": "crowned",
+      "form_id": "crown",
       "form_type": "normal",
       "name": {
         "ja": "たてのおう",
@@ -15703,7 +15284,7 @@
     },
     {
       "pokemon_id": 889,
-      "form_id": "default",
+      "form_id": "hero",
       "form_type": "normal",
       "name": {
         "ja": "ザマゼンタ",
@@ -15753,20 +15334,7 @@
     },
     {
       "pokemon_id": 892,
-      "form_id": "rapid-strike",
-      "form_type": "normal",
-      "name": {
-        "ja": "れんげきのかた",
-        "en": "Rapid Strike Style"
-      },
-      "types": [
-        "fighting",
-        "water"
-      ]
-    },
-    {
-      "pokemon_id": 892,
-      "form_id": "rapid-strike-gmax",
+      "form_id": "gmax-rapid",
       "form_type": "gigantamax",
       "name": {
         "ja": "キョダイマックスウーラオス（れんげきのかた）",
@@ -15779,11 +15347,11 @@
     },
     {
       "pokemon_id": 892,
-      "form_id": "single-strike",
-      "form_type": "normal",
+      "form_id": "gmax-single",
+      "form_type": "gigantamax",
       "name": {
-        "ja": "ウーラオス",
-        "en": "Urshifu"
+        "ja": "キョダイマックスウーラオス（いちげきのかた）",
+        "en": "Gigantamax Urshifu (Single Strike)"
       },
       "types": [
         "fighting",
@@ -15792,11 +15360,24 @@
     },
     {
       "pokemon_id": 892,
-      "form_id": "single-strike-gmax",
-      "form_type": "gigantamax",
+      "form_id": "rapid",
+      "form_type": "normal",
       "name": {
-        "ja": "キョダイマックスウーラオス（いちげきのかた）",
-        "en": "Gigantamax Urshifu (Single Strike)"
+        "ja": "れんげきのかた",
+        "en": "Rapid Strike Style"
+      },
+      "types": [
+        "fighting",
+        "water"
+      ]
+    },
+    {
+      "pokemon_id": 892,
+      "form_id": "single",
+      "form_type": "normal",
+      "name": {
+        "ja": "ウーラオス",
+        "en": "Urshifu"
       },
       "types": [
         "fighting",
@@ -16294,7 +15875,7 @@
     },
     {
       "pokemon_id": 925,
-      "form_id": "family-of-four",
+      "form_id": "four",
       "form_type": "normal",
       "name": {
         "ja": "イッカネズミ",
@@ -16306,7 +15887,7 @@
     },
     {
       "pokemon_id": 925,
-      "form_id": "family-of-three",
+      "form_id": "three",
       "form_type": "normal",
       "name": {
         "ja": "３びきかぞく",
@@ -16381,7 +15962,7 @@
     },
     {
       "pokemon_id": 931,
-      "form_id": "blue-plumage",
+      "form_id": "blue",
       "form_type": "normal",
       "name": {
         "ja": "ブルーフェザー",
@@ -16394,7 +15975,7 @@
     },
     {
       "pokemon_id": 931,
-      "form_id": "green-plumage",
+      "form_id": "green",
       "form_type": "normal",
       "name": {
         "ja": "イキリンコ",
@@ -16407,7 +15988,7 @@
     },
     {
       "pokemon_id": 931,
-      "form_id": "white-plumage",
+      "form_id": "white",
       "form_type": "normal",
       "name": {
         "ja": "ホワイトフェザー",
@@ -16420,7 +16001,7 @@
     },
     {
       "pokemon_id": 931,
-      "form_id": "yellow-plumage",
+      "form_id": "yellow",
       "form_type": "normal",
       "name": {
         "ja": "イエローフェザー",
@@ -17163,11 +16744,11 @@
     },
     {
       "pokemon_id": 982,
-      "form_id": "three-segment",
+      "form_id": "three",
       "form_type": "normal",
       "name": {
-        "ja": "みつふしフォルム",
-        "en": "Three-Segment Form"
+        "ja": "ノココッチ みつふしフォルム",
+        "en": "Dudunsparce Three-Segment Form"
       },
       "types": [
         "normal"
@@ -17175,11 +16756,11 @@
     },
     {
       "pokemon_id": 982,
-      "form_id": "two-segment",
+      "form_id": "two",
       "form_type": "normal",
       "name": {
-        "ja": "ノココッチ",
-        "en": "Dudunsparce"
+        "ja": "ノココッチ ふたふしフォルム",
+        "en": "Dudunsparce Two-Segment Form"
       },
       "types": [
         "normal"
@@ -17408,7 +16989,7 @@
     },
     {
       "pokemon_id": 999,
-      "form_id": "default",
+      "form_id": "chest",
       "form_type": "normal",
       "name": {
         "ja": "コレクレー",
@@ -17535,116 +17116,12 @@
       ]
     },
     {
-      "pokemon_id": 1007,
-      "form_id": "gliding-build",
-      "form_type": "normal",
-      "name": {
-        "ja": "かっくうけいたい",
-        "en": "Gliding Build"
-      },
-      "types": [
-        "fighting",
-        "dragon"
-      ]
-    },
-    {
-      "pokemon_id": 1007,
-      "form_id": "limited-build",
-      "form_type": "normal",
-      "name": {
-        "ja": "せいげんけいたい",
-        "en": "Limited Build"
-      },
-      "types": [
-        "fighting",
-        "dragon"
-      ]
-    },
-    {
-      "pokemon_id": 1007,
-      "form_id": "sprinting-build",
-      "form_type": "normal",
-      "name": {
-        "ja": "しっそうけいたい",
-        "en": "Sprinting Build"
-      },
-      "types": [
-        "fighting",
-        "dragon"
-      ]
-    },
-    {
-      "pokemon_id": 1007,
-      "form_id": "swimming-build",
-      "form_type": "normal",
-      "name": {
-        "ja": "ゆうえいけいたい",
-        "en": "Swimming Build"
-      },
-      "types": [
-        "fighting",
-        "dragon"
-      ]
-    },
-    {
-      "pokemon_id": 1008,
-      "form_id": "aquatic-mode",
-      "form_type": "normal",
-      "name": {
-        "ja": "フロートモード",
-        "en": "Aquatic Mode"
-      },
-      "types": [
-        "electric",
-        "dragon"
-      ]
-    },
-    {
       "pokemon_id": 1008,
       "form_id": "default",
       "form_type": "normal",
       "name": {
         "ja": "ミライドン",
         "en": "Miraidon"
-      },
-      "types": [
-        "electric",
-        "dragon"
-      ]
-    },
-    {
-      "pokemon_id": 1008,
-      "form_id": "drive-mode",
-      "form_type": "normal",
-      "name": {
-        "ja": "ドライブモード",
-        "en": "Drive Mode"
-      },
-      "types": [
-        "electric",
-        "dragon"
-      ]
-    },
-    {
-      "pokemon_id": 1008,
-      "form_id": "glide-mode",
-      "form_type": "normal",
-      "name": {
-        "ja": "グライドモード",
-        "en": "Glide Mode"
-      },
-      "types": [
-        "electric",
-        "dragon"
-      ]
-    },
-    {
-      "pokemon_id": 1008,
-      "form_id": "low-power-mode",
-      "form_type": "normal",
-      "name": {
-        "ja": "リミテッドモード",
-        "en": "Low-Power Mode"
       },
       "types": [
         "electric",
@@ -17710,32 +17187,6 @@
       "name": {
         "ja": "チャデス",
         "en": "Poltchageist"
-      },
-      "types": [
-        "grass",
-        "ghost"
-      ]
-    },
-    {
-      "pokemon_id": 1012,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "チャデス",
-        "en": "Poltchageist"
-      },
-      "types": [
-        "grass",
-        "ghost"
-      ]
-    },
-    {
-      "pokemon_id": 1013,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "ヤバソチャ",
-        "en": "Sinistcha"
       },
       "types": [
         "grass",
@@ -17809,7 +17260,7 @@
     },
     {
       "pokemon_id": 1017,
-      "form_id": "cornerstone-mask",
+      "form_id": "cornerstone",
       "form_type": "normal",
       "name": {
         "ja": "いしずえのめん",
@@ -17822,19 +17273,7 @@
     },
     {
       "pokemon_id": 1017,
-      "form_id": "default",
-      "form_type": "normal",
-      "name": {
-        "ja": "オーガポン",
-        "en": "Ogerpon"
-      },
-      "types": [
-        "grass"
-      ]
-    },
-    {
-      "pokemon_id": 1017,
-      "form_id": "hearthflame-mask",
+      "form_id": "hearthflame",
       "form_type": "normal",
       "name": {
         "ja": "かまどのめん",
@@ -17847,7 +17286,19 @@
     },
     {
       "pokemon_id": 1017,
-      "form_id": "wellspring-mask",
+      "form_id": "teal",
+      "form_type": "normal",
+      "name": {
+        "ja": "オーガポン",
+        "en": "Ogerpon"
+      },
+      "types": [
+        "grass"
+      ]
+    },
+    {
+      "pokemon_id": 1017,
+      "form_id": "wellspring",
       "form_type": "normal",
       "name": {
         "ja": "いどのめん",
@@ -17986,5 +17437,5 @@
       ]
     }
   ],
-  "total": 1432
+  "total": 1389
 }
