@@ -3,5 +3,7 @@ export * from "./form";
 export * from "./ability";
 export * from "./move";
 export * from "./game";
+export * from "./availability";
+export * from "./learnset";
 export * from "./costume";
 export * from "./go";

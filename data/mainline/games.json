@@ -1,331 +1,214 @@
 {
-  "games": [
+  "generations": [
     {
-      "id": "red",
-      "name": { "ja": "赤", "en": "Red" },
-      "generation": 1,
-      "release_date": "1996-02-27",
-      "platform": "gb"
+      "id": 1,
+      "groups": [
+        {
+          "id": "rby",
+          "platform": "gb",
+          "games": [
+            { "id": "red",    "name": { "ja": "赤",       "en": "Red"    }, "release_date": "1996-02-27" },
+            { "id": "green",  "name": { "ja": "緑",       "en": "Green"  }, "release_date": "1996-02-27" },
+            { "id": "blue",   "name": { "ja": "青",       "en": "Blue"   }, "release_date": "1996-10-15" },
+            { "id": "yellow", "name": { "ja": "ピカチュウ", "en": "Yellow" }, "release_date": "1998-09-12" }
+          ]
+        }
+      ]
     },
     {
-      "id": "green",
-      "name": { "ja": "緑", "en": "Green" },
-      "generation": 1,
-      "release_date": "1996-02-27",
-      "platform": "gb"
+      "id": 2,
+      "groups": [
+        {
+          "id": "gsc",
+          "platform": "gbc",
+          "games": [
+            { "id": "gold",    "name": { "ja": "金",         "en": "Gold"    }, "release_date": "1999-11-21" },
+            { "id": "silver",  "name": { "ja": "銀",         "en": "Silver"  }, "release_date": "1999-11-21" },
+            { "id": "crystal", "name": { "ja": "クリスタル", "en": "Crystal" }, "release_date": "2000-12-14" }
+          ]
+        }
+      ]
     },
     {
-      "id": "blue",
-      "name": { "ja": "青", "en": "Blue" },
-      "generation": 1,
-      "release_date": "1996-10-15",
-      "platform": "gb"
+      "id": 3,
+      "groups": [
+        {
+          "id": "rse",
+          "platform": "gba",
+          "games": [
+            { "id": "ruby",     "name": { "ja": "ルビー",     "en": "Ruby"     }, "release_date": "2002-11-21" },
+            { "id": "sapphire", "name": { "ja": "サファイア", "en": "Sapphire" }, "release_date": "2002-11-21" },
+            { "id": "emerald",  "name": { "ja": "エメラルド", "en": "Emerald"  }, "release_date": "2004-09-16" }
+          ]
+        },
+        {
+          "id": "frlg",
+          "platform": "gba",
+          "games": [
+            { "id": "fire-red",   "name": { "ja": "ファイアレッド",   "en": "FireRed"   }, "release_date": "2004-01-29" },
+            { "id": "leaf-green", "name": { "ja": "リーフグリーン", "en": "LeafGreen" }, "release_date": "2004-01-29" }
+          ]
+        }
+      ]
     },
     {
-      "id": "yellow",
-      "name": { "ja": "ピカチュウ", "en": "Yellow" },
-      "generation": 1,
-      "release_date": "1998-09-12",
-      "platform": "gb"
+      "id": 4,
+      "groups": [
+        {
+          "id": "dppt",
+          "platform": "ds",
+          "games": [
+            { "id": "diamond",  "name": { "ja": "ダイヤモンド", "en": "Diamond"  }, "release_date": "2006-09-28" },
+            { "id": "pearl",    "name": { "ja": "パール",       "en": "Pearl"    }, "release_date": "2006-09-28" },
+            { "id": "platinum", "name": { "ja": "プラチナ",     "en": "Platinum" }, "release_date": "2008-09-13" }
+          ]
+        },
+        {
+          "id": "hgss",
+          "platform": "ds",
+          "games": [
+            { "id": "heart-gold",  "name": { "ja": "ハートゴールド", "en": "HeartGold"  }, "release_date": "2009-09-12" },
+            { "id": "soul-silver", "name": { "ja": "ソウルシルバー", "en": "SoulSilver" }, "release_date": "2009-09-12" }
+          ]
+        }
+      ]
     },
     {
-      "id": "gold",
-      "name": { "ja": "金", "en": "Gold" },
-      "generation": 2,
-      "release_date": "1999-11-21",
-      "platform": "gbc"
+      "id": 5,
+      "groups": [
+        {
+          "id": "bw",
+          "platform": "ds",
+          "games": [
+            { "id": "black", "name": { "ja": "ブラック", "en": "Black" }, "release_date": "2010-09-18" },
+            { "id": "white", "name": { "ja": "ホワイト", "en": "White" }, "release_date": "2010-09-18" }
+          ]
+        },
+        {
+          "id": "b2w2",
+          "platform": "ds",
+          "games": [
+            { "id": "black-2", "name": { "ja": "ブラック2", "en": "Black 2" }, "release_date": "2012-06-23" },
+            { "id": "white-2", "name": { "ja": "ホワイト2", "en": "White 2" }, "release_date": "2012-06-23" }
+          ]
+        }
+      ]
     },
     {
-      "id": "silver",
-      "name": { "ja": "銀", "en": "Silver" },
-      "generation": 2,
-      "release_date": "1999-11-21",
-      "platform": "gbc"
+      "id": 6,
+      "groups": [
+        {
+          "id": "xy",
+          "platform": "3ds",
+          "games": [
+            { "id": "x", "name": { "ja": "X", "en": "X" }, "release_date": "2013-10-12" },
+            { "id": "y", "name": { "ja": "Y", "en": "Y" }, "release_date": "2013-10-12" }
+          ]
+        },
+        {
+          "id": "oras",
+          "platform": "3ds",
+          "games": [
+            { "id": "omega-ruby",     "name": { "ja": "オメガルビー",       "en": "Omega Ruby"     }, "release_date": "2014-11-21" },
+            { "id": "alpha-sapphire", "name": { "ja": "アルファサファイア", "en": "Alpha Sapphire" }, "release_date": "2014-11-21" }
+          ]
+        }
+      ]
     },
     {
-      "id": "crystal",
-      "name": { "ja": "クリスタル", "en": "Crystal" },
-      "generation": 2,
-      "release_date": "2000-12-14",
-      "platform": "gbc"
+      "id": 7,
+      "groups": [
+        {
+          "id": "sm",
+          "platform": "3ds",
+          "games": [
+            { "id": "sun",  "name": { "ja": "サン",  "en": "Sun"  }, "release_date": "2016-11-18" },
+            { "id": "moon", "name": { "ja": "ムーン", "en": "Moon" }, "release_date": "2016-11-18" }
+          ]
+        },
+        {
+          "id": "usum",
+          "platform": "3ds",
+          "games": [
+            { "id": "ultra-sun",  "name": { "ja": "ウルトラサン",  "en": "Ultra Sun"  }, "release_date": "2017-11-17" },
+            { "id": "ultra-moon", "name": { "ja": "ウルトラムーン", "en": "Ultra Moon" }, "release_date": "2017-11-17" }
+          ]
+        },
+        {
+          "id": "lgpe",
+          "platform": "switch",
+          "games": [
+            { "id": "lets-go-pikachu", "name": { "ja": "Let's Go! ピカチュウ", "en": "Let's Go, Pikachu!" }, "release_date": "2018-11-16" },
+            { "id": "lets-go-eevee",   "name": { "ja": "Let's Go! イーブイ",   "en": "Let's Go, Eevee!"  }, "release_date": "2018-11-16" }
+          ]
+        }
+      ]
     },
     {
-      "id": "ruby",
-      "name": { "ja": "ルビー", "en": "Ruby" },
-      "generation": 3,
-      "release_date": "2002-11-21",
-      "platform": "gba"
+      "id": 8,
+      "groups": [
+        {
+          "id": "swsh",
+          "platform": "switch",
+          "games": [
+            { "id": "sword",         "name": { "ja": "ソード",   "en": "Sword"            }, "release_date": "2019-11-15" },
+            { "id": "shield",        "name": { "ja": "シールド", "en": "Shield"           }, "release_date": "2019-11-15" },
+            { "id": "isle-of-armor", "name": { "ja": "鎧の孤島", "en": "The Isle of Armor" }, "release_date": "2020-06-17", "dlc_for": ["sword", "shield"] },
+            { "id": "crown-tundra",  "name": { "ja": "冠の雪原", "en": "The Crown Tundra" }, "release_date": "2020-10-22", "dlc_for": ["sword", "shield"] }
+          ]
+        },
+        {
+          "id": "bdsp",
+          "platform": "switch",
+          "games": [
+            { "id": "brilliant-diamond", "name": { "ja": "ブリリアントダイヤモンド", "en": "Brilliant Diamond" }, "release_date": "2021-11-19" },
+            { "id": "shining-pearl",     "name": { "ja": "シャイニングパール",       "en": "Shining Pearl"     }, "release_date": "2021-11-19" }
+          ]
+        },
+        {
+          "id": "pla",
+          "platform": "switch",
+          "games": [
+            { "id": "legends-arceus", "name": { "ja": "Pokémon LEGENDS アルセウス", "en": "Pokémon Legends: Arceus" }, "release_date": "2022-01-28" }
+          ]
+        }
+      ]
     },
     {
-      "id": "sapphire",
-      "name": { "ja": "サファイア", "en": "Sapphire" },
-      "generation": 3,
-      "release_date": "2002-11-21",
-      "platform": "gba"
+      "id": 9,
+      "groups": [
+        {
+          "id": "sv",
+          "platform": "switch",
+          "games": [
+            { "id": "scarlet",     "name": { "ja": "スカーレット", "en": "Scarlet"          }, "release_date": "2022-11-18" },
+            { "id": "violet",      "name": { "ja": "バイオレット", "en": "Violet"           }, "release_date": "2022-11-18" },
+            { "id": "teal-mask",   "name": { "ja": "碧の仮面",     "en": "The Teal Mask"    }, "release_date": "2023-09-13", "dlc_for": ["scarlet", "violet"] },
+            { "id": "indigo-disk", "name": { "ja": "藍の円盤",     "en": "The Indigo Disk"  }, "release_date": "2023-12-14", "dlc_for": ["scarlet", "violet"] }
+          ]
+        },
+        {
+          "id": "lza",
+          "platform": "switch",
+          "games": [
+            { "id": "legends-z-a",    "name": { "ja": "Pokémon LEGENDS Z-A", "en": "Pokémon Legends: Z-A" }, "release_date": "2025-10-16" },
+            { "id": "mega-dimension", "name": { "ja": "M次元ラッシュ",        "en": "Mega Dimension"       }, "release_date": "2025-12-10", "dlc_for": ["legends-z-a"] }
+          ]
+        }
+      ]
     },
     {
-      "id": "emerald",
-      "name": { "ja": "エメラルド", "en": "Emerald" },
-      "generation": 3,
-      "release_date": "2004-09-16",
-      "platform": "gba"
-    },
-    {
-      "id": "fire-red",
-      "name": { "ja": "ファイアレッド", "en": "FireRed" },
-      "generation": 3,
-      "release_date": "2004-01-29",
-      "platform": "gba"
-    },
-    {
-      "id": "leaf-green",
-      "name": { "ja": "リーフグリーン", "en": "LeafGreen" },
-      "generation": 3,
-      "release_date": "2004-01-29",
-      "platform": "gba"
-    },
-    {
-      "id": "diamond",
-      "name": { "ja": "ダイヤモンド", "en": "Diamond" },
-      "generation": 4,
-      "release_date": "2006-09-28",
-      "platform": "ds"
-    },
-    {
-      "id": "pearl",
-      "name": { "ja": "パール", "en": "Pearl" },
-      "generation": 4,
-      "release_date": "2006-09-28",
-      "platform": "ds"
-    },
-    {
-      "id": "platinum",
-      "name": { "ja": "プラチナ", "en": "Platinum" },
-      "generation": 4,
-      "release_date": "2008-09-13",
-      "platform": "ds"
-    },
-    {
-      "id": "heart-gold",
-      "name": { "ja": "ハートゴールド", "en": "HeartGold" },
-      "generation": 4,
-      "release_date": "2009-09-12",
-      "platform": "ds"
-    },
-    {
-      "id": "soul-silver",
-      "name": { "ja": "ソウルシルバー", "en": "SoulSilver" },
-      "generation": 4,
-      "release_date": "2009-09-12",
-      "platform": "ds"
-    },
-    {
-      "id": "black",
-      "name": { "ja": "ブラック", "en": "Black" },
-      "generation": 5,
-      "release_date": "2010-09-18",
-      "platform": "ds"
-    },
-    {
-      "id": "white",
-      "name": { "ja": "ホワイト", "en": "White" },
-      "generation": 5,
-      "release_date": "2010-09-18",
-      "platform": "ds"
-    },
-    {
-      "id": "black-2",
-      "name": { "ja": "ブラック2", "en": "Black 2" },
-      "generation": 5,
-      "release_date": "2012-06-23",
-      "platform": "ds"
-    },
-    {
-      "id": "white-2",
-      "name": { "ja": "ホワイト2", "en": "White 2" },
-      "generation": 5,
-      "release_date": "2012-06-23",
-      "platform": "ds"
-    },
-    {
-      "id": "x",
-      "name": { "ja": "X", "en": "X" },
-      "generation": 6,
-      "release_date": "2013-10-12",
-      "platform": "3ds"
-    },
-    {
-      "id": "y",
-      "name": { "ja": "Y", "en": "Y" },
-      "generation": 6,
-      "release_date": "2013-10-12",
-      "platform": "3ds"
-    },
-    {
-      "id": "omega-ruby",
-      "name": { "ja": "オメガルビー", "en": "Omega Ruby" },
-      "generation": 6,
-      "release_date": "2014-11-21",
-      "platform": "3ds"
-    },
-    {
-      "id": "alpha-sapphire",
-      "name": { "ja": "アルファサファイア", "en": "Alpha Sapphire" },
-      "generation": 6,
-      "release_date": "2014-11-21",
-      "platform": "3ds"
-    },
-    {
-      "id": "sun",
-      "name": { "ja": "サン", "en": "Sun" },
-      "generation": 7,
-      "release_date": "2016-11-18",
-      "platform": "3ds"
-    },
-    {
-      "id": "moon",
-      "name": { "ja": "ムーン", "en": "Moon" },
-      "generation": 7,
-      "release_date": "2016-11-18",
-      "platform": "3ds"
-    },
-    {
-      "id": "ultra-sun",
-      "name": { "ja": "ウルトラサン", "en": "Ultra Sun" },
-      "generation": 7,
-      "release_date": "2017-11-17",
-      "platform": "3ds"
-    },
-    {
-      "id": "ultra-moon",
-      "name": { "ja": "ウルトラムーン", "en": "Ultra Moon" },
-      "generation": 7,
-      "release_date": "2017-11-17",
-      "platform": "3ds"
-    },
-    {
-      "id": "lets-go-pikachu",
-      "name": { "ja": "Let's Go! ピカチュウ", "en": "Let's Go, Pikachu!" },
-      "generation": 7,
-      "release_date": "2018-11-16",
-      "platform": "switch"
-    },
-    {
-      "id": "lets-go-eevee",
-      "name": { "ja": "Let's Go! イーブイ", "en": "Let's Go, Eevee!" },
-      "generation": 7,
-      "release_date": "2018-11-16",
-      "platform": "switch"
-    },
-    {
-      "id": "sword",
-      "name": { "ja": "ソード", "en": "Sword" },
-      "generation": 8,
-      "release_date": "2019-11-15",
-      "platform": "switch"
-    },
-    {
-      "id": "shield",
-      "name": { "ja": "シールド", "en": "Shield" },
-      "generation": 8,
-      "release_date": "2019-11-15",
-      "platform": "switch"
-    },
-    {
-      "id": "isle-of-armor",
-      "name": { "ja": "鎧の孤島", "en": "The Isle of Armor" },
-      "generation": 8,
-      "release_date": "2020-06-17",
-      "platform": "switch",
-      "dlc_for": ["sword", "shield"]
-    },
-    {
-      "id": "crown-tundra",
-      "name": { "ja": "冠の雪原", "en": "The Crown Tundra" },
-      "generation": 8,
-      "release_date": "2020-10-22",
-      "platform": "switch",
-      "dlc_for": ["sword", "shield"]
-    },
-    {
-      "id": "brilliant-diamond",
-      "name": { "ja": "ブリリアントダイヤモンド", "en": "Brilliant Diamond" },
-      "generation": 8,
-      "release_date": "2021-11-19",
-      "platform": "switch"
-    },
-    {
-      "id": "shining-pearl",
-      "name": { "ja": "シャイニングパール", "en": "Shining Pearl" },
-      "generation": 8,
-      "release_date": "2021-11-19",
-      "platform": "switch"
-    },
-    {
-      "id": "legends-arceus",
-      "name": { "ja": "Pokémon LEGENDS アルセウス", "en": "Pokémon Legends: Arceus" },
-      "generation": 8,
-      "release_date": "2022-01-28",
-      "platform": "switch"
-    },
-    {
-      "id": "scarlet",
-      "name": { "ja": "スカーレット", "en": "Scarlet" },
-      "generation": 9,
-      "release_date": "2022-11-18",
-      "platform": "switch"
-    },
-    {
-      "id": "violet",
-      "name": { "ja": "バイオレット", "en": "Violet" },
-      "generation": 9,
-      "release_date": "2022-11-18",
-      "platform": "switch"
-    },
-    {
-      "id": "teal-mask",
-      "name": { "ja": "碧の仮面", "en": "The Teal Mask" },
-      "generation": 9,
-      "release_date": "2023-09-13",
-      "platform": "switch",
-      "dlc_for": ["scarlet", "violet"]
-    },
-    {
-      "id": "indigo-disk",
-      "name": { "ja": "藍の円盤", "en": "The Indigo Disk" },
-      "generation": 9,
-      "release_date": "2023-12-14",
-      "platform": "switch",
-      "dlc_for": ["scarlet", "violet"]
-    },
-    {
-      "id": "legends-z-a",
-      "name": { "ja": "Pokémon LEGENDS Z-A", "en": "Pokémon Legends: Z-A" },
-      "generation": 9,
-      "release_date": "2025-10-16",
-      "platform": "switch"
-    },
-    {
-      "id": "mega-dimension",
-      "name": { "ja": "M次元ラッシュ", "en": "Mega Dimension" },
-      "generation": 9,
-      "release_date": "2025-12-10",
-      "platform": "switch",
-      "dlc_for": ["legends-z-a"]
-    },
-    {
-      "id": "wind",
-      "name": { "ja": "ウインド", "en": "Wind" },
-      "generation": 10,
-      "release_date": "2027-01-01",
-      "platform": "switch-2"
-    },
-    {
-      "id": "wave",
-      "name": { "ja": "ウェーブ", "en": "Wave" },
-      "generation": 10,
-      "release_date": "2027-01-01",
-      "platform": "switch-2"
+      "id": 10,
+      "groups": [
+        {
+          "id": "ww",
+          "platform": "switch-2",
+          "games": [
+            { "id": "wind", "name": { "ja": "ウインド", "en": "Wind" }, "release_date": "2027-01-01" },
+            { "id": "wave", "name": { "ja": "ウェーブ", "en": "Wave" }, "release_date": "2027-01-01" }
+          ]
+        }
+      ]
     }
   ]
 }

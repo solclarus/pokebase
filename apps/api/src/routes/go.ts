@@ -1,13 +1,13 @@
 import { createRoute, z } from "@hono/zod-openapi";
 import { createRouter, ErrorSchema } from "@/context";
-import { GoPokemonDetailSchema } from "@/types";
-import { GoPokemonSchema, GoMoveSchema, PokemonCostumesSchema } from "@pokebase/schemas";
+import { GoPokemonDetailSchema, GoPokemonListItemSchema } from "@/types";
+import { GoMoveSchema, PokemonCostumesSchema } from "@pokebase/schemas";
 
 export const goRoutes = createRouter();
 
 const GoPokemonListSchema = z
   .object({
-    pokemons: z.array(GoPokemonSchema.openapi("GoPokemon")),
+    pokemons: z.array(GoPokemonListItemSchema),
     total: z.number(),
   })
   .openapi("GoPokemonList");

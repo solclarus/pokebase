@@ -5,7 +5,7 @@ import type {
   PokemonAvailability,
   Move,
   PokemonLearnset,
-  Game,
+  Generation,
   GoPokemon,
   PokemonCostumes,
   GoMove,
@@ -69,7 +69,7 @@ export class DataLoader {
   }
 
   /** ゲームソフト一覧は 1 ファイルに集約されている（1 ポケモン 1 ファイル原則の例外）。 */
-  async loadGames(): Promise<{ games: Game[] } | null> {
+  async loadGames(): Promise<{ generations: Generation[] } | null> {
     return this.loadJson("mainline/games.json");
   }
 

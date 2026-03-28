@@ -1,6 +1,6 @@
 import { GameRepository } from "@/repository";
 import type { DataLoader } from "@/repository/data-loader";
-import type { Game } from "@pokebase/schemas";
+import type { Game, Generation } from "@pokebase/schemas";
 
 export class GameService {
   private repo: GameRepository;
@@ -9,11 +9,11 @@ export class GameService {
     this.repo = new GameRepository(loader);
   }
 
-  async getById(id: string): Promise<Game | null> {
-    return this.repo.findById(id);
+  async getGameById(id: string): Promise<Game | null> {
+    return this.repo.findGameById(id);
   }
 
-  async list(): Promise<Game[]> {
+  async list(): Promise<{ generations: Generation[] }> {
     return this.repo.findAll();
   }
 }
