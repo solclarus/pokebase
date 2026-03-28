@@ -1,7 +1,17 @@
 import type { GoPokemon, GoMove } from "@pokebase/schemas";
 import type { DataLoader } from "@/repository/data-loader";
 
-type GoPokemonIndex = { pokemons: Array<{ pokemon_id: number }>; total: number };
+type GoPokemonIndexForm = {
+  form_id: string;
+  form_name: { ja: string; en: string };
+  released_at: string | null;
+  shiny_released_at: string | null;
+};
+
+type GoPokemonIndexEntry = { pokemon_id: number; forms: GoPokemonIndexForm[] };
+type GoPokemonIndex = { pokemons: GoPokemonIndexEntry[]; total: number };
+
+export type GoPokemonListEntry = GoPokemonIndexEntry;
 
 /** GO フォーム別ステータス（go/forms/）を読み込む Repository。 */
 export class GoPokemonRepository {
@@ -23,11 +33,9 @@ export class GoPokemonRepository {
     return this.loader.loadGoForms(pokemonId);
   }
 
-  async findAll(limit = 20, offset = 0): Promise<GoPokemon[]> {
+  async findAll(limit = 20, offset = 0): Promise<GoPokemonListEntry[]> {
     const index = await this.getIndex();
-    const entries = index.pokemons.slice(offset, offset + limit);
-    const results = await Promise.all(entries.map((e) => this.findById(e.pokemon_id)));
-    return results.filter((r): r is GoPokemon => r !== null);
+    return index.pokemons.slice(offset, offset + limit);
   }
 
   async count(): Promise<number> {

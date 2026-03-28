@@ -1,7 +1,6 @@
 import {
   DataLoader,
   PokemonRepository,
-  FormRepository,
   GoPokemonRepository,
   CostumeRepository,
   GoMoveRepository,
@@ -16,7 +15,6 @@ import type { GoPokemonDetail, GoPokemonListItem } from "@/types";
  */
 export class GoService {
   private pokemonRepo: PokemonRepository;
-  private formRepo: FormRepository;
   private goPokemonRepo: GoPokemonRepository;
   private costumeRepo: CostumeRepository;
   private goMoveRepo: GoMoveRepository;
@@ -24,7 +22,6 @@ export class GoService {
 
   constructor(loader: DataLoader, imagesBaseUrl: string) {
     this.pokemonRepo = new PokemonRepository(loader);
-    this.formRepo = new FormRepository(loader);
     this.goPokemonRepo = new GoPokemonRepository(loader);
     this.costumeRepo = new CostumeRepository(loader);
     this.goMoveRepo = new GoMoveRepository(loader);
@@ -51,14 +48,12 @@ export class GoService {
     limit = 20,
     offset = 0,
   ): Promise<{ pokemons: GoPokemonListItem[]; total: number }> {
-    const [goPokemons, allPokemon, total, formIndex] = await Promise.all([
+    const [goPokemons, allPokemon, total] = await Promise.all([
       this.goPokemonRepo.findAll(limit, offset),
       this.pokemonRepo.findAll(),
       this.goPokemonRepo.count(),
-      this.formRepo.findAll(),
     ]);
     const pokemonMap = new Map(allPokemon.map((p) => [p.id, p]));
-    const formNameMap = new Map(formIndex.map((f) => [`${f.pokemon_id}_${f.form_id}`, f.name]));
     const pokemons = goPokemons.map((go) => {
       const core = pokemonMap.get(go.pokemon_id);
       return {
@@ -72,8 +67,6 @@ export class GoService {
             form.form_id === "default"
               ? `${this.imagesBaseUrl}/normal/${padId(go.pokemon_id)}.png`
               : `${this.imagesBaseUrl}/normal/${padId(go.pokemon_id)}-${form.form_id}.png`,
-          form_name: formNameMap.get(`${go.pokemon_id}_${form.form_id}`) ??
-            core?.name ?? { ja: "", en: "" },
         })),
       };
     });

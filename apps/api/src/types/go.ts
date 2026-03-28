@@ -23,7 +23,13 @@ export const GoPokemonListItemSchema = z
     name: LocalizedNameSchema,
     generation: z.number().int().positive(),
     forms: z.array(
-      GoFormSchema.extend({ image_url: z.string().url(), form_name: LocalizedNameSchema }),
+      z.object({
+        form_id: z.string(),
+        form_name: LocalizedNameSchema,
+        image_url: z.string().url(),
+        released_at: z.string().nullable(),
+        shiny_released_at: z.string().nullable(),
+      }),
     ),
   })
   .openapi("GoPokemonListItem");

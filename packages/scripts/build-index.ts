@@ -19,8 +19,16 @@ type MoveIndex = {
   type: string;
 };
 
+type GoPokemonIndexForm = {
+  form_id: string;
+  form_name: { ja: string; en: string };
+  released_at: string | null;
+  shiny_released_at: string | null;
+};
+
 type GoPokemonIndex = {
   pokemon_id: number;
+  forms: GoPokemonIndexForm[];
 };
 
 async function buildPokemonIndex(): Promise<PokemonIndex[]> {
@@ -126,6 +134,30 @@ async function buildAbilityIndex(): Promise<Ability[]> {
 }
 
 async function buildGoPokemonIndex(): Promise<GoPokemonIndex[]> {
+  // core forms から form_name ルックアップマップを構築
+  const coreFormsDir = join(DATA_DIR, "core/forms");
+  const coreFormFiles = await readdir(coreFormsDir);
+  const formNameMap = new Map<string, { ja: string; en: string }>();
+  for (const file of coreFormFiles) {
+    if (!file.endsWith(".json")) continue;
+    const content = await readFile(join(coreFormsDir, file), "utf-8");
+    const data = JSON.parse(content);
+    for (const form of data.forms) {
+      formNameMap.set(`${data.pokemon_id}_${form.id}`, form.name);
+    }
+  }
+
+  // core pokemons からポケモン名フォールバック
+  const pokemonsDir = join(DATA_DIR, "core/pokemons");
+  const pokemonFiles = await readdir(pokemonsDir);
+  const pokemonNameMap = new Map<number, { ja: string; en: string }>();
+  for (const file of pokemonFiles) {
+    if (!file.endsWith(".json")) continue;
+    const content = await readFile(join(pokemonsDir, file), "utf-8");
+    const data = JSON.parse(content);
+    pokemonNameMap.set(data.id, data.name);
+  }
+
   const goFormsDir = join(DATA_DIR, "go/forms");
   let files: string[];
   try {
@@ -139,7 +171,22 @@ async function buildGoPokemonIndex(): Promise<GoPokemonIndex[]> {
     if (!file.endsWith(".json")) continue;
     const content = await readFile(join(goFormsDir, file), "utf-8");
     const data = JSON.parse(content);
-    pokemons.push({ pokemon_id: data.pokemon_id });
+    pokemons.push({
+      pokemon_id: data.pokemon_id,
+      forms: data.forms.map(
+        (form: {
+          form_id: string;
+          released_at: string | null;
+          shiny_released_at: string | null;
+        }) => ({
+          form_id: form.form_id,
+          form_name: formNameMap.get(`${data.pokemon_id}_${form.form_id}`) ??
+            pokemonNameMap.get(data.pokemon_id) ?? { ja: "", en: "" },
+          released_at: form.released_at,
+          shiny_released_at: form.shiny_released_at,
+        }),
+      ),
+    });
   }
 
   return pokemons.sort((a, b) => a.pokemon_id - b.pokemon_id);
